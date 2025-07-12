@@ -1,0 +1,25 @@
+name: Update Configs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # هر ساعت در دقیقه 0
+
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update time.txt
+        run: echo "$(date)" > time.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add time.txt
+          git commit -m "Update time to $(date)" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
