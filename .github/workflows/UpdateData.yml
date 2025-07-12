@@ -1,4 +1,4 @@
-name: Update Configs
+name: Update Time File
 
 on:
   schedule:
@@ -20,6 +20,10 @@ jobs:
           git config --local user.email "github-actions@github.com"
           git add time.txt
           git commit -m "Update time to $(date)" || echo "No changes to commit"
+
+      - name: Pull changes before push
+        run: |
+          git pull origin main || echo "No changes to pull"
 
       - name: Push changes
         run: git push
