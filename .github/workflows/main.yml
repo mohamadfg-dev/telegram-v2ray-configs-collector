@@ -1,8 +1,7 @@
 name: Update Time
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # هر ساعت در دقیقه 0 اجرا می‌شود
+  workflow_dispatch:  # اجازه اجرای دستی
 
 jobs:
   update-time:
