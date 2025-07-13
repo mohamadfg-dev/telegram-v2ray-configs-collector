@@ -1,8 +1,8 @@
-name: Update Time File
+name: Update Configs
 
 on:
   schedule:
-    - cron: '0 * * * *' # هر ساعت در دقیقه 0
+    - cron: '0 * * * *' # Every hour at minute 0
 
 jobs:
   update-time:
@@ -21,9 +21,10 @@ jobs:
           git add time.txt
           git commit -m "Update time to $(date)" || echo "No changes to commit"
 
-      - name: Pull changes before push
+      - name: Pull latest changes
         run: |
-          git pull origin main || echo "No changes to pull"
+          git fetch origin main
+          git merge origin/main || echo "No changes to merge"
 
       - name: Push changes
-        run: git push
+        run: git push origin main
