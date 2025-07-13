@@ -17,8 +17,8 @@ jobs:
         
       - name: Commit and push changes
         run: |
-          git config --local user.email "you@example.com"
-          git config --local user.name "Your Name"
+          git config --local user.email "mohamadfg.dev@gmail.com"
+          git config --local user.name "mohamadfg-dev"
           git add time.txt
           git commit -m "Update time.txt with current time" || echo "No changes to commit"
           git push
