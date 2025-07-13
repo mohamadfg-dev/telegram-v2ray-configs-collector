@@ -1,32 +1,24 @@
-name: Update Configs
+name: Update Time
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour at minute 0
+    - cron: '0 * * * *'  # هر ساعت در دقیقه 0 اجرا می‌شود
 
 jobs:
   update-time:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0 # Fetch all history for all branches
-
+        
       - name: Update time.txt
         run: echo "$(date)" > time.txt
-
-      - name: Commit changes
+        
+      - name: Commit and push changes
         run: |
-          git config --local user.name "github-actions"
-          git config --local user.email "github-actions@github.com"
+          git config --local user.email "you@example.com"
+          git config --local user.name "Your Name"
           git add time.txt
-          git commit -m "Update time to $(date)" || echo "No changes to commit"
-
-      - name: Force Pull latest changes
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-
-      - name: Force Push changes
-        run: git push --force origin main
+          git commit -m "Update time.txt with current time" || echo "No changes to commit"
+          git push
