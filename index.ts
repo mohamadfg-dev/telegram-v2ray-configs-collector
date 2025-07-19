@@ -231,28 +231,37 @@ async function fetchHtml(url: string): Promise<void> {
     console.error("Error fetching HTML:", error);
   }
 }
-/*
-    if (protocol == "vmess") {
-    let { add, ps } = JSON.parse(atob(urlString));
-    ps = "# My Name";
-    hostname = add;
-    }
-*/
-async function parseProtocolUrl(urlString: string): Promise<ParsedUrl> {
+async function vmessHandle(input:string) {
+    const configinfo = JSON.parse(atob(input));
+   const { flag  , country} = await checkIP(configinfo.add);
+    configinfo.ps = configinfo.add;
+
+    return { conf: btoa(JSON.stringify(configinfo)), country: country };
+}
+async function configChanger(urlString: string): Promise<ParsedUrl> {
   const protocol = urlString.split("://")[0]+"";
-  const { hostname } = new URL(urlString);
+  let config,ipInfo;
 
-  const ipInfo = await checkIP(hostname);
+  if (protocol == "vmess") {
 
-  const configWithFlag = urlString.split("#")[0] + "#" + ipInfo.flag + " " + hostname;
+    const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
+    config = "vmess://" + vmesconf.conf;
+    ipInfo = vmesconf.country;
+}
+else{
+    let hostname = new URL(urlString).hostname; 
 
+    const {flag , country} = await checkIP(hostname);
+    ipInfo = country;
+
+    config = urlString.split("#")[0] + "#" + flag + " " + hostname;
+  }
   return {
     protocol,
-    config: configWithFlag,
-    country: ipInfo.country,
+    config: config,
+    country: ipInfo,
   };
 }
-
 async function checkIP(ip: string) {
   try {
     const response = await fetch(`http://ip-api.com/json/${ip}`);
@@ -264,9 +273,8 @@ async function checkIP(ip: string) {
 
     const country = data.country;
     const flag = countryFlagMap[country] || "🏳️";
-    
-    return { country: country, flag: flag };
 
+    return { country: country, flag: flag };
   } catch (error) {
     console.log(
       error instanceof Error ? error.message : "An unknown error occurred."
@@ -275,11 +283,12 @@ async function checkIP(ip: string) {
   return { country: "", flag: "🏳️" };
 }
 async function Grouping(urls: string): Promise<void> {
-  const parsedUrl = await parseProtocolUrl(urls);
- await appendFile(`${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
+  const parsedUrl = await configChanger(urls);
+// await appendFile(`${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
 //await appendFile(`${parsedUrl.country}.txt`, parsedUrl.config + "\n");
 //await appendFile(`${parsedUrl.}.txt`, parsedUrl.config + "\n");
 }
 // Replace with your desired URL
 const url: string = "https://t.me/s/mrsoulb";
 fetchHtml(url);
+
