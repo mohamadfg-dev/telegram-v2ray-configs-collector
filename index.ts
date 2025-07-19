@@ -1,15 +1,21 @@
-import { appendFile } from "node:fs/promises";
+import { appendFile , rm} from "node:fs/promises";
+import channles from './telegram_channels.json'
+//---------------------------------------------------------
+type ParsedUrl = Record<
+  "protocol" | "config" | "ipInfo" | "typeConfig",
+  string
+>;
+type vmessReturn = Record<"conf" | "country" | "typeconfig", string>;
 
-interface ParsedUrl {
-  protocol: string;
-  config: string;
-  country:string;
-}
+interface CheckHostResponse {
+  [key: string]: any; // برای سایر فیلدها
+} 
 interface IPApiResponse {
   status: string;
   country: string;
   message?: string; // Optional, in case of an error
 }
+//----------------------------------------------------------
 const countryFlagMap: { [key: string]: string } = {
   Afghanistan: "🇦🇫",
   Albania: "🇦🇱",
@@ -207,6 +213,7 @@ const countryFlagMap: { [key: string]: string } = {
   Zambia: "🇿🇲",
   Zimbabwe: "🇿🇼",
 };
+//----------------------------------------------------------
 async function fetchHtml(url: string): Promise<void> {
   try {
     const response = await fetch(url);
@@ -222,7 +229,7 @@ async function fetchHtml(url: string): Promise<void> {
       const lastFiveMessages = matches.slice(-5);
 
       lastFiveMessages.forEach((div, _) => {
-          Grouping(div);
+        Grouping(div);
       });
     } else {
       console.log("No matches found.");
@@ -231,36 +238,54 @@ async function fetchHtml(url: string): Promise<void> {
     console.error("Error fetching HTML:", error);
   }
 }
-async function vmessHandle(input:string) {
-    const configinfo = JSON.parse(atob(input));
-   const { flag  , country} = await checkIP(configinfo.add);
+async function vmessHandle(input: string): Promise<vmessReturn | null> {
+  const configinfo = JSON.parse(atob(input));
+  if (await checkHostCheck(configinfo.add)) {
+    const { flag, country } = await checkIP(configinfo.add);
     configinfo.ps = configinfo.add;
 
-    return { conf: btoa(JSON.stringify(configinfo)), country: country };
+    return {
+      conf: btoa(JSON.stringify(configinfo)),
+      country: country,
+      typeconfig: configinfo.net,
+    };
+  }
+  return null;
 }
-async function configChanger(urlString: string): Promise<ParsedUrl> {
-  const protocol = urlString.split("://")[0]+"";
-  let config,ipInfo;
+async function configChanger(urlString: string): Promise<ParsedUrl | null> {
+  const protocol = urlString.split("://")[0] + "";
+  let config, ipInfo, typeConfig;
 
   if (protocol == "vmess") {
-
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
-    config = "vmess://" + vmesconf.conf;
-    ipInfo = vmesconf.country;
-}
-else{
-    let hostname = new URL(urlString).hostname; 
 
-    const {flag , country} = await checkIP(hostname);
-    ipInfo = country;
+    if (vmesconf != null) {
+      config = "vmess://" + vmesconf.conf;
+      ipInfo = vmesconf.country;
+      typeConfig = vmesconf.typeconfig;
+    }
 
-    config = urlString.split("#")[0] + "#" + flag + " " + hostname;
+  } 
+  else {
+    const { hostname, searchParams } = new URL(urlString);
+
+    if (await checkHostCheck(hostname)) {
+
+      const { flag, country } = await checkIP(hostname);
+      ipInfo = country;
+      typeConfig = searchParams.get("type") ?? "";
+      config = urlString.split("#")[0] + "#" + flag + " " + hostname;
+
+      return {
+        protocol,
+        config,
+        ipInfo,
+        typeConfig,
+      };
+    }
+
   }
-  return {
-    protocol,
-    config: config,
-    country: ipInfo,
-  };
+  return null
 }
 async function checkIP(ip: string) {
   try {
@@ -282,13 +307,65 @@ async function checkIP(ip: string) {
   }
   return { country: "", flag: "🏳️" };
 }
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+async function checkHostApi(domain: string,field = ""): Promise<string | CheckHostResponse> {
+  const response = await fetch(domain, {
+    headers: { Accept: "application/json" },
+  });
+
+  if (!response.ok) {
+    throw new Error("Network response was not ok");
+  }
+
+  const data = (await response.json()) as { [key: string]: any };
+  return data[field] || data; // برگرداندن فیلد مشخص شده یا کل داده‌ها
+}
+//node=ir2.node.check-host.net&node=ir3.node.check-host.net&
+// node=ir4.node.check-host.net&node=ir5.node.check-host.net&
+// node=ir6.node.check-host.net&node=ir7.node.check-host.net&
+// node=ir8.node.check-host.net,
+async function checkHostCheck(target: string): Promise<boolean> {
+  let counter = 0;
+  const hash = await checkHostApi(
+    `https://check-host.net/check-ping?host=${target}&node=ir6.node.check-host.net`,
+    "request_id"
+  );
+
+  await sleep(10000); // یک ثانیه صبر کن
+  const isps = (await checkHostApi(
+    `https://check-host.net/check-result/${hash}`
+  )) as { [key: string]: Array<Array<[string, number, string?]>> };
+
+  if (isps["ir6.node.check-host.net"] && isps["ir6.node.check-host.net"][0]) {
+
+    for (const [status, _] of isps["ir6.node.check-host.net"][0]) {
+      if (status != "TIMEOUT") {counter += 1; }
+      if(counter >= 2){break;}
+    }
+
+  }
+  return counter >= 2;
+}
 async function Grouping(urls: string): Promise<void> {
   const parsedUrl = await configChanger(urls);
-// await appendFile(`${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
-//await appendFile(`${parsedUrl.country}.txt`, parsedUrl.config + "\n");
-//await appendFile(`${parsedUrl.}.txt`, parsedUrl.config + "\n");
+  console.log(parsedUrl);
+  
+  // await appendFile(`${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
+  //await appendFile(`${parsedUrl.country}.txt`, parsedUrl.config + "\n");
+  //await appendFile(`${parsedUrl.}.txt`, parsedUrl.config + "\n");
 }
 // Replace with your desired URL
-const url: string = "https://t.me/s/mrsoulb";
-fetchHtml(url);
+//const url: string = "https://t.me/s/mrsoulb";
+//fetchHtml(url);
+/*
+Grouping(
+  "vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3"
+);
+*/
+console.log(channles.length);
+//await rm("./aaa", { recursive: true , force:true });
+
+
 
