@@ -1,5 +1,5 @@
 import { appendFile , rm} from "node:fs/promises";
-import channles from './telegram_channels.json'
+//import channles from './telegram_channels.json'
 //---------------------------------------------------------
 type ParsedUrl = Record<
   "protocol" | "config" | "ipInfo" | "typeConfig",
@@ -268,14 +268,12 @@ async function configChanger(urlString: string): Promise<ParsedUrl | null> {
   } 
   else {
     const { hostname, searchParams } = new URL(urlString);
+    typeConfig = searchParams.get("type") ?? "";
 
     if (await checkHostCheck(hostname)) {
-
       const { flag, country } = await checkIP(hostname);
       ipInfo = country;
-      typeConfig = searchParams.get("type") ?? "";
       config = urlString.split("#")[0] + "#" + flag + " " + hostname;
-
       return {
         protocol,
         config,
@@ -357,14 +355,14 @@ async function Grouping(urls: string): Promise<void> {
   //await appendFile(`${parsedUrl.}.txt`, parsedUrl.config + "\n");
 }
 // Replace with your desired URL
-//const url: string = "https://t.me/s/mrsoulb";
-//fetchHtml(url);
+const url: string = "https://t.me/s/mrsoulb";
+fetchHtml(url);
 /*
 Grouping(
   "vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3"
 );
 */
-console.log(channles.length);
+//console.log(channles.length);
 //await rm("./aaa", { recursive: true , force:true });
 
 
