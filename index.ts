@@ -1,5 +1,5 @@
 import { appendFile , rm} from "node:fs/promises";
-//import channles from './telegram_channels.json'
+import channles from './telegram_channels.json'
 //---------------------------------------------------------
 type ParsedUrl = Record<
   "protocol" | "config" | "ipInfo" | "typeConfig",
@@ -216,9 +216,11 @@ const countryFlagMap: { [key: string]: string } = {
 //----------------------------------------------------------
 async function fetchHtml(url: string): Promise<void> {
   try {
-    const response = await fetch(url);
+    const response = await fetch(url,{redirect:"manual"});
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+  //    throw new Error();
+      console.error(`HTTP error! status: ${response.status}`);
+    //  return { error: "Http Error Status", code: response.status };
     }
     const html: string = await response.text();
 
@@ -226,12 +228,16 @@ async function fetchHtml(url: string): Promise<void> {
     const matches = html.match(regex);
 
     if (matches) {
+   /*
       const lastFiveMessages = matches.slice(-5);
 
       lastFiveMessages.forEach((div, _) => {
-        Grouping(div);
+        Grouping(decodeHtmlEntities(div));
       });
+      */
+      console.log("matches");
     } else {
+      await appendFile(`./BadChannels.txt`, url + "\n");
       console.log("No matches found.");
     }
   } catch (error) {
@@ -268,10 +274,9 @@ async function configChanger(urlString: string): Promise<ParsedUrl | null> {
   } 
   else {
     const { hostname, searchParams } = new URL(urlString);
-    typeConfig = searchParams.get("type") ?? "";
-
     if (await checkHostCheck(hostname)) {
       const { flag, country } = await checkIP(hostname);
+      typeConfig = searchParams.get("type") ?? "";
       ipInfo = country;
       config = urlString.split("#")[0] + "#" + flag + " " + hostname;
       return {
@@ -307,6 +312,14 @@ async function checkIP(ip: string) {
 }
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+function decodeHtmlEntities(str: string): string {
+  return decodeURIComponent(str)
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'");
 }
 async function checkHostApi(domain: string,field = ""): Promise<string | CheckHostResponse> {
   const response = await fetch(domain, {
@@ -347,23 +360,26 @@ async function checkHostCheck(target: string): Promise<boolean> {
   return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
-  const parsedUrl = await configChanger(urls);
-  console.log(parsedUrl);
-  
-  // await appendFile(`${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
-  //await appendFile(`${parsedUrl.country}.txt`, parsedUrl.config + "\n");
-  //await appendFile(`${parsedUrl.}.txt`, parsedUrl.config + "\n");
+//  const parsedUrl = await configChanger(urls);
+  console.log(urls);
+
+  // await appendFile(`./category/${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
+  //await appendFile(`./category/${parsedUrl.country}.txt`, parsedUrl.config + "\n");
+  //await appendFile(`./category/${parsedUrl.typeConfig}.txt`, parsedUrl.config + "\n");
 }
 // Replace with your desired URL
-const url: string = "https://t.me/s/mrsoulb";
-fetchHtml(url);
+//const url: string = "https://t.me/s/khabar_isf";
+channles.forEach((value)=>{
+  fetchHtml("https://t.me/s/"+value);
+})
+//fetchHtml(url);
 /*
 Grouping(
   "vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3"
 );
 */
 //console.log(channles.length);
-//await rm("./aaa", { recursive: true , force:true });
+//await rm("./category", { recursive: true , force:true });
 
 
 
