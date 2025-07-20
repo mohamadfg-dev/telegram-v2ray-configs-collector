@@ -26,3 +26,19 @@ jobs:
       # Run the index.ts file
       - name: Run index.ts
         run: bun index.ts
+
+      # Add URL to BadChannels.txt
+      - name: Add URL to BadChannels.txt
+        run: |
+          echo "https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/blob/main/BadChannels.txt" >> BadChannels.txt
+
+      # Commit changes
+      - name: Commit changes to BadChannels.txt
+        run: |
+          git config --local user.name "Robot-1"
+          git config --local user.email "Robot@example.com"
+          git add BadChannels.txt
+          git commit -m "Update BadChannels.txt with new URL"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

@@ -235,10 +235,10 @@ async function fetchHtml(url: string): Promise<void> {
         Grouping(decodeHtmlEntities(div));
       });
       */
-      console.log("matches");
+     // console.log("matches");
     } else {
       await appendFile(`./BadChannels.txt`, url + "\n");
-      console.log("No matches found.");
+      console.log(url);
     }
   } catch (error) {
     console.error("Error fetching HTML:", error);
