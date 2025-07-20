@@ -1,10 +1,9 @@
-name: my-workflow
+name: UpdateConfigs
 
 on:
-  push:
-    branches:
-      - main  # یا هر برنچ دیگری که می‌خواهید
-  pull_request:
+  workflow_dispatch:  # اجازه اجرای دستی
+  ##  schedule:
+  ##  - cron: '0 9,21 * * *'  # هر روز در ساعت 9 صبح و 9 شب (UTC)
 
 jobs:
   my-job:
