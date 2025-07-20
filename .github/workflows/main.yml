@@ -1,0 +1,29 @@
+name: my-workflow
+
+on:
+  push:
+    branches:
+      - main  # یا هر برنچ دیگری که می‌خواهید
+  pull_request:
+
+jobs:
+  my-job:
+    name: my-job
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Setup Bun
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      # Install dependencies
+      - name: Install dependencies
+        run: bun install
+
+      # Run the index.ts file
+      - name: Run index.ts
+        run: bun index.ts
