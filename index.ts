@@ -1,6 +1,5 @@
 import { appendFile , rm} from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
-//import badchannles from "./BadChannels.json";
 
 //---------------------------------------------------------
 type ParsedUrl = Record<
@@ -232,9 +231,13 @@ async function fetchHtml(url: string): Promise<void> {
     if (matches) {
       const lastFiveMessages = matches.slice(-countGetConfigOfEveryChannel);
 
-      lastFiveMessages.forEach((div, _) => {
-        Grouping(decodeHtmlEntities(div));
-      });
+   //   lastFiveMessages.forEach((div, _) => {
+
+        for (const element of lastFiveMessages) {
+          await Grouping(decodeHtmlEntities(element));
+        }
+     
+    //  });
     } else {
    //   await appendFile(`./BadChannels.txt`, url + "\n");
       console.log(url);
@@ -340,7 +343,6 @@ async function checkHostApi(domain: string,field = ""): Promise<string | CheckHo
   const data = (await response.json()) as { [key: string]: any };
   return data[field] || data; // برگرداندن فیلد مشخص شده یا کل داده‌ها
 }
-
 async function checkHostCheck(target: string): Promise<boolean> {
   let counter = 0,
     host = "ir5.node.check-host.net";
@@ -348,7 +350,7 @@ async function checkHostCheck(target: string): Promise<boolean> {
     `https://check-host.net/check-ping?host=${target}&node=${host}`,
     "request_id"
   );
-//  console.log("Checking IP ...  ");
+ console.log("Checking IP ...  ");
   await sleep(20000); // یک ثانیه صبر کن
   const isps = (await checkHostApi(
     `https://check-host.net/check-result/${hash}`
@@ -366,11 +368,15 @@ async function checkHostCheck(target: string): Promise<boolean> {
   }
  // console.log("host : ", isps);
  // console.log("hash : ", hash);
- // console.log("count host : ", counter);
+  console.log("count host : ", counter);
   return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
+  console.log("Config :",urls +"\n");
+  
   const parsedUrl = await configChanger(urls);
+
+  console.log("final Info :", parsedUrl);
 
   if (parsedUrl) {
     await appendFile(
@@ -391,9 +397,15 @@ async function Grouping(urls: string): Promise<void> {
     
 }
 
-channles.forEach((value) => {
-  fetchHtml("https://t.me/s/" + value);
-});
+async function startScaninig() {
+  for (const value of channles) {
+    console.log("Start Get From :" + value);
+    await fetchHtml("https://t.me/s/" + value);
+  }
+}
+
+startScaninig();
+
 
 /*
 Grouping(
