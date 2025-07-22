@@ -1,5 +1,7 @@
 import { appendFile , rm} from "node:fs/promises";
 import channles from './telegram_channels.json'
+//import badchannles from "./BadChannels.json";
+
 //---------------------------------------------------------
 type ParsedUrl = Record<
   "protocol" | "config" | "ipInfo" | "typeConfig",
@@ -15,6 +17,7 @@ interface IPApiResponse {
   country: string;
   message?: string; // Optional, in case of an error
 }
+const countGetConfigOfEveryChannel = 2;
 //----------------------------------------------------------
 const countryFlagMap: { [key: string]: string } = {
   Afghanistan: "🇦🇫",
@@ -218,7 +221,7 @@ async function fetchHtml(url: string): Promise<void> {
   try {
     const response = await fetch(url,{redirect:"manual"});
     if (!response.ok) {
-  //    throw new Error();
+    //    throw new Error();
       console.error(`HTTP error! status: ${response.status}`);
     //  return { error: "Http Error Status", code: response.status };
     }
@@ -228,16 +231,13 @@ async function fetchHtml(url: string): Promise<void> {
     const matches = html.match(regex);
 
     if (matches) {
-   /*
-      const lastFiveMessages = matches.slice(-5);
+      const lastFiveMessages = matches.slice(-countGetConfigOfEveryChannel);
 
       lastFiveMessages.forEach((div, _) => {
         Grouping(decodeHtmlEntities(div));
       });
-      */
-     // console.log("matches");
     } else {
-      await appendFile(`./BadChannels.txt`, url + "\n");
+   //   await appendFile(`./BadChannels.txt`, url + "\n");
       console.log(url);
     }
   } catch (error) {
@@ -338,47 +338,70 @@ async function checkHostApi(domain: string,field = ""): Promise<string | CheckHo
 // node=ir6.node.check-host.net&node=ir7.node.check-host.net&
 // node=ir8.node.check-host.net,
 async function checkHostCheck(target: string): Promise<boolean> {
-  let counter = 0;
+  let counter = 0,
+    host = "ir5.node.check-host.net";
   const hash = await checkHostApi(
-    `https://check-host.net/check-ping?host=${target}&node=ir6.node.check-host.net`,
+    `https://check-host.net/check-ping?host=${target}&node=${host}`,
     "request_id"
   );
-
-  await sleep(10000); // یک ثانیه صبر کن
+ // console.log("Checking IP ...  ");
+  await sleep(20000); // یک ثانیه صبر کن
   const isps = (await checkHostApi(
     `https://check-host.net/check-result/${hash}`
   )) as { [key: string]: Array<Array<[string, number, string?]>> };
 
-  if (isps["ir6.node.check-host.net"] && isps["ir6.node.check-host.net"][0]) {
-
-    for (const [status, _] of isps["ir6.node.check-host.net"][0]) {
-      if (status != "TIMEOUT") {counter += 1; }
-      if(counter >= 2){break;}
+  if (isps[host] && isps[host][0]) {
+    for (const [status, _] of isps[host][0]) {
+      if (status != "TIMEOUT") {
+        counter += 1;
+      }
+      if (counter >= 2) {
+        break;
+      }
     }
-
   }
+ // console.log("host : ", isps);
+ // console.log("hash : ", hash);
+ // console.log("count host : ", counter);
   return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
-//  const parsedUrl = await configChanger(urls);
-  console.log(urls);
+   console.log("Config: ",urls);
+  const parsedUrl = await configChanger(urls);
 
-  // await appendFile(`./category/${parsedUrl.protocol}.txt`, parsedUrl.config + '\n');
-  //await appendFile(`./category/${parsedUrl.country}.txt`, parsedUrl.config + "\n");
-  //await appendFile(`./category/${parsedUrl.typeConfig}.txt`, parsedUrl.config + "\n");
+  if (parsedUrl) {
+    await appendFile(
+      `./category/${parsedUrl.protocol}.txt`,
+      parsedUrl.config + "\n"
+    );
+    await appendFile(
+      `./category/${parsedUrl.ipInfo}.txt`,
+      parsedUrl.config + "\n"
+    );
+    if (parsedUrl.typeConfig) {
+      await appendFile(
+        `./category/${parsedUrl.typeConfig}.txt`,
+        parsedUrl.config + "\n"
+      );
+    }
+  }
 }
-// Replace with your desired URL
-//const url: string = "https://t.me/s/khabar_isf";
+channles.forEach((value) => {
+  fetchHtml("https://t.me/s/" + value);
+});
+
+//------------------------------------- Test Good OR Bad channels
+/*
 channles.forEach((value)=>{
   fetchHtml("https://t.me/s/"+value);
 })
-//fetchHtml(url);
-/*
-Grouping(
-  "vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3"
+const filteredChannles = channles.filter(
+  (channel) => !badchannles.includes(channel)
 );
+appendFile(`./ch.json`, JSON.stringify(filteredChannles));
+
 */
-//console.log(channles.length);
+
 //await rm("./category", { recursive: true , force:true });
 
 
