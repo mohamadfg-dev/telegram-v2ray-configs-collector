@@ -1,5 +1,5 @@
 import { appendFile , rm} from "node:fs/promises";
-import channles from './telegram_channels.json'
+import channles from "./telegram_channels.json" assert { type: "json" };
 //import badchannles from "./BadChannels.json";
 
 //---------------------------------------------------------
@@ -245,17 +245,22 @@ async function fetchHtml(url: string): Promise<void> {
   }
 }
 async function vmessHandle(input: string): Promise<vmessReturn | null> {
-  const configinfo = JSON.parse(atob(input));
-  if (await checkHostCheck(configinfo.add)) {
-    const { flag, country } = await checkIP(configinfo.add);
-    configinfo.ps = configinfo.add;
+  try {
+    const configinfo = JSON.parse(atob(input));
+    if (await checkHostCheck(configinfo.add)) {
+      const { flag, country } = await checkIP(configinfo.add);
+      configinfo.ps = configinfo.add;
 
-    return {
-      conf: btoa(JSON.stringify(configinfo)),
-      country: country,
-      typeconfig: configinfo.net,
-    };
+      return {
+        conf: btoa(JSON.stringify(configinfo)),
+        country: country,
+        typeconfig: configinfo.net,
+      };
+    }
+  } catch (error) {
+    console.log("error with config :" + input);
   }
+
   return null;
 }
 async function configChanger(urlString: string): Promise<ParsedUrl | null> {
@@ -327,16 +332,15 @@ async function checkHostApi(domain: string,field = ""): Promise<string | CheckHo
   });
 
   if (!response.ok) {
-    throw new Error("Network response was not ok");
+   // throw new Error("Network response was not ok");
+    console.log("Network response was not ok");
+    
   }
 
   const data = (await response.json()) as { [key: string]: any };
   return data[field] || data; // برگرداندن فیلد مشخص شده یا کل داده‌ها
 }
-//node=ir2.node.check-host.net&node=ir3.node.check-host.net&
-// node=ir4.node.check-host.net&node=ir5.node.check-host.net&
-// node=ir6.node.check-host.net&node=ir7.node.check-host.net&
-// node=ir8.node.check-host.net,
+
 async function checkHostCheck(target: string): Promise<boolean> {
   let counter = 0,
     host = "ir5.node.check-host.net";
@@ -344,7 +348,7 @@ async function checkHostCheck(target: string): Promise<boolean> {
     `https://check-host.net/check-ping?host=${target}&node=${host}`,
     "request_id"
   );
-  console.log("Checking IP ...  ");
+//  console.log("Checking IP ...  ");
   await sleep(20000); // یک ثانیه صبر کن
   const isps = (await checkHostApi(
     `https://check-host.net/check-result/${hash}`
@@ -360,9 +364,9 @@ async function checkHostCheck(target: string): Promise<boolean> {
       }
     }
   }
-  console.log("host : ", isps);
-  console.log("hash : ", hash);
-  console.log("count host : ", counter);
+ // console.log("host : ", isps);
+ // console.log("hash : ", hash);
+ // console.log("count host : ", counter);
   return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
