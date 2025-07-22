@@ -221,9 +221,8 @@ async function fetchHtml(url: string): Promise<void> {
   try {
     const response = await fetch(url,{redirect:"manual"});
     if (!response.ok) {
-    //    throw new Error();
-      console.error(`HTTP error! status: ${response.status}`);
-    //  return { error: "Http Error Status", code: response.status };
+      //    throw new Error(`HTTP error! status: ${response.status}`);
+      console.log(url);
     }
     const html: string = await response.text();
 
@@ -241,7 +240,8 @@ async function fetchHtml(url: string): Promise<void> {
       console.log(url);
     }
   } catch (error) {
-    console.error("Error fetching HTML:", error);
+    console.log(url);
+  //  console.log("Error fetching HTML:", error);
   }
 }
 async function vmessHandle(input: string): Promise<vmessReturn | null> {
@@ -344,7 +344,7 @@ async function checkHostCheck(target: string): Promise<boolean> {
     `https://check-host.net/check-ping?host=${target}&node=${host}`,
     "request_id"
   );
- // console.log("Checking IP ...  ");
+  console.log("Checking IP ...  ");
   await sleep(20000); // یک ثانیه صبر کن
   const isps = (await checkHostApi(
     `https://check-host.net/check-result/${hash}`
@@ -360,13 +360,12 @@ async function checkHostCheck(target: string): Promise<boolean> {
       }
     }
   }
- // console.log("host : ", isps);
- // console.log("hash : ", hash);
- // console.log("count host : ", counter);
+  console.log("host : ", isps);
+  console.log("hash : ", hash);
+  console.log("count host : ", counter);
   return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
-   console.log("Config: ",urls);
   const parsedUrl = await configChanger(urls);
 
   if (parsedUrl) {
@@ -385,11 +384,18 @@ async function Grouping(urls: string): Promise<void> {
       );
     }
   }
+    
 }
+
 channles.forEach((value) => {
   fetchHtml("https://t.me/s/" + value);
 });
 
+/*
+Grouping(
+  "vmess://eyJhZGQiOiIxOTMuMTg3LjE3NS4xMTEiLCJhaWQiOiIwIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImQ4NzRmZDAxLTc2ZWMtNGFlYy1iYzJlLWM3ZDBmNmExMDRlNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoi8JOFryDwnZKV8J2ShvCdko3wnZKG8J2SiPCdkpPwnZKC8J2SjuKeqUDwnZGQ8J2RnPCdkZvwnZGT8J2RlvCdkZTwnZGg8J2RoPCdkaHwnZGc8J2Rn/CdkZLwk4WvIChjb25maWdzc3RvcmUpIFtWTWVzcyAtIHdzXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0="
+);
+*/
 //------------------------------------- Test Good OR Bad channels
 /*
 channles.forEach((value)=>{
