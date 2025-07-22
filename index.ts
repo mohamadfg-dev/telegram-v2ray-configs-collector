@@ -406,12 +406,6 @@ async function startScaninig() {
 
 startScaninig();
 
-
-/*
-Grouping(
-  "vmess://eyJhZGQiOiIxOTMuMTg3LjE3NS4xMTEiLCJhaWQiOiIwIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImQ4NzRmZDAxLTc2ZWMtNGFlYy1iYzJlLWM3ZDBmNmExMDRlNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoi8JOFryDwnZKV8J2ShvCdko3wnZKG8J2SiPCdkpPwnZKC8J2SjuKeqUDwnZGQ8J2RnPCdkZvwnZGT8J2RlvCdkZTwnZGg8J2RoPCdkaHwnZGc8J2Rn/CdkZLwk4WvIChjb25maWdzc3RvcmUpIFtWTWVzcyAtIHdzXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0="
-);
-*/
 //------------------------------------- Test Good OR Bad channels
 /*
 channles.forEach((value)=>{
