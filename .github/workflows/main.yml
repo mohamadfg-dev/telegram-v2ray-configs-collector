@@ -28,9 +28,9 @@ jobs:
         run: bun index.ts
 
       # Add URL to BadChannels.txt
-      #- name: Add URL to BadChannels.txt
+      #- name: Add URL to UpdateConfigs.txt
       # run: |
-      #  echo "https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/blob/main/BadChannels.txt" >> BadChannels.txt
+      #  echo "https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/blob/main/category/" >> category/*
 
       # Commit changes
       - name: Commit changes to UpdateConfigs.txt
