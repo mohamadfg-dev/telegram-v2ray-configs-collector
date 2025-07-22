@@ -5,11 +5,8 @@ type ParsedUrl = Record<
   "protocol" | "config" | "ipInfo" | "typeConfig",
   string
 >;
-type vmessReturn = Record<"conf" | "country" | "typeconfig", string>;
+type vmessReturn = Record<"config" | "country" | "typeconfig", string>;
 
-interface CheckHostResponse {
-  [key: string]: any; // برای سایر فیلدها
-} 
 interface IPApiResponse {
   status: string;
   country: string;
@@ -258,36 +255,31 @@ function decodeBase64Unicode(str: string): any {
   const json = new TextDecoder().decode(bytes);
   return JSON.parse(json);
 }
-async function vmessHandle(input: string): Promise<vmessReturn | null> {
+async function vmessHandle(input: string): Promise<vmessReturn> {
     const configinfo = decodeBase64Unicode(input);
-
-    if (!await checkHostCheck(configinfo.add)) { return null;}
 
       const { flag, country , ip } = await checkIP(configinfo.add);
       configinfo.ps = `${flag} ${ip}`;
 
       return {
-        conf: encodeBase64Unicode(configinfo),
+        config: encodeBase64Unicode(configinfo),
         country: country,
         typeconfig: configinfo.net,
       };
 }
-async function configChanger(urlString: string): Promise<ParsedUrl | null> {
+async function configChanger(urlString: string): Promise<ParsedUrl> {
   const protocol = urlString.split("://")[0] + "";
   let config, ipInfo, typeConfig;
 
   if (protocol == "vmess") {
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
-    if (!vmesconf) { return null ;}
- 
-      config = "vmess://" + vmesconf.conf;
+    
+      config = "vmess://" + vmesconf.config;
       ipInfo = vmesconf.country;
       typeConfig = vmesconf.typeconfig;
   } 
   else {
     const { hostname, searchParams } = new URL(urlString);
-
-    if (!await checkHostCheck(hostname)) { return null;}
 
       const { flag, country, ip } = await checkIP(hostname);
       typeConfig = searchParams.get("type") ?? "";
@@ -314,9 +306,6 @@ async function checkIP(ipaddress: string) {
 
   return { country, flag, ip };
 }
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
 function decodeHtmlEntities(str: string): string {
   return decodeURIComponent(str)
     .replace(/&amp;/g, "&")
@@ -324,50 +313,6 @@ function decodeHtmlEntities(str: string): string {
     .replace(/&gt;/g, ">")
     .replace(/&quot;/g, '"')
     .replace(/&#039;/g, "'");
-}
-async function checkHostApi(domain: string,field = ""): Promise<string | CheckHostResponse> {
-  const response = await fetch(domain, {
-    headers: { Accept: "application/json" },
-  });
-
-  if (!response.ok) {
-   // throw new Error("Network response was not ok");
-    console.log("Network response was not ok");
-    
-  }
-
-  const data = (await response.json()) as { [key: string]: any };
-  return data[field] || data; // برگرداندن فیلد مشخص شده یا کل داده‌ها
-}
-async function checkHostCheck(target: string): Promise<boolean> {
-  let counter = 0,
-    host = "ir5.node.check-host.net";
-  const hash = await checkHostApi(
-    `https://check-host.net/check-ping?host=${target}&node=${host}`,
-    "request_id"
-  );
- console.log("Checking IP ...  ");
-  await sleep(20000); // یک ثانیه صبر کن
-  const isps = (await checkHostApi(
-    `https://check-host.net/check-result/${hash}`
-  )) as { [key: string]: Array<Array<[string, number, string?]>> };
-
-  if (isps[host] && isps[host][0]) {
-    for (const [status, _] of isps[host][0]) {
-      if (status != "TIMEOUT") {
-        counter += 1;
-      }
-      /*
-      if (counter >= 2) {
-        break;
-      }
-        */
-    }
-  }
- // console.log("host : ", isps);
- // console.log("hash : ", hash);
-  console.log("count host : ", counter);
-  return counter >= 2;
 }
 async function Grouping(urls: string): Promise<void> {
   console.log("Config :",urls +"\n");
@@ -398,22 +343,5 @@ async function startScaninig() {
     await fetchHtml("https://t.me/s/" + value);
   }
 }
-
 startScaninig();
-
-//------------------------------------- Test Good OR Bad channels
-/*
-channles.forEach((value)=>{
-  fetchHtml("https://t.me/s/"+value);
-})
-const filteredChannles = channles.filter(
-  (channel) => !badchannles.includes(channel)
-);
-appendFile(`./ch.json`, JSON.stringify(filteredChannles));
-
-*/
-
-//await rm("./category", { recursive: true , force:true });
-
-
 
