@@ -1,6 +1,5 @@
 import { appendFile , rm} from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
-
 //---------------------------------------------------------
 type ParsedUrl = Record<
   "protocol" | "config" | "ipInfo" | "typeConfig",
@@ -14,6 +13,7 @@ interface CheckHostResponse {
 interface IPApiResponse {
   status: string;
   country: string;
+  query:string,
   message?: string; // Optional, in case of an error
 }
 const countGetConfigOfEveryChannel = 2;
@@ -247,24 +247,30 @@ async function fetchHtml(url: string): Promise<void> {
   //  console.log("Error fetching HTML:", error);
   }
 }
+function encodeBase64Unicode(obj: any): string {
+  const json = JSON.stringify(obj);
+  const uint8array = new TextEncoder().encode(json);
+  return btoa(String.fromCharCode(...uint8array));
+}
+function decodeBase64Unicode(str: string): any {
+  const binaryString = atob(str);
+  const bytes = Uint8Array.from(binaryString, (c) => c.charCodeAt(0));
+  const json = new TextDecoder().decode(bytes);
+  return JSON.parse(json);
+}
 async function vmessHandle(input: string): Promise<vmessReturn | null> {
-  try {
-    const configinfo = JSON.parse(atob(input));
-    if (await checkHostCheck(configinfo.add)) {
-      const { flag, country } = await checkIP(configinfo.add);
-      configinfo.ps = configinfo.add;
+    const configinfo = decodeBase64Unicode(input);
+
+    if (!await checkHostCheck(configinfo.add)) { return null;}
+
+      const { flag, country , ip } = await checkIP(configinfo.add);
+      configinfo.ps = `${flag} ${ip}`;
 
       return {
-        conf: btoa(JSON.stringify(configinfo)),
+        conf: encodeBase64Unicode(configinfo),
         country: country,
         typeconfig: configinfo.net,
       };
-    }
-  } catch (error) {
-    console.log("error with config :" + input);
-  }
-
-  return null;
 }
 async function configChanger(urlString: string): Promise<ParsedUrl | null> {
   const protocol = urlString.split("://")[0] + "";
@@ -272,51 +278,41 @@ async function configChanger(urlString: string): Promise<ParsedUrl | null> {
 
   if (protocol == "vmess") {
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
-
-    if (vmesconf != null) {
+    if (!vmesconf) { return null ;}
+ 
       config = "vmess://" + vmesconf.conf;
       ipInfo = vmesconf.country;
       typeConfig = vmesconf.typeconfig;
-    }
-
   } 
   else {
     const { hostname, searchParams } = new URL(urlString);
-    if (await checkHostCheck(hostname)) {
-      const { flag, country } = await checkIP(hostname);
+
+    if (!await checkHostCheck(hostname)) { return null;}
+
+      const { flag, country, ip } = await checkIP(hostname);
       typeConfig = searchParams.get("type") ?? "";
       ipInfo = country;
-      config = urlString.split("#")[0] + "#" + flag + " " + hostname;
-      return {
-        protocol,
-        config,
-        ipInfo,
-        typeConfig,
-      };
-    }
-
+      config = urlString.split("#")[0] + "#" + flag + " " + ip;
   }
-  return null
+  return { protocol, config, ipInfo, typeConfig };
 }
-async function checkIP(ip: string) {
-  try {
-    const response = await fetch(`http://ip-api.com/json/${ip}`);
+async function checkIP(ipaddress: string) {
+
+    const response = await fetch(`http://ip-api.com/json/${ipaddress}`,{redirect:"manual"});
     const data = (await response.json()) as IPApiResponse;
 
+    if (!response.ok) {
+      console.log(`HTTP error! status: ${response.status}`);
+    }
     if (data.status === "fail") {
-      console.log(`Error fetching data for IP ${ip}: ${data.message}`);
+      console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
     }
 
-    const country = data.country;
-    const flag = countryFlagMap[country] || "🏳️";
+    const country = data.country || "Unknown";
+    const flag = countryFlagMap[country] || "🏴‍☠️";
+    const ip = data.query || "Unknown";
 
-    return { country: country, flag: flag };
-  } catch (error) {
-    console.log(
-      error instanceof Error ? error.message : "An unknown error occurred."
-    );
-  }
-  return { country: "", flag: "🏳️" };
+  return { country, flag, ip };
 }
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -361,9 +357,11 @@ async function checkHostCheck(target: string): Promise<boolean> {
       if (status != "TIMEOUT") {
         counter += 1;
       }
+      /*
       if (counter >= 2) {
         break;
       }
+        */
     }
   }
  // console.log("host : ", isps);
@@ -377,7 +375,6 @@ async function Grouping(urls: string): Promise<void> {
   const parsedUrl = await configChanger(urls);
 
   console.log("final Info :", parsedUrl,"\n");
-
   if (parsedUrl) {
     await appendFile(
       `./category/${parsedUrl.protocol}.txt`,
@@ -394,9 +391,7 @@ async function Grouping(urls: string): Promise<void> {
       );
     }
   }
-
 }
-
 async function startScaninig() {
   for (const value of channles) {
     console.log("Start Get From :" + value);
