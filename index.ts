@@ -376,7 +376,7 @@ async function Grouping(urls: string): Promise<void> {
   
   const parsedUrl = await configChanger(urls);
 
-  console.log("final Info :", parsedUrl);
+  console.log("final Info :", parsedUrl,"\n");
 
   if (parsedUrl) {
     await appendFile(
@@ -394,7 +394,7 @@ async function Grouping(urls: string): Promise<void> {
       );
     }
   }
-    
+
 }
 
 async function startScaninig() {

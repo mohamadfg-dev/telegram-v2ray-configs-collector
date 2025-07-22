@@ -33,12 +33,12 @@ jobs:
       #  echo "https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/blob/main/BadChannels.txt" >> BadChannels.txt
 
       # Commit changes
-      - name: Commit changes to BadChannels.txt
+      - name: Commit changes to UpdateConfigs.txt
         run: |
           git config --local user.name "Robot-1"
           git config --local user.email "Robot@example.com"
-          git add .
-          git commit -m "Updated Files"
+          git add category/*
+          git commit -m "UpdateConfigs"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
