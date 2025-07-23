@@ -289,20 +289,24 @@ async function configChanger(urlString: string): Promise<ParsedUrl> {
   return { protocol, config, ipInfo, typeConfig };
 }
 async function checkIP(ipaddress: string) {
+  console.log("Check Ip ...");
+  
+  // http://ip-api.com/json/
+  const response = await fetch(`https://demo.ip-api.com/json/${ipaddress}`, {
+    redirect: "manual",
+  });
+  const data = (await response.json()) as IPApiResponse;
 
-    const response = await fetch(`http://ip-api.com/json/${ipaddress}`,{redirect:"manual"});
-    const data = (await response.json()) as IPApiResponse;
+  if (!response.ok) {
+    console.log(`HTTP error! status: ${response.status}`);
+  }
+  if (data.status === "fail") {
+    console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
+  }
 
-    if (!response.ok) {
-      console.log(`HTTP error! status: ${response.status}`);
-    }
-    if (data.status === "fail") {
-      console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
-    }
-
-    const country = data.country || "Unknown";
-    const flag = countryFlagMap[country] || "🏴‍☠️";
-    const ip = data.query || "Unknown";
+  const country = data.country || "Unknown";
+  const flag = countryFlagMap[country] || "🏴‍☠️";
+  const ip = data.query || "Unknown";
 
   return { country, flag, ip };
 }
