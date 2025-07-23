@@ -1,2 +1,0 @@
-vless://b0b6f18e-d975-46d2-a627-c3a626dac101@190.93.247.155:8443?path=/P?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Punisher-V2rayCnc.radiotehran.org&fp=chrome&type=ws&sni=Punisher-V2rayCnc.radiotehran.org#🇨🇷 190.93.247.155
-vless://3a3cf4a6-23eb-4382-88d9-58f1032d4dea@190.93.247.155:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@puni_shop_v2ra…#🇨🇷 190.93.247.155

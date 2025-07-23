@@ -1,4 +1,0 @@
-vless://e8100609-b30b-45a3-a7ff-033afd579b4d@70.34.252.38:2056?type=tcp&path=/&host=speed.cloudflare.com,cloudflare.com&headerType=http&security=none#🇵🇱 70.34.252.38
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.18:9093#🇵🇱 217.30.10.18
-vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
-vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172

@@ -8,10 +8,8 @@ type ParsedUrl = Record<
 type vmessReturn = Record<"config" | "country" | "typeconfig", string>;
 
 interface IPApiResponse {
-  status: string;
-  country: string;
-  query:string,
-  message?: string; // Optional, in case of an error
+  country_name: string;
+  query: string;
 }
 const countGetConfigOfEveryChannel = 2;
 //----------------------------------------------------------
@@ -282,29 +280,37 @@ async function configChanger(urlString: string): Promise<ParsedUrl> {
     const { hostname, searchParams } = new URL(urlString);
 
       const { flag, country, ip } = await checkIP(hostname);
+
       typeConfig = searchParams.get("type") ?? "";
       ipInfo = country;
       config = urlString.split("#")[0] + "#" + flag + " " + ip;
   }
   return { protocol, config, ipInfo, typeConfig };
 }
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 async function checkIP(ipaddress: string) {
   console.log("Check Ip ...");
-  
+  await sleep(1000); // یک ثانیه صبر کن
   // http://ip-api.com/json/
-  const response = await fetch(`https://demo.ip-api.com/json/${ipaddress}`, {
-    redirect: "manual",
-  });
+  const response = await fetch(
+    `https://irjh.top/py/check/ip.php?ip=${ipaddress}`,
+    {
+      redirect: "manual",
+    }
+  );
   const data = (await response.json()) as IPApiResponse;
 
   if (!response.ok) {
     console.log(`HTTP error! status: ${response.status}`);
   }
+  /*
   if (data.status === "fail") {
     console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
   }
-
-  const country = data.country || "Unknown";
+*/
+  const country = data.country_name || "Unknown";
   const flag = countryFlagMap[country] || "🏴‍☠️";
   const ip = data.query || "Unknown";
 
@@ -324,6 +330,7 @@ async function Grouping(urls: string): Promise<void> {
   const parsedUrl = await configChanger(urls);
 
   console.log("final Info :", parsedUrl,"\n");
+
   if (parsedUrl) {
     await appendFile(
       `./category/${parsedUrl.protocol}.txt`,
