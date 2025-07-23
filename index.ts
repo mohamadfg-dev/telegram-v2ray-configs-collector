@@ -8,7 +8,7 @@ type ParsedUrl = Record<
 type vmessReturn = Record<"config" | "country" | "typeconfig", string>;
 
 interface IPApiResponse {
-  country_name: string;
+  country: string;
   query: string;
 }
 const countGetConfigOfEveryChannel = 2;
@@ -292,7 +292,7 @@ function sleep(ms: number): Promise<void> {
 }
 async function checkIP(ipaddress: string) {
   console.log("Check Ip ...");
-  await sleep(1000); // یک ثانیه صبر کن
+  sleep(1000);
   // http://ip-api.com/json/
   const response = await fetch(
     `https://irjh.top/py/check/ip.php?ip=${ipaddress}`,
@@ -310,9 +310,9 @@ async function checkIP(ipaddress: string) {
     console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
   }
 */
-  const country = data.country_name || "Unknown";
+  const country = data.country || "Unknown";
   const flag = countryFlagMap[country] || "🏴‍☠️";
-  const ip = data.query || "Unknown";
+  const ip = data.query || ipaddress;
 
   return { country, flag, ip };
 }
