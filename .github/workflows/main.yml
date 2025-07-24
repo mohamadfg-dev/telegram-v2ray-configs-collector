@@ -23,6 +23,11 @@ jobs:
       - name: Install Dependencies
         run: bun install
 
+      - name: Remove And Replace New Configs
+        run: |
+         rm -rf category/*
+         rm -rf BadChannels.txt
+
       # Run the index.ts file
       - name: Run index.ts
         run: bun index.ts
