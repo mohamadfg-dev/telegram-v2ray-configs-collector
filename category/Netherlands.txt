@@ -1,2 +1,5 @@
 vless://1fdfca5b-ce15-4dc6-8539-f117469dfc1d@194.147.142.231:53920?type=tcp&path=/&host=creativecommons.org,webtechsurvey.com,sourceforge.net,coinstats.app,cdn.discordapp.com&headerType=http&security=none#🇳🇱 194.147.142.231
 vless://7b620903-6393-424f-ba66-d01a76f9373b@176.124.198.145:2087?mode=gun&security=reality&encryption=none&pbk=dax4oQL6aW2XZtvl98Up_wV3roGyIu6tvEQsAfBH7F0&fp=random&spx=/&type=grpc&serviceName=&sni=www.speedtest.net&sid=0ade27e5#🇳🇱 176.124.198.145
+vless://1fdfca5b-ce15-4dc6-8539-f117469dfc1d@194.147.142.231:53920?type=tcp&path=/&host=creativecommons.org,webtechsurvey.com,sourceforge.net,coinstats.app,cdn.discordapp.com&headerType=http&security=none#🇳🇱 194.147.142.231
+vless://7b620903-6393-424f-ba66-d01a76f9373b@176.124.198.145:2087?mode=gun&security=reality&encryption=none&pbk=dax4oQL6aW2XZtvl98Up_wV3roGyIu6tvEQsAfBH7F0&fp=random&spx=/&type=grpc&serviceName=&sni=www.speedtest.net&sid=0ade27e5#🇳🇱 176.124.198.145
+vless://4621146f-7918-4b73-a038-b65b479c2d3b@ir.holy3buy.website:17774?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇳🇱 88.218.16.171
