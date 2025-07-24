@@ -1,0 +1,3 @@
+vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@Swedeeen.mehrdadsadaf.com:1300?mode=gun&security=reality&encryption=none&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&fp=chrome&type=grpc&serviceName=1300vless&sni=rosbalt.ru&sid=765e8e700426816c#🇮🇹 91.201.67.27
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 151.101.242.172
+vless://619d59be-653f-4388-a579-7732a7ee8b54@cdnf.ten10rocket.top:80?path=/?ed=2048&security=&encryption=none&host=iraneazad-with-me.ir&type=ws#🇮🇹 151.101.242.172
