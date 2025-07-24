@@ -353,4 +353,5 @@ async function startScaninig() {
     await fetchHtml("https://t.me/s/" + value);
   }
 }
+await appendFile(`./BadChannels.txt`,"Bad Channel List\n");
 startScaninig();
