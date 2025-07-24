@@ -1,10 +1,10 @@
-## telegram-v2ray-configs-collector
+## Telegram-V2ray-Configs-Collector
 
-this tool designed to collect and share V2Ray configs from Telegram Channels this tool helps users bypass internet censorship and enhance their online privacy through various routing and encryption techniques.
+This tool designed to collect and share V2Ray configs from Telegram channels this tool helps users bypass internet censorship and enhance their online privacy through various routing and encryption techniques.
 
-**⚠️ Warning: The security of the collected V2ray configs is not guaranteed in any way please use to maintain your security in times of essential**
+**⚠️ Warning: The security of the collected V2ray configs is not guaranteed in any way please use to maintain your security in times of essential .**
 
-**📌 Help us in the telegram channel list ( you can send us telegram channels to [Telegram](https://t.me/mohamaadfg) or in this repository )**
+**📌 Help us in the telegram channel list ( you can send us telegram channels to [Telegram](https://t.me/mohamaadfg) or in this repository ) .**
 
 
 ##  Protocol Type Subscription Links
@@ -12,8 +12,9 @@ this tool designed to collect and share V2Ray configs from Telegram Channels thi
 |--|--|--|--
 | Vless | [Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt) |  Vmess | [Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vmess.txt)|
 | ShadowSocks |[Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/ss.txt)|   Trojan |[Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/trojan.txt)| 
-| Reality|Comin soon!| Tuic|Comin soon!| 
-| Hysteria|Comin soon!| Juicity|Comin soon!|
+Wireguard|[Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/wireguard.txt)|  Reality|Comin soon!|
+| Hysteria| Comin soon!| Juicity |Comin soon!|
+| Tuic | Comin soon! |
 
 
 ## Network Type Subscription Links

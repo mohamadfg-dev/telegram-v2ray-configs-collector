@@ -2,12 +2,12 @@ name: UpdateConfigs
 
 on:
   workflow_dispatch:  # اجازه اجرای دستی
-  ##  schedule:
-  ##  - cron: '0 9,21 * * *'  # هر روز در ساعت 9 صبح و 9 شب (UTC)
+  schedule:
+    - cron: '0 */2 * * *'  # هر دو ساعت یک بار
 
 jobs:
   my-job:
-    name: my-job
+    name: UpdateConfigs
     runs-on: ubuntu-latest
 
     steps:
@@ -27,17 +27,13 @@ jobs:
       - name: Run index.ts
         run: bun index.ts
 
-      # Add URL to BadChannels.txt
-      #- name: Add URL to UpdateConfigs.txt
-      # run: |
-      #  echo "https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/blob/main/category/" >> category/*
-
       # Commit changes
       - name: Commit changes to UpdateConfigs.txt
         run: |
           git config --local user.name "Robot-1"
           git config --local user.email "Robot@example.com"
           git add category/*
+          git add BadChannels.txt
           git commit -m "UpdateConfigs"
           git push
         env:

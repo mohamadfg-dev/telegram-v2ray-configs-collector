@@ -1,18 +1,15 @@
 import { appendFile , rm} from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
-//---------------------------------------------------------
-type ParsedUrl = Record<
-  "protocol" | "config" | "ipInfo" | "typeConfig",
-  string
->;
-type vmessReturn = Record<"config" | "country" | "typeconfig", string>;
+//--------------------------------------------------------- Type & Interfaces
+type Result = Record<"config" | "country" | "typeConfig", string>;
+type FinalResult = Record<"protocol", string> & Result;
 
 interface IPApiResponse {
   country: string;
   query: string;
 }
+//---------------------------------------------------------- Variable
 const countGetConfigOfEveryChannel = 2;
-//----------------------------------------------------------
 const countryFlagMap: { [key: string]: string } = {
   Afghanistan: "🇦🇫",
   Albania: "🇦🇱",
@@ -210,37 +207,14 @@ const countryFlagMap: { [key: string]: string } = {
   Zambia: "🇿🇲",
   Zimbabwe: "🇿🇼",
 };
-//----------------------------------------------------------
-async function fetchHtml(url: string): Promise<void> {
-  try {
-    const response = await fetch(url,{redirect:"manual"});
-    if (!response.ok) {
-      //    throw new Error(`HTTP error! status: ${response.status}`);
-      console.log(url);
-    }
-    const html: string = await response.text();
-
-    const regex = /(vless|vmess|wireguard|trojan|ss):\/\/[^\s<>]+/gm;
-    const matches = html.match(regex);
-
-    if (matches) {
-      const lastFiveMessages = matches.slice(-countGetConfigOfEveryChannel);
-
-   //   lastFiveMessages.forEach((div, _) => {
-
-        for (const element of lastFiveMessages) {
-          await Grouping(decodeHtmlEntities(element));
-        }
-     
-    //  });
-    } else {
-   //   await appendFile(`./BadChannels.txt`, url + "\n");
-      console.log(url);
-    }
-  } catch (error) {
-    console.log(url);
-  //  console.log("Error fetching HTML:", error);
-  }
+//---------------------------------------------------------- Tools
+function decodeHtmlEntities(str: string): string {
+  return decodeURIComponent(str)
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'");
 }
 function encodeBase64Unicode(obj: any): string {
   const json = JSON.stringify(obj);
@@ -253,39 +227,76 @@ function decodeBase64Unicode(str: string): any {
   const json = new TextDecoder().decode(bytes);
   return JSON.parse(json);
 }
-async function vmessHandle(input: string): Promise<vmessReturn> {
-    const configinfo = decodeBase64Unicode(input);
+//---------------------------------------------------------- Functions
+async function fetchHtml(url: string): Promise<void> {
+  try {
+    const response = await fetch(url, { redirect: "manual" });
+    if (!response.ok) {
+      //    throw new Error(`HTTP error! status: ${response.status}`);
+      await appendFile(`./BadChannels.txt`, url + "\n");
+      console.log(url);
+    }
+    const html: string = await response.text();
 
-      const { flag, country , ip } = await checkIP(configinfo.add);
-      configinfo.ps = `${flag} ${ip}`;
+    const regex = /(vless|vmess|wireguard|trojan|ss):\/\/[^\s<>]+/gm;
+    const matches = html.match(regex);
 
-      return {
-        config: encodeBase64Unicode(configinfo),
-        country: country,
-        typeconfig: configinfo.net,
-      };
+    if (matches) {
+      const lastFiveMessages = matches.slice(-countGetConfigOfEveryChannel);
+
+      for (const element of lastFiveMessages) {
+        const decodeHtml = decodeHtmlEntities(element);
+        
+        if (!decodeHtml.includes("…")) {
+          await Grouping(decodeHtml);
+        }else{
+          await appendFile(`./BadChannels.txt`, url + "\n");
+        }
+      
+      }
+    } else {
+      await appendFile(`./BadChannels.txt`, url + "\n");
+      console.log(url);
+    }
+  } catch (error) {
+    await appendFile(`./BadChannels.txt`, url + "\n");
+    console.log(url);
+    //  console.log("Error fetching HTML:", error);
+  }
 }
-async function configChanger(urlString: string): Promise<ParsedUrl> {
+async function vmessHandle(input: string): Promise<Result> {
+  const configinfo = decodeBase64Unicode(input);
+
+  const { flag, country, ip } = await checkIP(configinfo.add);
+  configinfo.ps = `${flag} ${ip}`;
+
+  return {
+    config: encodeBase64Unicode(configinfo),
+    country: country,
+    typeConfig: configinfo.net,
+  };
+}
+async function configChanger(urlString: string): Promise<FinalResult> {
   const protocol = urlString.split("://")[0] + "";
-  let config, ipInfo, typeConfig;
+  let config, country, typeConfig;
 
   if (protocol == "vmess") {
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
     
       config = "vmess://" + vmesconf.config;
-      ipInfo = vmesconf.country;
-      typeConfig = vmesconf.typeconfig;
+      country = vmesconf.country;
+      typeConfig = vmesconf.typeConfig;
   } 
   else {
     const { hostname, searchParams } = new URL(urlString);
 
-      const { flag, country, ip } = await checkIP(hostname);
+      const api = await checkIP(hostname);
 
       typeConfig = searchParams.get("type") ?? "";
-      ipInfo = country;
-      config = urlString.split("#")[0] + "#" + flag + " " + ip;
+      country = api.country;
+      config = urlString.split("#")[0] + "#" + api.flag + " " + api.ip;
   }
-  return { protocol, config, ipInfo, typeConfig };
+  return { protocol, config, country, typeConfig };
 }
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -305,45 +316,33 @@ async function checkIP(ipaddress: string) {
   if (!response.ok) {
     console.log(`HTTP error! status: ${response.status}`);
   }
-  /*
-  if (data.status === "fail") {
-    console.log(`Error fetching data for IP ${ipaddress}: ${data.message}`);
-  }
-*/
+
   const country = data.country || "Unknown";
   const flag = countryFlagMap[country] || "🏴‍☠️";
   const ip = data.query || ipaddress;
 
   return { country, flag, ip };
 }
-function decodeHtmlEntities(str: string): string {
-  return decodeURIComponent(str)
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#039;/g, "'");
-}
 async function Grouping(urls: string): Promise<void> {
   console.log("Config :",urls +"\n");
   
-  const parsedUrl = await configChanger(urls);
+  const FinalResult = await configChanger(urls);
 
-  console.log("final Info :", parsedUrl,"\n");
+  console.log("final Info :", FinalResult,"\n");
 
-  if (parsedUrl) {
+  if (FinalResult) {
     await appendFile(
-      `./category/${parsedUrl.protocol}.txt`,
-      parsedUrl.config + "\n"
+      `./category/${FinalResult.protocol}.txt`,
+      FinalResult.config + "\n"
     );
     await appendFile(
-      `./category/${parsedUrl.ipInfo}.txt`,
-      parsedUrl.config + "\n"
+      `./category/${FinalResult.country}.txt`,
+      FinalResult.config + "\n"
     );
-    if (parsedUrl.typeConfig) {
+    if (FinalResult.typeConfig) {
       await appendFile(
-        `./category/${parsedUrl.typeConfig}.txt`,
-        parsedUrl.config + "\n"
+        `./category/${FinalResult.typeConfig}.txt`,
+        FinalResult.config + "\n"
       );
     }
   }
