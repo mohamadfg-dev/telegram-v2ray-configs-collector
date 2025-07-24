@@ -1,2 +1,0 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.159.247.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&allowInsecure=1&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳#🇪🇪 185.159.247.247
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇪🇪 45.80.110.128

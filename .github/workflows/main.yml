@@ -2,8 +2,8 @@ name: UpdateConfigs
 
 on:
   workflow_dispatch: # اجازه اجرای دستی
- # schedule:
- #   - cron: "0 */2 * * *" # هر دو ساعت یک بار
+  schedule:
+    - cron: "0 */2 * * *" # هر دو ساعت یک بار
 
 jobs:
   my-job:
@@ -22,6 +22,11 @@ jobs:
       # Install dependencies
       - name: Install Dependencies
         run: bun install
+
+      - name: Remove And Replace New Configs
+        run: |
+         rm -rf category/*
+         rm -rf BadChannels.txt
 
       # Run the index.ts file
       - name: Run index.ts
