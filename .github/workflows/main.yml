@@ -2,8 +2,8 @@ name: UpdateConfigs
 
 on:
   workflow_dispatch: # اجازه اجرای دستی
-  schedule:
-    - cron: "0 */2 * * *" # هر دو ساعت یک بار
+ # schedule:
+ #   - cron: "0 */2 * * *" # هر دو ساعت یک بار
 
 jobs:
   my-job:
@@ -26,12 +26,7 @@ jobs:
       # Run the index.ts file
       - name: Run index.ts
         run: bun index.ts
-
-      - name: Remove And Replace New Configs
-        run: |
-          find category -mindepth 1 ! -name 'CopyRight.txt' -exec rm -rf {} +
-          rm -rf BadChannels.txt
-
+        
       # Commit changes
       - name: Commit Changes To UpdateConfigs
         run: |
