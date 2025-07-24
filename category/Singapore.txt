@@ -1,3 +1,11 @@
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
 vless://4f6b21b4-0137-4e31-966d-078a04ad4c6c@210.16.123.120:26036?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#🇸🇬 210.16.123.120
 vless://4f6b21b4-0137-4e31-966d-078a04ad4c6c@210.16.123.120:26036?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#🇸🇬 210.16.123.120
+vmess://eyJ2IjoyLCJwcyI6IvCfh7jwn4esIDE4MC4yMTUuMTMwLjEyMyIsImFkZCI6IjE4MC4yMTUuMTMwLjEyMyIsInBvcnQiOjQ2NDUyLCJpZCI6ImM1NDE0ZmUwLTAxOGItNDczYS1hYTNiLWYyMTBmMmJhNDJmNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE4MC4yMTUuMTMwLjEyMyIsInBhdGgiOiIvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
+vmess://eyJ2IjoyLCJwcyI6IvCfh7jwn4esIDE4MC4yMTUuMTMwLjEyMyIsImFkZCI6IjE4MC4yMTUuMTMwLjEyMyIsInBvcnQiOjQ2NDUyLCJpZCI6ImM1NDE0ZmUwLTAxOGItNDczYS1hYTNiLWYyMTBmMmJhNDJmNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE4MC4yMTUuMTMwLjEyMyIsInBhdGgiOiIvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇸🇬 13.214.187.62
+trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
+vmess://eyJ2IjoyLCJwcyI6IvCfh7jwn4esIDE4MC4yMTUuMTMwLjEyMyIsImFkZCI6IjE4MC4yMTUuMTMwLjEyMyIsInBvcnQiOjQ2NDUyLCJpZCI6ImM1NDE0ZmUwLTAxOGItNDczYS1hYTNiLWYyMTBmMmJhNDJmNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE4MC4yMTUuMTMwLjEyMyIsInBhdGgiOiIvIiwidGxzIjpmYWxzZSwic25pIjoiIn0=
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
