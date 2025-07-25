@@ -1,1 +1,1 @@
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.159.247.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&allowInsecure=1&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳#🇪🇪 185.159.247.247
+vless://31a57620-53b7-4046-9eb5-83e515e4cf71@essi.blacklike.ir:2045?security=none&type=tcp&headerType=&path=&host=#🇪🇪 89.150.40.53
