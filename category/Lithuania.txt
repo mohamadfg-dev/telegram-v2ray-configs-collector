@@ -1,5 +1,4 @@
 vless://3f7e0b9a-0288-4040-b386-5d7805b24f2c@mtn.reallyrich.space:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&type=grpc&serviceName=mtn.reallyrich.space&sni=sv.reallyrich.space#🇱🇹 84.32.84.33
-vless://437415db-3e91-42ef-a1b2-bbdcc8f6ed71@vip.pingkiller.online:80?path=/&security=none&encryption=none&type=ws#🇱🇹 84.32.84.33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 84.32.9.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 84.32.9.31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#🇱🇹 185.8.105.254

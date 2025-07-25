@@ -1,15 +1,15 @@
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=/&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#🇨🇦 172.67.198.177
 trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.188.237.53
 trojan://telegram-id-directvpn@15.236.166.144:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.166.144
-trojan://telegram-id-privatevpns@15.236.166.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.166.144
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@[2606:4700:3030::6815:6001]:443/?type=ws&host=#🏴‍☠️ [2606:4700:3030::6815:6001]
-trojan://telegram-id-privatevpns@3.11.92.247:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧 3.11.92.247
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?allowInsecure=0#🏴‍☠️ stirring-parakeet.shiner427.skin
+trojan://bpb-trojan@198.41.202.175:443?type=ws&sni=bpb.my79801.com&path=/tr&host=bpb.my79801.com#🇨🇦 198.41.202.175
+trojan://8d3b917e-6520-4725-b284-a369f14a5315@sg005.421421.xyz:20230/?type=ws&security=tls&sni=www.alibaba.com&allowInsecure=1#🇸🇬 54.254.241.85
+trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&type=ws&sni=in.ylks.xyz&path=/&host=in.ylks.xyz#🇨🇦 173.245.59.61
+trojan://NISHIKUITAN111@198.41.212.233:443?#🇨🇦 198.41.212.233
 trojan://Maradona_vpn@maradona_vpn13.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#🏴‍☠️ maradona_vpn13.history-paint.art
 trojan://Maradona_vpn@maradona_vpn14.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi#🏴‍☠️ maradona_vpn14.history-paint.art
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
-trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 176.32.39.29
+trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🏴‍☠️ 176.32.39.29
 trojan://telegram-id-privatevpns@15.188.237.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.188.237.53
 trojan://telegram-id-privatevpns@15.236.166.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.166.144
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#🇫🇷 51.91.11.29
