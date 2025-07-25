@@ -2,4 +2,3 @@ trojan://8d3b917e-6520-4725-b284-a369f14a5315@sg005.421421.xyz:20230/?type=ws&se
 vless://8d3b917e-6520-4725-b284-a369f14a5315@sg002.421421.xyz:20230/?type=grpc&encryption=none&flow=&serviceName=tj&sni=www.nvidia.com&fp=chrome&security=reality&pbk=1cs7mxEcoVKwcYepAnKgqHAFhRxPv6aO3tv7lNhwLDQ&sid=46bf6ea0&packetEncoding=xudp#🇸🇬 18.142.57.218
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
-vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?path=/16156/wsMMad&security=&encryption=none&host=jetafn.hpcdn.info&type=ws#🇸🇬 43.159.98.20
