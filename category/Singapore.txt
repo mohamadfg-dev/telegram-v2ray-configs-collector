@@ -1,4 +1,9 @@
-vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjIwIiwiYWlkIjo0LCJob3N0IjoiemVjamsuY29tIiwiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+HuPCfh6wgMTAzLjI1My4yNi4yMCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://7da0657c-1c74-4b3e-b219-bbffa59abeab@jetade.hpcdn.info:80?encryption=none&security=none&type=httpupgrade&host=jetade.hpcdn.info&path=/38219/hMMad#🇸🇬 43.159.99.20
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
+vless://b134d262-fc5e-4ce4-924d-8d57e91b0126@jetade.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetade.hpcdn.info&path=/42933/wsMMad#🇸🇬 43.159.99.20
+vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetafn.hpcdn.info&path=/16156/wsMMad#🇸🇬 43.159.98.20
+vless://b134d262-fc5e-4ce4-924d-8d57e91b0126@jetade.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetade.hpcdn.info&path=/42933/wsMMad#🇸🇬 43.159.99.20
+vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetafn.hpcdn.info&path=/16156/wsMMad#🇸🇬 43.159.99.20
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
+vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?encryption=none&security=none&type=ws&host=jetafn.hpcdn.info&path=/16156/wsMMad#🇸🇬 43.159.98.20
 vless://230985db-22d2-4b47-ab6b-b4a3f36253b1@jetafn.hpcdn.info:80?path=/16156/wsMMad&security=&encryption=none&host=jetafn.hpcdn.info&type=ws#🇸🇬 43.159.99.20

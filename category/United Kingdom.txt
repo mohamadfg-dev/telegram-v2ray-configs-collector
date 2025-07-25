@@ -6,6 +6,7 @@ vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4x
 vless://8ffb152a-9040-4efe-973d-f2d5f483ede7@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇬🇧 2a06:98c1:3120::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇬🇧 131.145.119.227
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&headerType=none&type=tcp&sni=yahoo.com&sid=a31a8d04622560#🇬🇧 51.38.64.196
+vless://2a800382-5878-4b1a-96a2-c5d8af844530@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480&security=none#🇬🇧 151.101.190.133
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@England.netblocksir.ir:6556?security=none&type=tcp&headerType=http&path=/&host=api.wheather.com#🇬🇧 51.195.200.77
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#🇬🇧 45.85.118.88
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gp.mrclothshop.fun#🇬🇧 45.85.118.81
@@ -26,7 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 74.177.172.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 4.158.168.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVGpsTHhybmNLeDRpMkhJanhmQTNN@51.142.171.150:49499#🇬🇧 51.142.171.150
-trojan://telegram-id-directvpn@3.10.80.242:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧 3.10.80.242
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 74.177.172.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 4.158.168.174
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#🇬🇧 62.100.205.48
@@ -35,6 +35,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🇬🇧 131.145.119.227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSkJEemhxZVpvSUg0b0k1SW9FWUN4@89.185.84.185:443#🇬🇧 89.185.84.185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#🇬🇧 151.240.110.212
+vless://15d55dda-94ae-4e52-a877-7ffa87b7207a@www.zula.ir:80?path=/V2ray.motorcycles?ed=80&security=none&encryption=none&host=SwMeHrV2ray.naziitnesS.com.&type=ws#🇬🇧 2a06:98c1:3121::
 vmess://eyJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUiLCJpZCI6IkBQcm94eVZQTlZpcC1DaGFubmVsVGVsZWdyYW0iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTlZpcCIsInBvcnQiOiIyMDI1IiwicHMiOiLwn4es8J+HpyA5NC43Mi4xMTAuMjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.2.31
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇬🇧 142.93.43.18
@@ -44,12 +45,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.38.220:443#🇬🇧 85.210.38.220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.158.43.77:443#🇬🇧 4.158.43.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇬🇧 131.145.119.227
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?path=/Free-CF-Proxy-AE19&security=tls&encryption=none&host=freexxx.xhamster.biz.id&allowinsecure=0&type=ws&sni=freexxx.xhamster.biz.id#🇬🇧 2a06:98c1:3121::
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqR1UxN2ZDa1FqaTk2eEZCZTFBUFNm@51.142.171.225:58488#🇬🇧 51.142.171.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@172.165.91.166:443#🇬🇧 172.165.91.166
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2082?security=&fp=chrome&type=ws&path=/&host=omidyzvg2.kamaleriz.info&encryption=none#🇬🇧 45.89.111.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.2.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 74.177.172.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🇬🇧 4.158.168.174
@@ -62,8 +61,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.2.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 74.177.172.87
 vless://889cd5fb-82b9-4612-819e-cbe33044c38e@104.238.171.160:2053?path=/@v2ryngfree@v2ryngfree@v2ryngfree&security=none&encryption=none&host=speedtest.net&type=ws#🇬🇧 104.238.171.160
-vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@speed.cloudflare.com:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&sni=p.amniat.monster#🇬🇧 2a06:98c1:58::da
-vless://55737b22-c50a-491a-8cd3-69f84e67e3f7@www.zula.ir:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#🇬🇧 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 4.158.168.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇬🇧 74.177.172.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 74.177.172.87
