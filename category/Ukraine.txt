@@ -1,4 +1,3 @@
 vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:59874?security=reality&encryption=none&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&headerType=none&fp=chrome&spx=/@DashV2ray&type=tcp&sni=discord.com&sid=7f700392#🇺🇦 212.79.125.38
 vless://133361c8-60e7-447a-dd5b-e7af60b9d115@193.238.153.84:33817?security=&type=tcp&encryption=none#🇺🇦 193.238.153.84
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&type=tcp&headerType=none#🇺🇦 193.238.153.85
-vless://e6709700-7332-4fe6-a125-fbb781ce7a35@193.238.153.69:28279?security=none&encryption=none&type=tcp&headerType=none#🇺🇦 193.238.153.69
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&headerType=none&type=tcp#🇺🇦 193.238.153.85

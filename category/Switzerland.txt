@@ -1,4 +1,3 @@
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?mode=auto&path=/123&security=none&encryption=none&type=xhttp#🇨🇭 84.234.29.117
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s4.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=/123&mode=auto#🇨🇭 37.156.45.177
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?mode=auto&path=/123&security=none&encryption=none&type=xhttp#🇨🇭 84.234.29.117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRUpOUG9hY0M2ZU5ELXd1ZnBCMDdn@94.156.203.237:1080#🇨🇭 94.156.203.237
