@@ -1,3 +1,4 @@
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇦🇲 45.129.185.200
+vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?type=ws&security=none#🇦🇲 85.90.207.183
 vless://60024eec-bb77-4b41-f198-32470b8ede75@85.90.207.130:16635?type=tcp&security=none#🇦🇲 85.90.207.130
-vless://32932937-b85f-40be-ae02-997ea5b0b62a@ARM.CROCODILESERVER.IR:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&sni=app.hubspot.com&sid=fd1dff03520d8f56#🇦🇲 178.160.211.223
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=/am@2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇦🇲 5.10.214.123
