@@ -1,1 +1,1 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.150.115.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none#🇨🇾 45.150.115.29
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.75.199.150:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=/?ed=2560#🇨🇾 77.75.199.150

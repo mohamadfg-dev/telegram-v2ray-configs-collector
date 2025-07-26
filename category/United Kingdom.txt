@@ -1,17 +1,13 @@
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=e1afb93bfe75a34b#🇬🇧 57.129.135.100
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🇬🇧 95.164.18.5
-vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#🇬🇧 2a04:4e42:600::731
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 74.177.213.64
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2052?path=/&security=none&encryption=none&type=ws#🇬🇧 95.164.18.29
-vless://3d212218-5ee2-4df8-8bf8-9eaf2474bf6e@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇬🇧 2a04:4e42:200::731
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2052?path=/&security=none&encryption=none&type=ws#🇬🇧 95.164.18.29
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@England.netblocksir.ir:6556?security=none&type=tcp&headerType=http&path=/&host=api.wheather.com#🇬🇧 51.195.200.77
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#🇬🇧 45.89.111.250
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 104.248.168.91
+vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.233.176
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.234.16:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.234.16
-vless://422b3552-a93d-4027-abd5-f5454b6d2d75@zula.ir:2087?path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&security=tls&alpn=h2&encryption=none&host=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome&type=ws&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online#🇬🇧 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 131.145.125.213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 74.177.213.64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 131.145.41.39
@@ -20,10 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#🇬🇧 62.100.205.48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🇬🇧 131.145.125.213
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&type=ws#🇬🇧 95.164.18.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 131.145.41.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#🇬🇧 151.240.110.212
-vmess://eyJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUiLCJpZCI6IkBQcm94eVZQTlZpcC1DaGFubmVsVGVsZWdyYW0iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTlZpcCIsInBvcnQiOiIyMDI1IiwicHMiOiLwn4es8J+HpyA5NC43Mi4xMTAuMjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 74.177.213.64
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇬🇧 142.93.43.18
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 102.177.189.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.213.64:443#🇬🇧 74.177.213.64
@@ -31,10 +23,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@172.165.61.25:443#🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=&encryption=none&type=grpc#🇬🇧 45.159.248.125
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@172.165.91.166:443#🇬🇧 172.165.91.166
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?path=/&security=none&encryption=none&host=dl1-fi-cdn.easy-upload.org&type=ws#🇬🇧 2a06:98c1:3121::
-vless://d4680280-0e67-4c7f-9558-88b89800a2e3@159.65.20.117:80?mode=auto&path=/shahins2020hams?ed=2560&security=reality&encryption=none&pbk=apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc&host=sha834ydtrfcvs2020hin3877.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=orderup.com&sid=0c4e1fcb8576e1#🇬🇧 159.65.20.117
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?path=/Free-CF-Proxy-AE19&security=tls&encryption=none&host=freexxx.xhamster.biz.id&type=ws&sni=freexxx.xhamster.biz.id#🇬🇧 2a06:98c1:3120::
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 2a06:98c1:3120::
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 131.145.41.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 74.177.213.64
