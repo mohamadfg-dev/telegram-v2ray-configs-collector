@@ -1,5 +1,4 @@
 vless://1fdfca5b-ce15-4dc6-8539-f117469dfc1d@194.147.142.231:53920?type=tcp&path=/&host=creativecommons.org,webtechsurvey.com,sourceforge.net,coinstats.app,cdn.discordapp.com&headerType=http&security=none#🇳🇱 194.147.142.231
-vless://531bf100-1477-487c-a979-6adebf8f105f@158.101.209.76:443?security=tls&sni=vdb.bgm2024.us.kg&type=ws&host=vdb.bgm2024.us.kg&path=/?ed=2560&alpn=http/1.1#🇳🇱 158.101.209.76
 vless://7b620903-6393-424f-ba66-d01a76f9373b@176.124.198.145:2087?mode=gun&security=reality&encryption=none&pbk=dax4oQL6aW2XZtvl98Up_wV3roGyIu6tvEQsAfBH7F0&fp=random&spx=/&type=grpc&serviceName=&sni=www.speedtest.net&sid=0ade27e5#🇳🇱 176.124.198.145
 vless://2c613c85-0395-4454-af4a-2689934b2cba@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇳🇱 88.218.16.171
 vless://2c613c85-0395-4454-af4a-2689934b2cba@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇳🇱 88.218.16.171
