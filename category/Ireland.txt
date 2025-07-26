@@ -1,1 +1,1 @@
-vless://cccc4339-5d60-4d65-9027-d36e102e025b@54.246.131.170:17804?type=tcp&security=none#🇮🇪 54.246.131.170
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇮🇪 54.171.90.163

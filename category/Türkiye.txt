@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🏴‍☠️ 83.217.9.128
-vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?path=/zqpahpws&security=tls&encryption=none&type=ws#🏴‍☠️ 185.234.66.93
+vless://f9e4485f-ab56-4d53-ae6f-e7ff2200761d@a.vrayzone.sbs:2070/?type=tcp&path=/&headerType=http&security=none#🏴‍☠️ 91.216.104.170
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🏴‍☠️ 195.244.41.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ==@tur.fastsoonlink.com:40019#🏴‍☠️ 185.255.94.128
 vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221/?type=tcp&encryption=none#🏴‍☠️ 94.131.108.195

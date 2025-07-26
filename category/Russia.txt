@@ -1,7 +1,6 @@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?path=/Etb1L6YUdZFZuTOr?ed&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇷🇺 185.148.104.141
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogNDUuNjcuMjMwLjc5IiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6IjExMDUyIiwiaWQiOiIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6Ii9KT0tFUlJWUE5fQklBX0NIQU5FTEBKT0tFUlJWUE4iLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://7715f3b0-9661-4c92-8b32-1c4c1f79bb5c@ru2.asc-sam.ir:8443?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=VuL69lz3WqpGe-rhAvd2-M2-KaZpG10iDu71aTVMx2Y&fp=chrome&sni=journalofbigdata.springeropen.com&sid=d3044a6aa923a9&spx=/#🇷🇺 176.32.39.29
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 45.67.32.147
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 45.139.24.24
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@193.233.132.3:8880?security=&sni=Telegram-channel-WangCai2&allowInsecure=1&type=ws&path=/Telegram🇨🇳&host=bitget1.asdasd.click&encryption=none#🇷🇺 193.233.132.3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🇷🇺 45.151.62.54
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?type=ws&host=VngSuPpLY.IP-DdnS.com&path=/Etb1L6YUdZFZuTOr?ed&security=none#🇷🇺 185.148.104.141

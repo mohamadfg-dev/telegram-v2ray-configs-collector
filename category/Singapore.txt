@@ -1,8 +1,3 @@
-vless://061b8601-e02f-4a99-ab94-6543596e6687@catherinede.hpcdn.info:443?encryption=none&security=tls&sni=catherinede.hpcdn.info&fp=random&type=httpupgrade&host=catherinede.hpcdn.info&path=/17714/hMMad#🇸🇬 43.159.99.20
-vless://10b7a1b9-99d7-4c31-9a82-ddb35fc464db@catherinede.hpcdn.info:443?encryption=none&security=tls&sni=catherinede.hpcdn.info&fp=random&type=ws&host=catherinede.hpcdn.info&path=/48733/wsMMad#🇸🇬 43.159.98.20
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?encryption=none&security=tls&sni=alexde.hpcdn.info&fp=random&type=ws&host=alexde.hpcdn.info&path=/46200/wsMMad#🇸🇬 43.159.98.20
+vmess://eyJhZGQiOiI4LjIxNC4zMy4xNTgiLCJhaWQiOjAsImhvc3QiOiI4LjIxNC4zMy4xNTgiLCJpZCI6ImNiODFlNmFiLTFkODMtNGFjMS1mMGFkLWFlNWMyYTdjMjllZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiLwn4e48J+HrCA4LjIxNC4zMy4xNTgiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443/?type=ws&encryption=none&flow=&host=rAyAn-11.LeIlA.DpDnS.OrG&path=/@rayan_config&security=tls&sni=rAyAn-11.LeIlA.DpDnS.OrG&fp=chrome#🇸🇬 45.8.211.254
-vless://10b7a1b9-99d7-4c31-9a82-ddb35fc464db@catherinede.hpcdn.info:443?encryption=none&security=tls&sni=catherinede.hpcdn.info&fp=random&type=ws&host=catherinede.hpcdn.info&path=/48733/wsMMad#🇸🇬 43.159.98.20
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?encryption=none&security=tls&sni=alexde.hpcdn.info&fp=random&type=ws&host=alexde.hpcdn.info&path=/46200/wsMMad#🇸🇬 43.159.99.20
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?encryption=none&security=tls&sni=alexde.hpcdn.info&fp=random&type=ws&host=alexde.hpcdn.info&path=/46200/wsMMad#🇸🇬 43.159.98.20
