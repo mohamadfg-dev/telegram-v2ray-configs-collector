@@ -1,2 +1,4 @@
+vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjIwIiwiYWlkIjo0LCJob3N0IjoiemVjamsuY29tIiwiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+HuPCfh6wgMTAzLjI1My4yNi4yMCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 trojan://oZAugtgF5T@146.190.87.238:443?path=/&security=tls&host=aka.ms&type=ws&sni=aka.ms#🇸🇬 146.190.87.238
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443/?type=ws&encryption=none&flow=&host=rAyAn-11.LeIlA.DpDnS.OrG&path=/@rayan_config&security=tls&sni=rAyAn-11.LeIlA.DpDnS.OrG&fp=chrome#🇸🇬 45.8.211.254
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 194.53.53.249
