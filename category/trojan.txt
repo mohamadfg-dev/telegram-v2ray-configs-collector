@@ -1,15 +1,13 @@
 trojan://Aimer@27.50.49.166:8443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🏴‍☠️ 27.50.49.166
-trojan://telegram-id-directvpn@51.44.225.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 51.44.225.112
-trojan://telegram-id-directvpn@13.36.102.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.36.102.158
+trojan://telegram-id-directvpn@51.44.225.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 51.44.225.112
+trojan://telegram-id-directvpn@13.36.102.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 13.36.102.158
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 172.67.181.173
-trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.163.128.237:45051?security=tls&sni=us1.bilibili.com&type=tcp&allowInsecure=1#🏴‍☠️ 18.163.128.237
-trojan://auto@104.21.50.114:443?security=tls&type=ws&sni=esetsecuritylicense.nzuwcx.workers.dev&path=/&host=esetsecuritylicense.nzuwcx.workers.dev#🇨🇦 104.21.50.114
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#🏴‍☠️ 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net
+trojan://NISHIKUITAN111@45.80.110.224:443?#🇪🇪 45.80.110.224
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
-trojan://telegram-id-privatevpns@51.44.225.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 51.44.225.112
-trojan://telegram-id-privatevpns@13.36.102.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.36.102.158
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 172.67.181.173
-trojan://telegram-id-directvpn@13.37.84.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.37.84.247
+trojan://telegram-id-v2rayvpnchannel@18.189.160.76:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇺🇸 18.189.160.76
+trojan://telegram-id-privatevpns@51.44.225.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 51.44.225.112
+trojan://telegram-id-privatevpns@13.36.102.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 13.36.102.158
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🏴‍☠️ 172.67.181.173
 trojan://bpb-trojan@104.18.126.124:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 104.18.126.124
 trojan://bpb-trojan@104.18.146.214:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 104.18.146.214
 trojan://telegram-id-v2rayvpnchannel@51.44.225.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 51.44.225.112

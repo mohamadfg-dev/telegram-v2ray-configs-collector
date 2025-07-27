@@ -2,22 +2,21 @@ vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?security=reali
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.195:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 91.193.58.195
-vless://3d212218-5ee2-4df8-8bf8-9eaf2474bf6e@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇬🇧 2a04:4e42:200::731
-vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#🇬🇧 2a04:4e42:600::731
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#🇬🇧 45.89.111.250
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 104.248.168.91
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.233.176
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.234.16:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.234.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 4.159.119.65
+vless://39c29fbe-2b3a-4828-b1ec-f4cd25510a1e@kafshu.ir:8080?security=&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&host=inFo.laLezaRanegomaNandi.onlineshopbb.org&encryption=none#🇬🇧 2a06:98c1:3121::
+vless://2a9ba055-472b-4be6-a14f-eaed14f8a494@kafshu.ir:8080?security=&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&host=inFo.laLezaRanegomaNandis.onlineshopbb.org.&encryption=none#🇬🇧 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 13.87.103.23
+vmess://eyJhZGQiOiI5MS4yMjguMTAuMTI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiODM3ZGRkLTdkZmItNDUyMC1kZDljLTY1ZDYxZDY0MDg5NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc2ODIiLCJwcyI6IvCfh6zwn4enIDkxLjIyOC4xMC4xMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@uk1.configlinepanel.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#🇬🇧 46.101.16.107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 13.87.103.23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 4.159.119.65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🇬🇧 4.159.119.65
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#🇬🇧 151.240.110.212
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇬🇧 142.93.43.18
@@ -27,8 +26,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@172.165.61.25:443#🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@172.165.91.166:443#🇬🇧 172.165.91.166
-vless://d4680280-0e67-4c7f-9558-88b89800a2e3@159.65.20.117:80?mode=auto&path=/shahins2020hams?ed=2560&security=reality&encryption=none&pbk=apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc&host=sha834ydtrfcvs2020hin3877.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=orderup.com&sid=0c4e1fcb8576e1#🇬🇧 159.65.20.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 13.87.103.23
+vmess://eyJhZGQiOiI5MS4yMjguMTAuMTI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiODM3ZGRkLTdkZmItNDUyMC1kZDljLTY1ZDYxZDY0MDg5NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc2ODIiLCJwcyI6IvCfh6zwn4enIDkxLjIyOC4xMC4xMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.188:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#🇬🇧 25.25.25.188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 131.145.23.56
