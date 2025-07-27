@@ -1,1 +1,1 @@
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443/?type=ws&encryption=none&flow=&host=rAyAn-11.LeIlA.DpDnS.OrG&path=/@rayan_config&security=tls&sni=rAyAn-11.LeIlA.DpDnS.OrG&fp=chrome#🇸🇬 45.8.211.254
+vmess://eyJ2IjoyLCJwcyI6IvCfh7jwn4esIDEwMy4yNTMuMjYuMjAiLCJhZGQiOiIxMDMuMjUzLjI2LjIwIiwicG9ydCI6NDQzLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InplY2prLmNvbSIsInBhdGgiOiIvd3MiLCJ0bHMiOnRydWUsInNuaSI6IiJ9
