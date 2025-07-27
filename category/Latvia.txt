@@ -1,2 +1,1 @@
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478#🇱🇻 37.233.82.140
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478#🇱🇻 37.233.82.140
+vless://e134f4a5-346e-493f-b74a-988ef7a4ff27@213.21.222.172:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#🇱🇻 213.21.222.172
