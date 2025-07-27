@@ -18,7 +18,8 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 109.122.255.184
 vless://2d274c14-8173-4f33-ff51-d5792055df68@212.16.71.156:27059?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 212.16.71.156
 vless://2d274c14-8173-4f33-ff51-d5792055df68@212.16.71.156:27059?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 212.16.71.156
-vless://1cfd7a64-4f88-4937-b684-cc7fb42e6ee2@fin7.ipstatic.info:17721?type=tcp&security=none#🇮🇷 81.12.93.155
+vless://3b9ee86c-09fe-4b21-bb8c-eaaa0201e25b@217.60.236.106:187?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 217.60.236.106
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#🇮🇷 81.12.96.39
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 62.60.185.248
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 62.60.185.248
 vless://578d7d4e-60c5-40b9-9921-3d7ed631cfa9@araatelll.pcc-guide.site:21503/?type=tcp&path=/&headerType=http&security=none#🇮🇷 185.243.51.106
@@ -27,15 +28,20 @@ vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 85.133.228.198
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 45.131.4.85
 vless://d130f22f-e37d-450e-b107-c46e884f1d96@tfir.tehranify.shop:2344?security=none&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#🇮🇷 46.245.122.21
-vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 195.190.144.155
 vless://d3b48abc-9ab9-4f9a-b127-278318dfbede@92.114.24.55:248?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 92.114.24.55
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 185.243.51.67
+vless://86b92d19-15c6-4c1c-b4c3-f2af687a5a5a@ir.beta3.lowfamila.cfd:4532/?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#🇮🇷 95.38.242.162
+vless://a8b6457c-eee7-4e46-8c71-307782d41cfe@t11.morgoon.com:2087?type=tcp&security=tls&path=/&host=fast.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1&headerType=http#🇮🇷 195.211.46.41
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=/?ed=2560&security=&encryption=none&type=ws#🇮🇷 94.183.158.13
-vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMjE2N2ExODYtNGU1OC00ODE1LTg2MGQtYjU1N2QwMjRkYzdjIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMDAiLCJwcyI6IvCfh67wn4e3IDg5LjQ0LjI0Mi4yNDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://9d69aee4-f4c6-47fc-be96-6ef9ef1b6bbe@jojo.2p2p.ir:8443?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 213.232.127.40
+vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30
+vless://e0abec7c-dded-48f5-afb1-f5783b68098e@193.151.148.181:2070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 193.151.148.181
+vless://e0abec7c-dded-48f5-afb1-f5783b68098e@193.151.148.181:2070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 193.151.148.181
+vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 2.189.85.177
+vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 2.189.85.177
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&headerType=http&host=bmw.com&security=none#🇮🇷 62.60.163.77
 vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 194.1.155.186
 vless://062c145d-30ec-4e48-93d0-36094ef84d10@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 194.1.155.186
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 89.44.241.232
 vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=/?ed=2560&security=none&encryption=none&type=ws#🇮🇷 94.183.158.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.cheftayebeh.ir:7383#🇮🇷 185.128.81.64
-vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 85.133.204.167

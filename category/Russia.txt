@@ -1,8 +1,3 @@
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?path=/Etb1L6YUdZFZuTOr?ed&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇷🇺 185.148.104.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 45.139.24.24
 vless://7715f3b0-9661-4c92-8b32-1c4c1f79bb5c@ru2.asc-sam.ir:8443?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=VuL69lz3WqpGe-rhAvd2-M2-KaZpG10iDu71aTVMx2Y&fp=chrome&sni=journalofbigdata.springeropen.com&sid=d3044a6aa923a9&spx=/#🇷🇺 176.32.39.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 45.139.24.24
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 45.67.32.147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 45.139.24.24
-vless://c9a5fc5d-85ff-4837-aea5-da587b17db51@iptz-47.almass22.ir:2086/?type=httpupgrade&path=/Aar,d-F?ed=2086&host=cdn644.almass22.ir&security=none#🇷🇺 185.148.106.85
-vless://c9a5fc5d-85ff-4837-aea5-da587b17db51@iptz-47.almass22.ir:2086/?type=httpupgrade&path=/Aar,d-F?ed=2086&host=cdn644.almass22.ir&security=none#🇷🇺 185.148.106.85
