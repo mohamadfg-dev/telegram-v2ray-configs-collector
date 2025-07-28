@@ -1,2 +1,4 @@
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 45.12.114.134
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 79.137.192.208
 vless://7715f3b0-9661-4c92-8b32-1c4c1f79bb5c@ru2.asc-sam.ir:8443?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=VuL69lz3WqpGe-rhAvd2-M2-KaZpG10iDu71aTVMx2Y&fp=chrome&sni=journalofbigdata.springeropen.com&sid=d3044a6aa923a9&spx=/#🇷🇺 176.32.39.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 45.139.24.24

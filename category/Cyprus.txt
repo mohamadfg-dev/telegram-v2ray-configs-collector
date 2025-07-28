@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN111@77.37.33.8:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=/#🇨🇾 77.37.33.8
+vmess://eyJhZGQiOiJmYXN0Y3VwLm5ldCIsInYiOiIyIiwicHMiOiLwn4eo8J+HviAxOTUuODUuNTkuOTkiLCJwb3J0Ijo4MCwiaWQiOiI5YzY3ZWJiZS1kNjIwLTRiNmQtYWQ4Mi0xZWJjNjc1ZTIyYzYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJ0bHMiOiIifQ==
