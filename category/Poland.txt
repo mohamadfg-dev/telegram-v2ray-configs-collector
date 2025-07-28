@@ -1,8 +1,10 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTZlOTMzYi04ODc0LTRiZjQtYTM4NC0wZGUyMTZlZjJiZjQ=@pr.fastsoonlink.com:40030#🇵🇱 23.27.24.181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 45.144.49.140
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#🇵🇱 217.30.10.18
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 45.144.49.140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU3FxQUJHQjRpbktKSk5tVlJHVXc3@77.83.246.74:443#🇵🇱 77.83.246.74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 45.144.49.140
+vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#🇵🇱 45.144.48.63
 vless://fb32d7a0-c06c-4a32-9b61-eb95e4cb147c@s5kh.topsekan.site:47263?security=reality&encryption=none&pbk=aqROkxNwUYObJZg23r---N3-I6ik8U0Ow1AdXzZ_Ghc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=6d9efc82#🇵🇱 45.141.215.141
