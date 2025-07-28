@@ -1,9 +1,6 @@
 vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
-vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
 vless://fd9eb6e9-bc83-4ff3-afb5-f923600e65f6@catherinede.hpcdn.info:80?path=/37263/hMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=httpupgrade#🇸🇬 43.159.99.20
-vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.98.20
 vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
-vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.98.20
-trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp#🇸🇬 38.180.249.177
-vmess://eyJhZGQiOiIxMDkuMTIzLjIzOS45OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MzIyZDBlNi00Mjc1LTUyYmItODI2Yy03MzA5MDMwNmYwYmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh7jwn4esIDEwOS4xMjMuMjM5Ljk4Iiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80/?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
+vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjEzNCIsImFpZCI6NCwiaG9zdCI6ImVlaDdpZXdlLmNvbSIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6NDQzLCJwcyI6IvCfh7jwn4esIDEwMy4yNTMuMjYuMTM0IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
