@@ -1,3 +1,3 @@
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?path=/&security=none&encryption=none&host=register.tunnelbreaking.shop&type=ws#🇦🇪 94.140.0.22
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:3215?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 87.248.129.226
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 87.248.129.226
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=/#🇦🇪 94.140.0.22
