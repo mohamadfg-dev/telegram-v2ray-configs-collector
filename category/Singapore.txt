@@ -1,3 +1,2 @@
-vless://fd9eb6e9-bc83-4ff3-afb5-f923600e65f6@catherinede.hpcdn.info:80?path=/37263/hMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=httpupgrade#🇸🇬 43.159.98.20
-vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
-vless://94e502df-7407-422b-8bd6-835a23d89975@catherinede.hpcdn.info:80?path=/44616/wsMMad&security=none&encryption=none&host=catherinede.hpcdn.info&type=ws#🇸🇬 43.159.99.20
+vless://82bb0191-52ef-4e47-8d51-39630628cbc9@catherinede.hpcdn.info:80?encryption=none&security=none&type=ws&host=catherinede.hpcdn.info&path=/44618/wsMMad#🇸🇬 43.159.98.20
+vless://7d419111-df92-46c5-949c-d9105f84433b@alexde.hpcdn.info:80?encryption=none&security=none&type=ws&host=alexde.hpcdn.info&path=/24391/wsMMad#🇸🇬 43.159.99.20
