@@ -3,10 +3,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#🇫🇮 83.147.216.70
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&encryption=none&type=ws#🇫🇮 77.91.103.216
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 157.180.29.19
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?mode=gun&security=tls&encryption=none&type=grpc#🇫🇮 45.15.127.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 83.147.216.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXck5Bc2J0Y3VvZUVFUWRvU09jUGdP@45.12.135.36:47076#🇫🇮 45.12.135.36
-vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IvCfh6vwn4euIDY1LjEwOS4xODguMTk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 83.147.216.70
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?mode=gun&security=tls&encryption=none&type=grpc#🇫🇮 45.15.127.184
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=/&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#🇫🇮 46.62.166.172
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 46.62.146.50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 83.147.216.70
