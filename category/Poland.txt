@@ -1,7 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3UnNndVlLWWNuZDBmdDdLeXlpNFRl@77.83.246.74:443#🇵🇱 77.83.246.74
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
 vless://fd3c5105-a311-4f27-a8f9-aafa43519d48@25.grizzzlyyyy.ir:31744?encryption=none&security=reality&sni=init.itunes.apple.com&fp=ios&pbk=wzVTHc8AVy3DCkAhNrAayePA82teKZ0A2ckdPI3xsSk&sid=b9&spx=/&type=xhttp&host=25.grizzzlyyyy.ir&path=/grizzlyyyy&mode=auto#🇵🇱 45.144.49.47
-vmess://eyJhZGQiOiIxNzUwMTU4NzQxLnRlbmNlbnRhcHAuY24iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWU1Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwiaWQiOiI4N2I5OTJlNC00MmM5LTQzNDItYTlhYS00ODZjNDE0NGE4ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7EgMTQxLjEwMS4xMjAuMjQzIiwic2N5IjoiYXV0byIsInNuaSI6ImZyZWU1Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#🇵🇱 45.144.48.63

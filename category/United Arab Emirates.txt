@@ -1,1 +1,2 @@
-vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 87.248.129.226
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇦🇪 94.140.0.109
+vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 87.248.129.226
