@@ -1,11 +1,13 @@
 trojan://09qOElFTeRGwVpIfQ5CS9Q@www.speedtest.net:2087?security=tls&type=ws&headerType=&path=/speedtest&host=jfkgfuiodghlf.ahmadinabaz.ir&sni=jfkgfuiodghlf.ahmadinabaz.ir&fp=chrome&alpn=h2,http/1.1#🇨🇦 104.17.148.22
-trojan://telegram-id-directvpn@13.36.217.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 13.36.217.61
-trojan://telegram-id-directvpn@15.236.74.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 15.236.74.230
-trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@[2606:4700:3035::ac43:a24a]:443/?type=ws&host=#🏴‍☠️ [2606:4700:3035::ac43:a24a]
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#🏴‍☠️ 391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net
+trojan://telegram-id-directvpn@13.36.217.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.36.217.61
+trojan://telegram-id-directvpn@15.236.74.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.74.230
+trojan://bpb-trojan@89.116.250.94:443?sni=bpb.my79801.com#🇱🇹 89.116.250.94
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.25.72:443/?type=ws&host=gggbnmjk.006660666.xyz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1&security=tls&sni=GggBnmJk.006660666.xYZ&alpn=http/1.1&fp=chrome#🇨🇦 104.21.25.72
+trojan://NISHIKUITAN111@172.67.67.8:443?#🇨🇦 172.67.67.8
+trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg#🇨🇦 188.114.97.123
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
 trojan://telegram-id-privatevpns@13.36.217.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.36.217.61
-trojan://telegram-id-privatevpns@15.236.74.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 15.236.74.230
+trojan://telegram-id-privatevpns@15.236.74.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.74.230
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 172.67.181.173
 trojan://bpb-trojan@104.18.126.124:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 104.18.126.124
 trojan://bpb-trojan@104.18.146.214:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 104.18.146.214

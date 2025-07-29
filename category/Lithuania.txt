@@ -1,1 +1,2 @@
+trojan://bpb-trojan@89.116.250.94:443?sni=bpb.my79801.com#🇱🇹 89.116.250.94
 vless://437415db-3e91-42ef-a1b2-bbdcc8f6ed71@vip.pingkiller.online:80?path=/&security=none&encryption=none&type=ws#🇱🇹 84.32.84.33

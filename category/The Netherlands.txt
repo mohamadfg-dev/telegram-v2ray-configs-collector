@@ -1,11 +1,17 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcjB1OXVJbHJOUENTSnZlWTRIOTla@178.208.78.170:23822#🏴‍☠️ 178.208.78.170
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🏴‍☠️ 164.90.193.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoi8J+PtOKAjeKYoO+4jyA0NS45My4xNjguMzUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?security=reality&encryption=none&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=f90c#🏴‍☠️ 85.234.65.120
 vless://b0e8b167-b797-48de-8e6d-59ac90f6a827@direct2.yasharteam.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tgju.org&fp=firefox&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38&type=tcp&headerType=none#🏴‍☠️ 91.190.100.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcjB1OXVJbHJOUENTSnZlWTRIOTla@178.208.78.170:23822#🏴‍☠️ 178.208.78.170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcjB1OXVJbHJOUENTSnZlWTRIOTla@178.208.78.170:23822#🏴‍☠️ 178.208.78.170
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🏴‍☠️ 194.87.31.68
-vless://41627b93-4faa-4179-a129-c350291df966@MAHXRAYSHOVPN.sashabike.ir:2096?path=/?ed=1024&security=tls&alpn=http/1.1&encryption=none&host=redfox.mahxray.news&fp=chrome&type=ws&sni=redfox.mahxray.news#🏴‍☠️ 37.153.171.16
+vless://41627b93-4faa-4179-a129-c350291df966@MAHXRAYSHOVPN.sashabike.ir:2096?path=/?ed=1024&security=tls&alpn=http/1.1&encryption=none&host=redfox.mahxray.news&fp=chrome&type=ws&sni=redfox.mahxray.news#🏴‍☠️ 37.153.171.91
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🏴‍☠️ 151.101.204.190
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ 91.198.77.59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
@@ -17,9 +23,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWVYU2ZVMDJyRW1XRlNGdXNSd3Qy@h110vpnnl.outl
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ 64.188.97.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🏴‍☠️ 103.106.1.92
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🏴‍☠️ 199.247.28.17
+vless://ea5351df-68ef-4416-a861-33e56ea72343@165.232.82.89:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=firefox&spx=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&type=tcp&sni=refersion.com&sid=9912311de4630f2d#🏴‍☠️ 165.232.82.89
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🏴‍☠️ 188.42.89.100
 vmess://eyJhZGQiOiJhcmRhdnBuLmFyZGFzZXJ2ZXIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiYjg3MDQ0ZC0zODU4LTQ2M2MtYTk0NC0wY2Y2Mjg3YzQzZDUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM0Njg1IiwicHMiOiLwn4+04oCN4pig77iPIDIwMi4xMzMuODkuMjIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&fp=chrome&sni=tgju.org&sid=&spx=/&flow=xtls-rprx-vision#🏴‍☠️ 185.209.21.36
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#🏴‍☠️ 213.232.120.2
+vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfj7TigI3imKDvuI8gMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://2aacf869-d0e3-4b3e-9b63-396bd9d79c51@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@speedxp.jaricopen.fun:2052?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&authority=&security=none#🏴‍☠️ 195.254.165.163
