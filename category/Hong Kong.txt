@@ -1,3 +1,5 @@
+trojan://Aimer@58.176.95.46:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🏴‍☠️ 58.176.95.46
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#🏴‍☠️ 103.160.204.50
-trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.163.33.122:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#🏴‍☠️ 18.163.33.122
+trojan://Aimer@58.176.95.46:443?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🏴‍☠️ 58.176.95.46
+vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyAxMTIuMTIwLjIxMi4xNTgiLCJhZGQiOiJoa3QuZ290b2NoaW5hdG93bi5uZXQiLCJwb3J0IjoiODAiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJiNjhmNGI0Yy0yZDAyLTExZWMtOWVlOC1mMjNjOTEzYzhkMmIiLCJzbmkiOiIiLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJwYXRoIjoiLyJ9
 vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MTAuaGVkdWlhbi5saW5rIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsInBvcnQiOiIzMDgwNyIsInBzIjoi8J+PtOKAjeKYoO+4jyAyMTkuNzkuMTkyLjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
