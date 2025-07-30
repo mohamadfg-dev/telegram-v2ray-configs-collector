@@ -1,30 +1,33 @@
 vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=firefox&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🏴‍☠️ 206.71.158.75
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
+vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&sid=e2&spx=/&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#🏴‍☠️ 85.234.65.120
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🏴‍☠️ 164.90.193.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
-vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88/?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🏴‍☠️ 194.87.31.68
 vless://41627b93-4faa-4179-a129-c350291df966@MAHXRAYSHOVPN.sashabike.ir:2096?path=/?ed=1024&security=tls&alpn=http/1.1&encryption=none&host=redfox.mahxray.news&fp=chrome&type=ws&sni=redfox.mahxray.news#🏴‍☠️ 37.153.171.16
 vless://41627b93-4faa-4179-a129-c350291df966@MAHXRAYSHOVPN.sashabike.ir:2095?path=/?ed=80&security=none&encryption=none&host=германе.сервер.ффф.ппп.mahxray.news.&type=ws#🏴‍☠️ 37.153.171.91
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🏴‍☠️ 151.101.204.190
+vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ 91.198.77.59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
 vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🏴‍☠️ 213.232.120.2
-vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG9ydCI6IjEwOTExIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWRkIjoid3cuZmFzdHlnb2xkLmNvbSIsInBzIjoi8J+PtOKAjeKYoO+4jyA0NS45My4xNjguMzYiLCJzY3kiOiJhdXRvIiwiaWQiOiI5NDM1M2RiZC0yMjgyLTRlMjItYTRlNy0wYWNkOTBiODk2MDcifQ==
-vmess://eyJhZGQiOiJ3dy5mYXN0eWdvbGQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0MzUzZGJkLTIyODItNGUyMi1hNGU3LTBhY2Q5MGI4OTYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA5MTEiLCJwcyI6IvCfj7TigI3imKDvuI8gNDUuOTMuMTY4LjM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=firefox&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🏴‍☠️ 206.71.158.75
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#🏴‍☠️ 212.118.42.181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWVYU2ZVMDJyRW1XRlNGdXNSd3Qy@h110vpnnl.outlinekeys.net:52571#🏴‍☠️ 194.87.216.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🏴‍☠️ 103.106.1.92
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=firefox&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🏴‍☠️ 206.71.158.75
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🏴‍☠️ 199.247.28.17
-vmess://eyJwYXRoIjoiIiwibmV0IjoidGNwIiwicG9ydCI6IjEwOTExIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwiYWRkIjoid3cuZmFzdHlnb2xkLmNvbSIsInBzIjoi8J+PtOKAjeKYoO+4jyA0NS45My4xNjguMzYiLCJzY3kiOiJhdXRvIiwiaWQiOiI5NDM1M2RiZC0yMjgyLTRlMjItYTRlNy0wYWNkOTBiODk2MDcifQ==
-vmess://eyJhZGQiOiJ3dy5mYXN0eWdvbGQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0MzUzZGJkLTIyODItNGUyMi1hNGU3LTBhY2Q5MGI4OTYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA5MTEiLCJwcyI6IvCfj7TigI3imKDvuI8gNDUuOTMuMTY4LjM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🏴‍☠️ 188.42.89.100
 vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&fp=chrome&sni=tgju.org&sid=&spx=/&flow=xtls-rprx-vision#🏴‍☠️ 185.209.21.36
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
-vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#🏴‍☠️ 213.232.120.2
 vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfj7TigI3imKDvuI8gMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🏴‍☠️ 206.71.158.10
 vless://2aacf869-d0e3-4b3e-9b63-396bd9d79c51@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZzhldVRTWHJ3MFlwZVVtVUV6bVpJ@macintosh.outlinekeys.net:19609#🏴‍☠️ 178.23.190.216
+vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
+vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@speedxp.jaricopen.fun:2052?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&authority=&security=none#🏴‍☠️ 195.254.165.163

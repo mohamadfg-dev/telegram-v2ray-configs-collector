@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh6wgODkuMTE3LjExMi4xODEiLCJhZGQiOiI4OS4xMTcuMTEyLjE4MSIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAxOC42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.142.120.139:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇧🇬 45.142.120.139
