@@ -1,11 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 83.147.216.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 83.147.216.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 83.147.216.70
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 157.180.29.19
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?mode=gun&security=tls&encryption=none&type=grpc#🇫🇮 45.15.127.184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 83.147.216.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXck5Bc2J0Y3VvZUVFUWRvU09jUGdP@45.12.135.36:47076#🇫🇮 45.12.135.36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 83.147.216.70
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?mode=gun&security=tls&encryption=none&type=grpc#🇫🇮 45.15.127.184
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:11925?type=ws&security=none#🇫🇮 65.109.202.24
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:11925?type=ws&security=none#🇫🇮 65.109.202.24
