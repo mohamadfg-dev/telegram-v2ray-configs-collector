@@ -1,1 +1,2 @@
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?encryption=none&security=none&type=ws&host=ov-germany1.09vpn.com&path=/vless/#🇰🇿 194.76.18.30
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇰🇿 31.43.179.43

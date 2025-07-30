@@ -1,3 +1,4 @@
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:830?security=none&type=tcp&headerType=http&path=/&host=zula.ir#🇮🇹 185.229.239.91
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:443?security=tls&type=tcp&headerType=&path=&host=&sni=tiny-srv1.privacypath.org.tr&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🇮🇹 185.229.239.91
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 151.101.242.172
+vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?mode=auto&path=/download&security=none&encryption=none&host=ZOne7.global.ssl.fastly.net&type=xhttp#🇮🇹 151.101.242.172
