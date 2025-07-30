@@ -1,1 +1,1 @@
-vless://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=firefox&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#🇦🇺 45.80.230.190
+vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=a3#🇦🇺 45.80.229.254
