@@ -1,1 +1,2 @@
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/#🇯🇵 5.253.41.237
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=store.steampowered.com&sid=f5&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none#🇯🇵 57.180.17.234
