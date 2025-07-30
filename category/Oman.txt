@@ -1,3 +1,2 @@
-vless://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🇴🇲 154.205.147.177
-vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@ckdll.kimjo.ir:8080?path=/&security=&encryption=none&type=ws#🇴🇲 156.244.29.113
-ss://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&type=ws&headerType=&path=&host=#🇴🇲 156.244.29.113
+vless://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#🇴🇲 156.244.29.42
+vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@ckdll.kimjo.ir:8080?path=/&security=&encryption=none&type=ws#🇴🇲 156.244.29.42
