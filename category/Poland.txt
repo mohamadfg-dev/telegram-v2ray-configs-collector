@@ -6,4 +6,3 @@ vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&p
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5am.postpapet.ir:13136?security=reality&encryption=none&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none#🇵🇱 54.38.138.8
 vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#🇵🇱 45.144.48.63
