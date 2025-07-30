@@ -1,1 +1,1 @@
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443?path=/@rayan_config&security=tls&encryption=none&host=rAyAn-11.LeIlA.DpDnS.OrG&type=ws&sni=rAyAn-11.LeIlA.DpDnS.OrG#🇸🇬 45.8.211.254
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=store.steampowered.com&sid=f5&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none#🇸🇬 13.212.227.244

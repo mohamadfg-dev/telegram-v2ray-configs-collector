@@ -1,1 +1,1 @@
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096/?type=ws&encryption=none&flow=&host=vle.amclubsapp.dpdns.org&path=/&security=tls&sni=vle.amclubsapp.dpdns.org#🇵🇭 154.83.2.54
+vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?security=reality&encryption=none&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=moktana.digital&sid=e14b4583c7162e6e#🇵🇭 45.91.237.48

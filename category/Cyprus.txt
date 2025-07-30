@@ -1,1 +1,1 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@195.26.229.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#🇨🇾 195.26.229.3
+vless://401374e6-df77-41fb-f638-dad8184f175b@77.75.199.71:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇨🇾 77.75.199.71

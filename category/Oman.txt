@@ -1,1 +1,2 @@
-vless://accc0d7e-759d-4f00-97a0-ed30e7780a32@154.205.147.214:443/?mode=stream-one&path=/wd&security=none&encryption=none&type=xhttp#🇴🇲 154.205.147.214
+vless://abd41c73-7c74-44d2-b64a-24e7649fce57@154.205.147.125:443?type=xhttp&path=/sdf&host=&mode=stream-one&security=none#🇴🇲 154.205.147.125
+ss://93defc2d-200d-4b2f-8baa-dd85e378e247@ckdll.kimjo.ir:8080?security=none&type=ws&headerType=&path=&host=#🇴🇲 154.205.147.124
