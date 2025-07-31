@@ -1,5 +1,2 @@
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 153.121.43.183
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 153.121.43.183
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 153.121.43.183
 vless://94f4ad61-d87b-4811-bef9-92b32ccd6e19@116.206.92.141:46869/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&allowInsecure=1&fp=chrome&security=reality&pbk=hr2T0bo0OlPXdPuBYiTNdiLJWNcPCKAhlhA9XSDHf2U&sid=52e7d01a&packetEncoding=xudp#🇯🇵 116.206.92.141
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&allowInsecure=1&type=ws&path=/vless/#🇯🇵 5.253.41.237
