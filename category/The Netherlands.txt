@@ -1,15 +1,13 @@
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjhVT2EySGdzam8xMkR0SU9TUlZw@178.208.91.118:19805#🏴‍☠️ 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#🏴‍☠️ 193.29.139.227
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🏴‍☠️ 164.90.193.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjhVT2EySGdzam8xMkR0SU9TUlZw@178.208.91.118:19805#🏴‍☠️ 178.208.91.118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRjhVT2EySGdzam8xMkR0SU9TUlZw@178.208.91.118:19805#🏴‍☠️ 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#🏴‍☠️ 193.29.139.227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#🏴‍☠️ 193.29.139.227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🏴‍☠️ 194.87.31.68
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🏴‍☠️ 151.101.204.190
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ 91.198.77.59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@goat.postpapet.ir:666?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#🏴‍☠️ 95.211.46.56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1aDVnUFhERGpSUFFQNUs3dnJHZGlS@194.87.216.218:52571#🏴‍☠️ 194.87.216.218
 vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ 157.245.72.229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#🏴‍☠️ 212.118.42.181
@@ -19,6 +17,9 @@ vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🏴‍☠️ 91.206.71.162
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🏴‍☠️ 188.42.89.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🏴‍☠️ 193.29.139.235
+vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&fp=chrome&sni=tgju.org&sid=&spx=/&flow=xtls-rprx-vision#🏴‍☠️ 185.209.21.36
+vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#🏴‍☠️ 213.232.120.2
 vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfj7TigI3imKDvuI8gMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://2aacf869-d0e3-4b3e-9b63-396bd9d79c51@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
