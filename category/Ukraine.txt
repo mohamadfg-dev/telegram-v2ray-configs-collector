@@ -1,2 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇺🇦 89.116.180.248
 vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&type=tcp&headerType=none#🇺🇦 193.238.153.85
