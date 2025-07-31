@@ -1,12 +1,12 @@
 trojan://telegram-id-directvpn@15.188.186.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.188.186.181
 trojan://telegram-id-directvpn@15.236.215.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.215.37
-trojan://NISHIKUITAN111@45.8.211.242:443?allowInsecure=1&ws=1&wspath=/#🏴‍☠️ 45.8.211.242
-trojan://NISHIKUITAN111@104.27.105.8:443?allowInsecure=1&ws=1&wspath=/#🏴‍☠️ 104.27.105.8
+trojan://NISHIKUITAN111@104.24.60.239:443?allowInsecure=1&ws=1&wspath=/#🇨🇦 104.24.60.239
+trojan://NISHIKUITAN111@104.25.101.27:443?allowInsecure=1&ws=1&wspath=/#🇨🇦 104.25.101.27
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#🏴‍☠️ 13c2c931-swin40-swy6li-tni2.cu.plebai.net
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
-trojan://UO2beikcWh@38.59.245.38:33261?allowInsecure=1#🇺🇸 38.59.245.38
 trojan://telegram-id-privatevpns@15.188.186.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.188.186.181
 trojan://telegram-id-privatevpns@15.236.215.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.236.215.37
-trojan://NISHIKUITAN111@104.27.105.8:443?allowInsecure=1&ws=1&wspath=/#🏴‍☠️ 104.27.105.8
+trojan://telegram-id-directvpn@35.181.187.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.187.191
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935/?type=tcp&security=tls&sni=x1-germany-linode-v2-jk001.devefun.org#🇩🇪 139.162.179.106
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#🇺🇸 198.23.229.250
 trojan://telegram-id-v2rayvpnchannel@15.188.186.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 15.188.186.181
