@@ -1,1 +1,1 @@
-vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?security=reality&encryption=none&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=moktana.digital&sid=e14b4583c7162e6e#🇵🇭 45.91.237.48
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇵🇭 154.83.2.117
