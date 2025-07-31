@@ -1,2 +1,3 @@
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:13065?security=&encryption=none&type=ws#🇦🇲 92.223.2.119
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇦🇲 45.129.185.200
 vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?type=ws&security=none#🇦🇲 85.90.207.183
