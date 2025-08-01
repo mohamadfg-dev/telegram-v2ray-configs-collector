@@ -1,1 +1,2 @@
 vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443?security=reality&encryption=none&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&headerType=none&fp=firefox&spx=/&type=tcp&sni=yahoo.com&sid=c6d0465acae1#🇮🇩 31.56.206.70
+vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1#🇮🇩 31.56.206.70

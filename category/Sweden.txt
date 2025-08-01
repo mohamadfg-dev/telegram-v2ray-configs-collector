@@ -1,4 +1,5 @@
-vless://86f90371-59d6-44e2-ab00-94c5ab16d2bc@192.109.200.254:443?security=reality&alpn=http/1.1&encryption=none&pbk=NPYS2vq3gQlU2h9EzaL-_93PIEpHLEHDSo8eYWCjw3o&host=torah.org&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=torah.org&sid=8f64b0695b3b46de#🇸🇪 192.109.200.254
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST #🇸🇪 4.223.106.151
+vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 185.146.173.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🇸🇪 4.223.100.248
 vless://Parsashonam-292@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 185.146.173.39
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 185.146.173.39
