@@ -1,10 +1,7 @@
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQ1VxMWpsbklVa3Z1WmFveDZIMHF6@147.45.114.160:45651#🏴‍☠️ 147.45.114.160
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🏴‍☠️ 164.90.193.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🏴‍☠️ 92.112.126.90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQ1VxMWpsbklVa3Z1WmFveDZIMHF6@147.45.114.160:45651#🏴‍☠️ 147.45.114.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQ1VxMWpsbklVa3Z1WmFveDZIMHF6@147.45.114.160:45651#🏴‍☠️ 147.45.114.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🏴‍☠️ 194.87.31.68
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🏴‍☠️ 151.101.204.190
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ 91.198.77.59
@@ -12,9 +9,8 @@ vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?security=none&enc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🏴‍☠️ 193.29.139.240
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0=@212.118.42.181:9260#🏴‍☠️ 212.118.42.181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWVYU2ZVMDJyRW1XRlNGdXNSd3Qy@h110vpnnl.outlinekeys.net:52571#🏴‍☠️ 194.87.216.218
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ 64.188.97.173
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🏴‍☠️ 193.29.139.235
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=firefox&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🏴‍☠️ 206.71.158.75
-vless://4f7dca4f-06f1-4c0c-bfb2-7b5e1e516405@77.110.103.21:50810?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=reality&encryption=none=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=19dc3c81#🏴‍☠️ 77.110.103.21
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🏴‍☠️ 199.247.28.17
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🏴‍☠️ 91.206.71.162
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🏴‍☠️ 188.42.89.100
@@ -23,5 +19,4 @@ vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&securi
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#🏴‍☠️ 213.232.120.2
 vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfj7TigI3imKDvuI8gMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://2aacf869-d0e3-4b3e-9b63-396bd9d79c51@185.209.21.36:41569?type=ws&path=/&host=tgju.org&security=none#🏴‍☠️ 185.209.21.36
 vless://e580d4d5-c6b8-48d9-8690-cf36de8a5a76@holanx.blacklike.ir:9008?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🏴‍☠️ 24.144.77.156
