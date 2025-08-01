@@ -1,5 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
+vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇵🇱 57.128.198.152
 vless://fd3c5105-a311-4f27-a8f9-aafa43519d48@25.grizzzlyyyy.ir:31744?encryption=none&security=reality&sni=init.itunes.apple.com&fp=ios&pbk=wzVTHc8AVy3DCkAhNrAayePA82teKZ0A2ckdPI3xsSk&sid=b9&spx=/&type=xhttp&host=25.grizzzlyyyy.ir&path=/grizzlyyyy&mode=auto#🇵🇱 45.144.49.47
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 45.144.49.140
 vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7EgMTQ2LjU5LjU1LjUwIiwiYWRkIjoiMTQ2LjU5LjU1LjUwIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsInBhdGgiOiIvbGlua3Z3cyJ9

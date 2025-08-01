@@ -20,12 +20,11 @@ vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 85.133.228.198
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇮🇷 87.107.110.155
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 195.190.144.155
-vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 212.80.9.85
 vless://6af1f086-ffa0-4931-a112-0d669a6713ef@37.202.235.32:10000?type=ws&security=none#🇮🇷 37.202.235.32
 vless://da046048-7e69-43ca-8ed3-1a9c6577eb4d@divar.ir.ip9s.ir:44024?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇮🇷 185.18.214.163
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgMzcuMjAyLjIyNS43NCIsImFkZCI6IjM3LjIwMi4yMjUuNzQiLCJwb3J0IjoiNDA1MjEiLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086?path=/Aar,d-F?ed=2086&security=none&encryption=none&host=cdn44.almass22.ir&type=httpupgrade#🇮🇷 45.131.4.67
-vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#🇮🇷 92.114.17.6
+vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiNjNhMWM1YTMtNGYzOC00NTg3LWJlODQtYmIxM2VkYjk3MjA5IiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMDAiLCJwcyI6IvCfh67wn4e3IDg5LjQ0LjI0Mi4yNTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30
 vless://e0abec7c-dded-48f5-afb1-f5783b68098e@193.151.148.181:2070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 193.151.148.181
