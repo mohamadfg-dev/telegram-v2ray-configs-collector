@@ -1,1 +1,2 @@
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?encryption=none&security=tls&type=ws&path=/inqabcws#🇲🇾 45.128.54.15
+vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443/?type=ws&encryption=none&flow=&path=/attzctws&security=tls&allowInsecure=1#🇲🇾 45.89.107.235

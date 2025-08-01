@@ -1,18 +1,13 @@
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443?security=tls&type=tcp&sni=ssp2.100896.xyz#🇵🇱 141.101.120.10
-trojan://telegram-id-directvpn@13.38.152.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.38.152.12
 trojan://telegram-id-directvpn@52.59.85.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 52.59.85.17
+trojan://telegram-id-directvpn@3.70.34.175:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.70.34.175
 trojan://093738af-b37f-4b7d-af1f-a489b4365f04@172.67.170.147:443/?type=ws&host=rrrr5.999854.xyz&path=/A4I8jk1FGahFk1sEAMvUuTA&security=tls&sni=RRRr5.999854.XyZ&alpn=http/1.1&fp=chrome#🇨🇦 172.67.170.147
-trojan://NISHIKUITAN111@198.41.198.25:443?#🇨🇦 198.41.198.25
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443?security=tls&type=tcp&sni=ssp2.100896.xyz#🇵🇱 141.101.120.10
-trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#🇫🇷 51.91.11.29
+trojan://blue2024@104.16.21.118:443?sni=tb.promote.icu#🏴‍☠️ 104.16.21.118
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
-trojan://telegram-id-privatevpns@13.38.152.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.38.152.12
 trojan://telegram-id-privatevpns@52.59.85.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 52.59.85.17
-trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&headerType=none&type=tcp#🇩🇪 139.162.179.106
-trojan://telegram-id-privatevpns@52.59.53.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 52.59.53.31
+trojan://telegram-id-privatevpns@3.70.34.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.70.34.175
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935/?type=tcp&security=tls&sni=x1-germany-linode-v2-jk001.devefun.org#🇩🇪 139.162.179.106
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#🇺🇸 198.23.229.250
-trojan://telegram-id-v2rayvpnchannel@13.38.152.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.38.152.12
 trojan://telegram-id-v2rayvpnchannel@52.59.85.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 52.59.85.17
+trojan://telegram-id-v2rayvpnchannel@3.70.34.175:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.70.34.175
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&headerType=none&type=tcp#🇩🇪 139.162.179.106
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🏴‍☠️ stirring-parakeet.shiner427.skin
