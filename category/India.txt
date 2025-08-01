@@ -1,1 +1,2 @@
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=/#🇮🇳 45.88.183.155
 vless://401374e6-df77-41fb-f638-dad8184f175b@108.165.152.205:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇮🇳 108.165.152.205
