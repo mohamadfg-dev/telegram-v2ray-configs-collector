@@ -1,4 +1,3 @@
-vless://dc4f7caf-b7d8-4803-84a9-4b0fecbc2874@85.90.207.183:54300?encryption=none&security=none&type=ws&path=/#🇦🇲 85.90.207.183
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇦🇲 45.129.185.200
 vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:20000?type=ws&security=none#🇦🇲 92.223.2.119
 vless://8fb91845-060d-47aa-a1fd-57f9da91f07b@wolf559.royalmt.life:54869?security=none&encryption=none&type=ws#🇦🇲 92.223.2.119
