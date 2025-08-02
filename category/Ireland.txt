@@ -1,1 +1,1 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.77.131.184:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇮🇪 54.77.131.184
+trojan://telegram-id-directvpn@34.240.164.149:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇮🇪 34.240.164.149
