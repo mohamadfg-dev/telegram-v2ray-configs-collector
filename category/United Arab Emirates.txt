@@ -1,2 +1,3 @@
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇦🇪 94.140.0.109
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@irancell.sbarshia.ir:8443?security=reality&encryption=none&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&headerType=none&fp=chrome&type=tcp&sni=snapp.ir&sid=fdf18126a0768480#🇦🇪 93.127.181.40
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@mci.sbarshia.ir:443?security=reality&encryption=none&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&headerType=none&fp=chrome&type=tcp&sni=zoomit.ir&sid=fdf18126a0768480#🇦🇪 93.127.181.40
 vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:80?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.212

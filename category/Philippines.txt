@@ -1,1 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇵🇭 154.83.2.117
+vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@154.83.2.121:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=/#🇵🇭 154.83.2.121
