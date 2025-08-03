@@ -1,1 +1,1 @@
-trojan://telegram-id-directvpn@34.240.164.149:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇮🇪 34.240.164.149
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989#🇮🇪 23.92.127.133
