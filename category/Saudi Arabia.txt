@@ -1,1 +1,1 @@
-vless://5c263fe5-75f2-4d96-87e5-0e94df935833@154.205.134.104:443?mode=stream-one&path=/f&security=none&encryption=none&type=xhttp#🇸🇦 154.205.134.104
+vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.75:443?type=xhttp&path=/f&host=&mode=stream-one&security=none#🇸🇦 38.54.61.75

@@ -1,1 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇰🇿 31.43.179.43
+trojan://NISHIKUITAN111@185.176.26.131:443?allowInsecure=1#🇰🇿 185.176.26.131
