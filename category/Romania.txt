@@ -1,4 +1,3 @@
 vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#🇷🇴 31.56.146.132
-vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?encryption=none&security=none&type=ws&host=tgju.org&path=/#🇷🇴 31.56.146.132
 vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&spx=/&type=tcp&headerType=none#🇷🇴 31.56.146.132
 vless://5cc50acf-586c-4d81-9ee1-bd26799063b9@31.56.146.15:22285?type=grpc&serviceName=&authority=&security=reality&pbk=0fQ7s4kl6-F3PlRit7ujsiseddifSgDa4LEQqGdJNEw&fp=chrome&sni=Zara.com&sid=ab&spx=/#🇷🇴 31.56.146.15
