@@ -1,3 +1,2 @@
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 45.88.183.156
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?encryption=none&security=none&type=tcp&headerType=none#🇮🇳 45.88.183.164
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#🇮🇳 45.88.183.164
-vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@ind01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#🇮🇳 45.88.183.155

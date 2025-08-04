@@ -1,1 +1,1 @@
-vless://863b3a17-bb45-493b-ad98-898b490e540c@45.131.211.170:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#🇧🇿 45.131.211.170
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.6.224:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇧🇿 45.131.6.224
