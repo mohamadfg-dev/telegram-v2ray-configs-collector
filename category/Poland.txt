@@ -1,8 +1,8 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 217.30.10.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ2dRbkpxNHhnTzZORFZtbUdTR01U@77.83.246.74:443#🇵🇱 77.83.246.74
+trojan://tunnel-astro@pl-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#🇵🇱 51.77.59.0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMUp1dDEzZ0NoN0w4U1dSd29vMjNM@77.83.246.74:443#🇵🇱 77.83.246.74
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRE4ybzVWVFVZbjVUVjl3QzRaWkR5@77.83.246.74:443#🇵🇱 77.83.246.74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 92.118.205.228
-vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
-vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 45.144.49.140
+vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?path=/vless/&security=&encryption=none&host=---@ShadowProxy66&type=ws#🇵🇱 57.128.198.152
