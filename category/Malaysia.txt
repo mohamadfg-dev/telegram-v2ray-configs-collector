@@ -1,1 +1,1 @@
-vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?encryption=none&security=tls&type=ws&path=/inqabcws#🇲🇾 45.128.54.15
+vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/wxmgbmws#🇲🇾 45.89.107.223
