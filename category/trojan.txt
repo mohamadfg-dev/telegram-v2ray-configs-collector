@@ -1,13 +1,13 @@
 trojan://telegram-id-directvpn@13.39.42.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.42.248
 trojan://telegram-id-directvpn@13.39.117.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.117.250
-trojan://caaabbc-abac-caba-dcab-baabcaccbacb@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ 127.0.0.1
 trojan://03e92910-34b1-4245-ac63-04a865f43cd5@172.67.157.254:443/?type=grpc&serviceName=bi35bFWoRrnn5kY1kBv&security=tls&sni=FffcdvG.444752.xyZ&alpn=h2&fp=chrome#🇨🇦 172.67.157.254
-trojan://aaaccbb-aacb-baac-bcad-aabbcacbbacc@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ 127.0.0.1
-trojan://caaabbc-abac-caba-dcab-baabcaccbacb@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ 127.0.0.1
-trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
+trojan://telegram-id-directvpn@35.181.133.138:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🏴‍☠️ 35.181.133.138
+trojan://blue2024@108.162.195.202:443?sni=hb.lii2010.us.kg#🇨🇦 108.162.195.202
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#🏴‍☠️ 13c2c931-swin40-swy6li-tni2.cu.plebai.net
+trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 3.78.152.130
+trojan://Aimer@45.194.53.81:2087?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&path=/?ed=2560&host=ngepx.ambercc.filegear-sg.me#🇺🇸 45.194.53.81
 trojan://telegram-id-privatevpns@13.39.42.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.42.248
 trojan://telegram-id-privatevpns@13.39.117.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.117.250
-trojan://telegram-id-privatevpns@13.39.42.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.42.248
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#🇺🇸 198.23.229.250
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org&allowInsecure=1#🇺🇸 192.3.107.252
 trojan://tunnel-astrovpn_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#🇵🇱 51.77.59.0
