@@ -1,5 +1,4 @@
 vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904/?type=tcp&security=none#🏴‍☠️ 193.111.125.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🏴‍☠️ 83.217.9.128
-vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=/jzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#🏴‍☠️ 185.234.66.82
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🏴‍☠️ 195.244.41.104
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@tr.shop.snapppro.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🏴‍☠️ 213.156.152.145

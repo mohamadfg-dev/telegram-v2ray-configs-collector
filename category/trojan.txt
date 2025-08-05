@@ -1,19 +1,18 @@
-trojan://telegram-id-directvpn@52.47.195.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 52.47.195.183
+trojan://telegram-id-directvpn@52.47.195.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 52.47.195.183
 trojan://telegram-id-directvpn@35.181.159.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.181.159.27
 trojan://telegram-id-directvpn@35.181.0.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.181.0.118
+trojan://auto@104.21.72.108:443?security=tls&type=ws&sni=esetsecuritylicense1.cxlrazo.workers.dev&host=esetsecuritylicense1.cxlrazo.workers.dev#🇨🇦 104.21.72.108
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
-trojan://telegram-id-privatevpns@35.181.159.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.159.27
+trojan://telegram-id-privatevpns@35.181.159.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.181.159.27
 trojan://telegram-id-privatevpns@35.181.0.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.0.118
+trojan://telegram-id-privatevpns@18.195.193.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 18.195.193.16
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 172.67.181.173
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#🇺🇸 198.23.229.250
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org&allowInsecure=1#🇺🇸 192.3.107.252
-trojan://telegram-id-v2rayvpnchannel@35.181.159.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.159.27
-trojan://telegram-id-v2rayvpnchannel@35.181.0.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.0.118
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org&allowInsecure=1#🏴‍☠️ 192.3.107.252
+trojan://telegram-id-v2rayvpnchannel@35.181.159.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.181.159.27
+trojan://telegram-id-v2rayvpnchannel@35.181.0.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.181.0.118
 trojan://telegram-id-directvpn@18.158.247.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 18.158.247.86
 trojan://telegram-id-privatevpns@18.158.247.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 18.158.247.86
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🏴‍☠️ stirring-parakeet.shiner427.skin
-trojan://Y07SBPUNwL@91.99.85.92:50460?type=xhttp&path=/&host=mahj.global.ssl.fastly.net&mode=auto&security=reality&pbk=7oC7QmDTLQJrVL6D26xiYnqU7SZmintnI674tBYDlQI&fp=chrome&sni=yahoo.com&sid=6d2e5c8f&spx=/#🇩🇪 91.99.85.92
-trojan://telegram-id-privatevpns@35.181.0.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.0.118
-trojan://telegram-id-v2rayvpnchannel@35.181.159.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.159.27
-trojan://telegram-id-v2rayvpnchannel@35.181.0.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.181.0.118
+trojan://Y07SBPUNwL@91.99.85.92:50460?type=xhttp&path=/&host=mahj.global.ssl.fastly.net&mode=auto&security=reality&pbk=7oC7QmDTLQJrVL6D26xiYnqU7SZmintnI674tBYDlQI&fp=chrome&sni=yahoo.com&sid=6d2e5c8f&spx=/#🏴‍☠️ 91.99.85.92
