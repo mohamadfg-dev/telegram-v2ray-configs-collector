@@ -23,4 +23,6 @@ jobs:
           curl -X POST https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile \
             -F "chat_id=v2rayng_free" \
             -F "file=@Configs.zip" \
-            -F "caption=🆕 آخرین لیست بروزرسانی شده\n#v2ray #vmess #vless\n@v2rayng_free | مارا به دوستان خود معرفی کنید"
+            -F "caption=🆕 آخرین لیست بروزرسانی شده \
+              #v2ray #vmess #vless \
+            @v2rayng_free | مارا به دوستان خود معرفی کنید"
