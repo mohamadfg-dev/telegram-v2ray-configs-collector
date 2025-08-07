@@ -1,9 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456?noteTelegram---@NetifyVPN---#🇵🇱 45.144.49.140
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456?noteTelegram---@NetifyVPN---#🇵🇱 45.144.49.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456?noteTelegram---@NetifyVPN---#🇵🇱 45.144.49.140
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 217.30.10.18
-vless://4ed7bf5b-b370-4173-966c-a33fd350cdad@makhzan.moltyali.ddns-ip.net:48078?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 91.224.75.60
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=/vless&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#🇵🇱 194.147.34.72
 vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443?path=/vless&security=tls&encryption=none&host=194.147.34.72&fp=chrome&type=ws&sni=zula.ir#🇵🇱 194.147.34.72
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 92.118.205.228
+vless://Vpn_Kadeh_Iran@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
+vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
