@@ -1,0 +1,26 @@
+name: SendToChannelEitaa
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 5,8,11,14,17,20 * * *"
+
+jobs:
+  my-job:
+    name: SendToChannelEitaa
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the code
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      - name: Zip files
+        run: |
+          zip -r Configs.zip category/*
+
+      - name: Send ZIP to API
+        run: |
+          curl -X POST https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile \
+            -F "chat_id=v2rayng_free" \
+            -F "file=@my_files.zip" \
+            -F "caption=🆕 آخرین لیست بروزرسانی شده \n #v2ray #vmess #vless \n @v2rayng_free | مارا به دوستان خود معرفی کنید "
