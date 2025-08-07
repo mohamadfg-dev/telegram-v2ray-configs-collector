@@ -1,3 +1,1 @@
-vless://effc0852-00aa-4561-96c1-dcafffb9a443@ae.aparat-movies-download.ir:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇦🇪 109.61.42.129
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇦🇪 94.140.0.109
-vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:8880?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.212
+vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:443?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.126
