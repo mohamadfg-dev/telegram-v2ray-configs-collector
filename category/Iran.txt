@@ -1,3 +1,4 @@
+vless://f95d9904-b801-4e91-af1b-63d2b30cb7f8@92.114.24.92:9985?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 92.114.24.92
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#🇮🇷 92.114.17.6
 vless://65015e02-9cd3-4925-9bf9-61ded9c561e7@185.29.223.151:2083/?type=tcp&security=none#🇮🇷 185.29.223.151
 vless://3769c1f9-6686-4f70-952b-ec525378982c@panke1.dadasoratmolayi.com:2087?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 185.141.171.9
@@ -6,7 +7,7 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 185.4.31.107
 vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#🇮🇷 193.3.182.246
 vless://da86fa0e-7d99-4ef4-bffc-cc7d114748ef@193.3.182.246:443?type=tcp&security=none#🇮🇷 193.3.182.246
-vless://cac07fc1-9c38-42af-b26f-421eaca2cd65@94.183.158.13:1190?path=/?ed=2560&security=&encryption=none&type=ws#🇮🇷 94.183.158.13
+vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?security=&encryption=none&headerType=http&type=tcp#🇮🇷 94.182.145.70
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 81.12.30.51
 vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#🇮🇷 188.121.126.69
 vless://82a000fc-b550-4bfc-b5e4-8e7180dc4b95@mrbarani.fastsnap.info:40746/?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 188.0.247.209
@@ -15,26 +16,26 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105
 vless://1cfd7a64-4f88-4937-b684-cc7fb42e6ee2@fin7.ipstatic.info:17721?type=tcp&security=none#🇮🇷 81.12.93.155
 vless://effc0852-00aa-4561-96c1-dcafffb9a443@persians.aparat-movies-download.ir:42555?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇮🇷 2.144.7.237
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?security=none&encryption=none&type=ws#🇮🇷 89.235.117.104
+vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 62.60.185.248
+vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 62.60.185.248
 vless://578d7d4e-60c5-40b9-9921-3d7ed631cfa9@araatelll.pcc-guide.site:21503/?type=tcp&path=/&headerType=http&security=none#🇮🇷 185.243.51.106
 vless://578d7d4e-60c5-40b9-9921-3d7ed631cfa9@araatelll.pcc-guide.site:21503/?type=tcp&path=/&headerType=http&security=none#🇮🇷 185.243.51.106
-vless://afa7ac72-cae2-47a2-992d-e93f36fe065d@e11.maindns.site:32611?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 185.128.139.14
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 85.198.12.25
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 85.133.228.198
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 195.190.144.155
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 212.80.9.85
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 212.80.9.85
-vmess://eyJhZGQiOiIxODguMjEyLjk2LjIzNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZmUyOGQxMi04Y2YxLTQ3OGQtYjRkNC1lMzhjNTIxMjM1NGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiLwn4eu8J+HtyAxODguMjEyLjk2LjIzNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#🇮🇷 46.38.136.68
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@taxi.snapprlt2.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇮🇷 193.141.126.111
 vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#🇮🇷 46.38.136.68
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgMzcuMjAyLjIyNS43NCIsImFkZCI6IjM3LjIwMi4yMjUuNzQiLCJwb3J0IjoiNDA1MjEiLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://e89c5cc2-1677-4781-a034-e47d14a1f19b@wolf514.api-tel.xyz:14243?security=none&encryption=none&type=ws#🇮🇷 37.202.235.55
 vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?security=none&encryption=none&type=ws#🇮🇷 37.202.246.242
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 45.131.4.85
 vless://52e68a0d-acd0-42c9-8ca8-9b26f0140e21@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 109.95.66.104
 vless://52e68a0d-acd0-42c9-8ca8-9b26f0140e21@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 109.95.66.104
 vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=/&security=none&encryption=none&type=ws#🇮🇷 46.38.136.68
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 45.131.4.85
-vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30
-vless://e0abec7c-dded-48f5-afb1-f5783b68098e@193.151.148.181:2070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 193.151.148.181
+vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMjE2N2ExODYtNGU1OC00ODE1LTg2MGQtYjU1N2QwMjRkYzdjIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMDAiLCJwcyI6IvCfh67wn4e3IDg5LjQ0LjI0Mi4yNDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://e0abec7c-dded-48f5-afb1-f5783b68098e@193.151.148.181:2070?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 193.151.148.181
 vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 2.189.85.177
 vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 2.189.85.177
