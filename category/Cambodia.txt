@@ -1,1 +1,1 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.115:443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=random&type=ws&sni=edgb.aimercc.dpdns.org#🇰🇭 92.243.74.115
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.115:443?security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=random&type=ws&sni=edgb.aimercc.dpdns.org#🇰🇭 92.243.74.115

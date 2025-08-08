@@ -1,6 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 217.30.10.18
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 217.30.10.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVEdSRkJvRXdSVzAxV09kZWtHQVNk@77.83.246.74:443#🇵🇱 77.83.246.74
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#🇵🇱 54.38.138.8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 92.118.205.228
-vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 146.59.117.172
