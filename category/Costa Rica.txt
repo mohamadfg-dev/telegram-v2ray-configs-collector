@@ -1,2 +1,1 @@
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 190.93.246.56
-vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.245.147:443?path=/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&fp=random&type=ws&sni=lv.2138937.xyz#🇨🇷 190.93.245.147
