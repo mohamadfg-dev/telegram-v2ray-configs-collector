@@ -1,1 +1,2 @@
-vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:443?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.126
+vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:80?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.126
+vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:80?type=tcp&path=/&host=www.varzesh3.com&headerType=http&security=none#🇦🇪 93.127.180.126
