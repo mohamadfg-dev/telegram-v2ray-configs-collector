@@ -1,4 +1,5 @@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=/&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇦🇪 94.140.0.109
 vless://cf0e7c1c-4d6a-4c78-ad8a-05f2dfa351d3@93.127.180.126:8880?security=&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 93.127.180.126
 vless://305ee92e-b09e-4cae-92d3-fbbee519df28@93.127.180.76:32366?security=reality&encryption=none&pbk=7zQkfmylLlg4bGtYU7OwPl5qNwRUzeZaycUjcIsONUk&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=36989f45e183f0#🇦🇪 93.127.180.76
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.170.189:443#🇦🇪 3.29.170.189
 vless://305ee92e-b09e-4cae-92d3-fbbee519df28@93.127.180.76:32366?security=reality&encryption=none&pbk=7zQkfmylLlg4bGtYU7OwPl5qNwRUzeZaycUjcIsONUk&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=36989f45e183f0#🇦🇪 93.127.180.76
