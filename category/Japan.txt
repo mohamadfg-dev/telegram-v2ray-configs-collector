@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVXNuam1XejBCaHoyN2FGaDY4V0hy@sakura.outlinekeys.net:1235#🇯🇵 91.194.160.151
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.154.214:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=?ed=2744#🇯🇵 141.147.154.214
+trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@18.181.175.76:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🇯🇵 18.181.175.76
