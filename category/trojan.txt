@@ -1,15 +1,14 @@
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&headerType=none#🇺🇸 198.23.229.250
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 172.67.181.173
-trojan://telegram-id-directvpn@13.39.59.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 13.39.59.229
-trojan://telegram-id-directvpn@35.180.206.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.180.206.105
-trojan://bpb-trojan@162.159.153.208:443?security=tls&sni=bpbpanel.ac.cn.eu.org&type=tcp#🇨🇦 162.159.153.208
+trojan://telegram-id-directvpn@13.39.59.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 13.39.59.229
+trojan://telegram-id-directvpn@35.180.206.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.180.206.105
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 3.78.152.130
 trojan://telegram-id-privatevpns@13.39.59.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 13.39.59.229
 trojan://telegram-id-privatevpns@35.180.206.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 35.180.206.105
-trojan://telegram-id-privatevpns@63.176.11.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 63.176.11.175
-trojan://bpb-trojan@104.17.211.250:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🏴‍☠️ 104.17.211.250
-trojan://bpb-trojan@162.159.152.35:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#🏴‍☠️ 162.159.152.35
-trojan://telegram-id-v2rayvpnchannel@35.156.135.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 35.156.135.250
-trojan://telegram-id-v2rayvpnchannel@52.59.51.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ 52.59.51.173
+trojan://bpb-trojan@104.17.211.250:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 104.17.211.250
+trojan://bpb-trojan@162.159.152.35:443/?type=tcp&security=tls&sni=cf.090227.xyz&allowInsecure=1#🇨🇦 162.159.152.35
+trojan://telegram-id-v2rayvpnchannel@35.156.135.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 35.156.135.250
+trojan://telegram-id-v2rayvpnchannel@52.59.51.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 52.59.51.173
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🏴‍☠️ stirring-parakeet.shiner427.skin
 trojan://yIEhIAzGkn@ip.kayaaskari11.sbs:50227?type=grpc&serviceName=&authority=&security=reality&pbk=iZ3e0qmd5A7ULFrbdvOaG0yIgKA_IxuRi7ZBma4Buww&fp=chrome&sni=google.com&sid=0164076a02fd&spx=/#🇩🇪 116.202.17.230

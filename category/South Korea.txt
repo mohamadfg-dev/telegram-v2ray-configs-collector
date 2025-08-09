@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@61.255.174.173:30838#🇰🇷 61.255.174.173
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.161.138:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=?ed=2744#🇰🇷 146.56.161.138
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.78.162:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=?ed=2744#🇰🇷 144.24.78.162
