@@ -1,21 +1,17 @@
 vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 77.81.81.69
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 54.38.214.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 4.250.60.151
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?encryption=none&security=tls&type=ws&path=/#🇬🇧 94.131.122.76
+vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#🇬🇧 2a04:4e42::731
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&encryption=none&type=grpc#🇬🇧 45.89.111.250
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 104.248.168.91
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.233.176
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.234.16:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#🇬🇧 78.141.234.16
-vless://fb77071a-085b-4cc9-b743-f3510d12363a@hhhjjmki.457.pp.ua:443/?type=ws&encryption=none&host=HHhjJMki.457.pP.uA&path=/VniTnH8K87C9IxZMQZRJ&security=tls&sni=HhHJjmkI.457.pp.uA&alpn=http/1.1&fp=chrome&packetEncoding=xudp#🇬🇧 2a06:98c1:3120::
-vless://58f87111-e8fa-4890-ba59-86fca61ccfa9@zula.ir:2087?path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&security=tls&alpn=h2&encryption=none&host=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome&type=ws&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online#🇬🇧 2a06:98c1:3120::
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT29&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#🇬🇧 2a06:98c1:3121::
+vless://fb77071a-085b-4cc9-b743-f3510d12363a@hhhjjmki.457.pp.ua:443/?type=ws&encryption=none&host=HHhjJMki.457.pP.uA&path=/VniTnH8K87C9IxZMQZRJ&security=tls&sni=HhHJjmkI.457.pp.uA&alpn=http/1.1&fp=chrome&packetEncoding=xudp#🇬🇧 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1JSZTd0VE5kVDU5Z2lma01xb2Yw@89.185.84.185:443#🇬🇧 89.185.84.185
-vmess://eyJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUiLCJpZCI6IkBQcm94eVZQTlZpcC1DaGFubmVsVGVsZWdyYW0iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTlZpcCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6zwn4enIDk0LjcyLjExMC4yMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 102.177.189.29
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?path=/&security=tls&encryption=none&type=ws#🇬🇧 91.228.10.202
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 102.177.189.28
 vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=grpc&serviceName=Join#🇬🇧 2a04:4e42:400::731
-vless://d4680280-0e67-4c7f-9558-88b89800a2e3@159.65.20.117:80?mode=auto&path=/shahins2020hams?ed=2560&security=reality&encryption=none&pbk=apMp75KQjgaRWegaiPc_ufULi0B7Mz-oUnSCJU9hRmc&host=sha834ydtrfcvs2020hin3877.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=orderup.com&sid=0c4e1fcb8576e1#🇬🇧 159.65.20.117
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=/Free-CF-Proxy-AT4&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#🇬🇧 2a06:98c1:3120::
 vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:49822?type=tcp#🇬🇧 77.81.81.69
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 45.89.111.250
