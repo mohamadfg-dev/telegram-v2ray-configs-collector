@@ -6,27 +6,32 @@ on:
     - cron: "30 5,8,11,14,17,20 * * *"
 
 jobs:
-  my-job:
-    name: SendToChannelEitaa
+  sendZip:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the code
       - name: Checkout Code
         uses: actions/checkout@v4
-      - name: Zip files
+
+      - name: Create directories
         run: |
-          zip -r Configs.zip category/*
+          mkdir -p protocols
+          mkdir -p country
+
+      - name: Move specific files
+        run: |
+          mv category/vless.txt category/ss.txt category/trojan.txt category/vmess.txt protocols
+          mv category/* country
+
+      - name: Zip the files
+        run: |
+          zip -r v2rayng_free.zip protocols country
 
       - name: Send ZIP to API
         run: |
-          CAPTION="🆕 آخرین لیست بروزرسانی شده 
-
-          #v2ray #vmess #vless 
-
-          @v2rayng_free | مارا به دوستان خود معرفی کنید"
+          CAPTION=$'🆕 آخرین لیست بروزرسانی شده\n\n#v2ray #vmess #vless\n\n@v2rayng_free | مارا به دوستان خود معرفی کنید'
           
-          curl -X POST https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile \
-            -F "chat_id=v2rayng_free" \
-            -F "file=@Configs.zip" \
+          curl -X POST "https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile" \
+            -F "chat_id=teeeeeestss" \
+            -F "file=@v2rayng_free.zip" \
             -F "caption=$CAPTION"
