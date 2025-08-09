@@ -22,7 +22,7 @@ jobs:
       - name: Move specific files
         run: |
           mv category/vless.txt category/ss.txt category/trojan.txt category/vmess.txt category/wireguard.txt Protocols
-          mv category/httpupgrade.txt category/ws.txt category/http.txt category/grpc.txt NetworkType
+          mv category/httpupgrade.txt category/ws.txt category/xhttp.txt category/tcp.txt category/grpc.txt NetworkType
           mv category/* Country
 
       - name: Zip the files
