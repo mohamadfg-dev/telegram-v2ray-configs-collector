@@ -39,13 +39,11 @@ vless://3dc1d42d-fc8b-47ed-97af-a26382062506@taxi.snapprlt2.nikastoring.ir:1818?
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgMzcuMjAyLjIyNS43NCIsImFkZCI6IjM3LjIwMi4yMjUuNzQiLCJwb3J0IjoiNDA1MjEiLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://e89c5cc2-1677-4781-a034-e47d14a1f19b@wolf514.api-tel.xyz:14243?security=none&encryption=none&type=ws#🇮🇷 37.202.246.249
 vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?security=none&encryption=none&type=ws#🇮🇷 37.202.246.245
-vless://213b0839-9041-45e8-91f6-ca6f4a7caaf8@tr.iranvpnstore.site:777?**type=tcp&security=none&headerType=http&path=/&host=telewebion.com#🇮🇷 5.159.49.95
 vmess://eyJhZGQiOiJ0dW4uc25hcHBybHQyLm5pa2FzdG9yaW5nLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0Z2p1Lm9yZyIsImlkIjoiZTg2YmNkNTUtZDQ1ZS00Mzg4LWIxOWMtZDYxYjY0ODQ2MmI4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTYxNiIsInBzIjoi8J+HrvCfh7cgMTkzLjE0MS4xMjYuMTExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://V2rayNGFreee@193.151.151.132:8081?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 193.151.151.132
 vless://52e68a0d-acd0-42c9-8ca8-9b26f0140e21@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 109.95.66.104
 vless://52e68a0d-acd0-42c9-8ca8-9b26f0140e21@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 109.95.66.104
 vless://3769c1f9-6686-4f70-952b-ec525378982c@panke1.dadasoratmolayi.com:2087/?type=tcp&encryption=none#🇮🇷 185.141.171.9
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 45.131.4.85
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMjE2N2ExODYtNGU1OC00ODE1LTg2MGQtYjU1N2QwMjRkYzdjIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMDAiLCJwcyI6IvCfh67wn4e3IDg5LjQ0LjI0Mi4yNDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 77.72.80.30

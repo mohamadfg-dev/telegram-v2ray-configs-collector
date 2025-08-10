@@ -1,1 +1,1 @@
-vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?security=tls&encryption=none&headerType=none&type=tcp&sni=005188006073.sec1org.com#🇺🇦 5.188.6.73
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#🇺🇦 176.103.53.105
