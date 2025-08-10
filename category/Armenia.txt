@@ -1,4 +1,4 @@
 vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?security=none&encryption=none&type=ws#🇦🇲 93.115.240.88
-vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?type=ws&security=none#🇦🇲 93.115.240.88
+vless://4d4c4677-7d6d-433f-832c-a47fa7229135@93.115.240.88:10000?type=ws&security=none#🇦🇲 93.115.240.88
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=/am@2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇦🇲 5.10.214.123
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 93.115.240.90

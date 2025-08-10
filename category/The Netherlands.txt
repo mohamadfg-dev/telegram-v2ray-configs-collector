@@ -9,11 +9,12 @@ vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🏴‍☠️ 193.29.139.235
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoi8J+PtOKAjeKYoO+4jyA0NS45My4xNjguMzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NkR2d09PRDNDQ2VlTWlRRmJzY2du@89.110.85.176:16432?type=tcp#🏴‍☠️ 89.110.85.176
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ 64.188.97.173
+vless://turboo-server@telegram1.turbooo-server.com:43978?security=none&encryption=none&headerType=http&type=tcp#🏴‍☠️ 95.211.46.25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🏴‍☠️ 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🏴‍☠️ 199.247.28.17
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🏴‍☠️ 91.206.71.162
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🏴‍☠️ 91.206.71.162
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🏴‍☠️ 188.42.89.100
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443?type=tcp&security=none#🏴‍☠️ 104.248.196.83
 vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfj7TigI3imKDvuI8gMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🏴‍☠️ 193.29.139.177
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🏴‍☠️ 91.206.71.162
