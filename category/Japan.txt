@@ -1,2 +1,1 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.154.214:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=?ed=2744#🇯🇵 141.147.154.214
-trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@18.181.175.76:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🇯🇵 18.181.175.76
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 153.121.43.183
