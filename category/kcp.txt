@@ -1,2 +1,0 @@
-vless://c75bf7f7-ed5f-4fb0-8725-62852d25a384@192.3.1.161:30003?encryption=none&security=none&type=kcp&headertype=wireguard&seed=MXzBfrSarp#🇺🇸 192.3.1.161
-vless://c75bf7f7-ed5f-4fb0-8725-62852d25a384@192.3.1.161:30003?encryption=none&security=none&type=kcp&headertype=wireguard&seed=MXzBfrSarp#🇺🇸 192.3.1.161
