@@ -1,4 +1,4 @@
-import { appendFile , rm} from "node:fs/promises";
+import { appendFile, rm } from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
 //--------------------------------------------------------- Type & Interfaces
 type Result = Record<"config" | "country" | "typeConfig", string>;
@@ -7,206 +7,209 @@ type FinalResult = Record<"protocol", string> & Result;
 interface IPApiResponse {
   country: string;
   query: string;
+  countryCode: string;
 }
 //---------------------------------------------------------- Variable
 const countGetConfigOfEveryChannel = 2;
 const countryFlagMap: { [key: string]: string } = {
-  Afghanistan: "🇦🇫",
-  Albania: "🇦🇱",
-  Algeria: "🇩🇿",
-  Andorra: "🇦🇩",
-  Angola: "🇦🇴",
-  "Antigua and Barbuda": "🇦🇬",
-  Argentina: "🇦🇷",
-  Armenia: "🇦🇲",
-  Australia: "🇦🇺",
-  Austria: "🇦🇹",
-  Azerbaijan: "🇦🇿",
-  Bahamas: "🇧🇸",
-  Bahrain: "🇧🇭",
-  Bangladesh: "🇧🇩",
-  Barbados: "🇧🇧",
-  Belarus: "🇧🇾",
-  Belgium: "🇧🇪",
-  Belize: "🇧🇿",
-  Benin: "🇧🇯",
-  Bhutan: "🇧🇹",
-  Bolivia: "🇧🇴",
-  "Bosnia and Herzegovina": "🇧🇦",
-  Botswana: "🇧🇼",
-  Brazil: "🇧🇷",
-  Brunei: "🇧🇳",
-  Bulgaria: "🇧🇬",
-  "Burkina Faso": "🇧🇫",
-  Burundi: "🇧🇮",
-  "Cabo Verde": "🇨🇻",
-  Cambodia: "🇰🇭",
-  Cameroon: "🇨🇲",
-  Canada: "🇨🇦",
-  "Central African Republic": "🇨🇫",
-  Chad: "🇹🇩",
-  Chile: "🇨🇱",
-  China: "🇨🇳",
-  Colombia: "🇨🇴",
-  Comoros: "🇰🇲",
-  "Congo (Congo-Brazzaville)": "🇨🇬",
-  "Costa Rica": "🇨🇷",
-  Croatia: "🇭🇷",
-  Cuba: "🇨🇺",
-  Cyprus: "🇨🇾",
-  "Czech Republic": "🇨🇿",
-  "Democratic Republic of the Congo": "🇨🇩",
-  Denmark: "🇩🇰",
-  Djibouti: "🇩🇯",
-  Dominica: "🇩🇲",
-  "Dominican Republic": "🇩🇴",
-  Ecuador: "🇪🇨",
-  Egypt: "🇪🇬",
-  "El Salvador": "🇸🇻",
-  "Equatorial Guinea": "🇬🇶",
-  Eritrea: "🇪🇷",
-  Estonia: "🇪🇪",
-  Eswatini: "🇸🇿",
-  Ethiopia: "🇪🇹",
-  Fiji: "🇫🇯",
-  Finland: "🇫🇮",
-  France: "🇫🇷",
-  Gabon: "🇬🇦",
-  Gambia: "🇬🇲",
-  Georgia: "🇬🇪",
-  Germany: "🇩🇪",
-  Ghana: "🇬🇭",
-  Greece: "🇬🇷",
-  Grenada: "🇬🇩",
-  Guatemala: "🇬🇹",
-  Guinea: "🇬🇳",
-  "Guinea-Bissau": "🇬🇼",
-  Guyana: "🇬🇾",
-  Haiti: "🇭🇹",
-  Honduras: "🇭🇳",
-  Hungary: "🇭🇺",
-  Iceland: "🇮🇸",
-  India: "🇮🇳",
-  Indonesia: "🇮🇩",
-  Iran: "🇮🇷",
-  Iraq: "🇮🇶",
-  Ireland: "🇮🇪",
-  Israel: "🇮🇱",
-  Italy: "🇮🇹",
-  Jamaica: "🇯🇲",
-  Japan: "🇯🇵",
-  Jordan: "🇯🇴",
-  Kazakhstan: "🇰🇿",
-  Kenya: "🇰🇪",
-  Kiribati: "🇰🇮",
-  Kuwait: "🇰🇼",
-  Kyrgyzstan: "🇰🇬",
-  Laos: "🇱🇦",
-  Latvia: "🇱🇻",
-  Lebanon: "🇱🇧",
-  Lesotho: "🇱🇸",
-  Liberia: "🇱🇷",
-  Libya: "🇱🇾",
-  Liechtenstein: "🇱🇮",
-  Lithuania: "🇱🇹",
-  Luxembourg: "🇱🇺",
-  Madagascar: "🇲🇬",
-  Malawi: "🇲🇼",
-  Malaysia: "🇲🇾",
-  Maldives: "🇲🇻",
-  Mali: "🇲🇱",
-  Malta: "🇲🇹",
-  "Marshall Islands": "🇲🇭",
-  Mauritania: "🇲🇷",
-  Mauritius: "🇲🇺",
-  Mexico: "🇲🇽",
-  Micronesia: "🇫🇲",
-  Moldova: "🇲🇩",
-  Monaco: "🇲🇨",
-  Mongolia: "🇲🇳",
-  Montenegro: "🇲🇪",
-  Morocco: "🇲🇦",
-  Mozambique: "🇲🇿",
-  "Myanmar (Burma)": "🇲🇲",
-  Namibia: "🇳🇦",
-  Nauru: "🇳🇷",
-  Nepal: "🇳🇵",
-  Netherlands: "🇳🇱",
-  "New Zealand": "🇳🇿",
-  Nicaragua: "🇳🇮",
-  Niger: "🇳🇪",
-  Nigeria: "🇳🇬",
-  "North Korea": "🇰🇵",
-  "North Macedonia": "🇲🇰",
-  Norway: "🇳🇴",
-  Oman: "🇴🇲",
-  Pakistan: "🇵🇰",
-  Palau: "🇵🇼",
-  Palestine: "🇵🇸",
-  Panama: "🇵🇦",
-  "Papua New Guinea": "🇵🇬",
-  Paraguay: "🇵🇾",
-  Peru: "🇵🇪",
-  Philippines: "🇵🇭",
-  Poland: "🇵🇱",
-  Portugal: "🇵🇹",
-  Qatar: "🇶🇦",
-  Romania: "🇷🇴",
-  Russia: "🇷🇺",
-  Rwanda: "🇷🇼",
-  "Saint Kitts and Nevis": "🇰🇳",
-  "Saint Lucia": "🇱🇨",
-  "Saint Vincent and the Grenadines": "🇻🇨",
-  Samoa: "🇼🇸",
-  "San Marino": "🇸🇲",
-  "Sao Tome and Principe": "🇸🇹",
-  "Saudi Arabia": "🇸🇦",
-  Senegal: "🇸🇳",
-  Serbia: "🇷🇸",
-  Seychelles: "🇸🇨",
-  "Sierra Leone": "🇸🇱",
-  Singapore: "🇸🇬",
-  Slovakia: "🇸🇰",
-  Slovenia: "🇸🇮",
-  "Solomon Islands": "🇸🇧",
-  Somalia: "🇸🇴",
-  "South Africa": "🇿🇦",
-  "South Korea": "🇰🇷",
-  "South Sudan": "🇸🇸",
-  Spain: "🇪🇸",
-  "Sri Lanka": "🇱🇰",
-  Sudan: "🇸🇩",
-  Suriname: "🇸🇷",
-  Sweden: "🇸🇪",
-  Switzerland: "🇨🇭",
-  Syria: "🇸🇾",
-  Taiwan: "🇹🇼",
-  Tajikistan: "🇹🇯",
-  Tanzania: "🇹🇿",
-  Thailand: "🇹🇭",
-  "Timor-Leste": "🇹🇱",
-  Togo: "🇹🇬",
-  Tonga: "🇹🇴",
-  "Trinidad and Tobago": "🇹🇹",
-  Tunisia: "🇹🇳",
-  Turkey: "🇹🇷",
-  Turkmenistan: "🇹🇲",
-  Tuvalu: "🇹🇻",
-  Uganda: "🇺🇬",
-  Ukraine: "🇺🇦",
-  "United Arab Emirates": "🇦🇪",
-  "United Kingdom": "🇬🇧",
-  "United States": "🇺🇸",
-  Uruguay: "🇺🇾",
-  Uzbekistan: "🇺🇿",
-  Vanuatu: "🇻🇺",
-  "Vatican City": "🇻🇦",
-  Venezuela: "🇻🇪",
-  Vietnam: "🇻🇳",
-  Yemen: "🇾🇪",
-  Zambia: "🇿🇲",
-  Zimbabwe: "🇿🇼",
+  AF: "🇦🇫",
+  AL: "🇦🇱",
+  DZ: "🇩🇿",
+  AD: "🇦🇩",
+  AO: "🇦🇴",
+  AG: "🇦🇬",
+  AR: "🇦🇷",
+  AM: "🇦🇲",
+  AU: "🇦🇺",
+  AT: "🇦🇹",
+  AZ: "🇦🇿",
+  BS: "🇧🇸",
+  BH: "🇧🇭",
+  BD: "🇧🇩",
+  BB: "🇧🇧",
+  BY: "🇧🇾",
+  BE: "🇧🇪",
+  BZ: "🇧🇿",
+  BJ: "🇧🇯",
+  BT: "🇧🇹",
+  BO: "🇧🇴",
+  BA: "🇧🇦",
+  BW: "🇧🇼",
+  BR: "🇧🇷",
+  BN: "🇧🇳",
+  BG: "🇧🇬",
+  BF: "🇧🇫",
+  BI: "🇧🇮",
+  CV: "🇨🇻",
+  KH: "🇰🇭",
+  CM: "🇨🇲",
+  CA: "🇨🇦",
+  CF: "🇨🇫",
+  TD: "🇹🇩",
+  CL: "🇨🇱",
+  CN: "🇨🇳",
+  CO: "🇨🇴",
+  KM: "🇰🇲",
+  CG: "🇨🇬",
+  CR: "🇨🇷",
+  HR: "🇭🇷",
+  CU: "🇨🇺",
+  CY: "🇨🇾",
+  CZ: "🇨🇿",
+  CD: "🇨🇩",
+  DK: "🇩🇰",
+  DJ: "🇩🇯",
+  DM: "🇩🇲",
+  DO: "🇩🇴",
+  EC: "🇪🇨",
+  EG: "🇪🇬",
+  SV: "🇸🇻",
+  GQ: "🇬🇶",
+  ER: "🇪🇷",
+  EE: "🇪🇪",
+  SZ: "🇸🇿",
+  ET: "🇪🇹",
+  FJ: "🇫🇯",
+  FI: "🇫🇮",
+  FR: "🇫🇷",
+  GA: "🇬🇦",
+  GM: "🇬🇲",
+  GE: "🇬🇪",
+  DE: "🇩🇪",
+  GH: "🇬🇭",
+  GR: "🇬🇷",
+  GD: "🇬🇩",
+  GT: "🇬🇹",
+  GN: "🇬🇳",
+  GW: "🇬🇼",
+  GY: "🇬🇾",
+  HT: "🇭🇹",
+  HN: "🇭🇳",
+  HU: "🇭🇺",
+  IS: "🇮🇸",
+  IN: "🇮🇳",
+  ID: "🇮🇩",
+  IR: "🇮🇷",
+  IQ: "🇮🇶",
+  IE: "🇮🇪",
+  IL: "🇮🇱",
+  IT: "🇮🇹",
+  JM: "🇯🇲",
+  JP: "🇯🇵",
+  JO: "🇯🇴",
+  KZ: "🇰🇿",
+  KE: "🇰🇪",
+  KI: "🇰🇮",
+  KW: "🇰🇼",
+  KG: "🇰🇬",
+  LA: "🇱🇦",
+  LV: "🇱🇻",
+  LB: "🇱🇧",
+  LS: "🇱🇸",
+  LR: "🇱🇷",
+  LY: "🇱🇾",
+  LI: "🇱🇮",
+  LT: "🇱🇹",
+  LU: "🇱🇺",
+  MG: "🇲🇬",
+  MW: "🇲🇼",
+  MY: "🇲🇾",
+  MV: "🇲🇻",
+  ML: "🇲🇱",
+  MT: "🇲🇹",
+  MH: "🇲🇭",
+  MR: "🇲🇷",
+  MU: "🇲🇺",
+  MX: "🇲🇽",
+  FM: "🇫🇲",
+  MD: "🇲🇩",
+  MC: "🇲🇨",
+  MN: "🇲🇳",
+  ME: "🇲🇪",
+  MA: "🇲🇦",
+  MZ: "🇲🇿",
+  MM: "🇲🇲",
+  NA: "🇳🇦",
+  NR: "🇳🇷",
+  NP: "🇳🇵",
+  NL: "🇳🇱",
+  NZ: "🇳🇿",
+  NI: "🇳🇮",
+  NE: "🇳🇪",
+  NG: "🇳🇬",
+  KP: "🇰🇵",
+  MK: "🇲🇰",
+  NO: "🇳🇴",
+  OM: "🇴🇲",
+  PK: "🇵🇰",
+  PW: "🇵🇼",
+  PS: "🇵🇸",
+  PA: "🇵🇦",
+  PG: "🇵🇬",
+  PY: "🇵🇾",
+  PE: "🇵🇪",
+  PH: "🇵🇭",
+  PL: "🇵🇱",
+  PT: "🇵🇹",
+  QA: "🇶🇦",
+  RO: "🇷🇴",
+  RU: "🇷🇺",
+  RW: "🇷🇼",
+  KN: "🇰🇳",
+  LC: "🇱🇨",
+  VC: "🇻🇨",
+  WS: "🇼🇸",
+  SM: "🇸🇲",
+  ST: "🇸🇹",
+  SA: "🇸🇦",
+  SN: "🇸🇳",
+  RS: "🇷🇸",
+  SC: "🇸🇨",
+  SL: "🇸🇱",
+  SG: "🇸🇬",
+  SK: "🇸🇰",
+  SI: "🇸🇮",
+  SB: "🇸🇧",
+  SO: "🇸🇴",
+  ZA: "🇿🇦",
+  KR: "🇰🇷",
+  SS: "🇸🇸",
+  ES: "🇪🇸",
+  LK: "🇱🇰",
+  SD: "🇸🇩",
+  SR: "🇸🇷",
+  SE: "🇸🇪",
+  CH: "🇨🇭",
+  SY: "🇸🇾",
+  TW: "🇹🇼",
+  TJ: "🇹🇯",
+  TZ: "🇹🇿",
+  TH: "🇹🇭",
+  TL: "🇹🇱",
+  TG: "🇹🇬",
+  TO: "🇹🇴",
+  TT: "🇹🇹",
+  TN: "🇹🇳",
+  TR: "🇹🇷",
+  TM: "🇹🇲",
+  TV: "🇹🇻",
+  UG: "🇺🇬",
+  UA: "🇺🇦",
+  AE: "🇦🇪",
+  GB: "🇬🇧",
+  US: "🇺🇸",
+  UY: "🇺🇾",
+  UZ: "🇺🇿",
+  VU: "🇻🇺",
+  VA: "🇻🇦",
+  VE: "🇻🇪",
+  VN: "🇻🇳",
+  YE: "🇾🇪",
+  ZM: "🇿🇲",
+  ZW: "🇿🇼",
+  UN: "🏴‍☠️"
 };
+
 //---------------------------------------------------------- Tools
 function decodeHtmlEntities(str: string): string {
   return decodeURIComponent(str)
@@ -246,13 +249,13 @@ async function fetchHtml(url: string): Promise<void> {
 
       for (const element of lastFiveMessages) {
         const decodeHtml = decodeHtmlEntities(element);
-        
+
         if (!decodeHtml.includes("…")) {
           await Grouping(decodeHtml);
-        }else{
+        } else {
           await appendFile(`./BadChannels.txt`, url + "\n");
         }
-      
+
       }
     } else {
       await appendFile(`./BadChannels.txt`, url + "\n");
@@ -267,8 +270,8 @@ async function fetchHtml(url: string): Promise<void> {
 async function vmessHandle(input: string): Promise<Result> {
   const configinfo = decodeBase64Unicode(input);
 
-  const { flag, country, ip } = await checkIP(configinfo.add);
-  configinfo.ps = `${flag} ${ip}`;
+  const { flag, country, ip , countryCode } = await checkIP(configinfo.add);
+  configinfo.ps = `${flag} ${countryCode} | ${ip}`;
 
   return {
     config: encodeBase64Unicode(configinfo),
@@ -282,53 +285,51 @@ async function configChanger(urlString: string): Promise<FinalResult> {
 
   if (protocol == "vmess") {
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
-    
-      config = "vmess://" + vmesconf.config;
-      country = vmesconf.country;
-      typeConfig = vmesconf.typeConfig;
-  } 
+
+    config = "vmess://" + vmesconf.config;
+    country = vmesconf.country;
+    typeConfig = vmesconf.typeConfig;
+  }
   else {
     const { hostname, searchParams } = new URL(urlString);
 
-      const api = await checkIP(hostname);
+    const api = await checkIP(hostname);
 
-      typeConfig = searchParams.get("type") ?? "";
-      country = api.country;
-      config = urlString.split("#")[0] + "#" + api.flag + " " + api.ip;
+    typeConfig = searchParams.get("type") ?? "";
+    country = api.country;
+    config = urlString.split("#")[0] + "#" + `${api.flag} ${api.countryCode} | ${api.ip}`;
   }
   return { protocol, config, country, typeConfig };
 }
-function sleep(ms: number): Promise<void> {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
 async function checkIP(ipaddress: string) {
   console.log("Check Ip ...");
-  sleep(1000);
-  // http://ip-api.com/json/
-  const response = await fetch(
-    `https://irjh.top/py/check/ip.php?ip=${ipaddress}`,
-    {
-      redirect: "manual",
+  await new Promise((resolve) => setTimeout(resolve, 1000));
+
+  let data: Partial<IPApiResponse> = {};
+
+  try {
+    const response = await fetch(`https://www.irjh.top/py/check/ip.php?ip=${ipaddress}`);
+
+    if (!response.ok) {
+      console.log(`HTTP error! status: ${response.status}`);
+    } else {
+      data = (await response.json()) as IPApiResponse;
     }
-  );
-  const data = (await response.json()) as IPApiResponse;
+  } catch{ }
 
-  if (!response.ok) {
-    console.log(`HTTP error! status: ${response.status}`);
-  }
+  const country = data.country ?? "Unknown";
+  const countryCode = data.countryCode ?? "UN";
+  const flag = countryFlagMap[countryCode];
+  const ip = data.query ?? ipaddress;
 
-  const country = data.country || "Unknown";
-  const flag = countryFlagMap[country] || "🏴‍☠️";
-  const ip = data.query || ipaddress;
-
-  return { country, flag, ip };
+  return { country, flag, ip, countryCode };
 }
 async function Grouping(urls: string): Promise<void> {
-  console.log("Config :",urls +"\n");
-  
+  console.log("Config :", urls + "\n");
+
   const FinalResult = await configChanger(urls);
 
-  console.log("final Info :", FinalResult,"\n");
+  console.log("final Info :", FinalResult, "\n");
 
   if (FinalResult) {
     await appendFile(
@@ -353,5 +354,4 @@ async function startScaninig() {
     await fetchHtml("https://t.me/s/" + value);
   }
 }
-await appendFile(`./BadChannels.txt`,"Bad Channel List\n");
 startScaninig();

@@ -25,7 +25,7 @@ jobs:
       - name: Remove And Replace New Configs
         run: |
          rm -f category/*
-         rm -rf BadChannels.txt
+         > BadChannels.txt
 
       # Run the index.ts file
       - name: Run index.ts
