@@ -6,8 +6,7 @@ on:
     - cron: "0 */2 * * *" # هر دو ساعت یک بار
 
 jobs:
-  my-job:
-    name: UpdateConfigs
+  UpdateConfigs:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,7 +24,7 @@ jobs:
 
       - name: Remove And Replace New Configs
         run: |
-         rm -rf category/*
+         rm -f category/*
          rm -rf BadChannels.txt
 
       # Run the index.ts file
@@ -37,7 +36,7 @@ jobs:
         run: |
           git config --local user.name "Robot-1"
           git config --local user.email "Robot@example.com"
-          git add category/*
+          git add -A --ignore-removal category/*
           git add BadChannels.txt
           git commit -m "UpdateConfigs"
           git push

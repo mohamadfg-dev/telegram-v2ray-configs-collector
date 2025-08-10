@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "30 5,8,11,14,17,20 * * *"
 
+concurrency:
+  group: configs-update
+  cancel-in-progress: false
+
 jobs:
   sendZip:
     runs-on: ubuntu-latest
