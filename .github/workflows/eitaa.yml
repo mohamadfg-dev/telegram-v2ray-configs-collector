@@ -47,7 +47,7 @@ jobs:
         run: |
           CAPTION=$'🆕 آخرین لیست بروزرسانی شده\n\n#v2ray #vmess #vless\n\n@v2rayng_free | مارا به دوستان خود معرفی کنید'
           
-          curl -X POST "https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile" 
-            -F "chat_id=v2rayng_free" 
-            -F "file=@v2rayng_free.zip" 
+          curl -X POST "https://eitaayar.ir/api/bot${{ secrets.PERSONAL_API_KEY }}/sendFile" \
+            -F "chat_id=v2rayng_free" \
+            -F "file=@v2rayng_free.zip" \
             -F "caption=$CAPTION"
