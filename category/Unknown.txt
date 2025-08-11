@@ -7,8 +7,8 @@ vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?securi
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#🏴‍☠️ UN | [2a03:b0c0:3:d0::10ad:7001]
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
-vless://dd27cbd6-9995-4338-9219-20277324be65@NLpizza.kuckenpq.ir:8880?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | NLpizza.kuckenpq.ir
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🏴‍☠️ UN | series-a2.samanehha.co
 vless://c6984604-9721-45b0-d0f8-b5fc0a14d8af@vip.premuimacc.com:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | vip.premuimacc.com
 vless://4633a227-2379-4127-9303-f0603c9a3a7d@panel1.svgspeedtest.net:54401?type=tcp&security=reality&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&fp=chrome&sni=zula.ir&sid=e5201e3c&spx=/#🏴‍☠️ UN | panel1.svgspeedtest.net
 ss://YWVzLTI1Ni1nY206ZTkxMjNjY2UtZTRiZC00NmNmLTg0NjYtNzA4YjM2M2E5ODA3@[2603:c024:4:57cc:8bf4:887c:2e0a:a0]:36000#🏴‍☠️ UN | [2603:c024:4:57cc:8bf4:887c:2e0a:a0]
@@ -34,3 +34,4 @@ vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?host=fast.com
 vless://e5f689a0-16c9-490e-8276-c1535964efc2@sublink.kharejishop.sbs:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=BKCXk7rOuoL_V29FXRuOY0D9n0SvNIrU_RSQ2U0mLTo&fp=chrome&type=grpc&serviceName=W7lsFNbKqr3KudvIdn0xHgBq2t&sni=refersion.com&sid=1a71da57#🏴‍☠️ UN | sublink.kharejishop.sbs
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🏴‍☠️ UN | stirring-parakeet.shiner427.skin
 vless://8369bccd-ec80-4c73-ba46-17edbe003e87@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg
