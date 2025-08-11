@@ -1,9 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUlh0N1dTdVk4dXVNNTdJT1VINnBt@178.208.91.118:19805#🇳🇱 NL | 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?typetcp#🇳🇱 NL | 193.29.139.240
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🇳🇱 NL | 164.90.193.44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱 NL | 92.112.126.90
 vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoi8J+Hs/Cfh7EgTkwgfCA0NS45My4xNjguMzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUlh0N1dTdVk4dXVNNTdJT1VINnBt@178.208.91.118:19805#🇳🇱 NL | 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?typetcp#🇳🇱 NL | 193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUlh0N1dTdVk4dXVNNTdJT1VINnBt@178.208.91.118:19805#🇳🇱 NL | 178.208.91.118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?typetcp#🇳🇱 NL | 193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🇳🇱 NL | 194.87.31.68
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@80.76.34.110:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇳🇱 NL | 80.76.34.110
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
@@ -21,4 +24,3 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/barayeiran
 vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjMGY5Y2Y0LTZhMGMtNDJmMy1hNmRlLTg5Yzc5ZDRhZjhlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDIyNzAiLCJwcyI6IvCfh7Pwn4exIE5MIHwgMTc2LjEyMC4xNy42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3&type=tcp&headerType=none#🇳🇱 NL | 185.250.181.128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwS2pRTTZVWUNVZlY2Y1dNcnU5ZGph@macintosh.outlinekeys.net:19609#🇳🇱 NL | 178.23.190.216
-vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇳🇱 NL | 185.82.73.189

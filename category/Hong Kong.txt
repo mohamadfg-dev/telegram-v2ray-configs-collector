@@ -1,5 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#undefined HK | 18.162.146.85
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path=/?proxyip=ts.hpc.tw&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#undefined HK | 27.50.48.239
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#undefined HK | 151.240.110.212
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path=/?proxyip=ts.hpc.tw&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#undefined HK | 27.50.48.239
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path=/?proxyip=ts.hpc.tw&security=tls&encryption=none&host=edgb.esslh.filegear-sg.me&type=ws&sni=edgb.esslh.filegear-sg.me#undefined HK | 27.50.48.239
-vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MTAuaGVkdWlhbi5saW5rIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsInBvcnQiOiIzMDgwNyIsInBzIjoidW5kZWZpbmVkIEhLIHwgMTEyLjExOS41My4yNDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MTAuaGVkdWlhbi5saW5rIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsInBvcnQiOiIzMDgwNyIsInBzIjoidW5kZWZpbmVkIEhLIHwgMTEyLjExOS4xNjkuMjQ0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
