@@ -8,7 +8,6 @@ vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?t
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🏴‍☠️ UN | series-a2.samanehha.co
 vless://c6984604-9721-45b0-d0f8-b5fc0a14d8af@vip.premuimacc.com:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | vip.premuimacc.com
 vless://4633a227-2379-4127-9303-f0603c9a3a7d@panel1.svgspeedtest.net:54401?type=tcp&security=reality&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&fp=chrome&sni=zula.ir&sid=e5201e3c&spx=/#🏴‍☠️ UN | panel1.svgspeedtest.net
 ss://YWVzLTI1Ni1nY206ZTkxMjNjY2UtZTRiZC00NmNmLTg0NjYtNzA4YjM2M2E5ODA3@[2603:c024:4:57cc:8bf4:887c:2e0a:a0]:36000#🏴‍☠️ UN | [2603:c024:4:57cc:8bf4:887c:2e0a:a0]
@@ -27,6 +26,7 @@ vless://4d696946-21b5-4454-9479-95883a491884@bia-channel-hajimamad.timeclassic.i
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@delta.realtechshop.top:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#🏴‍☠️ UN | delta.realtechshop.top
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🏴‍☠️ UN | admin.c1.webramz.co
 vless://9fad9384-875a-402d-82ce-34e319bfc78d@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.arbeitsagentur.de&fp=chrome&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
 vless://9fad9384-875a-402d-82ce-34e319bfc78d@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.arbeitsagentur.de&fp=chrome&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
