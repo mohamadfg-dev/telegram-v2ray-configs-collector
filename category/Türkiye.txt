@@ -8,3 +8,4 @@ vless://cf34a854-e30a-4492-8c32-9d2893a2ad30@45.136.5.171:80?security=none&encry
 vless://cf34a854-e30a-4492-8c32-9d2893a2ad30@45.136.5.171:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇹🇷 TR | 45.136.5.171
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷 TR | 193.46.56.185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk=@77.83.245.171:443#🇹🇷 TR | 77.83.245.171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#🇹🇷 TR | 62.133.63.212
