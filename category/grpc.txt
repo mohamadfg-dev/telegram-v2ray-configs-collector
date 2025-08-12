@@ -11,7 +11,8 @@ vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.186
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.248
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
-vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 104.18.33.112
+vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 2606:4700:4400::6812:2170
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880/?type=grpc&encryption=none&flow=#🇺🇸 US | 45.82.251.78
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.253
@@ -27,7 +28,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.231
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=&type=grpc&encryption=none#🇫🇷 FR | 94.131.9.172
-vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=grpc&serviceName=Join#🇺🇸 US | 151.101.2.219
+vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=grpc&serviceName=Join#🇺🇸 US | 151.101.194.219
 vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=grpc&serviceName=Join#🇬🇧 GB | 2a04:4e42:400::731
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc#🇫🇷 FR | 185.231.205.231
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.9.172
@@ -40,3 +41,4 @@ vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?encryption=none&
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 trojan://doUZqwv94T@ampol.marana.sbs:22194?type=grpc&serviceName=&authority=&security=reality&pbk=CqA-ZIFpF-zkCwXoM4zNQowY7NSQFJOJFRHQO7h81zg&fp=chrome&sni=google.com&sid=15&spx=/#🇫🇮 FI | 95.216.136.0
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.122
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷 FR | 185.231.205.186
