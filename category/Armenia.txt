@@ -2,5 +2,6 @@ vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?security=&encry
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#🇦🇲 AM | 188.164.159.22
 vless://fc8f56b0-7433-4e8f-9798-ab072af1e423@93.115.240.88:20000?type=ws&security=none#🇦🇲 AM | 93.115.240.88
 trojan://Aimer@188.164.159.22:2096?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#🇦🇲 AM | 188.164.159.22
+vless://fc8f56b0-7433-4e8f-9798-ab072af1e423@93.115.240.88:20000?security=none&type=ws&packetEncoding=xudp&encryption=none#🇦🇲 AM | 93.115.240.88
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=/am@2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇦🇲 AM | 5.10.214.123
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
