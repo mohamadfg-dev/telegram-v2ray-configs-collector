@@ -22,7 +22,6 @@ vless://965c6b5e-720f-4483-a12a-72cecdadf9f8@94.182.169.148:8412?security=none&e
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#🇮🇷 IR | 46.38.148.241
 vmess://eyJhZGQiOiJzdjIwLndhcnpvbmUxLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnUGlsOTRDei5kaXZhcmNkbi5jb20sdWEueWVrdGFuZXQuY29tIiwiaWQiOiI3MmJmNzVkMC1lZWNkLWNjNTctOGQ4Ny0zZWY3ZDZjMGNmMjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTE5NSIsInBzIjoi8J+HrvCfh7cgSVIgfCAxODUuMjMyLjE1NS42MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
-vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp#🇮🇷 IR | 92.114.17.6
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#🇮🇷 IR | 81.12.96.39
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 62.60.185.248
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 62.60.185.248

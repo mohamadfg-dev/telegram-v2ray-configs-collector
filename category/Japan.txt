@@ -1,2 +1,1 @@
-trojan://7ac49a893e0bd10c@139.162.84.183:3306?security=tls&sni=vkvd127.mycdn.me&type=ws&host=139.162.84.183&path=/gateway/connect#🇯🇵 JP | 139.162.84.183
 vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzFiZjJmNmQtYTExMS00YjBmLWJkZTgtZWNlNjUyZmRlZTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAyMjMuMTM1LjE1Ni4xNzkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
