@@ -1,3 +1,1 @@
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.158
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.156
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.158
