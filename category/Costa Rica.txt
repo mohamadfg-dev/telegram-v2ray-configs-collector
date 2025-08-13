@@ -1,2 +1,2 @@
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
-trojan://NISHIKUITAN111@190.93.247.7:443?allowInsecure=1&ws=1&wspath=/#🇨🇷 CR | 190.93.247.7
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#🇨🇷 CR | 190.93.245.232
