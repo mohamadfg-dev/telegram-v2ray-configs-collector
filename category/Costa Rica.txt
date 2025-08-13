@@ -1,2 +1,4 @@
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#🇨🇷 CR | 190.93.245.232
+trojan://blue2024@190.93.247.133:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇷 CR | 190.93.247.133
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443?path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&alpn=h3&encryption=none&host=edgb.aimercc.dpdns.org&fp=random&type=ws&sni=edgb.aimercc.dpdns.org#🇨🇷 CR | 2803:f800:50::6ca2:c16e

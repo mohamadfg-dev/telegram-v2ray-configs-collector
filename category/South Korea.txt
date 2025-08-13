@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.100:17725#🇰🇷 KR | 125.141.31.100
+vless://101bbfad-fb11-4e99-9b66-b11659c26cff@112.162.27.122:50000?encryption=none&security=tls&sni=zoomgov.vipren.biz.id&type=ws&host=zoomgov.vipren.biz.id&path=/112.162.27.122=50000#🇰🇷 KR | 112.162.27.122
