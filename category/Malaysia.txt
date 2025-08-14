@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTVkgfCA4NS4yMTEuMTc2LjExNyIsImFkZCI6InQuY25tamNuLmN5b3UiLCJwb3J0IjoiMTY2MTgiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDJjMzdjNmMtOWFkOS00MmRjLTk5ZDYtYWZkM2MxMDBhNTYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZTU0MDZjMmY0ZjQyNzU2ZDRhNDA4OWZmY2Q1ODk0N2IubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiJ9
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?security=tls&encryption=none&type=ws&path=/hqqprlws&fp=chrome#🇲🇾 MY | 45.89.107.227

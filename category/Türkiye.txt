@@ -1,7 +1,5 @@
 vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904/?type=tcp&security=none#🇹🇷 TR | 193.111.125.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🇹🇷 TR | 83.217.9.128
-vless://6a468dac-3ce3-4880-9007-97e0359b59d8@ww3.leperfume.ir:4064?security=none&encryption=none&host=web.rubika.ir&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.135
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 TR | 185.234.66.94
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 TR | 185.234.66.94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk=@77.83.245.171:443#🇹🇷 TR | 77.83.245.171
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 TR | 185.234.66.94
