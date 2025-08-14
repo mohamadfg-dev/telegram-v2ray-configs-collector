@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RWFKM1dHZ09RRVI1YlVjWnBUV3lp@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 PL | 217.30.10.18
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🇵🇱 PL | 141.101.121.243
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#🇵🇱 PL | 54.38.138.8
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 PL | 146.59.117.172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 PL | 45.144.49.140
