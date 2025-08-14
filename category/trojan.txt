@@ -11,4 +11,3 @@ trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&
 trojan://telegram-id-v2rayvpnchannel@13.37.204.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.204.11
 trojan://telegram-id-v2rayvpnchannel@15.188.45.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.45.174
 trojan://doUZqwv94T@ampol.marana.sbs:22194?type=grpc&serviceName=&authority=&security=reality&pbk=CqA-ZIFpF-zkCwXoM4zNQowY7NSQFJOJFRHQO7h81zg&fp=chrome&sni=google.com&sid=15&spx=/#🇫🇮 FI | 95.216.136.0
-trojan://Aimer@67.226.223.139:80?allowInsecure=1&sni=ngep.ambercc.filegear-sg.me#🇬🇧 GB | 67.226.223.139
