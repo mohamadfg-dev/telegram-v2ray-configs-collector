@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#🇨🇾 CY | 151.240.3.168
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.92.9.26:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇨🇾 CY | 154.92.9.26

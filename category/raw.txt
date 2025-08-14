@@ -1,1 +1,1 @@
-vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?encryption=none&security=reality&sni=analytics.google.com&fp=chrome&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&sid=40e3350da285&spx=/&type=raw&headertype=none#🇩🇪 DE | 157.173.127.227
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?encryption=none&security=none&type=raw&headertype=none#🇺🇸 US | 38.99.82.225
