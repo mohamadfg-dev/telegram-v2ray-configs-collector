@@ -2,6 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RWFKM1dHZ09RRVI1YlVjWnBUV3lp@77.83.246.74:4
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 PL | 217.30.10.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdGlrdXBpWU1RQU9hS05IZ1VrZFJn@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWHlJOXlkWHloZXdBamN0VW1lb0ho@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#🇵🇱 PL | 54.38.138.8
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 PL | 146.59.117.172
-vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱 PL | 57.128.197.88
