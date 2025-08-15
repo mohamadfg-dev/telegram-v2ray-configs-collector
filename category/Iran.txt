@@ -29,7 +29,6 @@ vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://7d866a58-8da9-4af9-bed5-abc64c9ba15d@37.202.239.38:11336?security=none&encryption=none&host=cloudflare.com/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&headerType=http&type=tcp#🇮🇷 IR | 37.202.239.38
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 2.189.117.72
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 IR | 45.131.4.85
@@ -38,6 +37,8 @@ vmess://eyJhZGQiOiIyLjE4OC4yMTkuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 IR | 45.131.4.85
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 IR | 45.131.4.85
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@taxi.snapprlt2.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇮🇷 IR | 193.141.126.111
+vless://7d866a58-8da9-4af9-bed5-abc64c9ba15d@37.202.239.38:11336?security=none&encryption=none&host=cloudflare.com/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&headerType=http&type=tcp#🇮🇷 IR | 37.202.239.38
+vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 85.133.236.19
 vless://7d866a58-8da9-4af9-bed5-abc64c9ba15d@37.202.239.38:11336?security=none&encryption=none&host=cloudflare.com/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&headerType=http&type=tcp#🇮🇷 IR | 37.202.239.38
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷 IR | 45.131.4.85
 vless://52e68a0d-acd0-42c9-8ca8-9b26f0140e21@ir.holy3buy.website:36345?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 109.95.66.104
