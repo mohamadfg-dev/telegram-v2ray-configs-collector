@@ -1,2 +1,3 @@
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880?encryption=none&security=none&type=ws&host=cf.d3z.net&path=/telegram🇨🇳+@wangcai2+/?ed=2560#🇱🇹 LT | 89.116.250.251
 vless://437415db-3e91-42ef-a1b2-bbdcc8f6ed71@vip.pingkiller.online:80?path=/&security=none&encryption=none&type=ws#🇱🇹 LT | 84.32.84.33
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.203:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🇱🇹 LT | 89.116.250.203
