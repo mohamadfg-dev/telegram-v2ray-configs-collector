@@ -1,1 +1,1 @@
-vless://101bbfad-fb11-4e99-9b66-b11659c26cff@112.162.27.122:50000?encryption=none&security=tls&sni=zoomgov.vipren.biz.id&type=ws&host=zoomgov.vipren.biz.id&path=/112.162.27.122=50000#🇰🇷 KR | 112.162.27.122
+vless://5177172c-125a-47fa-bccd-3778b459a75e@121.153.32.79:50000/?type=ws&encryption=none&flow=&host=subvless.trevely.us.kg&path=/?ed=2560&security=tls&sni=subvless.trevely.us.kg#🇰🇷 KR | 121.153.32.79

@@ -1,2 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.232:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop#undefined HK | 156.238.19.232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#undefined HK | 151.240.110.212
