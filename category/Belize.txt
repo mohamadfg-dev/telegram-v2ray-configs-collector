@@ -1,2 +1,1 @@
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇧🇿 BZ | 45.131.7.0
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇧🇿 BZ | 45.131.7.0
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.131.7.169:80?encryption=none&security=none&type=ws&host=abaaba.9pcvkb68.workers.dev&path=telegram@wangcai2/?ed#🇧🇿 BZ | 45.131.7.169
