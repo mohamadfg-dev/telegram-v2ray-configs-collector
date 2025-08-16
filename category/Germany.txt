@@ -1,6 +1,5 @@
 vmess://eyJhZGQiOiI5MS45OS4xNDQuMjQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzcGVlZHRlc3QxLmlyYW5jZWxsLmlyLnByb2QuaG9zdHMub29rbGFzZXJ2ZXIubmV0LiIsImlkIjoiMTg3NGFmNzEtYWM3Ny00ODQ0LWEwYjItMTA5ZjgzNjQ2YmE0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzP2VkPTI1NjAvP1RFTEVHUkFNX0pLVlBOLUpLVlBOX0pLVlBOX0pLVlBOP2VkPTI1NjAiLCJwb3J0IjoiNTkwMSIsInBzIjoi8J+HqfCfh6ogREUgfCA5MS45OS4xNDQuMjQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 DE | 91.107.243.60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNkxITlk4UmFlb1Jscm5oRW41ZGFy@81.19.141.45:443#🇩🇪 DE | 81.19.141.45
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 93.152.217.5
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 93.152.217.5
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
@@ -15,14 +14,13 @@ vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?security=&
 vless://683eb1fd-5575-4da5-b5f0-953507b11b86@5.75.197.56:2095?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 5.75.197.56
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 207.154.236.4
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.178.242
+vless://3af3a0f3-28ea-407c-a3df-2ae3b33fc174@50.7.85.221:443?encryption=none&security=tls&sni=salampesarm.sesewov745.workers.dev&fp=chrome&type=ws&host=salampesarm.sesewov745.workers.dev&path=/#🇩🇪 DE | 50.7.85.221
 vless://3403d340-3956-4fe8-a971-1a1855fc8a5f@balabala.ahadbala.ir:22626?type=tcp&path=/&host=canva.com&headerType=http&security=none#🇩🇪 DE | 167.99.246.238
-vless://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com&sid=82bf76bf5e1008d8#🇩🇪 DE | 159.69.31.212
+vless://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com&sid=82bf76bf5e1008d8#🇩🇪 DE | 167.235.136.95
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@147.45.196.103:34045?type=tcp&headerType=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇩🇪 DE | 147.45.196.103
 vless://96f391f6-0762-4895-a57c-433360967ca8@Alman2.netblocksir.ir:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇩🇪 DE | 162.19.248.5
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA2OC4xODMuNjkuMTU1IiwiYWRkIjoiNjguMTgzLjY5LjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6IjE5MWJlOWIyLTQ1MWYtNDkzOS05YzlhLTgzNzE4ZTFhMDRjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYm13LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://d6c32036-2968-4c0a-91e2-2c93f563a236@142.132.227.65:34560?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 DE | 142.132.227.65
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNkxITlk4UmFlb1Jscm5oRW41ZGFy@81.19.141.45:443#🇩🇪 DE | 81.19.141.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBNkxITlk4UmFlb1Jscm5oRW41ZGFy@81.19.141.45:443#🇩🇪 DE | 81.19.141.45
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.178.242
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 188.245.75.235
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=/&type=tcp&sni=digg.com&sid=99d38a68#🇩🇪 DE | 172.104.148.48
@@ -45,11 +43,11 @@ vless://8bd2d4c0-066e-4aad-86a2-6fe8cd348905@150.241.108.219:51410?type=xhttp&mo
 vless://9d468e0a-01ca-41a2-a89b-73b2756f91ec@49.13.199.174:55555?type=xhttp&mode=auto&host=google.com&path=/live你好&security=reality&fp=chrome&sni=google.com&pbk=d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w&sid=bc5a8ead5ee076aa#🇩🇪 DE | 49.13.199.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cm5wTjY2amhpazlaZjBFYVdZVUJB@46.4.162.31:1080#🇩🇪 DE | 46.4.162.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZXF0dUVYUjZWaFJVdkcwUnhrU1JR@46.4.162.31:1080#🇩🇪 DE | 46.4.162.31
-vmess://eyJhZGQiOiIyMy4xNTguNTYuMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmVlZjM0NDgtYmJjMC00OTMzLTg5NGEtNzJiM2U4Nzg2MTA5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODk2MSIsInBzIjoi8J+HqfCfh6ogREUgfCAyMy4xNTguNTYuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 54.37.205.0
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 162.19.250.162
 vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir#🇩🇪 DE | 87.120.92.135
+vless://a4107f38-a3fc-4ff0-9756-ac0749dd9f07@135.125.239.114:443?security=reality&sni=tgju.org&fp=firefox&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386&type=tcp&packetEncoding=xudp&encryption=none#🇩🇪 DE | 135.125.239.114
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪 DE | 91.99.185.131
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 DE | 212.95.34.17
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.146.202.222:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇩🇪 DE | 45.146.202.222
@@ -78,13 +76,12 @@ vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&e
 vless://35915496-27c0-4a12-b064-f5232e93edaa@91.107.159.97:443?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=pxq_sXLY_HXTALGb_zb61Phln6mxkEN67u_ZBK2Uc3A&sid=3d1fc5a13456b34a&type=tcp&headerType=none#🇩🇪 DE | 91.107.159.97
 vless://8fa3730b-8c35-4acd-9ac1-6a08d23a0deb@150.241.108.219:43386?type=tcp&security=reality&pbk=OrhjqqCdUFCD2DW2ZWSjccDRRcVTj2GomOuWE6FFjgY&fp=chrome&sni=www.latimes.com&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN#🇩🇪 DE | 150.241.108.219
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&fp=firefox&sni=www.black-moai.com&sid=a862ded52ae3ea&spx=/#🇩🇪 DE | 80.240.23.101
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪 DE | 91.99.185.131
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪 DE | 91.99.132.59
 vless://3403d340-3956-4fe8-a971-1a1855fc8a5f@balabala.ahadbala.ir:22626?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🇩🇪 DE | 167.99.246.238
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA0OS4xMy43LjE0NiIsImFkZCI6IjQ5LjEzLjcuMTQ2IiwicG9ydCI6NTYyODUsImlkIjoiODkyNGQxOGUtZDhmZi00Nzc0LWI1MTEtNzVlMGNiYWRhZGRmIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSJ9
 vless://7153877e-dab2-4525-fa40-7e3f71dca814@91.107.254.105:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.254.105
+vless://5ec0867e-58f1-4a43-9dd6-184270134bd1@all65-vip.f-sub.com:1517?type=grpc&serviceName=#🇩🇪 DE | 91.99.161.243
 vless://5ec0867e-58f1-4a43-9dd6-184270134bd1@all65-vip.f-sub.com:1517?type=grpc&serviceName=#🇩🇪 DE | 91.99.218.248
-vless://5ec0867e-58f1-4a43-9dd6-184270134bd1@all65-vip.f-sub.com:1517?type=grpc&serviceName=#🇩🇪 DE | 91.99.181.252
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 54.37.205.0
 vless://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143?security=reality&encryption=none&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=0d#🇩🇪 DE | 85.9.200.197
 vless://Parsashonam-297@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=/&type=xhttp&sni=Google.com&sid=61e683d41fdb#🇩🇪 DE | 91.99.16.244
@@ -100,6 +97,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUWh3OTNmZlpCMzBEclJsTUxnUTdV@h110vpnde2.outlinekeys.net:53122#🇩🇪 DE | 147.45.178.15
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
+vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqIERFIHwgNTcuMTI5LjY0LjIzOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA1Ny4xMjkuMjQuMTI0IiwiYWRkIjoiNTcuMTI5LjI0LjEyNCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJhdmVpcm9yLmNvbSIsInBhdGgiOiIvbGlua3Z3cyJ9
 vless://2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?encryption=none&security=reality&sni=www.chess.com&fp=chrome&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&spx=/&type=grpc&authority=&serviceName=chessgame&mode=gun#🇩🇪 DE | 91.99.148.251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozek1UN1hRamJDTEVQYm5OTFNKOWo3@94.159.96.245:11902#🇩🇪 DE | 94.159.96.245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEcFViUWwxdm1uTUh1S3J1M0lGcFpY@94.159.96.245:11902#🇩🇪 DE | 94.159.96.245
@@ -107,5 +106,7 @@ vmess://eyJhZGQiOiI5MS45OS4xNDQuMjQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=reality&fp=firefox&sni=tgju.org&pbk=YTLvKt0zlbz5RI_m147go0PMsEa3WdhlQ-tqJKkeNHQ&sid=353e&spx=/#🇩🇪 DE | 91.99.97.7
 vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=reality&fp=firefox&sni=tgju.org&pbk=YTLvKt0zlbz5RI_m147go0PMsEa3WdhlQ-tqJKkeNHQ&sid=353e&spx=/#🇩🇪 DE | 91.99.97.7
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 DE | 91.99.160.217
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 DE | 212.95.34.22
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.24:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 DE | 212.95.34.24
+vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.95.72.22-korosh-kabiri.free4all.com.de:2087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 93.152.217.5
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 78.46.251.109
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@147.45.196.103:34045?type=tcp&headerType=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇩🇪 DE | 147.45.196.103
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss13712.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 DE | 91.107.240.122

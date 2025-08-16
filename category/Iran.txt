@@ -16,7 +16,7 @@ vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?security=none&enc
 vless://1cfd7a64-4f88-4937-b684-cc7fb42e6ee2@fin7.ipstatic.info:17721?type=tcp&security=none#🇮🇷 IR | 81.12.93.155
 vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@89.235.117.104:8001?security=none&encryption=none&type=ws#🇮🇷 IR | 89.235.117.104
 vless://965c6b5e-720f-4483-a12a-72cecdadf9f8@94.182.169.148:8412?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 94.182.169.148
-vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#🇮🇷 IR | 46.38.148.241
+vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#🇮🇷 IR | 46.38.146.250
 vmess://eyJhZGQiOiJzdjIwLndhcnpvbmUxLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnUGlsOTRDei5kaXZhcmNkbi5jb20sdWEueWVrdGFuZXQuY29tIiwiaWQiOiI3MmJmNzVkMC1lZWNkLWNjNTctOGQ4Ny0zZWY3ZDZjMGNmMjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTE5NSIsInBzIjoi8J+HrvCfh7cgSVIgfCAxODUuMjMyLjE1NS42MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=&encryption=none&host=khamenei.ir&headerType=http&type=tcp#🇮🇷 IR | 92.114.17.6
