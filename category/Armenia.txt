@@ -1,3 +1,4 @@
+vless://66afa24a-d7a7-4522-bf3e-f56f283594f0@93.115.240.71:8585?type=tcp&security=reality&pbk=NP-KIZcYYZv0RDbWSkjJMQItxr-bGvF-z_DO-ANM5ws&fp=firefox&sni=tgju.org&sid=4cf6b9fa372b23#🇦🇲 AM | 93.115.240.71
 vless://36a89e2e-1127-4c5b-8df3-e121866e0bab@93.115.240.88:15500?type=ws&security=none#🇦🇲 AM | 93.115.240.88
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=/am@2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇦🇲 AM | 5.10.214.123
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90

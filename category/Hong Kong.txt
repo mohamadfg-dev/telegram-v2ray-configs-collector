@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#undefined HK | 203.23.128.33
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#undefined HK | 156.238.19.95
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.129.167.3:8880?security=&sni=Telegram-channel-WangCai2&type=ws&path=/Telegram🇨🇳&host=bitget1.asdasd.click&encryption=none#undefined HK | 104.129.167.3
