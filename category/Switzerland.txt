@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭 CH | 156.146.62.164
 vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#🇨🇭 CH | 84.234.31.193
