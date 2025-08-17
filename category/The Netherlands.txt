@@ -8,7 +8,9 @@ vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=real
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇳🇱 NL | 91.198.77.59
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
+vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=random&security=reality&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3#🇳🇱 NL | 185.250.181.128
 vless://4808ded8-1646-4c3c-8b4c-6b6fedc3cde9@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#🇳🇱 NL | 80.74.29.212
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
 vless://59a6082b-c624-4fc3-9f5e-0b9fcebdbd70@Ty.iphone-shopp.ir:7047?security=&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 83.149.105.62
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235

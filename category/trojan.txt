@@ -2,7 +2,7 @@ trojan://telegram-id-directvpn@13.39.28.15:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@52.47.33.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.33.108
 trojan://1ae6dcb3-8d05-4eee-b550-32904c88c312@104.21.44.248:443/?type=ws&host=9ef7d8c2-70ef-dcb5-39a5-5c514e43bf12.freevpnatm2025.dpdns.org&path=/FF4b6iPGE1J6z1B74kgXZ&security=tls&sni=9ef7d8c2-70ef-dcb5-39a5-5c514e43bf12.freevpnatm2025.dpdns.org&alpn=http/1.1&fp=chrome#🇨🇦 CA | 104.21.44.248
 trojan://1ae6dcb3-8d05-4eee-b550-32904c88c312@104.21.44.248:443/?type=ws&host=9ef7d8c2-70ef-dcb5-39a5-5c514e43bf12.freevpnatm2025.dpdns.org&path=/FF4b6iPGE1J6z1B74kgXZ&security=tls&sni=9ef7d8c2-70ef-dcb5-39a5-5c514e43bf12.freevpnatm2025.dpdns.org&alpn=http/1.1&fp=chrome#🇨🇦 CA | 104.21.44.248
-trojan://WOeXShhJpL@172.67.38.98:443?security=tls&sni=11jzus.zdzdzd.xyz&type=ws&host=11jzus.zdzdzd.xyz&path=/juzigongyi#🇨🇦 CA | 172.67.38.98
+trojan://WOeXShhJpL@104.18.62.116:443?security=tls&sni=11jzus.zdzdzd.xyz&type=ws&host=11jzus.zdzdzd.xyz&path=/juzigongyi#🇨🇦 CA | 104.18.62.116
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@13.39.28.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.28.15
@@ -10,7 +10,5 @@ trojan://telegram-id-privatevpns@52.47.33.108:22222?security=tls&alpn=http/1.1&h
 trojan://:bC5^lakx>$d@172.66.45.9:443?path=/trNs9G5VJ2vI0PxgP2&security=tls&alpn=http/1.1&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv#🇨🇦 CA | 172.66.45.9
 trojan://Aimer@172.64.33.69:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#🇨🇦 CA | 172.64.33.69
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org&allowInsecure=1#undefined HK | 156.238.19.8
-trojan://telegram-id-v2rayvpnchannel@13.39.28.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.28.15
-trojan://telegram-id-v2rayvpnchannel@52.47.33.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.33.108
 trojan://telegram-id-v2rayvpnchannel@13.39.28.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.28.15
 trojan://telegram-id-v2rayvpnchannel@52.47.33.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.33.108
