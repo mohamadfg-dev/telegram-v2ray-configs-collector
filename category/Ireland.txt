@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@54.220.132.216:22222?security=tls&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.220.132.216
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.243.180:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇮🇪 IE | 54.154.243.180
