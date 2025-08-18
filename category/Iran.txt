@@ -3,7 +3,8 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.4.31.107
 vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#🇮🇷 IR | 193.3.182.246
 vless://da86fa0e-7d99-4ef4-bffc-cc7d114748ef@193.3.182.246:443?type=tcp&security=none#🇮🇷 IR | 193.3.182.246
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🇮🇷 IR | 62.60.192.209
+vless://8c9b6c3a-9266-4a80-8f86-b9b1520009be@tun.sepantamcloud.ir:8802?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 185.93.88.170
+vless://8c9b6c3a-9266-4a80-8f86-b9b1520009be@tun.sepantamcloud.ir:8803?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 185.93.88.170
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.#🇮🇷 IR | 185.116.161.5
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
@@ -44,5 +45,3 @@ vless://db3aa917-1354-42a8-a421-3467d74124dd@tt1.hennessypro.site:4001?security=
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 89.44.241.232
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🇮🇷 IR | 62.60.192.209
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.167
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🇮🇷 IR | 212.33.201.222
-vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=none&encryption=none&type=tcp&headerType=none#🇮🇷 IR | 185.149.192.188
