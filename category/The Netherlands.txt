@@ -4,7 +4,6 @@ vmess://eyJhZGQiOiJlZTEuZGFhbGx5Z29sZC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
 vless://8d15b73e-da60-4d4e-a76f-cea00cc68085@89.34.230.161:8880?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=hostname&type=xhttp#🇳🇱 NL | 89.34.230.161
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🇳🇱 NL | 91.206.71.162
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190

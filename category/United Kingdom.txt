@@ -1,6 +1,6 @@
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.46.230:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇬🇧 GB | 35.176.46.230
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/urdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#🇬🇧 GB | 91.193.58.190
+vless://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#🇬🇧 GB | 2a04:4e42::731
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoi8J+HrPCfh6cgR0IgfCA2NC4yMjcuNDUuOTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
@@ -13,11 +13,12 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 54.38.214.56
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.20.30
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.14.30
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.20.30
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
-vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#🇬🇧 GB | 2a04:4e42:400::731
-vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=grpc&serviceName=#🇬🇧 GB | 2a04:4e42:600::731
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3120::
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IvCfh6zwn4enIEdCIHwgNDYuMjUwLjI0My41NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&sid=a31a8d04622560&type=tcp&headerType=none#🇬🇧 GB | 51.38.64.196
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IvCfh6zwn4enIEdCIHwgNDYuMjUwLjI0My41NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
