@@ -10,7 +10,6 @@ vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 trojan://b1685c73-c74a-43fd-9b2b-47c045ab8cac@[2606:4700:3037::ac43:c5a5]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3037::ac43:c5a5]
 trojan://b1685c73-c74a-43fd-9b2b-47c045ab8cac@[2606:4700:3037::ac43:c5a5]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3037::ac43:c5a5]
 vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f9:c011:295a::1]
-vless://cdc4b604-1f3e-4b06#🏴‍☠️ UN | cdc4b604-1f3e-4b06
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=/123&mode=auto#🏴‍☠️ UN | s5.1dnt.k-l.cloud
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#🏴‍☠️ UN | [2a03:b0c0:3:d0::10ad:7001]
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
@@ -41,7 +40,6 @@ vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2
 vless://586b88a5-a911-4a0b-b5c6-a1bfa1b44a0e@zoomgov.vipren.biz.id:80?path=/132.226.8.109=43257&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🏴‍☠️ UN | zoomgov.vipren.biz.id
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQDcxLjE5LjE0OC43NDo0NDM=#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQDcxLjE5LjE0OC43NDo0NDM=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1QDE2Ny43MS4yMzUuMjM4OjQ3MzQ3#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1QDE2Ny43MS4yMzUuMjM4OjQ3MzQ3
-vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://fca53ace-498a-4e27-8b3c-a97bb6423cbd@0.0.0.0:4434?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=teamdocs.su&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?host=fast.com&type=tcp&security=none&encryption=none&headerType=http#🏴‍☠️ UN | dl2.kuckenpq.ir
