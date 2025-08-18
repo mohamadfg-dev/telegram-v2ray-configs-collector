@@ -11,7 +11,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.223
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.93
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
-vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 2606:4700:4400::6812:2170
+vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 172.64.154.144
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇺🇸 US | 45.82.251.80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.246
@@ -34,10 +34,10 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryptio
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇸🇬 SG | 45.8.211.71
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇷🇺 RU | 185.59.218.168
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇺🇸 US | 185.236.232.223
-vless://TELEGRAM-CONFiGLiNE@91.99.231.221:2020?mode=gun&security=reality&encryption=none&authority=&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=/&type=grpc&serviceName=telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE&sni=tgju.org&sid=809cb172dbede776#🇩🇪 DE | 91.99.231.221
+vless://1fb52030-a522-4665-8a35-09b6710b062d@51.89.175.150:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🇬🇧 GB | 51.89.175.150
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇺🇸 US | 45.82.251.80
-vless://5ec0867e-58f1-4a43-9dd6-184270134bd1@all65-vip.f-sub.com:1517?type=grpc&serviceName=#🇩🇪 DE | 91.99.9.254
-vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=grpc&serviceName=#🇺🇸 US | 151.101.130.219
+vless://5ec0867e-58f1-4a43-9dd6-184270134bd1@all65-vip.f-sub.com:1517?type=grpc&serviceName=#🇩🇪 DE | 91.99.181.252
+vless://a1cff861-43ed-42f1-bed0-b0aec2f9f668@speedtest.net:80?type=grpc&serviceName=#🇬🇧 GB | 2a04:4e42:400::731
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#🇫🇷 FR | 185.153.183.211
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.9.172
