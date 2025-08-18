@@ -1,1 +1,1 @@
-vless://94e31e3d-3b84-4a05-9caa-b71926043084@104.16.6.189:2087?security=tls&sni=tyop.nim-kafe.xyz&type=splithttp&host=tyop.nim-kafe.xyz&path=/park&fp=chrome&alpn=h3,h2,http/1.1#🇨🇦 CA | 104.16.6.189
+vless://028caef1-1852-4074-884b-993e8baf4fd7@109.61.91.230:80?security=none&type=splithttp&path=/admin#🇺🇸 US | 109.61.91.230
