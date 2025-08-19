@@ -1,1 +1,2 @@
 wireguard://oFM78N1SCtaMmy33PRqN4RZB+T8MxMtoqrvuSAWkWVA=@81.171.72.80:51820?address=100.64.0.12/32&presharedkey=&reserved=0,0,0&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=&mtu=1420#🇮🇸 IS | 81.171.72.80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#🇮🇸 IS | 37.235.49.168
