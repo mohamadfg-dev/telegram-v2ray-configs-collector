@@ -3,17 +3,14 @@ vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&security=none&type=grpc&mode=gun#🇫🇷 FR | 185.231.205.234
 trojan://telegram-id-directvpn@52.47.65.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.65.145
 trojan://telegram-id-directvpn@13.36.212.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.212.134
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#🇫🇷 FR | 62.133.62.109
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#🇫🇷 FR | 62.133.62.109
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.181
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#🇫🇷 FR | 185.234.64.228
 trojan://telegram-id-privatevpns@52.47.65.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.65.145
 trojan://telegram-id-privatevpns@13.36.212.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.212.134
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443?type=tcp#🇫🇷 FR | 62.133.62.109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443?type=tcp#🇫🇷 FR | 62.133.62.109
-trojan://telegram-id-privatevpns@52.47.96.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.96.192
+trojan://tunnel-v2rayngrais1@170.39.216.138:8441?security=tls&sni=zula.ir.v2rayngraisi.monster.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.v2rayngraisi.ir.v2rayngraisi-------------------v2ray.Made.By.Taha.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=170.39.216.138#🇫🇷 FR | 170.39.216.138
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#🇫🇷 FR | 185.153.183.211
 trojan://telegram-id-v2rayvpnchannel@52.47.65.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.65.145
 trojan://telegram-id-v2rayvpnchannel@13.36.212.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.212.134
@@ -22,7 +19,6 @@ vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&s
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.65.145:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.65.145
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.212.134:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.212.134
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaWZ1UjJOVE0wWXQ=@62.133.62.109:443#🇫🇷 FR | 62.133.62.109
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.96.192:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.96.192
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.235.166:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.180.235.166
 trojan://telegram-id-v2rayvpnchannel@52.47.65.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.65.145
