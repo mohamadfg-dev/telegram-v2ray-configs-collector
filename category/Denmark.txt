@@ -1,2 +1,1 @@
 wireguard://GIQihA9g9J2Gb447TkyVbiV3Vi7TziwKO47kGZcMGmU=@91.148.246.144:51820?address=100.64.6.206/32&presharedkey=&reserved=0,0,0&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=&mtu=1420#🇩🇰 DK | 91.148.246.144
-wireguard://oFM78N1SCtaMmy33PRqN4RZB+T8MxMtoqrvuSAWkWVA=@81.171.72.80:51820?address=100.64.0.12/32&presharedkey=&reserved=0,0,0&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=&mtu=1420#🇮🇸 IS | 81.171.72.80

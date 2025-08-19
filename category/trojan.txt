@@ -1,16 +1,16 @@
 trojan://telegram-id-directvpn@13.36.72.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.72.55
 trojan://telegram-id-directvpn@13.36.133.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.133.103
-trojan://blue2024@104.24.237.141:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.24.237.141
-trojan://blue2024@104.19.238.246:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.19.238.246
+trojan://blue2024@198.41.208.189:443?allowInsecure=0&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 198.41.208.189
+trojan://blue2024@104.20.25.249:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.20.25.249
 trojan://b1685c73-c74a-43fd-9b2b-47c045ab8cac@[2606:4700:3037::ac43:c5a5]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3037::ac43:c5a5]
 trojan://b1685c73-c74a-43fd-9b2b-47c045ab8cac@[2606:4700:3037::ac43:c5a5]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3037::ac43:c5a5]
-trojan://blue2024@104.16.239.18:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.16.239.18
-trojan://blue2024@104.17.176.80:443?allowInsecure=0&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.17.176.80
+trojan://blue2024@104.17.203.150:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.17.203.150
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
+trojan://telegram-id-v2rayvpnchannel@3.74.110.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.74.110.109
 trojan://telegram-id-privatevpns@13.36.72.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.72.55
 trojan://telegram-id-privatevpns@13.36.133.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.133.103
-trojan://telegram-id-privatevpns@13.36.72.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.72.55
+trojan://blue2024@104.17.203.150:443?allowInsecure=1&sni=ha.lii2010.us.kg&ws=1&wspath=/?ed=2560#🇨🇦 CA | 104.17.203.150
 trojan://Aimer@172.64.33.69:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#🇨🇦 CA | 172.64.33.69
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org&allowInsecure=1#undefined HK | 156.238.19.8
 trojan://telegram-id-v2rayvpnchannel@13.36.72.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.72.55
