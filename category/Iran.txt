@@ -3,9 +3,9 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://85166337-7d39-4b32-b5f0-ff8c58da7eb2@185.4.31.107:50700?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.4.31.107
 vless://2dfaf419-a68d-41b0-9b8e-d9c5bb98a8fa@193.3.182.246:443?type=tcp&security=none#🇮🇷 IR | 193.3.182.246
 vless://da86fa0e-7d99-4ef4-bffc-cc7d114748ef@193.3.182.246:443?type=tcp&security=none#🇮🇷 IR | 193.3.182.246
+vless://6aad8a2e-f770-4008-ac7c-a5f61060ac9b@vip.nanotitab.com:57896?headerType=http&host=speedtest.net&path=/&security=none&type=tcp#🇮🇷 IR | 94.183.173.78
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.#🇮🇷 IR | 185.116.161.5
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAxODUuMTQuMTYwLjIwMCIsImFkZCI6IjE4NS4xNC4xNjAuMjAwIiwicG9ydCI6NTU5MTAsImlkIjoiNGY4MDgyMGUtZjQzMy00NDdmLTg3YzgtM2VlNmRmYWZlMWIxIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiJub25lIiwicGF0aCI6Ii8iLCJob3N0IjoiYm13LmNvbSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://82a000fc-b550-4bfc-b5e4-8e7180dc4b95@mrbarani.fastsnap.info:40746/?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 188.0.247.209
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
