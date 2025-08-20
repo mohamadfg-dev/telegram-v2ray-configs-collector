@@ -3,7 +3,6 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 PL | 217.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppc29YaVh0RWNqZjBaT05Uc0lDb3dZ@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 vless://cba08f90-6b6e-4f51-8d07-d9dc01624706@51.38.129.192:54217/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=RviJb4RJy0JTMTcslnAJkgXcZZGNcFDxM_niM_kV61k&sid=58ce1e2f7889b6#🇵🇱 PL | 51.38.129.192
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#🇵🇱 PL | 54.38.138.8
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#🇵🇱 PL | 217.30.10.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 PL | 45.144.49.140
-vless://a40155b8-ef18-4b3a-ace9-47353fec9f37@70707.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱 PL | 57.128.223.58
+vless://a40155b8-ef18-4b3a-ace9-47353fec9f37@70707.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇵🇱 PL | 146.59.83.24
 vless://29f8a74e-c05f-4d2c-a4d3-0a809793ac0a@146.59.117.172:41990?type=tcp&path=/&host=speedtest.com&headerType=http&security=none#🇵🇱 PL | 146.59.117.172
