@@ -11,7 +11,6 @@ vless://96f391f6-0762-4895-a57c-433360967ca8@5.161.130.236:5454?security=reality
 vless://96f391f6-0762-4895-a57c-433360967ca8@Alman2.netblocksir.ir:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇩🇪 DE | 162.19.248.5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.78
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
-vless://175f178e-03bd-4cc8-be2f-9bf34d70d20f@104.21.77.44:443/?type=grpc&encryption=none&flow=&serviceName=6DuxYMYmrGrnGKRosltnP1Q0J66&security=tls&sni=a309972d-7957-15dE-7893-97290D8B81B8.890603.XYz&alpn=h2&fp=chrome&packetEncoding=xudp#🇨🇦 CA | 104.21.77.44
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#🇺🇸 US | 45.82.251.63
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.142
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.181
@@ -32,7 +31,8 @@ vless://3e88b50d-d8d9-4169-b173-d4b9ed43e53f@91.98.116.28:443?encryption=none&se
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 185.236.232.243
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#🇺🇸 US | 45.82.251.78
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇰🇿 KZ | 31.43.179.38
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇵🇭 PH | 154.83.2.167
 vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@151.101.242.172:80?type=grpc&serviceName=#🇮🇹 IT | 151.101.242.172
 vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@151.101.3.8:80?type=grpc&serviceName=#🇺🇸 US | 151.101.3.8
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=yahoo.com&sid=a76e2f1d45#🇩🇪 DE | 87.120.205.207
