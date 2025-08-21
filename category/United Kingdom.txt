@@ -1,14 +1,11 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQejVYOElldzBwZXp1Q2liZ0NtU1FO@78.129.140.11:443#🇬🇧 GB | 78.129.140.11
+vless://583e3af8-a550-42a4-9301-5a689cfdbb1b@unlimited.spauu.web.id:443?path=/vl=129.150.49.58=18650&security=tls&encryption=none&host=unlimited.spauu.web.id&type=ws&sni=unlimited.spauu.web.id#🇬🇧 GB | 2a06:98c1:3120::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&host=ThM1x3Q3vC.fRoZiA.iNfO&path=/&security=tls&fp=chrome&sni=ThM1x3Q3vC.fRoZiA.iNfO&alpn=h3,h2#🇬🇧 GB | 91.193.58.190
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.222:8880?encryption=none&security=none&type=ws&host=cs.laoyoutiao.link&path=/telegram🇨🇳+@mxlshare+@wangcai2+/?ed=2560#🇬🇧 GB | 91.193.58.222
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.171.101.87:443#🇬🇧 GB | 18.171.101.87
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQejVYOElldzBwZXp1Q2liZ0NtU1FO@78.129.140.11:443#🇬🇧 GB | 78.129.140.11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQejVYOElldzBwZXp1Q2liZ0NtU1FO@78.129.140.11:443#🇬🇧 GB | 78.129.140.11
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 188.166.144.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0eUhwWXhpUEp0M3lMSVNZZ29TeFY1@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
+vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 188.166.144.24
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇬🇧 GB | 5.180.30.80
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
@@ -17,12 +14,10 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.14.30
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.14.30
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.20.30
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.20.30
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
-vless://1f8626cd-5c2e-4887-b906-75396cde1423@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#🇬🇧 GB | 2a04:4e42::731
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3120::
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 188.166.144.24
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IvCfh6zwn4enIEdCIHwgNDYuMjUwLjI0My41NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoi8J+HrPCfh6cgR0IgfCA1MS4zOC42NC4yMDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
