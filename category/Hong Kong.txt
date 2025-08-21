@@ -1,2 +1,2 @@
 trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?security=tls&allowInsecure=1&type=tcp#undefined HK | 194.104.147.74
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org&allowInsecure=1#undefined HK | 156.238.19.8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#undefined HK | 18.162.146.85
