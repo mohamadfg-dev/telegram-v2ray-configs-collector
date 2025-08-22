@@ -2,7 +2,6 @@ vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@dr.probook-caffe.ir:18753?mode=gun&
 vless://5f7f0492-5573-495d-904d-4f00bed5e604@141.9#🏴‍☠️ UN | 141.9
 vless://5WFj9isO5QAdSXRScbSqBWFi6bR3/CtgYORYbghXdO09ePW6P1roPhQmMWM7GSuzBVQ6CNVvg6OtViAPY0fWraTh2zbsFVYHWAW12ucwbHAlMHxbfm8a1gjVWjbtMJcFC39g3TnsVKlZgYMdzV9+eFwjdHaYZK2rc510pPOOT1ToIn5pVsluY5lJBVrzu2N1ZJCA98H/45ybEPTLT8322Ytb9buuQjYIyb4RB/S3QuvhDOjPm8mEtY0kgvjyOkxt#🏴‍☠️ UN | 5WFj9isO5QAdSXRScbSqBWFi6bR3
 vless://IHSAtkfLxKjL8qKeoAzoUvNRCKkIpRBO7x0AjidBq7jB+orZH0NWwbPcvR1srUuC+Y9hJf2o+e06w+w4d3kha0D5ltBNk9HfUDn+DJSwKKy1/ommJnvf3kf5oVI/jMKX4PPuk3djpfIfIaRKIPrZ84lfPCaxoh0ksl2lpRsfmicn7Bu6JzSa8eMP6lysTv7mu0pqixlqpCGDS/q2xMVoCAUyZvU7luvEEBTGyF5VmeQ=#🏴‍☠️ UN | IHSAtkfLxKjL8qKeoAzoUvNRCKkIpRBO7x0AjidBq7jB+orZH0NWwbPcvR1srUuC+Y9hJf2o+e06w+w4d3kha0D5ltBNk9HfUDn+DJSwKKy1
-wireguard://fvkbSmGmJ5YIo5fXCMosYJrBTPkUh7J/unbLqbc23VA=@8.34.146.37:3854?address=172.16.0.2/32,2606:4700:110:835c:b214:80b2:f36c:3049/128&reserved=243,122,230&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | fvkbSmGmJ5YIo5fXCMosYJrBTPkUh7J
 vless://Parsashonam-301@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | free.sabettrade.shop
 vless://Parsashonam-301@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
@@ -32,7 +31,6 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&sec
 vless://Parsashonam-301@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://Parsashonam-301@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
-vless://586b88a5-a911-4a0b-b5c6-a1bfa1b44a0e@zoomgov.vipren.biz.id:80?path=/132.226.8.109=43257&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🏴‍☠️ UN | zoomgov.vipren.biz.id
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQDcxLjE5LjE0OC43NDo0NDM=#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVUQDcxLjE5LjE0OC43NDo0NDM=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1QDE2Ny43MS4yMzUuMjM4OjQ3MzQ3#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1QDE2Ny43MS4yMzUuMjM4OjQ3MzQ3
 vless://ea0df280-e1df-45c8-bcca-f5765a8833a3@0.0.0.0:4434?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=teamdocs.su&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
