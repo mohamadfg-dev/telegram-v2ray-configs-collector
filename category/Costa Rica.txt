@@ -1,4 +1,6 @@
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=dl.soft98speedtest.ir&alpn=h2&fp=random&type=ws&host=dl.soft98speedtest.ir&path=?ed=2048#🇨🇷 CR | 190.93.244.160
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
+vless://8aed7113-4427-4b8a-9d3d-ffe99055bcb4@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.byte-server.ir.&type=httpupgrade#🇨🇷 CR | 190.93.244.170
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&host=bitget1.asdasd.click&path=/?ed=2560&security=tls&sni=bitget1.asdasd.click#🇨🇷 CR | 190.93.246.246
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=dl.soft98speedtest.ir&alpn=h2&fp=random&type=ws&host=dl.soft98speedtest.ir&path=?ed=2048#🇨🇷 CR | 190.93.244.160
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&host=bitget1.asdasd.click&path=/?ed=2560&security=tls&sni=bitget1.asdasd.click#🇨🇷 CR | 190.93.246.246
