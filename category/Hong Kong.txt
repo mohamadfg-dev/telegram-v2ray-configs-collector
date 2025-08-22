@@ -1,2 +1,2 @@
-trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?security=tls&allowInsecure=1&type=tcp#undefined HK | 194.104.147.74
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.188:8880?security=&fp=chrome&type=ws&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&host=yd.laoyoutiao.link&encryption=none#undefined HK | 156.238.18.188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#undefined HK | 18.162.146.85
