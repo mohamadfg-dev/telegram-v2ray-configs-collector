@@ -1,2 +1,1 @@
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.164
 trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#🇮🇳 IN | 108.165.152.202
