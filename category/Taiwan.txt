@@ -1,2 +1,1 @@
-vless://85a21d93-0b09-49c9-acd9-7ac2e375a97c@118.165.31.19:26192?type=tcp&security=reality&pbk=xXdUShP2oa2fv_xzymkzjmV3mL8PHQrfvFaxeIpeix4&fp=chrome&sni=apps.apple.com&sid=47&spx=/#🇹🇼 TW | 118.165.31.19
 trojan://ttfang@220.135.202.250:81?security=tls&sni=ttfang.fange.me&allowInsecure=1&type=ws&path=/&host=ttfang.fange.me#🇹🇼 TW | 220.135.202.250
