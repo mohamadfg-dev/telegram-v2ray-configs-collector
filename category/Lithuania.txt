@@ -1,6 +1,4 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#🇱🇹 LT | 88.216.69.251
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#🇱🇹 LT | 84.32.84.33
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#🇱🇹 LT | 88.216.69.251
 vless://437415db-3e91-42ef-a1b2-bbdcc8f6ed71@vip.pingkiller.online:80?path=/&security=none&encryption=none&type=ws#🇱🇹 LT | 84.32.84.33
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.250.63:8880?security=&sni=sg.laoyoutiao.link&allowInsecure=1&type=ws&path=/Telegram🇨🇳&host=sg.laoyoutiao.link&encryption=none#🇱🇹 LT | 89.116.250.63
 vless://2751d4fd-f5de-46fd-bc98-44a0b43a274a@meli_proxyy.vip-plan.org:50452?type=grpc&serviceName=&authority=&security=reality&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&fp=chrome&sni=yahoo.com&sid=10&spx=/#🇱🇹 LT | 84.32.84.33
