@@ -8,8 +8,6 @@ vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkAxOC4xMzkuMC4xMTA6ODMxOQ==#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkAxOC4xMzkuMC4xMTA6ODMxOQ==
 trojan://8d729396-6582-4017-9dc0-8f02f9aa50b6@[2606:4700:3037::6815:39ce]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3037::6815:39ce]
 vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f9:c011:295a::1]
-trojan://abbccaa-baca-acba-bdac-bccabcabcbaa@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?encryption=none&security=none&type=xhttp&path=/123&mode=auto#🏴‍☠️ UN | s5.1dnt.k-l.cloud
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#🏴‍☠️ UN | [2a03:b0c0:3:d0::10ad:7001]
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
