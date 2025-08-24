@@ -1,1 +1,1 @@
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#🇧🇬 BG | 89.44.197.77
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.117.112.63:8880?security=&sni=sg.laoyoutiao.link&allowInsecure=1&type=ws&path=/Telegram🇨🇳&host=sg.laoyoutiao.link&encryption=none#🇧🇬 BG | 89.117.112.63
