@@ -1,2 +1,1 @@
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=firefox&type=tcp&sni=telwebion.com&sid=c3fe60ab#🇨🇭 CH | 84.234.29.214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ=@ch-01.cloxynode.com:35515#🇨🇭 CH | 140.238.175.124
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#🇨🇭 CH | 5.182.36.251
