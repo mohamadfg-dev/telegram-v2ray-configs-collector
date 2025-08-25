@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206cFJBcVo0YWZha1F5aVA4Zg@167.17.179.116:8388?typetcp#🇯🇵 JP | 167.17.179.116
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇯🇵 JP | 35.78.63.233
-ss://YWVzLTI1Ni1nY206cFJBcVo0YWZha1F5aVA4Zg@167.17.179.116:8388?typetcp#🇯🇵 JP | 167.17.179.116
-ss://YWVzLTI1Ni1nY206cFJBcVo0YWZha1F5aVA4Zg@167.17.179.116:8388?typetcp#🇯🇵 JP | 167.17.179.116
 vmess://eyJhZGQiOiI0Ny43OS40MS4xNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNTA2MjhlZC1lNTY4LTRjZGUtZWRhOC0zZGNlMTVlZGMxYzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZjUwNjI4ZWQiLCJwb3J0IjoiMTU5MjQiLCJwcyI6IvCfh6/wn4e1IEpQIHwgNDcuNzkuNDEuMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzFiZjJmNmQtYTExMS00YjBmLWJkZTgtZWNlNjUyZmRlZTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAyMjMuMTM1LjE1Ni4xNzkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443/?type=ws&encryption=none&flow=&path=/vless/&security=tls&sni=pq-japan3.09vpn.com#🇯🇵 JP | 5.253.41.237

@@ -1,4 +1,5 @@
 vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@warning.root.info.tr:443?security=reality&encryption=none&pbk=D5_j99ZSJtC9MdMQGCWlVvUU0p8KRgHZ2ZEnv2z2FWU&headerType=none&fp=ios&spx=/software/windows/&type=tcp&sni=sourceforge.net&sid=b8fc40ff6d873611#🇦🇲 AM | 85.90.207.174
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 AM | 77.91.68.70
 vless://909d4490-6cbb-4006-9dbd-3c7f5d79cfda@warning.root.info.tr:443?security=reality&encryption=none&pbk=D5_j99ZSJtC9MdMQGCWlVvUU0p8KRgHZ2ZEnv2z2FWU&headerType=none&fp=ios&spx=/software/windows/&type=tcp&sni=sourceforge.net&sid=b8fc40ff6d873611#🇦🇲 AM | 85.90.207.174
 vless://f263ae48-bc63-44cf-88b3-df41728e04ee@93.115.240.88:20200?type=ws&security=none#🇦🇲 AM | 93.115.240.88
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.123:8880?path=/am@2/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇦🇲 AM | 5.10.214.123
