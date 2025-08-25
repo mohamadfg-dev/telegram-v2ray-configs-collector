@@ -1,1 +1,1 @@
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?security=&type=ws&path=/&encryption=none#🇱🇻 LV | 83.222.20.64
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?security=reality&encryption=none&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=4ffbd0f3117c6f#🇱🇻 LV | 45.130.214.192
