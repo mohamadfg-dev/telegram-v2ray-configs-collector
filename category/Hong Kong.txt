@@ -1,1 +1,2 @@
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org#undefined HK | 156.238.19.8
+vless://b28eb861-1748-4200-ba72-278669edc33b@27.50.48.21:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#undefined HK | 27.50.48.21
