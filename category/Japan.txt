@@ -3,4 +3,4 @@ vmess://eyJhZGQiOiIyMjMuMTM1LjE1Ni4xNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443/?type=ws&encryption=none&flow=&path=/vless/&security=tls&sni=pq-japan3.09vpn.com#🇯🇵 JP | 5.253.41.237
 vless://8b7aa0c1-498f-41c6-c2df-d768404035e6@154.36.183.98:30025?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=safari&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#🇯🇵 JP | 154.36.183.98
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇯🇵 JP | 54.249.211.57
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇯🇵 JP | 43.207.161.98
