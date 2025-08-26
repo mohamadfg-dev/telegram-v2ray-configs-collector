@@ -1,1 +1,1 @@
-vless://c3679deb-50bc-451f-98c8-c6a1bf5455da@45.80.209.231:36514?security=reality&encryption=none&pbk=Rq1JIfX3uKg1oXuBHlo0m416tQOaOdfm3sIFwi3CbXE&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.docker.com&sid=a7#🇱🇺 LU | 45.80.209.231
+vless://790292d3-da5a-4708-89ec-9e761c56924e@lu.marzban-locations.com:3042?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇱🇺 LU | 141.227.168.145
