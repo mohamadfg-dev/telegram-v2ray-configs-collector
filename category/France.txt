@@ -2,7 +2,6 @@ vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.5
 trojan://telegram-id-directvpn@13.39.136.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.136.125
 trojan://telegram-id-directvpn@13.36.1.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.1.17
-trojan://telegram-id-directvpn@35.181.143.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.143.110
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
 trojan://telegram-id-privatevpns@13.39.136.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.136.125
 trojan://telegram-id-privatevpns@13.36.1.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.1.17
@@ -11,7 +10,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.253
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.253
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.248
-trojan://telegram-id-directvpn@35.181.143.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.143.110
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#🇫🇷 FR | 77.105.166.12
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇷 FR | 141.94.174.9
 vmess://eyJhZGQiOiI0NS42Ny4xMzkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IvCfh6vwn4e3IEZSIHwgNDUuNjcuMTM5LjIyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 trojan://telegram-id-v2rayvpnchannel@13.39.136.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.136.125
