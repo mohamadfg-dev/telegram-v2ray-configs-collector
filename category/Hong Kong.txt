@@ -1,1 +1,2 @@
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org#undefined HK | 156.238.19.8
+trojan://Aimer@27.50.49.166:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#undefined HK | 27.50.49.166
