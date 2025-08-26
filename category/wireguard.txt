@@ -1,1 +1,1 @@
-wireguard://afkM4uyJqr7idpJFslgV+gvm7v17ummxzggQKMg/MaE=@‍188.114.96.145:1074?address=172.16.0.2/32,2606:4700:110:8f1a:fd76:db49:9dfc:79cd/128&reserved=97,57,152&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | afkM4uyJqr7idpJFslgV+gvm7v17ummxzggQKMg
+wireguard://lVfdOrAgheGt31YIiSV7XqQPZ/Cz4Cyodz8SlokR7Ns=@162.159.192.1:2408?address=172.16.0.2/32,2606:4700:110:809b:abd6:2104:cd9a:7056/128&reserved=70,231,204&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | lVfdOrAgheGt31YIiSV7XqQPZ
