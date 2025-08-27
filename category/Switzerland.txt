@@ -1,2 +1,3 @@
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585/?type=tcp&encryption=none&flow=&sni=telwebion.com&fp=chrome&security=reality&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&sid=c3fe60ab#🇨🇭 CH | 84.234.29.214
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.163:443#🇨🇭 CH | 156.146.62.163
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#🇨🇭 CH | 84.234.29.214
