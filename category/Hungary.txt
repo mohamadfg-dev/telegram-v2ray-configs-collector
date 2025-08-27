@@ -1,1 +1,2 @@
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@141.11.203.251:8880?security=&sni=Telegram-channel-WangCai2&allowInsecure=1&type=ws&path=/Telegram🇨🇳&host=cf.d3z.net&encryption=none#🇭🇺 HU | 141.11.203.251
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🇭🇺 HU | 141.11.203.139
