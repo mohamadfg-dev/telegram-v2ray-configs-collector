@@ -1,3 +1,2 @@
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@188.166.241.155:443?encryption=none&security=reality&sni=www.python.org&fp=firefox&pbk=UODGqiu_eIbrbHTmEpv9kvYUpOe5DwRXR63EmKlE9kc&sid=ca821e6c2e4ebd&type=tcp&headerType=none#🇸🇬 SG | 188.166.241.155
-trojan://dns68@206.238.237.1:2087?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#🇸🇬 SG | 206.238.237.1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
