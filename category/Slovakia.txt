@@ -1,3 +1,1 @@
-vless://2b7c9332-eacc-47fd-89a1-49b9d94d4d6e@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#🇸🇰 SK | 5.35.103.218
-vless://2b7c9332-eacc-47fd-89a1-49b9d94d4d6e@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#🇸🇰 SK | 5.35.103.218
-vless://2b7c9332-eacc-47fd-89a1-49b9d94d4d6e@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#🇸🇰 SK | 5.35.103.218
+vless://49cd67dc-0c9d-41c5-896d-47e1149aed42@5.35.103.218:2083?type=tcp&security=none#🇸🇰 SK | 5.35.103.218

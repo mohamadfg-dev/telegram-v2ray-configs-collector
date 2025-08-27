@@ -1,1 +1,1 @@
-wireguard://GIQihA9g9J2Gb447TkyVbiV3Vi7TziwKO47kGZcMGmU=@91.148.246.144:51820?address=100.64.6.206/32&presharedkey=&reserved=0,0,0&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg=&mtu=1420#🇩🇰 DK | 91.148.246.144
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#🇩🇰 DK | 95.164.85.109
