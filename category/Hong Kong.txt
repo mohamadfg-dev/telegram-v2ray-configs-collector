@@ -1,1 +1,1 @@
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.19.8:443/?type=tcp&security=tls&sni=vle.amclubsvip.dpdns.org#undefined HK | 156.238.19.8
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:321/?type=tcp&security=tls&sni=data.sub-zrj.com&allowInsecure=1#undefined HK | 103.188.235.3

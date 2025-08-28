@@ -1,6 +1,4 @@
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=/Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇷🇺 RU | 185.148.104.245
 vless://7715f3b0-9661-4c92-8b32-1c4c1f79bb5c@ru2.asc-sam.ir:8443?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=VuL69lz3WqpGe-rhAvd2-M2-KaZpG10iDu71aTVMx2Y&fp=chrome&sni=journalofbigdata.springeropen.com&sid=d3044a6aa923a9&spx=/#🇷🇺 RU | 176.32.39.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#🇷🇺 RU | 45.151.62.131
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇷🇺 RU | 94.26.228.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVVYzTGdLUlZwdU0=@45.151.62.131:443#🇷🇺 RU | 45.151.62.131
