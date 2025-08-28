@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🇬🇧 GB | 212.102.53.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVcWxJandRdlBKbVBUc1c4OUtYcUNa@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇬🇧 GB | 5.180.30.80
@@ -12,5 +11,7 @@ vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@S
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.33.53
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.33.53
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@WedBaZ&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3121::
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@WedBaZ&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3120::
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@25.129.199.251:8880?path=/&security=none&encryption=none&host=cf.d3z.net&type=ws#🇬🇧 GB | 25.129.199.251
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
