@@ -1,1 +1,1 @@
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:80?encryption=none&security=none&type=ws&host=0221.enedrehd.workers.dev&path=/?ed=2560#🇨🇾 CY | 195.85.59.161
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh74gQ1kgfCAxOTUuODUuNTkuMTU3IiwiYWRkIjoiZmFzdGN1cC5uZXQiLCJwb3J0Ijo4MCwiaWQiOiJiMGE2MGExYS1mYjJhLTRkOTMtYjBhMy02ZWE1MGQ3YTFkZWEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
