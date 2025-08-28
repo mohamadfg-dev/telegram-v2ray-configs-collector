@@ -1,2 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&fp=chrome&allowInsecure=1#🇦🇪 AE | 94.140.0.186
 vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?encryption=none&security=none&type=tcp&headerType=none#🇦🇪 AE | 93.127.180.64
