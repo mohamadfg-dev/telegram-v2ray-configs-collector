@@ -1,2 +1,4 @@
-trojan://637308bc-fd52-343d-b573-7693835b8e20@35.75.8.137:443?allowInsecure=1&sni=www.microsoft365.com#🇯🇵 JP | 35.75.8.137
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHUGtBaWE1b0NuYWxYc1d4MmVGMmtK@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8319#🇯🇵 JP | 54.238.207.188
