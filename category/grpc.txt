@@ -7,14 +7,14 @@ vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?mode=gun&sec
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=/&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#🇫🇮 FI | 65.108.241.235
 vless://96f391f6-0762-4895-a57c-433360967ca8@5.161.130.236:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇺🇸 US | 5.161.130.236
 vless://96f391f6-0762-4895-a57c-433360967ca8@Alman2.netblocksir.ir:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇩🇪 DE | 162.19.248.5
-vless://858a3856-4dce-4241-8ed2-fea94418d9ba@bfly.tuozs.ir:2083?security=reality&encryption=none&pbk=tMVNburGfNg0IHRgzlmoqV22mx1GgkRe8qzBouEYY3Y&fp=firefox&spx=/&type=grpc&sni=miro.com&sid=a25aca9336#🇩🇪 DE | 195.133.84.132
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.86.72.106
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#🇺🇸 US | 45.82.251.63
+trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&type=grpc&sni=hdfy5persiaserverc1.afsharidempire.uk#🇨🇦 CA | 104.17.228.60
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#🇺🇸 US | 45.82.251.80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.181
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
-vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 2606:4700:4400::6812:2170
+vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 104.18.33.112
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.180
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.239
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880/?type=grpc&encryption=none#🇫🇷 FR | 185.231.205.231
@@ -34,7 +34,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.246
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.86.72.106
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇰🇿 KZ | 31.43.179.38
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🇵🇭 PH | 154.83.2.167
 vless://1591f266-42a1-4d5a-b725-00c1151dfd70@150.241.108.219:46089?type=grpc&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&authority=&security=reality&pbk=xKbFr-SVOYz1Bgdkb4e3zPjZ7wGURx11ouN3Hoy29VQ&fp=chrome&sni=tgju.org&sid=3736e4ab65378d5c&spx=/#🇩🇪 DE | 150.241.108.219
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.248
 vless://Parsashonam-Bot-17@104.17.147.22:8080?type=grpc&serviceName=#🇨🇦 CA | 104.17.147.22
@@ -61,3 +61,4 @@ vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-se
 vless://70e0e52e-2a07-480e-aa39-b20832d00075@ampol.marana.sbs:25692?type=grpc&serviceName=mkhv&authority=&security=reality&pbk=hpDxn1vHts4G-qwj5DbrxoqOydhtHD9BUM_d3RXg7kM&fp=chrome&sni=yahoo.com&sid=645b908a2f1753&spx=/#🇫🇮 FI | 95.216.136.0
 vless://b5e3682e-dbac-48b6-aec3-465ef64fdffa@ampol.marana.sbs:25692?type=grpc&serviceName=mkhv&authority=&security=reality&pbk=hpDxn1vHts4G-qwj5DbrxoqOydhtHD9BUM_d3RXg7kM&fp=chrome&sni=yahoo.com&sid=645b908a2f1753&spx=/#🇫🇮 FI | 95.216.136.0
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#🇩🇪 DE | 104.248.136.27
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#🇺🇸 US | 185.236.232.123
