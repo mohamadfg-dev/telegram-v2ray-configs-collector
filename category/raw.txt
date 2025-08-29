@@ -1,1 +1,1 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?encryption=none&security=tls&sni=rc6.freeguard.org&type=raw&headertype=none#🇺🇸 US | 198.23.229.250
+trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?encryption=none&security=tls&sni=rs3.freeguard.org&type=raw&headertype=none#🇺🇸 US | 15.204.248.103

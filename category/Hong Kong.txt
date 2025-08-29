@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgMjEwLjMuMTU5LjE1MCIsImFkZCI6IjIxMC4zLjE1OS4xNTAiLCJwb3J0IjoiNDI3MTciLCJpZCI6ImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://ttfang@192.131.142.161:46639?security=tls&sni=ttfang.fange.me&allowInsecure=1&type=ws&path=/&host=ttfang.fange.me#undefined HK | 192.131.142.161
