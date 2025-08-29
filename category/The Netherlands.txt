@@ -1,5 +1,6 @@
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🇳🇱 NL | 164.90.193.44
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@Vray.v2ray1ng.sbs:7195?mode=gun&security=none&encryption=none&type=grpc&serviceName=7195vless#🇳🇱 NL | 83.149.105.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?type=grpc&mode=gun&serviceName=7195vless&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇳🇱 NL | 83.149.105.62
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#🇳🇱 NL | 172.233.43.98
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/----@-?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#🇳🇱 NL | 91.206.71.162
@@ -11,8 +12,8 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#🇳🇱 NL | 164.92.156.41
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.68:443#🇳🇱 NL | 149.34.244.68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱 NL | 103.104.247.45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 NL | 193.29.139.240
+vless://b0cf37e4-0083-4e51-b02d-4570fda619cc@fast.dissertationhelpspecialist.com:443/?type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&authority=&security=reality&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&fp=firefox&sni=tgju.org&sid=44a3ef0168e834&spx=/profile/gold_17_transfer¬e=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 NL | 46.249.110.200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇳🇱 NL | 188.42.89.100
@@ -20,5 +21,6 @@ vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://d6873a1d-38bf-430d-a701-a874b9be3982@193.233.19.17:2053?type=xhttp&mode=auto&security=reality&fp=chrome&sni=refersion.com&pbk=liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg&sid=96c58a92f1dd5eaa&spx=/#🇳🇱 NL | 193.233.19.17
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.28.247:2052?path=/&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#🇳🇱 NL | 45.144.28.247
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
