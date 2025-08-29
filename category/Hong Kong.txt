@@ -1,1 +1,2 @@
-trojan://ttfang@192.131.142.161:46639?security=tls&sni=ttfang.fange.me&allowInsecure=1&type=ws&path=/&host=ttfang.fange.me#undefined HK | 192.131.142.161
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.112:2053?encryption=none&security=tls&sni=vle.amclubsapp.dpdns.org&type=ws&host=vle.amclubsapp.dpdns.org&path=/?ed=2560fp=randomized#undefined HK | 156.238.18.112
+vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoyLCJob3N0IjoidjEwLmhlZHVpYW4ubGluayIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJwb3J0IjozMDgwNywicHMiOiJ1bmRlZmluZWQgSEsgfCAxLjM2LjI1Mi4yMTIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJiYWlkdS5jb20ifQ==
