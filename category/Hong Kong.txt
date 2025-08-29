@@ -1,1 +1,1 @@
-trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:321/?type=tcp&security=tls&sni=data.sub-zrj.com&allowInsecure=1#undefined HK | 103.188.235.3
+vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgMjEwLjMuMTU5LjE1MCIsImFkZCI6IjIxMC4zLjE1OS4xNTAiLCJwb3J0IjoiNDI3MTciLCJpZCI6ImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
