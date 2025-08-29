@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh7ogQVUgfCAxNzIuMTA1LjE3NC4yMzciLCJhZGQiOiIxNzIuMTA1LjE3NC4yMzciLCJwb3J0IjoiNDMxODMiLCJpZCI6ImFhOGI4NWNmLTYxNTMtNDU3Zi05ZWFiLTdmZmUxOWNhZWU0NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ==
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?encryption=none&security=tls&sni=rc6.freeguard.org&type=raw&headertype=none#🇺🇸 US | 198.23.229.250
