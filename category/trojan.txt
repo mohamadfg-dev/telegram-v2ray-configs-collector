@@ -1,15 +1,15 @@
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?encryption=none&security=tls&sni=rs3.freeguard.org&type=raw&headertype=none#🇺🇸 US | 15.204.248.103
-trojan://telegram-id-directvpn@63.177.178.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.177.178.71
 trojan://telegram-id-directvpn@52.47.39.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.39.29
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
-trojan://6bebd1fe-0ca7-49ac-b260-cc7829411d76@[2606:4700:3030::ac43:cc16]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3030::ac43:cc16]
+trojan://telegram-id-directvpn@15.236.15.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.15.145
+trojan://auto@104.17.64.70:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🇨🇦 CA | 104.17.64.70
+trojan://c4a4d675-ac02-4635-b3bb-6186b3bddd1c@0ac42f1d-9a1c-66f7-0f5d-7cf698a9e767.huangshang.site:443/?type=ws&host=0Ac42F1D-9A1C-66f7-0F5d-7cf698a9e767.huaNgsHanG.SIte&path=/SunCn26bIxZMQZRJ&security=tls&sni=0aC42F1D-9A1c-66F7-0F5d-7cf698a9E767.huanGShANG.SiTE&alpn=http/1.1&fp=chrome#🇨🇦 CA | 172.67.160.44
+trojan://aaaccbb-caba-baac-cdba-caacbccbabab@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#🇨🇦 CA | 104.17.147.22
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://ttfang@128.199.237.143:443/?type=tcp&security=tls&sni=ttfang.fange.me&allowInsecure=1#🇸🇬 SG | 128.199.237.143
-trojan://telegram-id-privatevpns@63.177.178.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.177.178.71
 trojan://telegram-id-privatevpns@52.47.39.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.39.29
+trojan://telegram-id-privatevpns@15.236.15.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.15.145
+trojan://telegram-id-directvpn@52.47.39.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.39.29
 trojan://telegram-id-v2rayvpnchannel@63.179.8.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.179.8.202
 trojan://telegram-id-v2rayvpnchannel@3.78.75.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.75.41

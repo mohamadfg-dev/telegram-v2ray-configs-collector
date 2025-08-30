@@ -1,1 +1,1 @@
-vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 193.111.76.108
+vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=reality&encryption=none&pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=4df4b2b9b547fbf7#🇹🇷 TR | 213.142.133.165
