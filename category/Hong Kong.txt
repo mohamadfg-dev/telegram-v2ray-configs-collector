@@ -1,2 +1,1 @@
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.112:2053?encryption=none&security=tls&sni=vle.amclubsapp.dpdns.org&type=ws&host=vle.amclubsapp.dpdns.org&path=/?ed=2560fp=randomized#undefined HK | 156.238.18.112
-vmess://eyJhZGQiOiJ2MTAuaGVkdWlhbi5saW5rIiwiYWlkIjoyLCJob3N0IjoidjEwLmhlZHVpYW4ubGluayIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwibmV0Ijoid3MiLCJwYXRoIjoiL29vb28iLCJwb3J0IjozMDgwNywicHMiOiJ1bmRlZmluZWQgSEsgfCAxLjM2LjI1Mi4yMTIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJiYWlkdS5jb20ifQ==
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@103.160.204.3:8880?encryption=none&security=none&type=ws&host=bitget1.asdasd.click&path=/telegram🇨🇳+@wangcai2+/?ed=2560#undefined HK | 103.160.204.3

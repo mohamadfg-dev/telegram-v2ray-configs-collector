@@ -1,1 +1,1 @@
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=&type=tcp&encryption=none#🇱🇻 LV | 45.130.214.192
+vless://id7890941744@s1.nodu10.ru:443?security=reality&encryption=none&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&headerType=none&fp=edge&spx=/fkyL1Kbt3DKCrFw&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=969defcfe6e0#🇱🇻 LV | 185.145.245.36
