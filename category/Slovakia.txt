@@ -1,3 +1,1 @@
-vless://5e9a95ca-af7e-4d53-80e1-05f1fdc74cc7@5.35.103.218:2083?type=tcp&security=none#🇸🇰 SK | 5.35.103.218
-vless://5e9a95ca-af7e-4d53-80e1-05f1fdc74cc7@5.35.103.218:2083?type=tcp&security=none#🇸🇰 SK | 5.35.103.218
-vless://5e9a95ca-af7e-4d53-80e1-05f1fdc74cc7@5.35.103.218:2083?type=tcp&security=none#🇸🇰 SK | 5.35.103.218
+vless://b22663cb-4b84-5ce8-b3f2-4edee9cb8145@5.252.23.173:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#🇸🇰 SK | 5.252.23.173
