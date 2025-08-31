@@ -1,4 +1,3 @@
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=dl.soft98speedtest.ir&alpn=h2&fp=random&type=ws&host=dl.soft98speedtest.ir&path=?ed=2048#🇨🇷 CR | 190.93.244.160
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
-trojan://bpb-trojan@190.93.247.54:443?allowInsecure=1&sni=adagio.us.kg&ws=1&wspath=/tr?ed=2560#🇨🇷 CR | 190.93.247.54
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=dl.soft98speedtest.ir&alpn=h2&fp=random&type=ws&host=dl.soft98speedtest.ir&path=?ed=2048#🇨🇷 CR | 190.93.244.160
