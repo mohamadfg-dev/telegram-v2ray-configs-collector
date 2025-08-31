@@ -1,1 +1,1 @@
-vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?encryption=none&security=none&type=tcp&headerType=none#🇦🇪 AE | 93.127.180.64
+vmess://eyJhZGQiOiI5My4xMjcuMTgwLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNDE3ODRhNC1hYjgwLTQwOTMtYmEwMi00NDAxMjM4Zjk1MGQiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6bwn4eqIEFFIHwgOTMuMTI3LjE4MC4xNDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
