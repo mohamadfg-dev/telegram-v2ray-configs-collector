@@ -3,7 +3,7 @@ name: SendToChannelEitaa
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 5,8,11,14,17,20 * * *"
+    - cron: "30 8,14 * * *"
 
 concurrency:
   group: configs-update
