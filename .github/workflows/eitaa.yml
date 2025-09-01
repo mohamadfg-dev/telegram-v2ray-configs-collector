@@ -23,11 +23,21 @@ jobs:
           mkdir -p Country
           mkdir -p NetworkType
 
-      - name: Move specific files
+      - name: Move specific files if they exist
         run: |
-          mv category/vless.txt category/ss.txt category/trojan.txt category/vmess.txt category/wireguard.txt Protocols
-          mv category/httpupgrade.txt category/ws.txt category/xhttp.txt category/tcp.txt category/grpc.txt NetworkType
-          mv category/* Country
+          [ -f category/vless.txt ] && mv category/vless.txt Protocols/
+          [ -f category/ss.txt ] && mv category/ss.txt Protocols/
+          [ -f category/trojan.txt ] && mv category/trojan.txt Protocols/
+          [ -f category/vmess.txt ] && mv category/vmess.txt Protocols/
+          [ -f category/wireguard.txt ] && mv category/wireguard.txt Protocols/
+          
+          [ -f category/httpupgrade.txt ] && mv category/httpupgrade.txt NetworkType/
+          [ -f category/ws.txt ] && mv category/ws.txt NetworkType/
+          [ -f category/xhttp.txt ] && mv category/xhttp.txt NetworkType/
+          [ -f category/tcp.txt ] && mv category/tcp.txt NetworkType/
+          [ -f category/grpc.txt ] && mv category/grpc.txt NetworkType/
+          
+          mv category/* Country/
 
       - name: Zip the files
         run: |

@@ -1,0 +1,1 @@
+wireguard://cPOqHRne6kzpiouwwzI5SyxJOjffSdVCEirFj2lAb+c=@162.159.192.1:4500?address=172.16.0.2/32,2606:4700:110:860d:49ab:85c3:5b4f:6b0c/128&reserved=85,232,206&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🇨🇦 CA | 162.159.192.1

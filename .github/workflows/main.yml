@@ -3,7 +3,7 @@ name: UpdateConfigs
 on:
   workflow_dispatch: # اجازه اجرای دستی
   schedule:
-    - cron: "0 */2 * * *" # هر دو ساعت یک بار
+    - cron: "30 4,6,8,10,12,14,16,18,21 * * *"
 
 jobs:
   UpdateConfigs:

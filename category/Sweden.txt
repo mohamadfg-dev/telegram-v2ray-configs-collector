@@ -1,0 +1,13 @@
+vless://2d14c894-aca5-4854-bcdb-75d4505486c2@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=michalde.lemoex.ir&type=ws#🇸🇪 SE | 185.146.173.39
+vmess://eyJhZGQiOiI5MS45Mi40MC43OCIsImFpZCI6MCwiaWQiOiIyZDIxMTEzMC05Y2I4LTRjNzctYTk5ZS00MDcxZjcwYmYxN2IiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyMDYwLCJwcyI6IvCfh7jwn4eqIFNFIHwgOTEuOTIuNDAuNzgiLCJ0bHMiOiJub25lIiwidiI6Mn0=
+vmess://eyJhZGQiOiI5MS45Mi40MC43OCIsImFpZCI6MCwiaWQiOiI2MGZkZmFjOC1hNWY0LTQ4NGEtOWVkNy03MzU2OGExOWE4ZDIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyMDYwLCJwcyI6IvCfh7jwn4eqIFNFIHwgOTEuOTIuNDAuNzgiLCJ0bHMiOiJub25lIiwidiI6Mn0=
+vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#🇸🇪 SE | 4.223.100.248
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🇸🇪 SE | 135.225.124.80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@65.20.115.194:800#🇸🇪 SE | 65.20.115.194
+vless://b83df10b-dca1-4289-a17a-564e67389d15@46.246.92.249:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=iANCShq476FCHBlNqkHoapBt8quqmm1wiKLwuCQeMAI&sid=89466f13a0fbc98f&spx=/#🇸🇪 SE | 46.246.92.249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#🇸🇪 SE | 4.223.100.248
+vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇸🇪 SE | 16.171.8.56
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇸🇪 SE | 16.171.8.56
+vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
