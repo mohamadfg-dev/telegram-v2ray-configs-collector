@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWlh2cVQ0UjJqTlZTZjlsNkg5N3FW@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbUtUVVFhVzA1VXFINGZkUXJ2eFBn@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇯🇵 JP | 35.75.8.204
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🇯🇵 JP | 35.75.8.204

@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#🇵🇱 PL | 45.144.49.140
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@70.34.248.173:444?encryption=none&security=tls&sni=tcp.biz.id&alpn=h3&fp=random&type=ws&host=tcp.biz.id&path=/free/1.177.76.215:10026#🇵🇱 PL | 70.34.248.173
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@217.30.10.55:443?encryption=none&security=tls&sni=tcp.biz.id&alpn=h3&fp=random&type=ws&host=tcp.biz.id&path=/free/1.177.76.215:10026#🇵🇱 PL | 217.30.10.55
