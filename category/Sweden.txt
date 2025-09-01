@@ -1,5 +1,4 @@
-vless://53a50ce5-4ef2-467e-90d9-58da760882fc@185.146.173.39:443?path=/28367/googlemmad&security=tls&encryption=none&host=michalde.hpcdn.info&fp=random&type=ws&sni=michalde.hpcdn.info#🇸🇪 SE | 185.146.173.39
-vless://30e8edb6-5b90-48f1-95a8-19612b12916f@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=romanfn.lemoex.ir&type=ws#🇸🇪 SE | 185.146.173.39
+vless://2d14c894-aca5-4854-bcdb-75d4505486c2@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=michalde.lemoex.ir&type=ws#🇸🇪 SE | 185.146.173.39
 vmess://eyJhZGQiOiI5MS45Mi40MC43OCIsImFpZCI6MCwiaWQiOiIyZDIxMTEzMC05Y2I4LTRjNzctYTk5ZS00MDcxZjcwYmYxN2IiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyMDYwLCJwcyI6IvCfh7jwn4eqIFNFIHwgOTEuOTIuNDAuNzgiLCJ0bHMiOiJub25lIiwidiI6Mn0=
 vmess://eyJhZGQiOiI5MS45Mi40MC43OCIsImFpZCI6MCwiaWQiOiI2MGZkZmFjOC1hNWY0LTQ4NGEtOWVkNy03MzU2OGExOWE4ZDIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyMDYwLCJwcyI6IvCfh7jwn4eqIFNFIHwgOTEuOTIuNDAuNzgiLCJ0bHMiOiJub25lIiwidiI6Mn0=
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
@@ -7,5 +6,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@65.20.115.194:800#🇸🇪 SE | 65.20.115.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172?type=tcp#🇸🇪 SE | 4.223.100.248
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
-vmess://eyJhZGQiOiI2Mi42MC4xNTIuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRiZDliZWVjLTQ1MTktNGE3Yy1iNTliLTFlYTkyNTJlM2Y0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IvCfh7jwn4eqIFNFIHwgNjIuNjAuMTUyLjE3MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39

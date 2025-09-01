@@ -1,1 +1,2 @@
-vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:8880?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.144
+vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:9090?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.144
+vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:9090?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.144
