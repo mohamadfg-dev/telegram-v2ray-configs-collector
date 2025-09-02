@@ -1,4 +1,3 @@
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7443?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.144
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7443?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.144
-vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7443?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.144
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7443?security=none&encryption=none&type=tcp&host=p30afzar.com&path=/&headerType=http#🇦🇪 AE | 93.127.180.144
