@@ -1,1 +1,1 @@
-vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=reality&encryption=none&pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=4df4b2b9b547fbf7#🇹🇷 TR | 213.142.133.165
+trojan://U_6znw8zvlHZGBVy5R3R9w@tr.tuiem.com:80?security=none&type=tcp&headerType=http&path=/&host=#🇹🇷 TR | 82.153.241.83
