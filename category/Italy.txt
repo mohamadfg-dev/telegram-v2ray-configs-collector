@@ -1,1 +1,2 @@
+vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172

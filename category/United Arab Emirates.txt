@@ -1,2 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.126.234:443#🇦🇪 AE | 40.172.126.234
 vless://b5c859da-ecad-446a-8545-2de2df1c480a@93.127.180.156:7443?security=&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.156
-vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:7444?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.144
