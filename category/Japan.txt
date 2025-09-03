@@ -1,2 +1,1 @@
-vless://ba7db25a-4713-4b0a-a2e6-c1032373dfda@172.111.146.64:8443#🇯🇵 JP | 172.111.146.64
-vless://ba7db25a-4713-4b0a-a2e6-c1032373dfda@172.111.146.64:8443#🇯🇵 JP | 172.111.146.64
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@pq-japan4.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 5.253.41.223

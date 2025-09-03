@@ -8,7 +8,6 @@ vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?t
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🏴‍☠️ UN | series-a2-mec.varzesh360.co
 vless://c6984604-9721-45b0-d0f8-b5fc0a14d8af@vip.premuimacc.com:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | vip.premuimacc.com
 vless://4633a227-2379-4127-9303-f0603c9a3a7d@panel1.svgspeedtest.net:54401?type=tcp&security=reality&pbk=AqGO4WCsGfcX046DebowJcVTKANHPazld7XyAHD_RQE&fp=chrome&sni=zula.ir&sid=e5201e3c&spx=/#🏴‍☠️ UN | panel1.svgspeedtest.net
 vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
@@ -16,7 +15,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.#🏴‍☠️ UN | 5.180.
 vmess://eyJhZGQiOiJtdG5uLnB5ZGFyc2hvcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXRuLnB5ZGFyc2hvcC5pciIsImlkIjoiMzA3OTNjOTUtNmE4Mi00MGZkLTlhZjMtNjEzMGFjNDk4MzViIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL3dzczcwMDA/ZWQ9MjA1NiIsInBvcnQiOiI4ODgwIiwicHMiOiLwn4+04oCN4pig77iPIFVOIHwgbXRubi5weWRhcnNob3AuaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🏴‍☠️ UN | series-a2.samanehha.co
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@dash.svgspeedtest.net:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=&fp=random&type=tcp&sni=www.speedtest.net&sid=69#🏴‍☠️ UN | dash.svgspeedtest.net
 vmess://eyJhZGQiOiJpci5zdmdzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJza3lyb29tLm9ubGluZSIsImlkIjoiNDFjOTFiODUtNjZiYi00YWE3LWE3ZjUtZTMwZWM4MmNmZmFiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzg5NjAiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCBpci5zdmdzcGVlZHRlc3QubmV0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://0eef0e31-d29e-4d0d-8ce4-0712af97b9e8@[::ffff:5b63:9012]:4444?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🏴‍☠️ UN | [::ffff:5b63:9012]
