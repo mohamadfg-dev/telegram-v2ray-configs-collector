@@ -1,1 +1,1 @@
-trojan://U_6znw8zvlHZGBVy5R3R9w@tr.tuiem.com:80?security=none&type=tcp&headerType=http&path=/&host=#🇹🇷 TR | 82.153.241.83
+vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=&fp=chrome&type=tcp&sni=google.com&sid=8f4e#🇹🇷 TR | 185.113.223.65

@@ -1,1 +1,2 @@
-vless://b5c859da-ecad-446a-8545-2de2df1c480a@93.127.180.156:7443?security=&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🇦🇪 AE | 93.127.180.156
+vless://19508bb2-bef7-44c3-bdbd-35c23c7ccecc@93.127.180.144:7443?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.144
+vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?security=reality&encryption=none&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=4048A3da#🇦🇪 AE | 185.253.116.178
