@@ -1,3 +1,2 @@
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
-vless://6035325d-399a-5148-9126-29cedfd5966a@147.45.51.67:443?security=reality&encryption=none&pbk=zr1YTtXSRwdO8o5podr88Cz28vQpJGzuTJM9mpMp1AA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=df5e9592#🇮🇹 IT | 147.45.51.67
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
