@@ -1,18 +1,15 @@
 trojan://!d8jYnLU):b:@172.66.46.215:8443?path=/eyJqdW5rIjoiTWJQVlRKeUZ1UlFtUFgiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJ0dXJrLnJhZGljYWxpemF0aW9uLmlyIl19?ed=2560&security=tls&alpn=http/1.1&host=k2zfg80-8-0jeh9h-5wtkt43r92vji0p.pages.dev&fp=chrome&type=ws&sni=K2ZFG80-8-0jEH9h-5wTKt43R92VJi0P.pageS.dEV#🇨🇦 CA | 172.66.46.215
 trojan://telegram-id-directvpn@3.67.96.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.67.96.1
 trojan://telegram-id-directvpn@15.188.138.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.138.224
-trojan://7ad7a044-f170-4bb1-b5a7-34cfe0df2f8f@[2606:4700:3033::6815:5e45]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3033::6815:5e45]
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#🇨🇳 CN | 112.3.28.12
+trojan://bpb-trojan@104.18.94.159:443?allowInsecure=0&sni=fcspring.ggff.net#🇨🇦 CA | 104.18.94.159
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls#🏴‍☠️ UN | connectwithemployers.online
 trojan://slch2024@190.93.247.195:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&security=tls&sni=ocost-dy.wmlefl.cc&allowInsecure=1#🇨🇷 CR | 190.93.247.195
 trojan://telegram-id-privatevpns@3.67.96.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.67.96.1
 trojan://telegram-id-privatevpns@15.188.138.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.138.224
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=creativecommons.org#🇹🇷 TR | 193.124.46.134
 trojan://slch2024@185.148.107.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇳🇱 NL | 185.148.107.195
 trojan://slch2024@209.94.90.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇺🇸 US | 209.94.90.195
-trojan://telegram-id-directvpn@15.188.171.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.171.132
 trojan://telegram-id-v2rayvpnchannel@3.67.96.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.67.96.1
 trojan://telegram-id-v2rayvpnchannel@15.188.138.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.138.224
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#🇨🇦 CA | 172.67.181.173
