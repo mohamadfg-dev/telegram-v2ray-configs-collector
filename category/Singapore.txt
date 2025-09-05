@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbGY4YXprVUtOQTBScXVoRWhza2Fl@172.237.65.229:443#🇸🇬 SG | 172.237.65.229
-vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=android.googleapis.com#🇸🇬 SG | 159.65.132.231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbGY4YXprVUtOQTBScXVoRWhza2Fl@172.237.65.229:443#🇸🇬 SG | 172.237.65.229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbGY4YXprVUtOQTBScXVoRWhza2Fl@172.237.65.229:443#🇸🇬 SG | 172.237.65.229
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
