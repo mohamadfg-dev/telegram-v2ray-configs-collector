@@ -1,2 +1,1 @@
-vless://ee8d10cc-e21a-4dbc-bf3b-b8a3f22cd4f5@93.127.180.197:70?mode=gun&security=none&encryption=none&type=grpc#🇦🇪 AE | 93.127.180.197
-vless://ee8d10cc-e21a-4dbc-bf3b-b8a3f22cd4f5@93.127.180.197:70?mode=gun&security=none&encryption=none&type=grpc#🇦🇪 AE | 93.127.180.197
+vless://ee8d10cc-e21a-4dbc-bf3b-b8a3f22cd4f5@93.127.180.197:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.197
