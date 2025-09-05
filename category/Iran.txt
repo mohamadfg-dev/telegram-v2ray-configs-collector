@@ -36,3 +36,4 @@ vless://db3aa917-1354-42a8-a421-3467d74124dd@tt1.hennessypro.site:4001?security=
 vless://f452a367-e746-4455-8041-f19c1256b0be@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷 IR | 193.84.255.118
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.205
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.167
+vless://0ad87446-7e54-40cd-a3ac-b451fdde515c@panel-finland-2.subcenter.net:2002?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 193.84.255.104
