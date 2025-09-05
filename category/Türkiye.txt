@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🇹🇷 TR | 83.217.9.128
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g=@77.83.245.192:443#🇹🇷 TR | 77.83.245.192
 vless://id6686739236@45.89.52.228:443?security=reality&encryption=none&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&headerType=none&fp=chrome&spx=/1dJY9FINgvceUNC&type=tcp&flow=xtls-rprx-vision&sni=www.trendyol.com&sid=404c8792dfd88e41#🇹🇷 TR | 45.89.52.228
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#🇹🇷 TR | 164.138.202.139
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=creativecommons.org#🇹🇷 TR | 193.124.46.134
