@@ -1,3 +1,1 @@
 vless://ea03f531-04d8-402b-b95f-598ab9934933@84.234.29.63:4918?security=reality&encryption=none&pbk=9x8pWtP9-IziwcCbi5ecBlWQasNRvcvUze1wmEtWkww&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5297dc1dbb9e1a4b#🇨🇭 CH | 84.234.29.63
-vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@84.234.29.63:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇨🇭 CH | 84.234.29.63
-vless://c2757f1f-80c0-4d5e-8d42-76727d51a6ee@84.234.29.63:6684?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇨🇭 CH | 84.234.29.63
