@@ -1,2 +1,1 @@
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.1.249
-trojan://xxoo@us.blazeppn.info:443?encryption=none&security=tls&sni=telewebion.com&type=raw&headertype=none#🇺🇸 US | 138.197.5.103
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.1.249
