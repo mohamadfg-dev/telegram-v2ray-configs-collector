@@ -1,5 +1,4 @@
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/urdpjvws&security=tls&encryption=none&host=638901504444939106.esfahan-prx-dnraabg.info&fp=chrome&type=ws&sni=638901504444939106.esfahan-prx-dnraabg.info#🇸🇪 SE | 192.71.82.243
 vless://Parsashonam-Bot-20@185.146.173.39:8080?type=httpupgrade&host=De.Parsashonam.CfD.&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-306@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-306@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
@@ -7,6 +6,5 @@ vless://b83df10b-dca1-4289-a17a-564e67389d15@46.246.92.249:443?flow=xtls-rprx-vi
 vless://Parsashonam-306@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-306@185.146.173.39:8880?type=grpc&serviceName=#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
-vless://Parsashonam-306@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
 vless://70465717-66ae-4756-b28a-ec5899e08b17@ipw.gfdv54cvghhgfhgj-njhgj64.info:2095?encryption=none&type=httpupgrade&host=cp.tEhrAntolIdI.Ir&path=/?ed=2095&security=none#🇸🇪 SE | 192.71.82.243
