@@ -1,2 +1,1 @@
-vless://ccd7b102-9353-4b37-bdca-b9a7658c1833@yde1.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp@V2rayNGVPN <= کانفیگ رایگان#🇩🇪 DE | 188.245.222.196
-vless://cc9eb33f-b0ca-440d-b35e-631e49dd36d4@yde3.rayengame.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp@V2rayNGVPN <= کانفیگ رایگان#🇩🇪 DE | 116.203.152.240
+vless://cd050e98-424c-405b-82fb-12f2b0b8fba6@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp@V2rayNGVPN+<=+کانفیگ+رایگان#🇩🇪 DE | 188.245.43.193
