@@ -1,12 +1,15 @@
 trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?encryption=none&security=tls&sni=rc9.freeguard.org&type=raw&headertype=none#🇺🇸 US | 23.95.14.5
 trojan://telegram-id-directvpn@52.47.55.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.55.148
 trojan://telegram-id-directvpn@35.181.158.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.158.35
+trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#🇬🇧 GB | 2a06:98c1:3120::
+trojan://slch2024@185.251.81.195:2096?path=/Telegram🇨🇳&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇪🇸 ES | 185.251.81.195
+trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#🇨🇦 CA | 188.114.96.0
 trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=random&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#🇷🇺 RU | 176.32.39.29
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://telegram-id-directvpn@18.159.140.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.159.140.57
 trojan://telegram-id-privatevpns@52.47.55.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.55.148
 trojan://telegram-id-privatevpns@35.181.158.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.158.35
-trojan://telegram-id-directvpn@3.67.96.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.67.96.1
 trojan://telegram-id-v2rayvpnchannel@52.47.55.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.55.148
 trojan://telegram-id-v2rayvpnchannel@35.181.158.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.158.35
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#🇺🇸 US | 192.3.107.252
+trojan://vRN8GgeWH36osjIF@194.60.133.108:8080?path=/&security=none&type=ws#🇳🇱 NL | 194.60.133.108
+trojan://bbcacaa-aacb-abac-bdca-bbacaacbabcc@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1

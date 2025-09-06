@@ -1,8 +1,8 @@
 vless://bfa513e1-40af-4863-91d6-692f9a0270fd@45.136.5.57:70?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#🇹🇷 TR | 83.217.9.128
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM0IwWFBXYnlNNVg=@83.217.9.45:443#🇹🇷 TR | 83.217.9.45
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&spx=/&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#🇹🇷 TR | 79.110.50.57
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc=@77.83.245.50:443#🇹🇷 TR | 77.83.245.50
 vless://id6686739236@45.89.52.228:443?security=reality&encryption=none&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&headerType=none&fp=chrome&spx=/1dJY9FINgvceUNC&type=tcp&flow=xtls-rprx-vision&sni=www.trendyol.com&sid=404c8792dfd88e41#🇹🇷 TR | 45.89.52.228
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#🇹🇷 TR | 164.138.202.139
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
@@ -10,4 +10,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443#🇹🇷 T
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@tr.shop.snapppro.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇹🇷 TR | 213.156.152.145
 vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@tr-node.vipclubiran.ir:47193?encryption=none&security=reality&sni=www.pcmag.com&fp=firefox&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&sid=f414e49bc35be542&type=tcp&headerType=none#🇹🇷 TR | 216.9.226.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#🇹🇷 TR | 5.188.36.93
-vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 164.138.202.139
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🇹🇷 TR | 185.123.101.241
