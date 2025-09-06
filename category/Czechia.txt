@@ -1,1 +1,2 @@
-vless://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&sni=journalofbigdata.springeropen.com&fp=chrome&security=reality&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&sid=e965cb63a452#🇨🇿 CZ | 194.182.79.231
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.114:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#🇨🇿 CZ | 14.102.228.114
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.114:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#🇨🇿 CZ | 14.102.228.114
