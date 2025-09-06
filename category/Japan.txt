@@ -1,1 +1,1 @@
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 5.253.41.223
+trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?allowInsecure=1&sni=23.45.86.28#🇯🇵 JP | 52.194.186.65
