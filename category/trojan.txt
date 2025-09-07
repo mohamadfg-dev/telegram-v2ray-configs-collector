@@ -1,9 +1,9 @@
 trojan://telegram-id-directvpn@13.36.201.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.201.87
 trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.112.221
-trojan://auto@172.67.73.216:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#🇨🇦 CA | 172.67.73.216
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?encryption=none&security=tls&sni=rc6.freeguard.org&type=raw&headertype=none#🇺🇸 US | 198.23.229.250
+trojan://fc73805c-79c4-4991-82ff-378567807c25@d2a6dd74-8175-13dd-68c5-c8e9f8fb9117.890602.xyz:443/?type=ws&host=d2a6dd74-8175-13dd-68c5-c8e9f8fb9117.890602.xyz&path=/TOeKa6zghZmXqUIu7137&security=tls&sni=d2a6dd74-8175-13dd-68c5-c8e9f8fb9117.890602.xyz&alpn=http/1.1&fp=chrome#🇨🇦 CA | 2606:4700:3032::6815:4529
+trojan://telegram-id-privatevpns@13.48.65.237:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪 SE | 13.48.65.237
+trojan://UIVzMnusYd@sp1.shatak.store:49228?security=tls&headerType=none&type=tcp&sni=sp1.shatak.store#🏴‍☠️ UN | sp1.shatak.store
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?encryption=none&security=tls&sni=rc6.freeguard.org&type=raw&headertype=none#🇺🇸 US | 198.23.229.250
 trojan://telegram-id-privatevpns@13.36.201.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.201.87
 trojan://telegram-id-privatevpns@15.188.112.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.112.221
 trojan://bpb-trojan@172.67.75.172:443?sni=g1-21n.PaGes.dEV&allowInsecure=1&type=tcp&path=&host=g1-21n.PaGes.dEV#🇨🇦 CA | 172.67.75.172
