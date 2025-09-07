@@ -1,2 +1,3 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.114:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#🇨🇿 CZ | 14.102.228.114
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.114:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=http/1.1,h2#🇨🇿 CZ | 14.102.228.114
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿 CZ | 195.181.160.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿 CZ | 195.181.160.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🇨🇿 CZ | 195.181.160.6
