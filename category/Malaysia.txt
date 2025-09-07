@@ -1,1 +1,2 @@
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?security=tls&encryption=none&type=ws&path=/hqqprlws&fp=chrome#🇲🇾 MY | 45.89.107.227
+vmess://eyJhZGQiOiIxMDMuMTg2LjExNy4yMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmUyNTdmOWMtZmEwZS00NDJmLWY1M2MtNmE0NTI5MjRjMGMyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NTQ5NyIsInBzIjoi8J+HsvCfh74gTVkgfCAxMDMuMTg2LjExNy4yMjkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
