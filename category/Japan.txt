@@ -1,1 +1,1 @@
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?allowInsecure=1&sni=23.45.86.28#🇯🇵 JP | 52.194.186.65
+vless://5f4b2c6f-a231-462b-afdf-0a836bffa71c@pq-japan4.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 5.253.41.223
