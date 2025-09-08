@@ -1,1 +1,1 @@
-ss://500fa635-f420-4148-ae10-5b857163d045@78.135.110.152:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=/?ed=2560&security=tls&sni=vl.kouok.us.kg&fp=random#🇹🇷 TR | 78.135.110.152
+vless://fdf39264-c578-4ef8-818c-9d057f90c98e@application-tr-gateway.jupinn.com:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=application-tr-gateway.jupinn.com&type=xhttp#🇹🇷 TR | 213.142.134.61

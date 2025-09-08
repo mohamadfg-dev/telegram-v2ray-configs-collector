@@ -1,1 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#🇨🇭 CH | 156.146.62.161
+vless://fdf39264-c578-4ef8-818c-9d057f90c98e@application-sw-gateway.jupinn.com:80?note=--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--bia--skypro_vpn--&mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=application-sw-gateway.jupinn.com&type=xhttp#🇨🇭 CH | 84.234.31.127
