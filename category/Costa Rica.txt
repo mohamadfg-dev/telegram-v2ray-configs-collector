@@ -1,3 +1,2 @@
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?path=/?ed=2560&security=tls&encryption=none&host=v3.ganglink.sbs&fp=chrome&type=ws&sni=v3.ganglink.sbs#🇨🇷 CR | 190.93.245.234
-vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?path=/?ed=2560&security=tls&encryption=none&host=v3.ganglink.sbs&fp=chrome&type=ws&sni=v3.ganglink.sbs#🇨🇷 CR | 190.93.245.234
