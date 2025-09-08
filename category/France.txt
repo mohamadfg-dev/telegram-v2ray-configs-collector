@@ -11,19 +11,21 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4
 vless://3eabd701-e85b-4e29-b5c5-3d5e4d859558@62.60.157.123:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.fasti.win&fp=chrome&security=reality&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f#🇫🇷 FR | 62.60.157.123
 trojan://telegram-id-privatevpns@15.237.73.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.73.245
 trojan://telegram-id-privatevpns@51.44.49.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.49.244
+vmess://eyJhZGQiOiIzOC42MC4xMzQuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJlYjI4MTU5LTdmNGMtNGMwOS05MzEzLTYyODM1MTVmMTUwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ0IiwicHMiOiLwn4er8J+HtyBGUiB8IDM4LjYwLjEzNC4yNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?security=reality&encryption=none&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&headerType=none&fp=chrome&spx=/BjbMH0KJ2gNtut1&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f73895c725c3#🇫🇷 FR | 103.249.133.69
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.153.183.211
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4NS4xNi4xMTAuMjEyIiwicG9ydCI6ODg4MCwiaWQiOiJiMjA5ZGZiZi02YmIwLTMwYjItYTc3YS0yODZlMjMwNDY2YjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbfCfh6jwn4ezQFdhbmdDYWkyLz9lZD0yNTYwIiwidGxzIjoiIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.246
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&type=grpc&encryption=none#🇫🇷 FR | 185.231.205.99
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.186
+vmess://eyJhZGQiOiIzOC42MC4xMzQuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJlYjI4MTU5LTdmNGMtNGMwOS05MzEzLTYyODM1MTVmMTUwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ0IiwicHMiOiLwn4er8J+HtyBGUiB8IDM4LjYwLjEzNC4yNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.234
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.186
-vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?security=reality&encryption=none&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&headerType=none&fp=chrome&spx=/BjbMH0KJ2gNtut1&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f73895c725c3#🇫🇷 FR | 103.249.133.69
 trojan://telegram-id-v2rayvpnchannel@15.237.73.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.73.245
 trojan://telegram-id-v2rayvpnchannel@51.44.49.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.49.244
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.73.245:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.73.245
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.49.244:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.49.244
+vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇫🇷 FR | 51.83.112.164
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir/?&headerType=http&type=tcp#🇫🇷 FR | 141.94.174.9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇫🇷 FR | 185.231.205.99
 trojan://telegram-id-v2rayvpnchannel@51.44.49.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.49.244
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇫🇷 FR | 51.83.112.164
