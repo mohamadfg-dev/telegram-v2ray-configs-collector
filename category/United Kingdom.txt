@@ -1,8 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 131.145.40.9
 vless://5e1c87ae-5d26-4a92-afe3-0cb9c8557dfe@51.89.118.126:8080?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
-trojan://telegram-id-directvpn@18.132.219.129:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧 GB | 18.132.219.129
-vless://d9f9454d-e474-403b-880d-80b681cbe0d3@chat.openai.com:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#🇬🇧 GB | 2a06:98c1:310d::ac40:961c
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 131.145.40.9
@@ -24,3 +22,4 @@ vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=&enc
 vless://turboo-server@server.turbooo-server.com:80?path=/&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.47.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 172.187.112.35
 vless://5e1c87ae-5d26-4a92-afe3-0cb9c8557dfe@51.89.118.126:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
+vless://120bb317-ae5e-4053-837b-e36b24005dd8@englandw.marzxox.shop:210?security=reality&type=xhttp&headerType=&path=/Api/AS&host=&mode=auto&extra={"scMaxEachPostBytes":+750000,+"scMaxConcurrentPosts":+40,+"scMinPostsIntervalMs":+20,+"xPaddingBytes":+"500-1500",+"noGRPCHeader":+false}&sni=cdn.jsdelivr.net&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&sid=a1b2c3d4e5f67890#🇬🇧 GB | 68.183.45.202
