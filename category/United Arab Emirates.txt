@@ -1,1 +1,1 @@
-vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.143
+vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.143

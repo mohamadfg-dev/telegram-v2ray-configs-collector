@@ -1,6 +1,6 @@
 vless://69ee8502-88fd-4514-bb67-610101c16871@164.90.193.44:4005?type=tcp&path=/login-e&host=cp.cloudflare.com&headerType=http&security=none#🇳🇱 NL | 164.90.193.44
 vless://cicadanet@167.99.45.44:30402?security=reality&encryption=none&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&headerType=none&fp=chrome&spx=/meyah&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=2d9d1cbc94#🇳🇱 NL | 167.99.45.44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRnZlaDdmVEdUc0JEZGo0OXR0SXhH@ams.telegavpn.org:19057#🇳🇱 NL | 91.103.253.151
+vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇳🇱 NL | 141.11.250.143
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 179.61.219.170
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080?type=tcp#🇳🇱 NL | 172.233.43.98
@@ -8,11 +8,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPelBLOVBjSnIxTnNXZm03VDQ4TGlD@89.110.74.148:46271?type=tcp#🇳🇱 NL | 89.110.74.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
+vmess://eyJhZGQiOiIxNjMuMTcyLjIyMC43MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0Ijo2NjE2LCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiLwn4ez8J+HsSBOTCB8IDE2My4xNzIuMjIwLjcxIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vmess://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImI5ZDNjNDE0LTg5Y2MtNDU1ZC1iNzE3LTEwYzdjYTE2NjVhMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjg4MzgiLCJwcyI6IvCfh7Pwn4exIE5MIHwgODkuMTY5LjEzLjYwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇳🇱 NL | 188.42.89.100
-ss://YWVzLTI1Ni1nY206YjhhYjViNjItNDIxNS00ZWE4LWJhNTQtOWMxMzlhMDdiZGEz@128.199.56.167:8443#🇳🇱 NL | 128.199.56.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
