@@ -9,6 +9,7 @@ trojan://b65e79d9-4e0d-4451-b3dd-8cfb95963fb2@[2606:4700:3031::ac43:9684]:443/?t
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#🏴‍☠️ UN | [2a03:b0c0:3:d0::10ad:7001]
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
+vless://accaabb-abca-cbaa-acdb-aaacbbbcbcac@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
 vless://c6984604-9721-45b0-d0f8-b5fc0a14d8af@vip.premuimacc.com:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | vip.premuimacc.com
 vless://437415db-3e91-42ef-a1b2-bbdcc8f6ed71@vip.pingkiller.online:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | vip.pingkiller.online
@@ -25,8 +26,6 @@ vmess://eyJhZGQiOiJpci5zdmdzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 vless://0eef0e31-d29e-4d0d-8ce4-0712af97b9e8@[::ffff:5b63:9012]:4444?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🏴‍☠️ UN | [::ffff:5b63:9012]
 vless://YXV0bzpmZDExNWFiMS01Y2ViLTQxMWMtOWRlOC0yOGI4OWMxN2FiNWNAMjA1LjE4NS4xMTcuMTM4OjEyNDc1?remarks=SCP｜US&tls=1&peer=#🏴‍☠️ UN | YXV0bzpmZDExNWFiMS01Y2ViLTQxMWMtOWRlOC0yOGI4OWMxN2FiNWNAMjA1LjE4NS4xMTcuMTM4OjEyNDc1
 vless://YXV0bzpmZDExNWFiMS01Y2ViLTQxMWMtOWRlOC0yOGI4OWMxN2FiNWNAMjA1LjE4NS4xMTcuMTM4OjEyNDc1?remarks=SCP｜US&tls=1&peer=#🏴‍☠️ UN | YXV0bzpmZDExNWFiMS01Y2ViLTQxMWMtOWRlOC0yOGI4OWMxN2FiNWNAMjA1LjE4NS4xMTcuMTM4OjEyNDc1
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🏴‍☠️ UN | torless.duckdns.org
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ UN | europeless.duckdns.org
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDY0Ljc0LjE2My4yMTg6OTkw#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDY0Ljc0LjE2My4yMTg6OTkw
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=randomized&type=ws&sni=bakrie.ac.id.servpn.my.id#🏴‍☠️ UN | bakrie.ac.id.servpn.my.id
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX&security=none&encryption=none&type=ws#🏴‍☠️ UN | V2RAXX-channel.cataba.ir

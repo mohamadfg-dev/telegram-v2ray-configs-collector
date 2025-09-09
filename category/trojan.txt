@@ -2,9 +2,7 @@ trojan://trojan@www.visa.com.sg:8443?encryption=none&security=tls&sni=azadnet-f0
 trojan://telegram-id-directvpn@51.44.227.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.227.40
 trojan://telegram-id-directvpn@13.36.105.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.105.165
 trojan://b65e79d9-4e0d-4451-b3dd-8cfb95963fb2@[2606:4700:3031::ac43:9684]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3031::ac43:9684]
-trojan://a304a875-482e-4e48-9db5-15b4ab99beaf@15.204.59.20:52306?security=tls&sni=a.naiun.node-is.green#🇺🇸 US | 15.204.59.20
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=sj3.freeguard.org#🇺🇸 US | 198.46.152.83
-trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.112.221
+trojan://auto@104.20.20.6:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🇨🇦 CA | 104.20.20.6
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇨🇦 CA | 172.67.156.25
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@51.44.227.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.227.40
