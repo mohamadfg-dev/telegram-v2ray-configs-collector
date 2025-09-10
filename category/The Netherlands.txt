@@ -20,7 +20,6 @@ vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇳🇱 NL | 103.104.247.47
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇳🇱 NL | 188.42.89.100
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#🇳🇱 NL | 195.93.253.49
-vless://60980999-7576-453d-8a95-efe5829e7f74@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🇳🇱 NL | 134.209.195.209
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#🇳🇱 NL | 195.93.253.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235

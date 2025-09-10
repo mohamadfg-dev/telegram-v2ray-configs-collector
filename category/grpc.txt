@@ -15,17 +15,15 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&secur
 vless://96f391f6-0762-4895-a57c-433360967ca8@5.161.130.236:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇺🇸 US | 5.161.130.236
 vless://96f391f6-0762-4895-a57c-433360967ca8@Alman2.netblocksir.ir:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇩🇪 DE | 162.19.248.5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.142
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
-vless://b4890507-6404-49dd-9eee-cd823b87b171@54.36.117.130:8080?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.117.130
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 185.236.232.120
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 104.18.33.112
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?encryption=none&security=none&fp=chrome&type=grpc#🇺🇸 US | 185.236.232.199
-vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@www.speedtest.net:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=us1.projecthope.ir#🇨🇦 CA | 104.17.147.22
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.186
+vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@www.speedtest.net:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=us1.projecthope.ir#🇨🇦 CA | 104.17.148.22
 vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=android&type=grpc&sni=us1.projecthope.ir#🇺🇸 US | 23.94.206.70
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.72
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.189
