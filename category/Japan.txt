@@ -1,1 +1,2 @@
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@48.210.29.22:443?sni=usla.mjt000.com#🇯🇵 JP | 48.210.29.22
 vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@152.70.101.24:16711?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random&type=ws&sni=n7a3zsazr6pp5rsdo4gs.pages.dev#🇯🇵 JP | 152.70.101.24
