@@ -1,6 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
-vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@185.254.220.229:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes": 750000, "scMaxConcurrentPosts": 40, "scMinPostsIntervalMs": 20, "xPaddingBytes": "500-1500", "noGRPCHeader": false}&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&fp=firefox&type=xhttp&sni=cdn.jsdelivr.net#🇵🇱 PL | 185.254.220.229
-vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7EgUEwgfCAxNDYuNTkuMTE4LjI0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYzBkZzhpMjU3SVI1WUtvOFNPUlVK@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNnZRbHF0Z2FnOTFjQ09ZcVhJb0wx@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#🇵🇱 PL | 217.30.10.18
