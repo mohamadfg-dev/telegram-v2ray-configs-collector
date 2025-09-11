@@ -1,3 +1,1 @@
-trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230/?type=ws&security=tls&sni=www.alibaba.com&allowInsecure=1#🇯🇵 JP | 52.195.213.2
-trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230/?type=ws&security=tls&sni=www.alibaba.com&allowInsecure=1#🇯🇵 JP | 52.195.213.2
 vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@152.70.101.24:16711?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random&type=ws&sni=n7a3zsazr6pp5rsdo4gs.pages.dev#🇯🇵 JP | 152.70.101.24

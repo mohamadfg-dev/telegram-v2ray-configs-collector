@@ -1,5 +1,6 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYzBkZzhpMjU3SVI1WUtvOFNPUlVK@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
+vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80?path=/vless/&security=none&encryption=none&host=---@ShadowProxy66&type=ws#🇵🇱 PL | 57.128.198.152
+vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7EgUEwgfCAxNDYuNTkuMTE4LjI1MCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNnZRbHF0Z2FnOTFjQ09ZcVhJb0wx@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#🇵🇱 PL | 217.30.10.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 PL | 45.144.49.140
