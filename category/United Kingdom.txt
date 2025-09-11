@@ -1,7 +1,7 @@
+vless://d5510fdc-a7a1-45e4-8901-ab8b7321f1c8@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#🇬🇧 GB | 2a06:98c1:310d::ac40:961c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 85.210.119.142
 vless://43ba22b2-aeec-4960-ba03-4d2e9a7278dc@51.89.118.126:25366?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
-vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhbHBuIjoiIiwiZnJhZ21lbnQiOiIiLCJ0bHMiOiJub25lIiwiZnAiOiIiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwiaWQiOiI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzZWVkIjoiIiwicG9ydCI6IjQ0MDIzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiIiwidiI6IjIiLCJhaWQiOiIwIiwiZXh0cmEiOiIiLCJzbmkiOiIiLCJoZWFkZXJUeXBlIjoibm9uZSIsInBzIjoi8J+HrPCfh6cgR0IgfCA1MS4zOC42NC4yMDkiLCJkZXZpY2VJRCI6IiIsIm1vZGUiOiIifQ==
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://43ba22b2-aeec-4960-ba03-4d2e9a7278dc@51.89.118.126:25366?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
@@ -25,3 +25,4 @@ vless://f60c167b-91ac-4473-ba26-a79ade18710c@51.89.118.126:25365?mode=gun&securi
 vless://5e1c87ae-5d26-4a92-afe3-0cb9c8557dfe@51.89.118.126:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.64.185
 vless://43ba22b2-aeec-4960-ba03-4d2e9a7278dc@51.89.118.126:25366?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
+vless://c2c5b83f-4892-c49f-b9d1-7af232611820@64.227.32.13:443?flow=xtls-rprx-vision&security=reality&encryption=none&type=tcp&sni=www.latimes.com&sid=6ea3daaac3d6bede&fp=firefox&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&headerType=none#🇬🇧 GB | 64.227.32.13

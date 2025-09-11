@@ -1,1 +1,1 @@
-trojan://3767107462583558144@35.79.158.115:443?sni=first-sawfly.goat627.mom&allowInsecure=0#🇯🇵 JP | 35.79.158.115
+vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@152.70.101.24:16711?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random&type=ws&sni=n7a3zsazr6pp5rsdo4gs.pages.dev#🇯🇵 JP | 152.70.101.24
