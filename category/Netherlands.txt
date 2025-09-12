@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.130.20.40:1001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560#🇳🇱 NL | 45.130.20.40
+vless://b14bb583-d086-473e-86ec-0aeccf3f9cb1@83.229.82.75:2053?mode=auto&path=/&security=reality&encryption=none&pbk=DkxflmXVGtcJg7utwC_ajBsf1hrUr6N7IoIOdy59egs&host=www.speedtest.net&fp=random&spx=/&type=xhttp&sni=google.com&sid=0f3f38fee350#🇳🇱 NL | 83.229.82.75

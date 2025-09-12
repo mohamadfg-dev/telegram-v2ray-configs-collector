@@ -1,1 +1,2 @@
 vless://7a2fba14-d7c3-6ca7-e557-44d66ba0dc08@S.bazicore.ir:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=821bbc44dd7a4e15#🇨🇭 CH | 84.234.30.219
+vless://7a2fba14-d7c3-6ca7-e557-44d66ba0dc08@84.234.30.219:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=821bbc44dd7a4e15#🇨🇭 CH | 84.234.30.219
