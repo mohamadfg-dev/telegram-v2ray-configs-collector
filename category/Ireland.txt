@@ -1,2 +1,1 @@
-trojan://telegram-id-directvpn@54.72.10.128:22222?security=tls&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.72.10.128
-trojan://telegram-id-directvpn@54.72.10.128:22222?security=tls&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.72.10.128
+trojan://telegram-id-privatevpns@52.16.250.10:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.16.250.10

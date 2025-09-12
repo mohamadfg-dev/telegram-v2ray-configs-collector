@@ -1,9 +1,10 @@
 trojan://telegram-id-directvpn@52.47.127.117:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.127.117
 trojan://telegram-id-directvpn@13.38.214.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.214.60
 trojan://fc24a43e-da13-4f89-b40b-553d9693ff8c@[2606:4700:3030::6815:2001]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3030::6815:2001]
-trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?sni=q08m.vgraxiw73s.hasyaf.cn#undefined HK | 45.146.232.171
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?security=tls&sni=aio.proxybox.dpdns.org&type=ws&host=aio.proxybox.dpdns.org&path=/188.34.160.97-2053#🇨🇦 CA | 188.114.97.0
+trojan://telegram-id-privatevpns@52.16.250.10:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.16.250.10
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇨🇦 CA | 172.67.156.25
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
+trojan://Aimer@162.159.44.236:443?sni=agepw.ambercc.filegear-sg.me#🇺🇸 US | 162.159.44.236
 trojan://telegram-id-privatevpns@52.47.127.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.127.117
 trojan://telegram-id-privatevpns@13.38.214.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.214.60
 trojan://bpb-trojan@172.67.75.172:443?sni=g1-21n.PaGes.dEV&allowInsecure=1&type=tcp&path=&host=g1-21n.PaGes.dEV#🇨🇦 CA | 172.67.75.172
