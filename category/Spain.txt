@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 ES | 5.188.181.201
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#🇪🇸 ES | 94.250.246.200
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3N1E4ZXhVVkV3aGpqZnNTN1JyOE1G@194.87.45.189:443#🇪🇸 ES | 194.87.45.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cFBET2FZcEwwYW0yQWJjSFBrc3dp@194.87.45.189:443#🇪🇸 ES | 194.87.45.189
