@@ -1,4 +1,5 @@
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
+vless://608743f6-2e9e-4ff8-b0b1-d27f12bfd5f1@185.146.173.52:8880?security=none&type=httpupgrade&host=splUs.Ir.DigIcYBer.CLIck.&path=/nazan/pedar/sag#🇸🇪 SE | 185.146.173.52
 vless://Parsashonam-307@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-307@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-306@185.146.173.39:8880?type=grpc&serviceName=#🇸🇪 SE | 185.146.173.39

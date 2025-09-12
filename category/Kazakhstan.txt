@@ -1,3 +1,1 @@
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
-trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
+vless://6035325d-399a-5148-9126-29cedfd5966a@89.169.36.89:443?security=reality&encryption=none&pbk=9o0XYIDgXjRHlq4zWmpp_E2QfJxo2bA3Yx6lZe-NWnA&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=512f6a1a#🇰🇿 KZ | 89.169.36.89
