@@ -4,6 +4,7 @@ vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=real
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#🇳🇱 NL | 195.93.253.49
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080?type=tcp#🇳🇱 NL | 172.233.43.98
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGemY1dmFYRnM3b0NZM1hiMzNhWjk0NXhraHZGdDJycnhkUkJZOUQzZFFlY05RS0VYeXNCWGIyZVZQekRWYjlpcU0zaUJod0pIRWk1ZVdoekFYSlhFUDJ2VXdXQ3BaWEQ=@208.67.105.196:42029#🇳🇱 NL | 208.67.105.196
 vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 vless://FreakConfig1@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 trojan://slch2024@185.7.240.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇳🇱 NL | 185.7.240.195
@@ -11,11 +12,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPelBLOVBjSnIxTnNXZm03VDQ4TGlD@89.110.74.148:
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=&type=tcp&encryption=none#🇳🇱 NL | 179.61.219.170
+vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&sid=ba2e91d5d7be&type=tcp&flow=xtls-rprx-vision&encryption=none#🇳🇱 NL | 208.67.105.196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.100:8880?path=/Channel&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇳🇱 NL | 188.42.89.100
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🇳🇱 NL | 77.239.109.216
+vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇳🇱 NL | 51.77.91.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
