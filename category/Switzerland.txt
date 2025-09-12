@@ -1,4 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭 CH | 156.146.62.164
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭 CH | 156.146.62.164
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭 CH | 156.146.62.164
-vless://fb4c651e-d32e-6c34-e310-6a42b02ec739@hamash-gosht.fizikade.ir:443?security=tls&type=tcp&headerType=http&path=/index.html&sni=hamash-gosht.fizikade.ir&fp=chrome&alpn=h3,h2,http/1.1#🇨🇭 CH | 84.234.29.136
+vless://7a2fba14-d7c3-6ca7-e557-44d66ba0dc08@S.bazicore.ir:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=821bbc44dd7a4e15#🇨🇭 CH | 84.234.30.219

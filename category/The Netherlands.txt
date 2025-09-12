@@ -1,3 +1,7 @@
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
+vless://cicadanet@167.99.45.44:30402?security=reality&encryption=none&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&headerType=none&fp=chrome&spx=/meyah&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=2d9d1cbc94#🇳🇱 NL | 167.99.45.44
+vless://c0e0f2b4-0550-49b2-8231-efde819bd8e1@178.128.138.210:443?mode=auto&path=/&security=reality&encryption=none&pbk=9ikzRJ5rL2e3cErzU03KCM8BkRpgSaWX6bwh9YMCmFY&fp=random&spx=/&type=xhttp&sni=google.com&sid=a00a4ad4de#🇳🇱 NL | 178.128.138.210
+vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#🇳🇱 NL | 195.93.253.49
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080?type=tcp#🇳🇱 NL | 172.233.43.98
@@ -6,6 +10,7 @@ vless://FreakConfig@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reali
 vless://FreakConfig1@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 trojan://slch2024@185.7.240.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇳🇱 NL | 185.7.240.195
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPelBLOVBjSnIxTnNXZm03VDQ4TGlD@89.110.74.148:46271?type=tcp#🇳🇱 NL | 89.110.74.148
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&sid=ba2e91d5d7be&type=tcp&flow=xtls-rprx-vision&encryption=none#🇳🇱 NL | 208.67.105.196
@@ -18,6 +23,5 @@ vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=real
 vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.19
 vless://FreakConfig2@FreakConfig.snapfood.org:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=firefox&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#🇳🇱 NL | 45.93.170.122
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?path=/54567/mvfkvk&security=&encryption=none&type=ws#🇳🇱 NL | 138.124.52.155
