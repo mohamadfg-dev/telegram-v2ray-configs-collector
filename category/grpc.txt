@@ -1,4 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.69
 vless://31391598-edc7-4ba1-8b34-cf9b9602396a@54.36.117.130:25368?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.117.130
 vless://490aed2f-9c4e-43b0-ad77-34583bc335a7@54.36.112.160:38818?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.112.160
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 185.236.232.72
@@ -24,19 +23,18 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.54
 vless://31391598-edc7-4ba1-8b34-cf9b9602396a@54.36.117.130:25368?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.117.130
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]
-vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 2606:4700:4405::ac40:9a90
+vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&mode=gun&serviceName=8443vless&authority=dl-pack.motionbetter.ir&security=tls&fp=chrome&sni=dl-pack.motionbetter.ir&alpn=h2,http/1.1&fragment=7-11,4-8,1-1#🇨🇦 CA | 104.18.33.112
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?encryption=none&security=none&fp=chrome&type=grpc#🇺🇸 US | 185.236.232.199
 vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=android&type=grpc&sni=us1.projecthope.ir#🇺🇸 US | 23.94.206.70
 vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc#🇺🇸 US | 23.94.206.70
 vless://dc2f2d7b-a250-4dad-a4ec-1a3308886ca2@54.36.117.130:25367?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.117.130
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.93
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.96
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.72
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.189
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.86.72.106
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.54
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 GB | 102.177.189.251
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 vless://aeb5ac1e-4353-4c59-9bb2-d17f6e62f84f@49.12.119.56:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=ghbi.ir&serviceName=melov2ray&mode=gun#🇩🇪 DE | 49.12.119.56
 vless://0eef0e31-d29e-4d0d-8ce4-0712af97b9e8@[::ffff:5b63:9012]:4444?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🏴‍☠️ UN | [::ffff:5b63:9012]
@@ -48,7 +46,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&secur
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.124
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.180
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.96
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.234
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.93
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US | 185.236.232.116
@@ -57,6 +54,7 @@ vless://c6c1eaa1-ce05-4208-bfcb-935bee26a9ef@93.114.98.151:2211?mode=gun&securit
 vless://Parsashonam-Bot-21@104.17.147.22:8080?type=grpc&serviceName=#🇨🇦 CA | 104.17.147.22
 vless://Parsashonam-Bot-22@104.17.147.22:8080?type=grpc&serviceName=#🇨🇦 CA | 104.17.147.22
 vless://bfcb7e61-ddbf-4514-ac23-1b7ea21257be@51.89.118.126:25368?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 51.89.118.126
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.140.147.74
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=&encryption=none&fp=chrome&type=grpc#🇺🇸 US | 45.82.251.121
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&encryption=none&fp=chrome&type=grpc#🇺🇸 US | 45.82.251.180
 vless://c185d3d9-4263-440c-8d89-2888efddd45a@195.201.32.169:57276?type=grpc&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#🇩🇪 DE | 195.201.32.169
@@ -77,6 +75,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&secur
 vless://31391598-edc7-4ba1-8b34-cf9b9602396a@54.36.117.130:25368?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.117.130
 vless://bfcb7e61-ddbf-4514-ac23-1b7ea21257be@51.89.118.126:25368?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.118.126
 vless://523d7171-7363-4d18-afa2-df3af93d422a@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none#🇫🇮 FI | 2a01:4f9:c013:c662::1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusabt.info:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.47
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#🇩🇪 DE | 104.248.136.27
 vless://17586a71-1e58-442e-b297-56269599c1a4@54.36.114.253:25368?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.114.253
 vless://490aed2f-9c4e-43b0-ad77-34583bc335a7@54.36.112.160:38818?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.112.160
