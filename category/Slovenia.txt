@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#🇸🇮 SI | 212.13.236.132
+vless://14615e9d-021d-4a18-aed7-dd4fcda2b179@194.58.66.146:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1[🏁]#🇸🇮 SI | 194.58.66.146
