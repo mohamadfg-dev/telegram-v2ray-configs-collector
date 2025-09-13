@@ -1,6 +1,9 @@
 vless://d4a65f70-ccc3-45a0-984d-0c283dff38ff@d13.zulahost.us:443?path=/40602/wsgoogle&security=tls&encryption=none&host=d13.zulahost.us&fp=chrome&type=ws&sni=d13.zulahost.us#🇸🇬 SG | 43.159.98.29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UVZyV0dlN1hVdThqRlVHRXlybVVq@157.245.157.80:31812#🇸🇬 SG | 157.245.157.80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UVZyV0dlN1hVdThqRlVHRXlybVVq@157.245.157.80:31812#🇸🇬 SG | 157.245.157.80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UVZyV0dlN1hVdThqRlVHRXlybVVq@157.245.157.80:31812#🇸🇬 SG | 157.245.157.80
 vless://d4a65f70-ccc3-45a0-984d-0c283dff38ff@d13.zulahost.us:443?path=/40602/wsgoogle&security=tls&encryption=none&host=d13.zulahost.us&fp=chrome&type=ws&sni=d13.zulahost.us#🇸🇬 SG | 43.159.98.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
-vless://d4a65f70-ccc3-45a0-984d-0c283dff38ff@d13.zulahost.us:443?path=/40602/wsgoogle&security=tls&encryption=none&host=d13.zulahost.us&fp=chrome&type=ws&sni=d13.zulahost.us#🇸🇬 SG | 43.159.99.29
+vless://d4a65f70-ccc3-45a0-984d-0c283dff38ff@d13.zulahost.us:443?path=/40602/wsgoogle&security=tls&encryption=none&host=d13.zulahost.us&fp=chrome&type=ws&sni=d13.zulahost.us#🇸🇬 SG | 43.159.98.29
 vmess://eyJhZGQiOiJzaW5nYXBvcmUyLmhlbGxvc2h1YWkuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzaW5nYXBvcmUyLmhlbGxvc2h1YWkuY29tIiwiaWQiOiIxNGE3OTE0OC0zZDc1LTQxZDYtYTk5OC0yYmU5ZWRlZjg4Y2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMzljYjQvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuPCfh6wgU0cgfCA1NC4xNjkuMTczLjUxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU0cgfCA4Mi4xOTcuNjkuMTMxIiwiYWRkIjoiODIuMTk3LjY5LjEzMSIsInBvcnQiOiIzOTY3NCIsImlkIjoiNWE4OTM4NmEtODI3Yi00ZjU0LTg3NzgtMmYxYjUxMjJjNmVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=

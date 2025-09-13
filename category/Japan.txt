@@ -1,3 +1,2 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 JP | 149.22.87.204
 ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
-vless://ecc00fef-7a10-48a2-a985-e4ea561260fc@152.70.101.24:16711?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=n7a3zsazr6pp5rsdo4gs.pages.dev&fp=random&type=ws&sni=n7a3zsazr6pp5rsdo4gs.pages.dev#🇯🇵 JP | 152.70.101.24
