@@ -1,1 +1,2 @@
+vless://0e854123-c92b-94ba-81d0-c585ffb4d2bd@tr.mehdikarimi3.ir:20142?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=KUgSYSMa6KCrBMYx81yuM1cC02QyQmmIMj6-_1atgQ0&sid=32aaf12b&spx=#🇹🇷 TR | 213.142.134.139
 vless://3601ddaf-6623-4d16-88c9-fbf8ad4f8a86@31.57.225.23:2565?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇹🇷 TR | 31.57.225.23
