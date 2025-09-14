@@ -1,13 +1,14 @@
+trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=/moshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http/1.1&sni=moshali.arshiacomplus.dpdns.org#🇳🇱 NL | 5.255.103.217
+trojan://zL78LA0D5P@5.255.103.217:58194?type=xhttp&path=/moshali33&host=moshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=moshali.arshiacomplus.dpdns.org.cer#🇳🇱 NL | 5.255.103.217
 trojan://telegram-id-directvpn@13.37.35.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.35.7
 trojan://telegram-id-directvpn@35.181.234.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.234.204
-trojan://24b32190-826e-4a15-a2f4-c7e31155555f@104.21.94.69:443/?type=grpc&serviceName=fp3W30xauAsMHFPu9&security=tls&sni=zZZZZxsdC.000890604.xYZ&alpn=h2&fp=chrome#🇨🇦 CA | 104.21.94.69
-trojan://1d29537a-3ec0-4775-97ec-c5773b6e4103@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#🏴‍☠️ UN | frontend.yijianlian.app
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://dns68@199.68.156.68:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#🇺🇸 US | 199.68.156.68
 trojan://740628@136.175.177.136:8000/?type=grpc&serviceName=cestbon&security=tls&sni=sj.cestbon.work&fp=chrome#🇺🇸 US | 136.175.177.136
 trojan://telegram-id-privatevpns@13.37.35.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.35.7
 trojan://telegram-id-privatevpns@35.181.234.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.234.204
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇺🇸 US | 209.94.90.195
+trojan://740628@136.175.177.136:8000?security=tls&sni=sj.cestbon.work&fp=chrome&type=grpc&serviceName=cestbon#🇺🇸 US | 136.175.177.136
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp#🇺🇸 US | 198.23.229.250
 trojan://NISHIKUITAN111@104.16.104.42:443/?type=tcp&security=tls&sni=104.16.104.42&allowInsecure=1#🇨🇦 CA | 104.16.104.42
 trojan://bpb-trojan@104.17.147.22:2053/?type=tcp&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&allowInsecure=1#🇨🇦 CA | 104.17.147.22
 trojan://telegram-id-v2rayvpnchannel@13.37.35.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.35.7
