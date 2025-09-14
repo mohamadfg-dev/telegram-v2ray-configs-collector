@@ -1,12 +1,10 @@
+trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.177.122
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=/moshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http/1.1&sni=moshali.arshiacomplus.dpdns.org#🇳🇱 NL | 5.255.103.217
 trojan://zL78LA0D5P@5.255.103.217:58194?type=xhttp&path=/moshali33&host=moshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=moshali.arshiacomplus.dpdns.org.cer#🇳🇱 NL | 5.255.103.217
 trojan://telegram-id-directvpn@13.37.27.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.27.224
 trojan://telegram-id-directvpn@13.37.65.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.65.168
-trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?security=none&type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net#🇨🇦 CA | 104.19.209.229
-trojan://1d29537a-3ec0-4775-97ec-c5773b6e4103@frontend.yijianlian.app:54530?allowInsecure=1&sni=frontend.yijianlian.app&fp=chrome#🏴‍☠️ UN | frontend.yijianlian.app
+trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.177.122
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://blue2024@162.159.38.128:443?allowInsecure=1&sni=ta.promote.icu#🇺🇸 US | 162.159.38.128
-trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?path=/aioproxybot/146.190.192.43-80&security=tls&type=ws&sni=aio.nolimit.dpdns.org#🇨🇦 CA | 172.67.199.173
 trojan://telegram-id-privatevpns@13.37.27.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.27.224
 trojan://telegram-id-privatevpns@13.37.65.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.65.168
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇺🇸 US | 209.94.90.195
