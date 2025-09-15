@@ -1,1 +1,2 @@
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@141.11.164.240:645?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇨🇭 CH | 141.11.164.240
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@141.11.164.240:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#🇨🇭 CH | 141.11.164.240
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@141.11.164.240:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#🇨🇭 CH | 141.11.164.240
