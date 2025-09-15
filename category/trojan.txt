@@ -1,15 +1,13 @@
 trojan://zL78LA0D5P@5.255.103.217:58194?type=xhttp&path=/moshali33&host=moshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=moshali.arshiacomplus.dpdns.org.cer#🇳🇱 NL | 5.255.103.217
 trojan://telegram-id-directvpn@13.39.58.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.58.25
 trojan://telegram-id-directvpn@35.181.130.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.130.3
-trojan://telegram-id-directvpn@35.177.195.224:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧 GB | 35.177.195.224
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40001?allowInsecure=1&sni=frontend.kuangbiaoyun.com&fp=chrome#🇺🇸 US | 45.120.7.68
+trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@mrarshaordenshpgaamericang00d.arshaproplus.cf:443?allowInsecure=1&sni=ddragon.leagueoflegends.com&fp=chrome#🏴‍☠️ UN | mrarshaordenshpgaamericang00d.arshaproplus.cf
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇨🇦 CA | 172.67.156.25
 trojan://telegram-id-privatevpns@13.39.58.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.58.25
 trojan://telegram-id-privatevpns@35.181.130.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.130.3
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#🇺🇸 US | 209.94.90.195
 trojan://740628@136.175.177.136:8000?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=cestbon&sni=sj.cestbon.work#🇺🇸 US | 136.175.177.136
-trojan://telegram-id-directvpn@35.177.195.224:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧 GB | 35.177.195.224
 trojan://NISHIKUITAN111@104.16.104.42:443/?type=tcp&security=tls&sni=104.16.104.42&allowInsecure=1#🇨🇦 CA | 104.16.104.42
 trojan://bpb-trojan@104.17.147.22:2053/?type=tcp&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV&allowInsecure=1#🇨🇦 CA | 104.17.147.22
 trojan://telegram-id-v2rayvpnchannel@13.39.58.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.58.25
