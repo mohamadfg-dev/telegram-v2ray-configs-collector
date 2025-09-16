@@ -1,1 +1,1 @@
-trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?sni=q08m.vgraxiw73s.hasyaf.cn#undefined HK | 45.146.232.173
+vless://13e0940a-5234-4702-b610-037b1bca9809@156.225.23.208:40429?security=reality&encryption=none&pbk=KkVrTtjrIuF8vXrXAQ-g8I25Fzih4QILMB05ObSnvRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#undefined HK | 156.225.23.208
