@@ -1,2 +1,3 @@
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
+vless://6c8b1551-128c-44f2-82d3-1065ad0c2024@141.227.140.224:59185?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇮🇹 IT | 141.227.140.224
