@@ -14,7 +14,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4NS4xNi4xMTAuMjEyIiwicG9ydCI6ODg4MCwiaWQiOiJiMjA5ZGZiZi02YmIwLTMwYjItYTc3YS0yODZlMjMwNDY2YjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbfCfh6jwn4ezQFdhbmdDYWkyLz9lZD0yNTYwIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4NS4xNi4xMTAuMjEyIiwicG9ydCI6ODg4MCwiaWQiOiJiMjA5ZGZiZi02YmIwLTMwYjItYTc3YS0yODZlMjMwNDY2YjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwicGF0aCI6Ii9kYWJhaSZUZWxlZ3JhbfCfh6jwn4ezQFdhbmdDYWkyLz9lZD0yNTYwIiwidGxzIjoiIn0=
 vless://2360666f-c997-476e-b9d0-6406c41e7ee5@152.228.213.209:15341?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇫🇷 FR | 152.228.213.209
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.161.123:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.161.123
+vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA5MS4xMzQuOC44OCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.99
 trojan://telegram-id-privatevpns@13.39.230.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.230.115
 trojan://telegram-id-privatevpns@13.37.49.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.49.244
@@ -23,7 +23,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxODUuMTYuMTEwLjIxMiIsImFkZCI6IjE4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.213
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.246
 vless://2360666f-c997-476e-b9d0-6406c41e7ee5@152.228.213.209:15341?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇫🇷 FR | 152.228.213.209
-vless://8dad43e6-0017-4c13-87ba-813429023261@77.110.106.73:23785?path=/@fotonvpn_bot&security=none&encryption=none&type=ws#🇫🇷 FR | 77.110.106.73
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.234
 vmess://eyJhZGQiOiIzOC42MC4xMzQuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImJlYjI4MTU5LTdmNGMtNGMwOS05MzEzLTYyODM1MTVmMTUwYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ0IiwicHMiOiLwn4er8J+HtyBGUiB8IDM4LjYwLjEzNC4yNDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://telegram-id-v2rayvpnchannel@13.39.230.115:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.230.115
@@ -33,7 +32,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.230.115:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.49.244:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.49.244
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.info:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.213
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.234
-trojan://telegram-id-v2rayvpnchannel@13.39.230.115:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.230.115
-trojan://telegram-id-v2rayvpnchannel@13.37.49.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.49.244
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#🇫🇷 FR | 51.38.232.101
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.128
