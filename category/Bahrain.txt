@@ -1,1 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.118.40:443#🇧🇭 BH | 16.24.118.40
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037/?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇧🇭 BH | 185.253.117.63
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇧🇭 BH | 185.253.117.63
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇧🇭 BH | 185.253.117.63
+vless://4f614742-6ba2-4aa1-a69f-339aad2406ff@185.253.117.63:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇧🇭 BH | 185.253.117.63
