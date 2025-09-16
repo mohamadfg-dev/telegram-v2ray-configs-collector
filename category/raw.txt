@@ -1,1 +1,1 @@
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@local.rogsoftwaregroup.com:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?encryption=none&security=tls&sni=rc8.freeguard.org&type=raw&headertype=none#🇺🇸 US | 192.3.107.252
