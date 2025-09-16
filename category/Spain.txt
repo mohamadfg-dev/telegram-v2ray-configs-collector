@@ -1,4 +1,1 @@
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 ES | 5.188.181.201
-vless://ecfbff92-a62c-4b51-912e-17d7fd8d52d5@63.251.122.76:12790?security=none&encryption=none&headerType=none&type=tcp#🇪🇸 ES | 63.251.122.76
-vless://ecfbff92-a62c-4b51-912e-17d7fd8d52d5@63.251.122.76:12790?security=none&encryption=none&headerType=none&type=tcp#🇪🇸 ES | 63.251.122.76
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
