@@ -10,10 +10,10 @@ vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 4.250.241.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 145.133.97.32
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
-vless://6d288402-6ef9-4092-9d52-c528690fb693@134.122.100.178:10108?path=/Nu8bHy0jlYQqvxns/MTIxLjU0LjMwLjE1OQ&security=tls&alpn=http/1.1&encryption=none&host=pmlmyazd-6s6.pages.dev&type=ws&sni=pMLMyAZD-6S6.paGeS.DEV#🇬🇧 GB | 134.122.100.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 GB | 145.133.97.32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 GB | 4.250.120.127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🇬🇧 GB | 4.250.120.127
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmlFZmhxMHJmR3ByNU5qekhNNXdu@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
 vless://turboo-server@turboo-server.aftabz.com:80?path=/--ping--www.speedtest.net?ed=2080&security=&encryption=none&type=ws#🇬🇧 GB | 45.60.47.100
@@ -28,8 +28,6 @@ vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@S
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
 vless://turboo-server@server.turboo-server.com.co:80?path=/--ping--www.speedtest.net?ed=2080&security=&encryption=none&type=ws#🇬🇧 GB | 45.60.33.53
 vless://turboo-server@turboo-server.aftabz.com:80?type=ws&path=/--ping--www.speedtest.net?ed=2080&host=&security=none#🇬🇧 GB | 45.60.47.100
-vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOjEsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+HrPCfh6cgR0IgfCA1Ny4xMjguMTg5LjIxMSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6InlpY2h1ZW5nLm9yZyJ9
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?path=/Free-CF-Proxy-AD192.3.113.4-19318&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#🇬🇧 GB | 2a06:98c1:3120::
 vless://turboo-server@turboo-server.aftabz.com:80?path=/--ping--www.speedtest.net?ed=2080&security=&encryption=none&type=ws#🇬🇧 GB | 45.60.47.100
 vless://ac01977c-3d57-4e5c-a8d5-0b5ff0f4a97f@51.89.116.49:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 51.89.116.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 145.133.97.32
