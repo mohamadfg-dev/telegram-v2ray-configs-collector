@@ -1,9 +1,9 @@
 trojan://telegram-id-directvpn@15.237.148.28:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.148.28
 trojan://telegram-id-directvpn@15.188.206.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.206.31
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#🇨🇦 CA | 104.21.47.176
-trojan://Aimer@154.197.64.196:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#🇺🇸 US | 154.197.64.196
-trojan://telegram-id-privatevpns@13.51.140.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪 SE | 13.51.140.107
-trojan://9c440846-7367-4ee3-ab82-be35f085e75a@[2606:4700:3035::6815:1548]:443/?type=grpc&serviceName=cJbk8XWKC477IvZNiVuf&security=tls&sni=#🏴‍☠️ UN | [2606:4700:3035::6815:1548]
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev#🇨🇦 CA | 104.18.34.21
+trojan://26c47597-5b9b-4b98-9b92-6faf9e87c890@[2606:4700:3035::6815:8f8]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3035::6815:8f8]
+trojan://auto@104.20.22.92:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🇨🇦 CA | 104.20.22.92
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp&path=/#🇺🇸 US | 198.23.229.250
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@15.237.148.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.148.28
 trojan://telegram-id-privatevpns@15.188.206.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.206.31

@@ -1,9 +1,6 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🇳🇱 NL | 193.29.139.162
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇳🇱 NL | 45.144.28.5
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 165.22.200.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🇳🇱 NL | 193.29.139.162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🇳🇱 NL | 193.29.139.162
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.253
 vless://8f34425d-b303-4583-a45f-230505722216@138.124.101.166:2087?security=reality&sni=google.com&fp=chrome&pbk=iVLMuQxpmBug51mpfCs5GVKSDDxCGzQDbKb83Egac1w&sid=cbde3b5b&type=tcp&packetEncoding=xudp&encryption=none#🇳🇱 NL | 138.124.101.166
@@ -25,4 +22,5 @@ vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://telegram-id-ArV2ray2@84.32.102.152:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#🇳🇱 NL | 84.32.102.152
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880#🇳🇱 NL | 45.12.142.89
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 159.223.209.139
