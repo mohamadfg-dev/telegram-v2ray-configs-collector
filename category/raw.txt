@@ -1,1 +1,1 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?encryption=none&security=tls&sni=rc8.freeguard.org&type=raw&headertype=none#🇺🇸 US | 192.3.107.252
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?encryption=none&security=tls&sni=dedic.app-browser.org&type=raw&headertype=none#🇫🇮 FI | 65.109.145.54
