@@ -1,6 +1,5 @@
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWRjZ+O4e1Z9+yhb7yBFpHPo=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc/+dcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWTdJDR3WlCQi9wCOfvZIiI0=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc
-vless://b7a61a8d-2f29-45f0-a77f-9ec858a7b1a4@UTC.hamrahconf.ir:2479?path=/path&security=none&encryption=none&host=speedtest.net&type=ws#🏴‍☠️ UN | UTC.hamrahconf.ir
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | free.sabettrade.shop
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.md.zopli.ir:21275?security=reality&encryption=none&pbk=dNkjYxE5YiKram-ccPm9s8bGwYVakt0M-Y3I8EQKLQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e9797abf0202a439#🏴‍☠️ UN | zonex.md.zopli.ir
@@ -9,9 +8,6 @@ vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🏴‍☠️ UN | Germany1.amirconfigpanelllll.com
 trojan://26c47597-5b9b-4b98-9b92-6faf9e87c890@[2606:4700:3035::6815:8f8]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3035::6815:8f8]
-vless://cbaaabc-abac-abac-abcd-bbacbcacaacb@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
-vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IDEyNy4xLjEuMTI3IiwiYWRkIjoiMTI3LjEuMS4xMjciLCJwb3J0IjoiODAiLCJpZCI6IjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImFsbG93SW5zZWN1cmUiOjF9
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none&fp=chrome&allowInsecure=1#🏴‍☠️ UN | aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#🏴‍☠️ UN | [2a03:b0c0:3:d0::10ad:7001]
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=/KesslerVPN&flow=xtls-rprx-vision#🏴‍☠️ UN | germansana.kesslershop.ir
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@[2a01:4f8:1c17:d10d::1]:8080?type=grpc&mode=gun&security=none#🏴‍☠️ UN | [2a01:4f8:1c17:d10d::1]

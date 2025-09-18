@@ -1,14 +1,15 @@
-trojan://telegram-id-directvpn@35.157.98.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 35.157.98.83
 trojan://telegram-id-directvpn@18.198.130.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.198.130.48
-trojan://telegram-id-privatevpns@35.179.203.165:22222?security=tls&sni=trojan.burgerip.co.uk#🇬🇧 GB | 35.179.203.165
+trojan://telegram-id-directvpn@15.237.152.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
 trojan://26c47597-5b9b-4b98-9b92-6faf9e87c890@[2606:4700:3035::6815:8f8]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3035::6815:8f8]
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none&fp=chrome&allowInsecure=1#🏴‍☠️ UN | aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz
+trojan://telegram-id-directvpn@15.156.111.104:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🇨🇦 CA | 15.156.111.104
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@172.64.155.187:443?security=tls&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=poORiaReD--PErsePOlIs.PagES.DEv#🇨🇦 CA | 172.64.155.187
+trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=/moshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http/1.1&sni=moshali.arshiacomplus.dpdns.org#🇳🇱 NL | 5.255.103.217
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-trojan://telegram-id-privatevpns@35.157.98.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 35.157.98.83
 trojan://telegram-id-privatevpns@18.198.130.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.198.130.48
+trojan://telegram-id-privatevpns@15.237.152.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
 trojan://bpb-trojan@172.67.238.207:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 CA | 172.67.238.207
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇨🇦 CA | 104.25.254.4
-trojan://telegram-id-v2rayvpnchannel@35.157.98.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 35.157.98.83
 trojan://telegram-id-v2rayvpnchannel@18.198.130.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.198.130.48
-trojan://telegram-id-v2rayvpnchannel@35.157.98.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 35.157.98.83
+trojan://telegram-id-v2rayvpnchannel@15.237.152.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
 trojan://telegram-id-v2rayvpnchannel@18.198.130.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.198.130.48
+trojan://telegram-id-v2rayvpnchannel@15.237.152.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
