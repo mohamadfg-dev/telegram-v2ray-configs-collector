@@ -1,14 +1,11 @@
 trojan://telegram-id-directvpn@15.237.152.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
 trojan://telegram-id-directvpn@35.181.17.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.17.181
-trojan://auto@172.67.75.172:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🇨🇦 CA | 172.67.75.172
+trojan://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&type=ws&sni=midsUMmER-Bpb.pAgES.DEV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=mIDsuMMer-bpb.PAgEs.DeV#🇨🇦 CA | 172.66.47.200
 trojan://26c47597-5b9b-4b98-9b92-6faf9e87c890@[2606:4700:3035::6815:8f8]:443/?type=ws&host=#🏴‍☠️ UN | [2606:4700:3035::6815:8f8]
-trojan://auto@162.159.44.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🇺🇸 US | 162.159.44.209
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?security=none&type=ws&path=/kptMTT8pTmxLWsoJ?ed=2560&host=aliii.ir#🇨🇦 CA | 199.232.197.231
+trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@15.204.58.214:443?security=tls&allowInsecure=1&fp=chrome&type=tcp#🇺🇸 US | 15.204.58.214
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
 trojan://telegram-id-privatevpns@15.237.152.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
 trojan://telegram-id-privatevpns@35.181.17.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.17.181
-trojan://auto@172.66.47.150:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/#🇨🇦 CA | 172.66.47.150
-trojan://auto@162.159.44.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🇺🇸 US | 162.159.44.209
 trojan://bpb-trojan@172.67.238.207:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇨🇦 CA | 172.67.238.207
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇨🇦 CA | 104.25.254.4
 trojan://telegram-id-v2rayvpnchannel@15.237.152.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.152.250
