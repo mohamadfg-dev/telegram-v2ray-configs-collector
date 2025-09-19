@@ -1,1 +1,2 @@
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 172.111.146.64
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA0Ny43NC44LjIwMiIsImFkZCI6IjQ3Ljc0LjguMjAyIiwicG9ydCI6IjIzNDY4IiwiaWQiOiI5ZjU2M2JjNy0wNDgxLTQxZDItZjhmZC1hNDczNmRlZDliYzAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNiJ9
