@@ -1,2 +1,4 @@
+vless://94e7dc76-f7f8-4595-9077-c357c7c58125@ali-tu5-sub.serverfreedom.com:1030?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇨🇭 CH | 141.227.138.45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYT2Jqa3M3cU1DUTNqMEdRdllheTk4@h110vpnch.outlinekeys.net:4248#🇨🇭 CH | 45.95.232.236
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#🇨🇭 CH | 156.146.62.164
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@171.22.16.161:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=www.starwars.com#🇨🇭 CH | 171.22.16.161

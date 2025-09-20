@@ -5,4 +5,5 @@ vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun
 vless://3dc1d42d-fc8b-47ed-97af-a26382062506@tr.shop.snapppro.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=58sDSvB0Bq7F_LMfoxHkUvBYUxRWwODSly0JmHVHv0E&sid=#🇹🇷 TR | 93.114.98.155
 vless://db4adc7c-32e9-4c3e-8b1f-73371ce20bba@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 164.138.202.139
 vless://db4adc7c-32e9-4c3e-8b1f-73371ce20bba@164.138.202.139:10777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 164.138.202.139
+vless://c7515fa7-6119-4a81-8fef-6d3ea24afffe@ytr.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#🇹🇷 TR | 188.132.183.15
 vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#🇹🇷 TR | 188.132.183.15
