@@ -1,5 +1,4 @@
 vless://871e1c55-f4e7-4c6a-8d9f-0957f98d1fe5@93.127.180.224:7070?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.224
-vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@103.57.251.147:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#🇦🇪 AE | 103.57.251.147
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2020?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@103.57.251.147:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#🇦🇪 AE | 103.57.251.147
