@@ -1,1 +1,6 @@
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+vless://a64d1cba-13a8-4179-8139-96790c759389@138.2.58.99:40000?security=reality&flow=xtls-rprx-vision&sni=www.python.org&type=tcp&fp=ios&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&sid=19e5124d#🇯🇵 JP | 138.2.58.99
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 172.111.146.64
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
+vless://a64d1cba-13a8-4179-8139-96790c759389@138.2.58.99:40000?security=reality&flow=xtls-rprx-vision&sni=www.python.org&type=tcp&fp=ios&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&sid=19e5124d#🇯🇵 JP | 138.2.58.99
