@@ -1,1 +1,2 @@
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🇨🇷 CR | 190.93.246.56
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#🇨🇷 CR | 190.93.244.18

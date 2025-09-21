@@ -1,3 +1,2 @@
-vless://8e6a1d4e-445b-435c-8819-4d7269fecd40@yuae.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇦🇪 AE | 31.57.228.53
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:4545?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2083?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
