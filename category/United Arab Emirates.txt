@@ -1,3 +1,4 @@
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2083?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
-vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2083?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2080?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
+vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
+vless://548c9fbd-6857-4f0a-b1f1-1cff7cca95af@31.57.228.53:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#🇦🇪 AE | 31.57.228.53
