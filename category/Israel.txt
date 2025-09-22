@@ -1,1 +1,1 @@
-vless://1a6ee9a7-bb46-4370-8fab-8a6f99b0a754@auto.srv.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#🇮🇱 IL | 77.91.74.137
+vless://cb4de2f9-fb25-4eec-8ac7-4a8ec6e99dad@185.239.48.109:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=wPXyRAB1bVkaTGgO5cHEylVAV8SscUQUPn_ggzx6Vxk&sni=google.com#🇮🇱 IL | 185.239.48.109

@@ -1,2 +1,3 @@
 vless://0ce0be53-fbc8-4340-a1f8-12f9df28e25b@92.223.2.119:25750?type=ws&security=none#🇦🇲 AM | 92.223.2.119
+vless://33644fa5-a650-4afe-ba51-cc3d087a8005@2.56.205.182:8443?path=/Free-VPN-CF-Geo-Project/AM1&security=tls&encryption=none&host=joss.krikkrik.tech&fp=randomized&type=ws&sni=joss.krikkrik.tech#🇦🇲 AM | 2.56.205.182
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
