@@ -44,3 +44,5 @@ vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://ed5b4d94-b8fb-402e-bd04-0d0b7d4cfa62@92.114.17.6:28098?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 92.114.17.6
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.167
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🇮🇷 IR | 212.33.201.222
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 IR | 85.133.215.188
