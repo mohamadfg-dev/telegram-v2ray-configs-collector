@@ -1,1 +1,1 @@
-vless://5681e1e6-ac5d-4898-9ab4-711d2a0f5c71@ardagulerturk.gojustore.site:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#🇹🇷 TR | 103.83.87.220
+vless://04604987-58c3-4f32-844c-f080b2a1c1ee@193.111.76.159:8443?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 193.111.76.159
