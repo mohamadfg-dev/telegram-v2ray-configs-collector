@@ -1,4 +1,5 @@
+vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:121?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
-vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:2080?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:8880?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
+vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:121?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
