@@ -6,21 +6,20 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@91.149.203.137:808#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.81.57
 vless://24244970-2b14-47e6-b0c1-95cecc9bcc3c@141.227.174.30:32657?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇬🇧 GB | 141.227.174.30
-vmess://eyJhZGQiOiJqYW1la2sub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYW1la2sub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrPCfh6cgR0IgfCA1Ny4xMjguMTg5LjI1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqYW1la2sub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@close-softmeto.ir:80?security=&encryption=none&type=ws#🇬🇧 GB | 45.60.14.68
+vless://5681e1e6-ac5d-4898-9ab4-711d2a0f5c71@engliskieusjai.gojustore.site:7035?security=none&type=ws&headerType=&path=/&host=filimo.com#🇬🇧 GB | 51.89.230.196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@91.149.203.137:808#🇬🇧 GB | 91.149.203.137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@91.149.203.137:808#🇬🇧 GB | 91.149.203.137
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
-vmess://eyJhZGQiOiJycnJ0eTYuNDQ1LnBwLnVhIiwiYWlkIjoiMCIsImFscG4iOiJoMiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNGVmYzE0NDctZTlmZC00ZWNkLWFhNGItMmMyZDM2ZTM2YWRlIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJZRmhScXZRVGlhMmthUXlNVmM5aEVXIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrPCfh6cgR0IgfCAyYTA2Ojk4YzE6MzEyMTo6Iiwic2N5IjoiYXV0byIsInNuaSI6InJycnR5Ni40NDUucHAudWEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
 vless://d8dab622-e323-4c90-a394-2b4b5f98cb53@masterserver1.xero-network.ir:1331?encryption=none&type=xhttp&mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&fp=chrome&sni=stackoverflow.com&pbk=qSCPbuLS9FrLTRzIbKmD3vNOnsk_ZUxmjPywZXeM_Co&sid=077dc29a23d311f2#🇬🇧 GB | 80.64.216.214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.81.57
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.146.27
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443/?type=ws&encryption=none&flow=&host=taochan.sylphachan.ip-ddns.com&path=/&security=tls&sni=taochan.sylphachan.ip-ddns.com&alpn=http/1.1&fp=randomized#🇬🇧 GB | 2a06:98c1:3120::
+vless://2b3b9457-d4df-415c-b9be-189e8546f4b4@looutintl.outline360bot.com:443?security=reality&encryption=none&pbk=fv0Zz9FtroOmuK1Tsn0u98gXSq8XepZKtbdH3lDg9EU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad2e#🇬🇧 GB | 51.24.43.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 GB | 4.250.146.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 GB | 4.250.105.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🇬🇧 GB | 4.250.105.13
-vless://turboo-server@turboo-server.aftabz.com:80?path=/--ping--www.speedtest.net?ed=2080&security=none&encryption=none&type=ws#🇬🇧 GB | 45.60.47.100
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#🇬🇧 GB | 4.250.146.27
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
@@ -35,11 +34,9 @@ vless://turboo-server@turboo-server.aftabz.com:80?type=ws&path=/--ping--www.spee
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB | 4.250.146.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#🇬🇧 GB | 4.250.146.27
+vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.146.27
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
-vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=firefox&type=ws#🇬🇧 GB | 51.38.71.67
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
-vless://1539d20f-1f6d-4cb1-bd8d-52d8bd85b493@zmaoz.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 2a04:4e42:200::740
-vless://f94374aa-4781-4185-ac19-bee614d8d1f3@seminarsinmcb.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 2a04:4e42::740
+vless://1539d20f-1f6d-4cb1-bd8d-52d8bd85b493@zmaoz.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 2a04:4e42::740

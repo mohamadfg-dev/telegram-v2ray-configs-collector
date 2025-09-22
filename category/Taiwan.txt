@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxNDAuMjM1LjM4Ljg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM2NWVmNjQ1LTIxNzItNDRkMS05MDlmLWNiMzBhNDBiY2ExYyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiIyMDUyMSIsInBzIjoi8J+HufCfh7wgVFcgfCAxNDAuMjM1LjM4Ljg5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?type=tcp&security=tls&fp=chrome&sni=207.148.100.75&allowInsecure=1#🇹🇼 TW | 61.228.101.124
