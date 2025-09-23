@@ -1,5 +1,5 @@
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=firefox&type=ws#🇦🇪 AE | 185.253.116.79
-vless://5681e1e6-ac5d-4898-9ab4-711d2a0f5c71@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:130?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.123
+vless://6f906f99-4ce9-4604-aad8-374f52045bcb@93.127.180.157:123?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.157
 vless://ee2a2581-ac81-4a3d-9650-c2f03d6cb3ab@uae-server1-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇦🇪 AE | 31.57.228.53

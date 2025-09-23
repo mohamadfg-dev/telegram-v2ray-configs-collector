@@ -1,4 +1,3 @@
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.156
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856/?type=tcp&encryption=none&flow=#🇮🇳 IN | 206.189.135.13
 vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321/?type=tcp&encryption=none&flow=#🇮🇳 IN | 172.105.57.184
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN | 82.180.146.173
