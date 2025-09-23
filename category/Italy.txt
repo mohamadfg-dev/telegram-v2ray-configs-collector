@@ -1,3 +1,3 @@
-vless://5681e1e6-ac5d-4898-9ab4-711d2a0f5c71@pizaitaliano.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇮🇹 IT | 31.14.135.127
+vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@31.14.135.127:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇮🇹 IT | 31.14.135.127
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
