@@ -1,1 +1,1 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?type=tcp&security=tls&fp=chrome&sni=207.148.100.75&allowInsecure=1#🇹🇼 TW | 61.228.101.124
+vmess://eyJhZGQiOiIxNDAuMjM1LjM4Ljg5IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NmE2OTAzNy03YmY4LTQzZjgtYmQ2Mi00YmViOGYxZjM2ZTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NjQ3NCwicHMiOiLwn4e58J+HvCBUVyB8IDE0MC4yMzUuMzguODkiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
