@@ -1,2 +1,1 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org&type=tcp&path=/#undefined HK | 103.252.116.138
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145

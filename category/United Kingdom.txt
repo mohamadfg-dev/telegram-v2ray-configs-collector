@@ -3,9 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB | 4.250.224.59
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
-vless://d7859fc2-2e71-4004-924b-4f79cb74e8f2@zula.ir:2096?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2&serviceName=hydra.miniproxy.sbs&sni=hydra.miniproxy.sbs#🇬🇧 GB | 2a06:98c1:3120::
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
-vless://1b32d3f6-c3c1-413a-9e09-d664ad45b3ab@speedtest.net:80?type=xhttp&path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&host=p30download.ir&mode=auto&security=none#🇬🇧 GB | 2a04:4e42:200::731
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.64.138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.224.59
 vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443/?type=ws&encryption=none&flow=&host=taochan.sylphachan.ip-ddns.com&path=/&security=tls&sni=taochan.sylphachan.ip-ddns.com&alpn=http/1.1&fp=randomized#🇬🇧 GB | 2a06:98c1:3120::
@@ -29,5 +27,4 @@ vless://1030b885-b512-4359-9415-d858c1a816fc@141.227.174.21:37852?mode=gun&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.224.59
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
-vless://5fda29b6-0688-44e3-afdf-df533c800109@51.89.118.126:25369?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON@V2rayNGVPN <= کانفیگ رایگان#🇬🇧 GB | 51.89.118.126
 vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.117.103
