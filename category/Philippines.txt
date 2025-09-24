@@ -1,2 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#🇵🇭 PH | 154.83.2.167
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop[🏁]#🇵🇭 PH | 154.83.2.167
+vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI1YTgyYzFkLTBkOTgtNGQ0ZC1hNDk5LTVkMDRlNGJiMTE0ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiNTkxMzQiLCJwcyI6IvCfh7Xwn4etIFBIIHwgOC4yMjAuMTg4LjIzOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
