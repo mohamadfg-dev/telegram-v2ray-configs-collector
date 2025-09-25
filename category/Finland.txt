@@ -14,6 +14,5 @@ vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#🇫🇮 FI | 89.35.119.87
 vless://c9d7d163-748c-4725-bdd0-1921b1e2fd0a@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none#🇫🇮 FI | 2a01:4f9:c013:c662::1
 vless://754fbb53-1198-4b7f-9394-88e0f36fb938@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none#🇫🇮 FI | 2a01:4f9:c013:c662::1
-vmess://eyJhZGQiOiI2NS4xMDkuMjE3LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYzEzN2I2MS04MTFjLTQ2ZDYtODk4Zi1hMDM4ZDcxZWU4NjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfh6vwn4euIEZJIHwgNjUuMTA5LjIxNy4xMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiZmwudjJiYXp6YXIuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9f54d072d0c27dc6#🇫🇮 FI | 65.109.217.125
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9f54d072d0c27dc6#🇫🇮 FI | 65.109.217.125
