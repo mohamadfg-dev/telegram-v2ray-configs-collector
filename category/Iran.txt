@@ -18,6 +18,7 @@ vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=t
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 89.44.242.222
+vless://310c8c17-6cd3-44eb-9ab0-f8f5dbac7976@6f.startrich.site:8441?security=&encryption=none&type=ws#🇮🇷 IR | 185.83.114.59
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&type=tcp&headerType=http&host=varzesh3.com&packetEncoding=xudp&encryption=none#🇮🇷 IR | 87.107.9.178
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
