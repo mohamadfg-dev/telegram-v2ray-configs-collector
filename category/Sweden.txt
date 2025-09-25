@@ -1,6 +1,4 @@
-vless://d378d3d0-c521-4874-a6f3-21794398cf9c@109.122.201.171:59697?mode=auto&path=/&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=/&type=xhttp&sni=bimeh.com&sid=c5a5b0#🇸🇪 SE | 109.122.201.171
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
-vless://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=firefox&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#🇸🇪 SE | 45.80.230.190
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.230.152:2053/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443fp=chrome&security=tls&sni=kejiland.freewarp.eu.org#🇸🇪 SE | 89.22.230.152
 vless://Parsashonam-312@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
