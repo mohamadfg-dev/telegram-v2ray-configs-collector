@@ -1,5 +1,4 @@
-vless://8e30ec60-4a86-49f7-adee-d39102b0c6cf@Ger-server2-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇩🇪 DE | 188.34.179.15
-vless://8e30ec60-4a86-49f7-adee-d39102b0c6cf@Ger-server1-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇩🇪 DE | 188.245.222.196
+trojan://telegram-id-privatevpns@13.37.66.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 167.99.252.219
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇩🇪 DE | 82.25.101.123
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇩🇪 DE | 91.107.169.53
@@ -8,7 +7,7 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=safari&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#🇩🇪 DE | 172.238.109.100
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@91.98.165.163:42671?type=tcp&encryption=none&security=none#🇩🇪 DE | 91.98.165.163
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@91.98.165.163:42671?type=tcp&encryption=none&security=none#🇩🇪 DE | 91.98.165.163
-vless://8e30ec60-4a86-49f7-adee-d39102b0c6cf@net-server1-panyous.tap30.sbs:2560?security=reality&type=tcp&headerType=&path=&host=&sni=www.cloudflare.com&fp=firefox&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&sid=e41865e506628f44&spx=/#🇳🇱 NL | 192.142.10.244
+vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&host=paliss.ir&headerType=none&type=tcp#🇩🇪 DE | 188.245.92.123
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🇩🇪 DE | 91.99.61.134
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@mrvip.wineston.site:1001?security=&encryption=none&headerType=http&type=tcp#🇩🇪 DE | 91.99.66.197
@@ -16,11 +15,12 @@ vless://37f679fb-e4e2-4c00-a2d2-2da1e5a3a863@abri.abriabri.ir:2233?security=real
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#🇱🇹 LT | 84.32.84.33
-trojan://telegram-id-directvpn@63.179.231.155:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.179.231.155
 trojan://telegram-id-directvpn@18.195.38.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.38.193
+trojan://telegram-id-directvpn@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.de.zopli.ir:33667?security=reality&encryption=none&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=382874842551202c#🇩🇪 DE | 91.99.129.105
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.md.zopli.ir:21275?security=reality&encryption=none&pbk=dNkjYxE5YiKram-ccPm9s8bGwYVakt0M-Y3I8EQKLQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e9797abf0202a439#🏴‍☠️ UN | zonex.md.zopli.ir
+trojan://telegram-id-directvpn@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vless://6a68b588-a8c5-462b-8637-3cfe886a9add@2margate.superip.ir:3041?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 DE | 168.119.153.187
 vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇵🇱 PL | 51.83.254.31
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
@@ -32,9 +32,11 @@ vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality
 vless://0caa3713-3ff8-4356-bd16-5806a40ead06@m67a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮 FI | 46.62.175.186
 vless://28aa9bb9-b94a-4e19-96fe-0a98f5a1f941@134.122.70.183:1020?type=tcp&path=/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid&headerType=http&security=none#🇩🇪 DE | 134.122.70.183
 vless://aa0a3771-d590-4702-9681-e8d69c7c2428@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#🇩🇪 DE | 194.87.29.240
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0EgfCAyMy4xNjIuMjAwLjE4MiIsImFkZCI6IjIzLjE2Mi4yMDAuMTgyIiwicG9ydCI6IjIyMzI0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 92.114.24.92
 vless://8ed580b9-4823-4cb0-9d75-ad51bae94da0@92.114.24.92:8989?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 92.114.24.92
-trojan://6et7U7udLe@qige.zaide.tech:22846?security=tls&sni=qige.zaide.tech&type=tcp&headerType=none&path=/#🇯🇵 JP | 8.209.223.114
+trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@louber.missionsec.us:443?security=tls&sni=louber.missionsec.us&type=tcp&headerType=none&path=/#🇦🇺 AU | 38.48.124.130
+trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp&fp=chrome&allowInsecure=1#🇩🇪 DE | 91.195.240.94
 vless://1cfd7a64-4f88-4937-b684-cc7fb42e6ee2@fin7.ipstatic.info:17721?type=tcp&security=none#🇮🇷 IR | 85.133.162.9
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
 vless://id6686739236@45.89.52.228:443?security=reality&encryption=none&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&headerType=none&fp=chrome&spx=/1dJY9FINgvceUNC&type=tcp&flow=xtls-rprx-vision&sni=www.trendyol.com&sid=404c8792dfd88e41#🇹🇷 TR | 45.89.52.228
@@ -49,8 +51,6 @@ vmess://eyJhZGQiOiJzdjIwLndhcnpvbmUxLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#🇮🇳 IN | 45.88.183.156
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&security=reality&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&sid=#🇺🇸 US | 5.181.171.2
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vmess://eyJhZGQiOiIxNS4yMDQuMjQ4LjkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzA1NjIiLCJwcyI6IvCfh7rwn4e4IFVTIHwgMTUuMjA0LjI0OC45MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -71,8 +71,8 @@ vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.156
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
-trojan://telegram-id-privatevpns@63.179.231.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.179.231.155
 trojan://telegram-id-privatevpns@18.195.38.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.38.193
+trojan://telegram-id-privatevpns@13.37.66.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODE2YzM2YTYtOTRhNi00ZDBjLTllNTUtMjVmMWIxYWZhOWE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoi8J+HufCfh7cgVFIgfCAxNjQuMTM4LjIwMi4xMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -103,7 +103,6 @@ vless://8e30ec60-4a86-49f7-adee-d39102b0c6cf@Ger-server2-panyous.tap30.sbs:2560?
 vless://8e30ec60-4a86-49f7-adee-d39102b0c6cf@Ger-server1-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇩🇪 DE | 188.245.222.196
 vless://1f46cb74-40ba-4964-9a1f-ccbd448b483b@ca-v2ray.freevmess.com:2087?security=reality&encryption=none&pbk=nzxEupJqZ3vDwqrV95RfHLKKJT8dCByBmBNwsbvHVyc&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=e11e857b70#🇨🇦 CA | 134.122.39.210
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?encryption=none&security=none&type=tcp&headerType=none#🇮🇳 IN | 206.189.135.13
-vless://6a68b588-a8c5-462b-8637-3cfe886a9add@2margate.superip.ir:3041?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.refersion.com&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&sid=4c14&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 DE | 168.119.153.187
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODE2YzM2YTYtOTRhNi00ZDBjLTllNTUtMjVmMWIxYWZhOWE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoi8J+HufCfh7cgVFIgfCAxNjQuMTM4LjIwMi4xMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?type=tcp#🇨🇦 CA | 142.4.216.225
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?type=tcp#🇳🇱 NL | 193.29.139.240
@@ -117,16 +116,15 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality
 vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇷🇺 RU | 82.148.21.174
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#🇮🇳 IN | 45.88.183.164
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#🇮🇷 IR | 89.44.242.222
-trojan://telegram-id-v2rayvpnchannel@63.179.231.155:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.179.231.155
 trojan://telegram-id-v2rayvpnchannel@18.195.38.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 18.195.38.193
+trojan://telegram-id-v2rayvpnchannel@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vless://7b1bdc4f-b9ac-48b3-a48c-2b79871491e2@helspanel9.hipay.su:443?security=reality&encryption=none&pbk=0ZzI5C1-eNbwkR2glmxJJuxLeYdhvfEyZMezGYhuslA&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hels9.hipay.su&sid=8f8964a241f4f69f#🇫🇮 FI | 45.144.52.197
 vless://ed52b6dd-d53f-4f8b-bdc1-9abb3ac194ff@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#🇵🇱 PL | 144.31.0.136
-vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.84
+vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.84
 vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?security=reality&encryption=none&pbk=Gd8fDDLpqXZoIybSXnBaN-YWrpbgqe2944h0cjXA4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=3a84f8ce#🇺🇸 US | 92.118.112.83
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇳🇱 NL | 51.77.91.192
 vless://0062daab-946d-4b69-8e3f-4bffe79f1430@31.56.206.30:12018?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 31.56.206.30
 vless://65aa9665-0e6d-4d20-8d2a-8445a6e8bce2@31.56.206.30:37710?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 31.56.206.30
-vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#🇷🇴 RO | 37.202.226.135
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#🇩🇪 DE | 159.89.13.156
 vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.99.232.132
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&encryption=none&type=tcp&host=varzesh3.ir&path=/&headerType=http#🇨🇦 CA | 15.235.41.93
@@ -156,7 +154,8 @@ vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=
 vless://7b5d75e9-2a58-4f82-f2d6-fa2b9355c9da@91.99.97.7:32279?type=tcp&security=reality&fp=firefox&sni=tgju.org&pbk=YTLvKt0zlbz5RI_m147go0PMsEa3WdhlQ-tqJKkeNHQ&sid=353e&spx=/#🇩🇪 DE | 91.99.97.7
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.167
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 DE | 91.99.14.202
-vless://c52c81a8-632d-4a84-8a4a-5c50a9888dec@149.50.105.17:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#🇵🇱 PL | 149.50.105.17
+vless://6089b014-1315-4f63-bbe6-a9e9a11a3cd7@51.77.108.219:2053?security=reality&encryption=none&pbk=oAEHjVqmQywtXeQ5ubjwaxYjuHoTUr5alDFUA7x4kDU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=4c9813c4a362#🇬🇧 GB | 51.77.108.219
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODE2YzM2YTYtOTRhNi00ZDBjLTllNTUtMjVmMWIxYWZhOWE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoi8J+HufCfh7cgVFIgfCAxNjQuMTM4LjIwMi4xMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://telegram-id-v2rayvpnchannel@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.66.223
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODE2YzM2YTYtOTRhNi00ZDBjLTllNTUtMjVmMWIxYWZhOWE5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoi8J+HufCfh7cgVFIgfCAxNjQuMTM4LjIwMi4xMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://c6ead936-20fd-4f84-980f-a7541ea0e324@account.userd44cd315b0a1274e.Analytics.lonup.org:10700?security=none&encryption=none&type=tcp&host=zowe.ir&path=/&headerType=http#🇩🇪 DE | 188.245.126.149

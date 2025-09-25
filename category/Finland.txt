@@ -4,7 +4,6 @@ vless://6e305621-9c57-417a-aed1-95024bc5f6b2@46.62.152.219:8443?security=reality
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 46.62.167.9
 vless://7b1bdc4f-b9ac-48b3-a48c-2b79871491e2@helspanel9.hipay.su:443?security=reality&encryption=none&pbk=0ZzI5C1-eNbwkR2glmxJJuxLeYdhvfEyZMezGYhuslA&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hels9.hipay.su&sid=8f8964a241f4f69f#🇫🇮 FI | 45.144.52.197
-vless://6440eea2-19ac-4d64-91e7-7876a6ac5912@mci.itbookshop.dpdns.org:443?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 65.109.204.177
 vless://0062daab-946d-4b69-8e3f-4bffe79f1430@31.56.206.30:12018?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 31.56.206.30
 vless://65aa9665-0e6d-4d20-8d2a-8445a6e8bce2@31.56.206.30:37710?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 31.56.206.30
 vless://2c3b3e80-a2ec-459e-b898-206ead4edc9d@46.62.139.162:29752?type=tcp&security=reality&pbk=EXDIPc_-7wSk5LI0JH0fyaN3bc_kIgEe3fu2hIOBtWs&fp=chrome&sni=www.tgju.org&sid=3dd812&spx=/#🇫🇮 FI | 46.62.139.162
