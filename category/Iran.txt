@@ -1,5 +1,3 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🇮🇷 IR | 62.60.192.209
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir5.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.183
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir6.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.184
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
@@ -18,7 +16,6 @@ vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=t
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 89.44.242.222
-vless://2dd35c53-f682-42fc-a49a-d84a67fed3df@2.188.233.114:40965?mode=auto&path=/?ed=2048&security=reality&encryption=none&pbk=CvulgCUDNPstCRmLZoX3jVRY2sJ7NASR1rKPK4jqvTc&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=e32bae0c008f2ea8#🇮🇷 IR | 2.188.233.114
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&type=tcp&headerType=http&host=varzesh3.com&packetEncoding=xudp&encryption=none#🇮🇷 IR | 87.107.9.178
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
@@ -30,7 +27,6 @@ vless://659cb94c-cea9-4dd1-905b-d1617a3f04ab@tinyvpn-cdn1.unlimiteddev.co:8080?t
 vless://659cb94c-cea9-4dd1-905b-d1617a3f04ab@tinyvpn-cdn2.unlimiteddev.co:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 IR | 87.107.9.178
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#🇮🇷 IR | 89.44.242.222
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://51909ba1-3a0c-4dff-a8f1-73ce64c4b10a@2.189.85.177:53369?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 2.189.85.177
