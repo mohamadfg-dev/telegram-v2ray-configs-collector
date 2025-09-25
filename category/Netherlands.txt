@@ -1,1 +1,2 @@
 vless://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&type=grpc&sni=dash.cloudflare.com&sid=3679c72c#🇳🇱 NL | 45.94.31.102
+vless://0b063b7a-3019-4dd1-bfbb-39286a5ab626@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#🇳🇱 NL | 85.158.110.62
