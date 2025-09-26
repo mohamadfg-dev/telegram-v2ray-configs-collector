@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 84.246.85.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#🇳🇱 NL | 193.29.139.162
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 85.209.153.82
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.205
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.19
@@ -7,7 +7,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.140.147.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.19
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935255461296821.paris-drc-tusabz.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.183
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.89
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
@@ -37,7 +36,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=tls&all
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-vless://RAKETA_511749027@212.34.140.137:443?security=reality&encryption=none&pbk=JI0aM2ldo7ArEbfumqJ0WE2KQCyi-CV-vIp8kq-y8zA&headerType=none&fp=chrome&spx=/&type=tcp&sni=apple.com&sid=ffffffffff#🇳🇱 NL | 212.34.140.137
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.183
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#🇳🇱 NL | 185.207.198.254
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.19
