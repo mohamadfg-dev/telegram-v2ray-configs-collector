@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gQ0ggfCAxNDEuMTEuMTY0LjIzMyIsImFkZCI6ImtoLnNoZWJyaXguaXIiLCJwb3J0Ijo0NTE0NSwiaWQiOiI1NDU0M2NlMC1lODdiLTQ2ZDYtYWQwMy1jMWJhMmIyMjM1NTgiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
+vless://0cc70484-2c9c-4876-97de-4ff3fc622f2c@sana550.sahandconfig.ir:19729?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxteamxpm&sni=sana550.sahandconfig.ir#🇨🇭 CH | 37.156.44.149
