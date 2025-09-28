@@ -1,8 +1,6 @@
-vless://RAKETA_511749027@212.34.140.137:443?security=reality&encryption=none&pbk=JI0aM2ldo7ArEbfumqJ0WE2KQCyi-CV-vIp8kq-y8zA&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=ffffffffff#🇳🇱 NL | 212.34.140.137
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 84.246.85.62
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.140.147.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 84.246.85.62
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&encryption=none&path=/rwtjhkOSFVOgw&host=&mode=auto&security=none#🇳🇱 NL | 194.116.216.21
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=android&type=tcp#🇳🇱 NL | 194.116.216.21
@@ -30,7 +28,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.19
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇳🇱 NL | 51.77.91.192
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=tls&allowInsecure=0&encryption=none&type=ws&host=ula347.tiri-viri.com&path=/&sni=ula347.tiri-viri.com&fp=chrome#🇳🇱 NL | 45.140.147.74
-vless://0559a3a8-9102-4cde-91cd-af091bbfb875@sangarshakan.vip-sangar.sbs:49881?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 141.11.250.78
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?path=/&security=none&encryption=none&type=ws#🇳🇱 NL | 146.190.16.205
