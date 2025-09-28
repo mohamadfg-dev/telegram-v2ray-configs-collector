@@ -8,4 +8,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraac
 vmess://eyJhZGQiOiIxNjQuMTM4LjIwMi4xMTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTY1ZTIwZWItY2ZkMi00YzI5LWIwODAtNzUwOGEyYjk3ZTc0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTYzOSIsInBzIjoi8J+HufCfh7cgVFIgfCAxNjQuMTM4LjIwMi4xMTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:5050?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.109
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.76
+vless://7da05388-1749-417d-90f3-e7d980565471@188.132.183.15:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#🇹🇷 TR | 188.132.183.15
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
