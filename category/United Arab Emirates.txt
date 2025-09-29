@@ -1,2 +1,4 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3535?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
+vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3535?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
+vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3535?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
