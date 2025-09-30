@@ -1,5 +1,4 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3535?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
-vless://6927fce6-5837-4e22-bbab-f159cb6573ad@Ultra.speedx3.info:8880?security=none&type=tcp&headerType=http&path=/&host=zhaket.com#🇦🇪 AE | 185.253.116.45
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3535?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
 vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:1515?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.124
