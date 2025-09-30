@@ -1,2 +1,1 @@
-ss://3e7f67de-648e-4871-b51a-a225214d41ee@171.22.16.161:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=www.starwars.com#🇨🇭 CH | 171.22.16.161
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gQ0ggfCAxNDEuMTEuMTY0LjIzMyIsImFkZCI6ImtoLnNoZWJyaXguaXIiLCJwb3J0Ijo0NTE0NSwiaWQiOiI1NDU0M2NlMC1lODdiLTQ2ZDYtYWQwMy1jMWJhMmIyMjM1NTgiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
