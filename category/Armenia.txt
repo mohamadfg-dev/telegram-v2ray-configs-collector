@@ -1,3 +1,2 @@
 vless://0ce0be53-fbc8-4340-a1f8-12f9df28e25b@92.223.2.119:25750?type=ws&security=none#🇦🇲 AM | 92.223.2.119
-vless://ce87782b-0306-a4ad-b26e-ae17462675c9@ar.mehdikarimi3.ir:20095?security=reality&encryption=none&pbk=AX7i3rOfFnfz4WC6ZFYqhV1cebMoy1oKSKw9NGBfOQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=fde4a59e1a6b2f11#🇦🇲 AM | 85.90.207.73
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
