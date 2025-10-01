@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaloxQXdQWUlKYW5vbHljSTZjRjBP@194.87.45.189:
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#🇪🇸 ES | 45.12.150.98
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=&encryption=none&authority=/@sinavm&type=grpc#🇪🇸 ES | 45.12.150.98
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#🇪🇸 ES | 45.12.150.98
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#🇪🇸 ES | 45.12.150.98
