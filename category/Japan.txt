@@ -1,2 +1,1 @@
-vless://f04e49a5-12c2-48c4-a13d-83c4bb6d8ffa@59.138.63.214:20157?security=reality&encryption=none&pbk=hkVAcMVDaKtZkG7u0oMfipdNf1E-yQLOkc_IZs4zk08&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=24#🇯🇵 JP | 59.138.63.214
-vless://bbec3780-9053-4005-a13a-8b494c299d18@59.138.63.214:20156?security=reality&encryption=none&pbk=SSqQxQgmfuyS_8AFRf7d68sLP-hHwwvDs1aGkM2OPVI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=3d0772#🇯🇵 JP | 59.138.63.214
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjZuQUxiQnNmWTgycTQxNlFWU0FR@167.253.156.226:8443#🇯🇵 JP | 167.253.156.226
