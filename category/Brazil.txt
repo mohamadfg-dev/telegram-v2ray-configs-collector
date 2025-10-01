@@ -1,1 +1,1 @@
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇧🇷 BR | 45.82.245.173
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@147.45.116.72:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🇧🇷 BR | 147.45.116.72
