@@ -5,4 +5,3 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUZtakthYW1TclBxVnkxanRYRVg0@212.192.14.226:41968#🇷🇺 RU | 212.192.14.226
-vless://6825b61d-e062-4725-bd63-ddb954f6a3b6@russianoy.vtuix.online:7033?mode=gun&security=reality&encryption=none&authority=---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=www.telewebion.com&sid=16b6cda7ab793526#🇷🇺 RU | 46.29.166.158

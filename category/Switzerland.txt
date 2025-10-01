@@ -1,3 +1,1 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gQ0ggfCAxNDEuMTEuMTY0LjIzMyIsImFkZCI6ImtoLnNoZWJyaXguaXIiLCJwb3J0Ijo0NTE0NSwiaWQiOiI1NDU0M2NlMC1lODdiLTQ2ZDYtYWQwMy1jMWJhMmIyMjM1NTgiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
-vless://47a740be-06a5-4c8a-8a4e-a18204b62f4c@myinfo.sahandconfig.ir:40748?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Smxtun&sni=myinfo.sahandconfig.ir#🇨🇭 CH | 37.156.46.187
-vless://47a740be-06a5-4c8a-8a4e-a18204b62f4c@myinfo.sahandconfig.ir:40748?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Smxtun&sni=myinfo.sahandconfig.ir#🇨🇭 CH | 37.156.46.187
