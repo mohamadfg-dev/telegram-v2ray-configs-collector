@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WnZzVnZpWWNQOGpoYlU5a1NBaFFH@moz-dozd.sbs:443#🇮🇩 ID | 31.57.24.53
+vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇮🇩 ID | 46.254.93.54
+vless://12345678-1234-1234-1234-123456789123@46.254.93.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇮🇩 ID | 46.254.93.54
