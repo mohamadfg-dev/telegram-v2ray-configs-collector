@@ -1,1 +1,1 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=images-na.ssl-images-amazon.com#🇦🇺 AU | 160.187.111.222
+vless://09703cf7-a8d3-48ed-a2a5-daf853a6078d@m60a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇦🇺 AU | 162.250.99.19
