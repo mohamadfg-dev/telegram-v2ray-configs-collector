@@ -7,7 +7,6 @@ vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&encr
 vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=android&type=tcp#🇳🇱 NL | 194.116.216.21
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 84.246.85.62
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.144.28.5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱 NL | 212.34.140.184
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
