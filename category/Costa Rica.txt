@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN222@190.93.244.229:443?allowInsecure=1&ws=1&wspath=/#🇨🇷 CR | 190.93.244.229
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?allowInsecure=0&sni=late-tooth.granzinhannah.workers.dev&alpn=h3,h2,http/1.1&type=ws&host=late-tooth.granzinhannah.workers.dev&path=?ed=2560fp=chrome#🇨🇷 CR | 190.93.246.152
