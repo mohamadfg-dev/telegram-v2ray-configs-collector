@@ -1,4 +1,7 @@
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.129.185.249:8080/?type=tcp&encryption=none&flow=&sni=yandex.com&fp=chrome&security=reality&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#🇦🇲 AM | 45.129.185.249
 vless://0ce0be53-fbc8-4340-a1f8-12f9df28e25b@92.223.2.119:25750?type=ws&security=none#🇦🇲 AM | 92.223.2.119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲 AM | 2.56.204.171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲 AM | 2.56.204.171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲 AM | 2.56.204.171
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲 AM | 2.56.204.171
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
