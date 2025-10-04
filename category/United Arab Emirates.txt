@@ -1,3 +1,3 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 147.78.0.91
-vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:8880?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.102
+vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:3030?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.102

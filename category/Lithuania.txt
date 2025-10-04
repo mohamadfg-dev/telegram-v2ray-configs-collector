@@ -3,5 +3,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.181
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇱🇹 LT | 88.216.69.54
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇱🇹 LT | 88.216.69.54
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.29
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#🇱🇹 LT | 88.216.69.54
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.207
