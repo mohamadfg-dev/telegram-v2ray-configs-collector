@@ -1,1 +1,1 @@
-vless://telegram-ID-v2ray_configs_pools@sitaci.com.sitaci.com:48092?security=&encryption=none&headerType=http&type=tcp#🇳🇱 NL | 5.180.180.96
+vless://e80f8642-89a4-42ef-b74a-8b124b36c943@185.227.110.7:8023?encryption=none&security=reality&sni=www.journalofbigdata.springeropen.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#🇳🇱 NL | 185.227.110.7
