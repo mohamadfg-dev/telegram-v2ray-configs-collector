@@ -7,4 +7,4 @@ vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vless://6d9a7312-5021-40b0-9e2b-d08b6ef0d917@45.136.5.109:4040?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.109
-vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 188.132.183.15
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.76
