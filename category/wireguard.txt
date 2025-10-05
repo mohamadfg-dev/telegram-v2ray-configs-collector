@@ -1,2 +1,1 @@
-wireguard://cPUY21TXn6odnqiN/VUUQlDRZR5ElXrnRTEzk4Ei3es=@162.159.195.1:1701?address=172.16.0.2/32,2606:4700:110:8ea6:f09d:b896:55fe:9472/128&reserved=8,123,66&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | cPUY21TXn6odnqiN
 wireguard://ECn9/9gPjlIFl3+E1k7D+fOFzKefWCw4CMS+T22htmQ=@filtercheebyha.arshiacomplus.dpdns.org:8443?address=10.0.0.2/32&reserved=0,0,0&publickey=MVcYdOU0xZfAhsaRj9bG7JqK/dI+30XCVFXmzyhvrQw=&mtu=1420#🏴‍☠️ UN | ECn9
