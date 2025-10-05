@@ -2,4 +2,3 @@ ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 ES | 5
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434438187.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#🇪🇸 ES | 45.12.150.98
 vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#🇪🇸 ES | 185.251.80.54
-vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#🇪🇸 ES | 185.251.80.54

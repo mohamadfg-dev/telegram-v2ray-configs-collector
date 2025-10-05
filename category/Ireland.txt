@@ -1,1 +1,4 @@
-trojan://telegram-id-privatevpns@54.76.222.103:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.76.222.103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#🇮🇪 IE | 23.94.67.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#🇮🇪 IE | 23.94.67.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#🇮🇪 IE | 23.94.67.166
+vless://5cbd735a-b9f4-44a9-9e7a-818853b05ab2@185.197.182.18:23590?mode=auto&path=/?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=reality&encryption=none&pbk=uTgCcEmxWXISjCBvsZLBRGASA6ZM0sckmnlTtgqzOgE&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=ea5b1f87@V2rayNGVPN <= کانفیگ رایگان#🇮🇪 IE | 185.197.182.18
