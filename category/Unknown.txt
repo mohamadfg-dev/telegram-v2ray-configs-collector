@@ -1,6 +1,6 @@
+vless://Parsashonam-311@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWRjZ+O4e1Z9+yhb7yBFpHPo=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc/+dcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWTdJDR3WlCQi9wCOfvZIiI0=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc
-wireguard://lCNzPJOxyJwqB9LS453r+Ya0qnsROELLO/VdrKGnBB8=@162.159.193.3:2408?address=172.16.0.2/32,2606:4700:110:8161:ef32:7a3f:4fd6:fe5/128&reserved=210,194,109&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | lCNzPJOxyJwqB9LS453r+Ya0qnsROELLO
 vless://a40e2c15-6c4d-b5e6-3e9c-d2adad0ee1e6@my-softmeto.ir:80?security=&encryption=none&type=ws#🏴‍☠️ UN | my-softmeto.ir
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://bfc791d7-0ff4-4a9a-8215-118c496a7cd1@vip.360store.info:443?security=none&encryption=none&headerType=http&type=tcp#🏴‍☠️ UN | vip.360store.info
@@ -36,7 +36,7 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryptio
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@irtest.xiliservice.lol:80?aderType=none&type=tcp#🏴‍☠️ UN | irtest.xiliservice.lol
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir:233?mode=auto&path=/moveis&security=reality&encryption=none&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&host=fuck-israel.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=210cfdf17087#🏴‍☠️ UN | fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#🏴‍☠️ UN | add.ski1plag.ir
-vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@ckdll.kimjo.ir:8080?security=none&type=ws&headerType=&path=&host=#🏴‍☠️ UN | ckdll.kimjo.ir
+vless://acabbca-abca-baac-bdac-cbcaaabbcbca@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 vless://Parsashonam-312@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
 vless://129d5492-58b3-4ceb-b76a-b0e88f476df3@0.0.0.0:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=yandex.com&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
