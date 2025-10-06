@@ -4,4 +4,3 @@ vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encry
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:7443?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.102
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:7443?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.102
 vless://6889a1d2-fb40-4fe6-ba30-8ff731799394@93.127.180.102:4040?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.102
-vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 147.78.0.91

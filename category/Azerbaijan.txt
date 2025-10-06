@@ -1,1 +1,1 @@
-vless://136804c6-6f7c-4422-9c36-4d61f4e3f2ff@180.149.44.224:4655?security=&encryption=none&headerType=none&type=tcp#🇦🇿 AZ | 180.149.44.224
+vless://7df43d38-6bac-4b61-8c90-a78bf82fa519@180.149.44.224:4655?security=none&encryption=none&headerType=none&type=tcp#🇦🇿 AZ | 180.149.44.224
