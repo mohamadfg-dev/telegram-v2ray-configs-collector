@@ -1,1 +1,1 @@
-vless://e80f8642-89a4-42ef-b74a-8b124b36c943@185.227.110.7:8023?encryption=none&security=reality&sni=www.journalofbigdata.springeropen.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#🇳🇱 NL | 185.227.110.7
+vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#🇳🇱 NL | 85.158.110.62

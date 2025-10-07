@@ -9,5 +9,3 @@ vless://7b1bdc4f-b9ac-48b3-a48c-2b79871491e2@helspanel9.hipay.su:443?security=re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335#🇫🇮 FI | 91.204.74.95
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://14f3eeaf-153a-40ed-8c4d-8dce10950832@mpl.marana.sbs:16937?type=grpc&serviceName=&authority=&security=none#🇫🇮 FI | 2a01:4f9:c013:c662::1
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🇫🇮 FI | 92.60.78.221
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇫🇮 FI | 185.193.102.7
