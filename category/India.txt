@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN | 82.180.146.173
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@154.198.173.32:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#🇮🇳 IN | 154.198.173.32
