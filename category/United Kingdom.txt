@@ -1,7 +1,6 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686407685.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 185.138.164.4
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#🇬🇧 GB | 91.205.158.2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 4.250.75.96
+vless://9b448704-c55c-40b3-a9d2-8e8988c5ed90@programs.aliyostd.com:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=tgju.org&sid=b6c24852f86067a6#🇬🇧 GB | 23.81.34.217
 vless://769774c9-8eb7-4ee4-8093-d56c92ed9e69@51.89.176.242:3479?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇬🇧 GB | 51.89.176.242
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
@@ -9,9 +8,11 @@ vless://3f0dc29b-e8af-484b-9745-3c52f33efcd9@51.89.176.242:3479/?encryption=none
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 4.250.75.96
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.112.200
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443/?type=ws&encryption=none&flow=&host=taochan.sylphachan.ip-ddns.com&path=/&security=tls&sni=taochan.sylphachan.ip-ddns.com&alpn=http/1.1&fp=randomized#🇬🇧 GB | 2a06:98c1:3120::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 GB | 4.250.112.200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 GB | 145.133.64.210
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 4.250.112.200
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#🇬🇧 GB | 4.250.112.200
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
@@ -26,3 +27,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.clouda
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xODkuMjUzIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.112.200
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇬🇧 GB | 94.131.122.221
