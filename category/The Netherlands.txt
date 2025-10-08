@@ -1,11 +1,7 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.253
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🇳🇱 NL | 193.29.139.177
-vless://896c451b-addc-4c9e-ad9b-4cd63d80b2ab@94.131.107.201:8443?security=reality&encryption=none&pbk=rwXlON1aDW3CM1wfNYMWb-hpPYqvH0kHHOBDatkuCSE&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=anydesk.com&sid=26a70553#🇳🇱 NL | 94.131.107.201
 vless://12345678-1234-1234-1234-123456789123@185.207.196.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇳🇱 NL | 185.207.196.44
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🇳🇱 NL | 193.29.139.177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🇳🇱 NL | 193.29.139.177
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.172
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL | 80.92.206.19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#🇳🇱 NL | 212.34.140.184
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?encryption=none&type=grpc&mode=gun&security=none#🇳🇱 NL | 85.209.153.82
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#🇳🇱 NL | 212.34.140.184
@@ -15,6 +11,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&securit
 vless://12345678-1234-1234-1234-123456789123@185.207.196.44:2096/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets&security=tls&sni=kejiland.freewarp.eu.org#🇳🇱 NL | 185.207.196.44
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937520064872286.london-prx-dnraacl.info:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 84.246.85.62
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#🇳🇱 NL | 84.246.85.62
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱 NL | 212.34.140.184
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#🇳🇱 NL | 159.223.209.139
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
@@ -27,10 +24,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱 NL | 91.206.71.54
 vless://12345678-1234-1234-1234-123456789123@91.206.71.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🇳🇱 NL | 91.206.71.54
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇳🇱 NL | 51.77.91.192
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYWNaSU1Gd21NQ1I2ZFdxTjVBaDBj@194.135.46.13:1419#🇳🇱 NL | 194.135.46.13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs@V2rayNGVPN <= کانفیگ رایگان#🇳🇱 NL | 188.42.145.253
 vless://7f74ad83-4aaf-419b-8caf-ff66c354bcbc@ruunion.ru:443?security=reality&encryption=none&pbk=9qaBiJ3zMogUBKByaq71xT9xDu1dmN1b47rXOYUy6Rw&host=--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--alireza--&headerType=none&fp=chrome&spx=/@khodee_alireza&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6650429727ca#🇳🇱 NL | 147.45.240.161

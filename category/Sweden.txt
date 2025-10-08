@@ -1,6 +1,7 @@
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU0UgfCAxNzIuMjM0LjEwMC4xMTkiLCJhZGQiOiIxNzIuMjM0LjEwMC4xMTkiLCJwb3J0IjoiODA4MSIsImlkIjoiY2NlYTZkNTUtMjMwOS00MDU5LTkzZGMtYTYyY2U3Y2QzZjdjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJkaXZhcmNkbi5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjgzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#🇸🇪 SE | 4.223.106.240
 vless://Parsashonam-303@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#🇸🇪 SE | 4.223.106.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🇸🇪 SE | 4.223.100.248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🇸🇪 SE | 4.223.100.248
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
