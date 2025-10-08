@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#🇰🇷 KR | 115.161.136.145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#🇰🇷 KR | 115.161.136.145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#🇰🇷 KR | 115.161.136.145
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@132.145.84.148:39567/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#🇰🇷 KR | 132.145.84.148

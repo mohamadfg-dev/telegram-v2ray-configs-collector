@@ -1,1 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA0Ny43NC4xMC4xMTEiLCJhZGQiOiI0Ny43NC4xMC4xMTEiLCJwb3J0IjoiMzQyMjEiLCJpZCI6IjA3YTVmMjI5LTg5OWQtNDNkZC1iZWIwLWYxNDEyYTJhODVmZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCJ9
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.2.49.197:587/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#🇯🇵 JP | 138.2.49.197
+trojan://253bc477d4e43c209f2d427272968280@160.16.89.176:3160?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 JP | 160.16.89.176
