@@ -1,1 +1,2 @@
-vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94&type=raw&headertype=none#🇳🇱 NL | 45.128.232.102
+vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&sid=25&type=raw&headertype=none#🇺🇸 US | 45.158.127.84
+vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&sid=25&type=raw&headertype=none#🇺🇸 US | 45.158.127.84
