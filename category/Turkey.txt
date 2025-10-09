@@ -1,2 +1,1 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.89
-vless://a410ee53-3189-8de8-5b2f-f141e719e335@dl-02.easyrain.ir:45555?security=tls&alpn=h3,h2,http/1.1&encryption=none&host=zhaket.com&headerType=http&fp=firefox&type=tcp#🇹🇷 TR | 188.132.141.204
