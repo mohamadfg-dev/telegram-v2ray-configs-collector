@@ -1,4 +1,2 @@
-vless://12345678-1234-1234-1234-123456789123@5.10.215.62:2096?path=/snippets&Telegram🇨🇳+@WangCai2+/?ed=2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🇦🇲 AM | 5.10.215.62
-vless://12345678-1234-1234-1234-123456789123@5.10.214.62:2096?path=/snippets&Telegram🇨🇳+@WangCai2+/?ed=2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🇦🇲 AM | 5.10.214.62
 vless://cb90e864-0816-4b83-9561-81a78f619154@92.223.2.119:31000?type=ws&security=none#🇦🇲 AM | 92.223.2.119
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
