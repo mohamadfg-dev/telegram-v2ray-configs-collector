@@ -1,3 +1,2 @@
 vless://12345678-1234-1234-1234-123456789123@185.207.196.44:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇦🇺 AU | 185.207.196.44
 vless://12345678-1234-1234-1234-123456789123@185.207.196.44:2096/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets&security=tls&sni=kejiland.freewarp.eu.org#🇦🇺 AU | 185.207.196.44
-vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇦🇺 AU | 162.250.99.22

@@ -1,2 +1,1 @@
-vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&sid=25&type=raw&headertype=none#🇺🇸 US | 45.158.127.84
-vless://7ac2252d-a966-486a-bca9-fcd148e60078@45.158.127.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=W3lJRwhDFMycX3Q056SN4T9v_q_PvjBWEjmDF8Thsyc&sid=25&type=raw&headertype=none#🇺🇸 US | 45.158.127.84
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
