@@ -1,3 +1,4 @@
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 89.44.242.222
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir5.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.183
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir6.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.184
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
@@ -24,7 +25,7 @@ vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&heade
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
-vmess://eyJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUiLCJpZCI6IkBQcm94eVZQTlZpcC1DaGFubmVsVGVsZWdyYW0iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTlZpcCIsInBvcnQiOiI4NDQzIiwicHMiOiLwn4eu8J+HtyBJUiB8IDIxMy4xNzYuMS4yNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjEuMjciLCJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsInBvcnQiOiIyMDg3IiwiaWQiOiJAUHJveHlWUE5WaXAtQ2hhbm5lbFRlbGVncmFtIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJza3lyb29tLm9ubGluZSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjEuMjciLCJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnRvcCIsInBvcnQiOiIyMDg3IiwiaWQiOiJAUHJveHlWUE5WaXAtQ2hhbm5lbFRlbGVncmFtIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJza3lyb29tLm9ubGluZSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://182393b3-241e-4268-9978-7fb2be593bc7@tinyvpn-cdn1.unlimiteddev.co:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
