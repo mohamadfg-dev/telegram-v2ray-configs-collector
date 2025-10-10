@@ -1,1 +1,2 @@
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@152.69.229.175:22558?path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇰🇷 KR | 152.69.229.175
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@152.69.229.175:22558?path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇰🇷 KR | 152.69.229.175
