@@ -1,3 +1,1 @@
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80#🇯🇵 JP | 5.253.41.223
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80#🇯🇵 JP | 5.253.41.223
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80#🇯🇵 JP | 5.253.41.223
+trojan://FLorg@176.97.70.65:8443?security=tls&type=ws&sni=trojan.tcorg.filegear-sg.me&path=/?ed=2048&host=trojan.tcorg.filegear-sg.me#🇯🇵 JP | 176.97.70.65
