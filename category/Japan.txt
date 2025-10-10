@@ -1,1 +1,1 @@
-trojan://FLorg@176.97.70.65:8443?security=tls&type=ws&sni=trojan.tcorg.filegear-sg.me&path=/?ed=2048&host=trojan.tcorg.filegear-sg.me#🇯🇵 JP | 176.97.70.65
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.117.182
