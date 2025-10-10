@@ -1,2 +1,1 @@
-trojan://telegram-id-privatevpns@52.214.235.82:22222?sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1http/1.1#🇮🇪 IE | 52.214.235.82
 vless://7467739e-fe86-43a4-93ae-1669886e80d5@141.227.162.18:59995?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇮🇪 IE | 141.227.162.18
