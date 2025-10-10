@@ -1,2 +1,1 @@
-vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=/hqqprlws&security=tls&encryption=none&type=ws#🇲🇾 MY | 45.89.107.227
 vless://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?encryption=none&security=tls&fp=chrome&type=ws&path=/fqopqrws#🇲🇾 MY | 45.89.107.229
