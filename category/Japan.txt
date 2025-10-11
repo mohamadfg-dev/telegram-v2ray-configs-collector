@@ -1,2 +1,1 @@
-trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇯🇵 JP | 160.16.236.32
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.117.182
