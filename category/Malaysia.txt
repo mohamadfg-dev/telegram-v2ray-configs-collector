@@ -1,1 +1,1 @@
-vless://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?encryption=none&security=tls&fp=chrome&type=ws&path=/fqopqrws#🇲🇾 MY | 45.89.107.229
+vmess://eyJhZGQiOiI0Ny4yNTAuMTU5LjEzNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmY5YWQwN2MtZTFiNC00NjdmLTkwYmMtOWIwNjdmNDdkZDVjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjI4MjkzLCJwcyI6IvCfh7Lwn4e+IE1ZIHwgNDcuMjUwLjE1OS4xMzQiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
