@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221:8443#🇦🇹 AT | 151.236.11.221
-vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#🇦🇹 AT | 213.176.94.129
