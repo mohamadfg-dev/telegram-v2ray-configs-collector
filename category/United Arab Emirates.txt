@@ -1,4 +1,4 @@
+vless://35045c61-b9a4-4998-aec8-5c6d312122e2@uaeemaray.vtuix.ir:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 147.78.0.91
-vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2087?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.140
 vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:2087?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.140

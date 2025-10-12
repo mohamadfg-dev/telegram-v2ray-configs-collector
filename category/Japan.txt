@@ -1,3 +1,4 @@
+trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:4451?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 JP | 153.121.70.134
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.117.182
 vless://e86a1216-a101-4d02-9cc2-cd02feed5c12@128.22.147.233:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 128.22.147.233
 vless://e86a1216-a101-4d02-9cc2-cd02feed5c12@128.22.147.233:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 128.22.147.233
