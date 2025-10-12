@@ -1,1 +1,2 @@
 vless://80074d6b-23c5-465e-a348-dcf0378fd1f2@cze01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇨🇿 CZ | 2.56.176.173
+vless://da3dd1a7-db7f-1e8c-d0a0-6a584dd2e8ea@czech.marzxo.biz:8090?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇨🇿 CZ | 80.211.223.185

@@ -1,4 +1,2 @@
-vless://da3dd1a7-db7f-1e8c-d0a0-6a584dd2e8ea@switzerland.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇨🇭 CH | 83.228.227.98
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gQ0ggfCAxNDEuMTEuMTY0LjIzMyIsImFkZCI6ImtoLnNoZWJyaXguaXIiLCJwb3J0Ijo0NTE0NSwiaWQiOiI1NDU0M2NlMC1lODdiLTQ2ZDYtYWQwMy1jMWJhMmIyMjM1NTgiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 vless://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#🇨🇭 CH | 141.11.164.233
-vless://da3dd1a7-db7f-1e8c-d0a0-6a584dd2e8ea@switzerland.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇨🇭 CH | 83.228.227.98
