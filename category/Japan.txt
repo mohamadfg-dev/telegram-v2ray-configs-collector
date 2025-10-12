@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMHNGNjQ1RjF1TTJzdnA1RU9JUlgz@91.194.160.151:1235#🇯🇵 JP | 91.194.160.151
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.117.182
+vless://e86a1216-a101-4d02-9cc2-cd02feed5c12@128.22.147.233:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 128.22.147.233
+vless://e86a1216-a101-4d02-9cc2-cd02feed5c12@128.22.147.233:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 128.22.147.233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMHNGNjQ1RjF1TTJzdnA1RU9JUlgz@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151

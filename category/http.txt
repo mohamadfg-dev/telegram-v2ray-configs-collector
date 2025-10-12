@@ -1,1 +1,1 @@
-vless://7c2ba149-2827-4e07-b82a-61b74b76d68b@165.22.54.50:8889?security=reality&sni=addons.mozilla.org&type=http&fp=chrome&pbk=p8caKe6MUNLfGgOoSPVVHDdSPTG6Fi02pz0ae9vygxo&alpn=h2#🇸🇬 SG | 165.22.54.50
+vless://9fe3c8cd-f9fb-4868-a79f-057e9bca79be@18.159.137.222:3349?security=reality&sni=canva.com&type=http&fp=chrome&pbk=SU-8EXuya7ASmpfJsXFhC_9TT4CIn9rDWtt4wbirIi8&sid=1ee8b8e5e0c7d366#🇩🇪 DE | 18.159.137.222
