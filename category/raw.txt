@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ04gfCAxMDYuMTQuNzUuMTE0IiwiYWRkIjoiMTA2LjE0Ljc1LjExNCIsInBvcnQiOiI1MDAwMiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ==
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
