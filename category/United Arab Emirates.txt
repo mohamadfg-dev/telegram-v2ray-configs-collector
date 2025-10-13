@@ -1,4 +1,6 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
+vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@38.180.27.182:5901?security=none&encryption=none&host=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&headerType=none&type=tcp#🇦🇪 AE | 38.180.27.182
 vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 147.78.0.91
+vless://86c31e1a-c1d9-1088-c276-abbd74abb0ed@dubai.marzxo.biz:8088?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇦🇪 AE | 38.180.26.251
+vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@38.180.27.182:5901?security=none&encryption=none&host=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&headerType=none&type=tcp#🇦🇪 AE | 38.180.27.182
 vless://944445aa-23ce-4994-ab71-9615340e88f5@93.127.180.140:3030?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.140
-vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@38.180.27.182:5901?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 38.180.27.182
