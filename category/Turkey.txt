@@ -1,3 +1,4 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.104
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?encryption=none&security=tls&fp=chrome&type=ws&path=/tqjkmwws?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee#🇹🇷 TR | 185.234.66.94
 vless://80fdfa12-adc7-4a76-a79c-e979b652d59c@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
 vless://80fdfa12-adc7-4a76-a79c-e979b652d59c@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
