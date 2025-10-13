@@ -1,6 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none&security=none&type=grpc#🇹🇷 TR | 185.234.66.104
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇹🇷 TR | 185.234.66.92
-vless://80fdfa12-adc7-4a76-a79c-e979b652d59c@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇹🇷 TR | 185.234.66.104
-vless://80fdfa12-adc7-4a76-a79c-e979b652d59c@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇹🇷 TR | 185.234.66.104
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&type=grpc#🇹🇷 TR | 185.234.66.104

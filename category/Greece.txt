@@ -1,2 +1,1 @@
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#🇬🇷 GR | 85.90.197.100
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@185.39.207.121:443?security=reality&encryption=none&pbk=Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=0fa84b90#🇬🇷 GR | 185.39.207.121
