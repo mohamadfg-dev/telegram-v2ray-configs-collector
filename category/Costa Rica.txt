@@ -1,1 +1,1 @@
-vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.246.146:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🇨🇷 CR | 190.93.246.146
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@bowen.ns.cloudflare.com:443?encryption=none&security=tls&sni=azadnet-aj8.pages.dev&fp=randomized&type=ws&host=azadnet-aj8.pages.dev&path=/azadnet-aj8.pages.dev/?ed=2560&prot_type=vless#🇨🇷 CR | 2803:f800:50::6ca2:c353
