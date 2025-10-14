@@ -3,12 +3,11 @@ vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 195.42.233.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.247
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.159
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.234.64.101
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 86.104.74.45
 vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?security=&encryption=none&host=varzesh3.irJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#🇫🇷 FR | 152.228.231.92
 trojan://telegram-id-directvpn@15.188.177.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.177.243
 trojan://telegram-id-directvpn@13.38.252.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.252.132
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDIiLCJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA5MS4xMzQuOC4xMDIiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==
-trojan://telegram-id-directvpn@13.36.131.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.131.171
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?security=&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.128
@@ -18,6 +17,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusa
 trojan://telegram-id-privatevpns@15.188.177.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.177.243
 trojan://telegram-id-privatevpns@13.38.252.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.252.132
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.4
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434434528.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 86.104.74.26
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 86.104.74.155
@@ -28,13 +28,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.4
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#🇫🇷 FR | 51.38.232.101
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&fp=chrome&type=ws#🇫🇷 FR | 185.242.87.162
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.234.64.149
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.234.64.149
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 86.104.74.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.91
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.142
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷 FR | 94.131.118.98
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇫🇷 FR | 94.131.118.98
 vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA5MS4xMzQuOC45MiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA5MS4xMzQuOC45MiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -44,8 +42,7 @@ trojan://telegram-id-v2rayvpnchannel@13.38.252.132:22223?security=tls&alpn=http/
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.98
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.177.243:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.177.243
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.252.132:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.252.132
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.94
-vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇷 FR | 152.228.231.92
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 86.104.74.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&mode=gun&security=none#🇫🇷 FR | 185.231.205.234
 vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#🇫🇷 FR | 45.92.218.41
@@ -54,5 +51,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?security=&type=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.125
 trojan://telegram-id-v2rayvpnchannel@13.38.252.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.252.132
 trojan://telegram-id-v2rayvpnchannel@15.188.177.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.177.243
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.234.64.94
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.98
