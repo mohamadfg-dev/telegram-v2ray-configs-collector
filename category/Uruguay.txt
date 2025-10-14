@@ -1,1 +1,5 @@
-vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?type=tcp&headerType=http&host=www.speedtest.net&security=none#🇺🇾 UY | 45.38.42.220
+trojan://nepow6RXge@45.38.42.42:42692?security=none&headerType=&type=tcp#🇺🇾 UY | 45.38.42.42
+trojan://nepow6RXge@45.38.42.42:42692?security=none&headerType=&type=tcp#🇺🇾 UY | 45.38.42.42
+vless://2c56f8d2-405a-45e4-8a21-5fa1aada7ccf@45.38.42.42:39250?security=reality&encryption=none&pbk=liTuv5aEw6T8dhkZth5En-T0WoFRo_-uj2DuE6YzUC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9d#🇺🇾 UY | 45.38.42.42
+vless://2c56f8d2-405a-45e4-8a21-5fa1aada7ccf@45.38.42.42:39250?security=reality&encryption=none&pbk=liTuv5aEw6T8dhkZth5En-T0WoFRo_-uj2DuE6YzUC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9d#🇺🇾 UY | 45.38.42.42
+vless://2c56f8d2-405a-45e4-8a21-5fa1aada7ccf@45.38.42.42:39250?security=reality&encryption=none&pbk=liTuv5aEw6T8dhkZth5En-T0WoFRo_-uj2DuE6YzUC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9d#🇺🇾 UY | 45.38.42.42
