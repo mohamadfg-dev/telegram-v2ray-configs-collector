@@ -1,1 +1,1 @@
-trojan://liCV_rq-BftxwXpM@167.160.10.54:12184?encryption=none&security=tls&sni=visfg.invisiblesandwich.click&type=raw&headertype=none#🇹🇷 TR | 167.160.10.54
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?encryption=none&security=tls&sni=app.chandplus.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.109.118.175

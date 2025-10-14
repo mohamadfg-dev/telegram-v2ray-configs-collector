@@ -1,3 +1,2 @@
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@38.180.27.182:5901?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇦🇪 AE | 38.180.27.182
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
-vless://turboo-server@dubi.fast-turbooserver.com:8443?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 147.78.0.91

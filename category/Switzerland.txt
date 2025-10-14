@@ -1,2 +1,4 @@
+vless://b160cc4a-89f5-4279-9007-a4c84a13a175@che-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇨🇭 CH | 5.182.36.249
+vless://b160cc4a-89f5-4279-9007-a4c84a13a175@che-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇨🇭 CH | 5.182.36.249
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gQ0ggfCAxNDEuMTEuMTY0LjIzMyIsImFkZCI6ImtoLnNoZWJyaXguaXIiLCJwb3J0Ijo0NTE0NSwiaWQiOiI1NDU0M2NlMC1lODdiLTQ2ZDYtYWQwMy1jMWJhMmIyMjM1NTgiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 vless://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#🇨🇭 CH | 141.11.164.233
