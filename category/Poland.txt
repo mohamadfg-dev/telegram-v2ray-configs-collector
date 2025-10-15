@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#🇵🇱 PL | 144.31.1.156
-vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇵🇱 PL | 144.31.1.156
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&sni=mirror.yandex.ru&fp=chrome&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇵🇱 PL | 144.31.1.157
+vless://ed52b6dd-d53f-4f8b-bdc1-9abb3ac194ff@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#🇵🇱 PL | 144.31.0.136
