@@ -1,1 +1,1 @@
-wireguard://+R+BaSxBUB8Vui9BdRZdVJokKTxigyYktgCsihu0KNo=@162.159.195.1:1701?address=172.16.0.2/32,2606:4700:110:8e32:b029:a03d:5d70:49c9/128&reserved=105,136,133&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🇨🇦 CA | 162.159.195.1
+wireguard://gESIi9SMqLpauhZWZMVThgQ/OuvXJDUeUELPVd+H21g=@162.159.192.1:4500?wnoise=quic&presharedkey=&address=172.16.0.2/32&reserved=141,53,16&keepalive=5&wpayloadsize=5-10&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&wnoisedelay=4-8&wnoisecount=15&mtu=1280#🏴‍☠️ UN | gESIi9SMqLpauhZWZMVThgQ

@@ -1,7 +1,6 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.164
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 45.120.178.9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.129
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=&type=grpc&encryption=none#🇫🇷 FR | 94.131.118.98
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.234.64.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none&security=none&type=grpc#🇹🇷 TR | 185.234.66.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇺🇸 US | 103.35.189.146
@@ -11,8 +10,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.101:80?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?security=&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 195.42.233.89
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 185.242.87.195
 vless://7fe2935c-0b1a-4bff-a392-79081b23d820@141.227.140.55:51079?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇮🇹 IT | 141.227.140.55
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&type=grpc&encryption=none#🇫🇷 FR | 94.131.118.98
+vless://e585fe60-2f3c-48f3-b88b-536318d8943e@51.89.176.242:3478?encryption=none&type=grpc&mode=gun&serviceName=t.me/entryNET&security=none#🇬🇧 GB | 51.89.176.242
 vless://e585fe60-2f3c-48f3-b88b-536318d8943e@51.89.176.242:3479?encryption=none&type=grpc&mode=gun&serviceName=#🇬🇧 GB | 51.89.176.242
 vless://e585fe60-2f3c-48f3-b88b-536318d8943e@51.89.176.242:3478?encryption=none&type=grpc&mode=gun&serviceName=<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>----<EVAY_VPN>&security=none#🇬🇧 GB | 51.89.176.242
 vless://96f391f6-0762-4895-a57c-433360967ca8@5.161.130.236:5454?security=reality&type=grpc&headerType=&serviceName=mgrpcm&authority=&mode=gun&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mBt5gNbf3cM_3n6OmSvszdLz-q4Kj2A1CF7XFgvggig&sid=ab892f807f3ecc26#🇺🇸 US | 5.161.130.236
@@ -35,6 +33,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇫🇷 FR | 94.131.118.142
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.55
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.94
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=&encryption=none&authority=/?sunflowerplato&type=grpc#🇳🇱 NL | 45.120.178.9
 vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 57.129.92.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.4
@@ -48,10 +47,11 @@ vless://0eef0e31-d29e-4d0d-8ce4-0712af97b9e8@[::ffff:5b63:9012]:4444?mode=gun&se
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.94
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 94.131.118.98
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.94
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.247
 vless://52334f10-c7da-4923-8f4c-8f93d5a85844@54.36.115.88:15296?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 54.36.115.88
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.234.64.94
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 146.19.230.248
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 103.35.189.146
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 80.92.206.172
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️ UN | pqh28v5.waipdirect.shop
@@ -61,7 +61,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrab
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?encryption=none&security=none&type=grpc#🇺🇸 US | 85.209.153.82
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=&type=grpc&encryption=none#🇫🇷 FR | 94.131.118.98
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936664855921747.amsterdam-prx-dnraacl.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷 FR | 185.234.64.149
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 85.209.153.82
 vless://b555ed13-5146-44a6-8390-74dee3532a99@62.60.247.164:443?mode=gun&security=reality&encryption=none&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&fp=chrome&spx=/&type=grpc&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sni=tgju.org&sid=d5c5c558ee0132#🇳🇱 NL | 62.60.247.164
@@ -85,10 +84,8 @@ vless://1375d9a1-dece-4bbb-8131-29e06afjhhhd8ca4@141.227.180.211:25365?mode=gun&
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dnraacr.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.242.87.155
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.207
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 194.4.49.19
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇱🇹 LT | 94.131.14.193
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 185.234.64.149
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.16
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.144.28.5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 45.12.133.235
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.98
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc#🇹🇷 TR | 185.234.66.92
