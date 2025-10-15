@@ -1,5 +1,3 @@
 trojan://nepow6RXge@45.38.42.42:42692?security=none&headerType=&type=tcp#🇺🇾 UY | 45.38.42.42
 trojan://nepow6RXge@45.38.42.42:42692?security=none&headerType=&type=tcp#🇺🇾 UY | 45.38.42.42
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bkttOXpjM2hxMGdrMVdLSlNHQ1pLK2s1MlNwTVBjYXVPU2xkdWpPUlR1dz06aUlDUHUwNGRBTnpTT3ZPdjdyUGtBdDk2N29DdFVMMlo5VHlLVExhUmQrbz0=@45.38.42.42:17790#🇺🇾 UY | 45.38.42.42
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bkttOXpjM2hxMGdrMVdLSlNHQ1pLK2s1MlNwTVBjYXVPU2xkdWpPUlR1dz06aUlDUHUwNGRBTnpTT3ZPdjdyUGtBdDk2N29DdFVMMlo5VHlLVExhUmQrbz0=@45.38.42.42:17790#🇺🇾 UY | 45.38.42.42
 vless://2c56f8d2-405a-45e4-8a21-5fa1aada7ccf@45.38.42.42:39250?security=reality&encryption=none&pbk=liTuv5aEw6T8dhkZth5En-T0WoFRo_-uj2DuE6YzUC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=9d#🇺🇾 UY | 45.38.42.42
