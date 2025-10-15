@@ -1,2 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@94.177.8.51:443?security=tls&sni=cy.ylks.xyz&type=ws&path=/freecodes#🇦🇹 AT | 94.177.8.51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWDczaFE1dlNUeFI4U3lyUkVBRmh5@212.113.106.76:29149#🇦🇹 AT | 212.113.106.76
+vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#🇦🇹 AT | 213.176.94.129
+vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#🇦🇹 AT | 213.176.94.129
