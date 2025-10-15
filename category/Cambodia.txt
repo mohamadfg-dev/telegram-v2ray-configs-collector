@@ -1,1 +1,1 @@
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@92.243.75.49:2087?path=/snippets?ip=proxyip:port(443)&security=tls&encryption=none&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&fp=chrome&type=ws&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#🇰🇭 KH | 92.243.75.49
+trojan://Aimer@92.243.74.115:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#🇰🇭 KH | 92.243.74.115
