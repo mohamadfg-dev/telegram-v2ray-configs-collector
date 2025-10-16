@@ -1,1 +1,1 @@
-vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?encryption=none&security=tls&sni=v3.ganglink.sbs&fp=chrome&type=ws&host=v3.ganglink.sbs&path=/?ed=2560#🇨🇷 CR | 190.93.245.234
+trojan://NISHIKUITAN222@190.93.244.125:443?allowInsecure=1&ws=1&wspath=/#🇨🇷 CR | 190.93.244.125
