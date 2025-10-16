@@ -1,4 +1,3 @@
-vless://46c13f51-af3a-47de-a2a3-b6cae11ba178@103.241.66.170:2053?mode=gun&security=reality&encryption=none&authority=Tel:@VPN_KING_V2RAY&pbk=UsCsUyJBECyLwWcHK89AQ3BLcSPTtUvvXwzeJu30t10&fp=chrome&spx=/&type=grpc&serviceName=Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY-Tel:@VPN_KING_V2RAY#🇮🇹 IT | 103.241.66.170
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🇮🇹 IT | 38.180.195.193
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
