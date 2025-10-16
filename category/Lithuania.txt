@@ -2,5 +2,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrab
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.193
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.193
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.29
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&type=grpc#🇱🇹 LT | 94.131.13.164
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.193

@@ -2,4 +2,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY---V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&path=/hfwsxtws#🇹🇷 TR | 185.234.66.101
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc#🇹🇷 TR | 185.234.66.92
