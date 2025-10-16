@@ -1,11 +1,11 @@
 vless://f98331ec-9c1e-4003-b09c-ca1ad1720b0a@mci.itbookshop.dpdns.org:443?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 65.109.204.177
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🇫🇮 FI | 92.60.78.221
+vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir@V2rayNGVPN <= کانفیگ رایگان#🇫🇮 FI | 46.62.214.228
 vless://26c81599-2d95-428f-ab49-642dfbfcc43b@65.109.209.223:13170?security=reality&encryption=none&pbk=z4dbIMCoLliSv0qvnVaIxSbQBgL95j64CSrs7lctDEk&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.tgju.org&sid=2ec0201c#🇫🇮 FI | 65.109.209.223
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#🇫🇮 FI | 83.147.216.70
 vless://a6bc6281-65f6-46ba-8bca-b816c2d5873e@46.62.152.219:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#🇫🇮 FI | 46.62.152.219
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=w&security=none#🇫🇮 FI | 46.62.206.155
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🇫🇮 FI | 38.244.136.233
+vless://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#🇫🇮 FI | 46.62.214.228
 vless://7b1bdc4f-b9ac-48b3-a48c-2b79871491e2@helspanel9.hipay.su:443?security=reality&encryption=none&pbk=0ZzI5C1-eNbwkR2glmxJJuxLeYdhvfEyZMezGYhuslA&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hels9.hipay.su&sid=8f8964a241f4f69f#🇫🇮 FI | 45.144.52.197
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🇫🇮 FI | 38.244.136.233
