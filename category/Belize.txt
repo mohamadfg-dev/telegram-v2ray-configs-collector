@@ -1,4 +1,3 @@
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.187:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#🇧🇿 BZ | 45.131.208.187
 vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@45.131.6.24:443?path=/?ed=2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#🇧🇿 BZ | 45.131.6.24
 vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@45.131.6.24:443?path=/?ed=2560&security=tls&encryption=none&host=ym.ddff.me&fp=random&type=ws&sni=ym.ddff.me#🇧🇿 BZ | 45.131.6.24
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.30:2053?encryption=none&host=AeEye-52235.zephorium.uk&path=/&security=tls&sni=AeEye-52235.zephorium.uk&type=ws#🇧🇿 BZ | 45.131.210.30
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.186:2053?encryption=none&host=AeEye-52235.zephorium.uk&path=/&security=tls&sni=AeEye-52235.zephorium.uk&type=ws#🇧🇿 BZ | 45.131.7.186
