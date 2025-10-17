@@ -1,3 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880#🇱🇹 LT | 94.131.14.193
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇱🇹 LT | 94.131.13.163
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&authority=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&type=grpc#🇱🇹 LT | 94.131.13.164
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880#🇱🇹 LT | 94.131.14.193
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880#🇱🇹 LT | 94.131.14.193
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇱🇹 LT | 94.131.14.195
