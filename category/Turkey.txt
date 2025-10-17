@@ -1,5 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none&security=none&type=grpc#🇹🇷 TR | 185.234.66.104
-vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?encryption=none&security=tls&sni=medrd.vtpmng.top&type=ws&host=medrd.vtpmng.top&path=/#🇹🇷 TR | 188.132.192.101
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
+vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&sni=medrd.vtpmng.top&type=ws&host=medrd.vtpmng.top&path=/#🇹🇷 TR | 188.132.192.101
