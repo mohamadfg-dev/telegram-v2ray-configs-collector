@@ -1,1 +1,1 @@
-wireguard://GOIsIKH2ug1LJSTAvAjW2zVP4gv255FpdF2GN9H1p30=@[2606:4700:d0::a29f:c001]:500?address=172.16.0.2/32,2606:4700:110:846c:e510:bfa1:ea9f:5247/128&reserved=216,125,243&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1330#🏴‍☠️ UN | [2606:4700:d0::a29f:c001]
+wireguard://gESIi9SMqLpauhZWZMVThgQ/OuvXJDUeUELPVd+H21g=@162.159.192.1:4500?wnoise=quic&address=172.16.0.2/32&reserved=141,53,16&keepalive=5&wpayloadsize=5-10&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&wnoisedelay=4-8&wnoisecount=15&mtu=1280#🏴‍☠️ UN | gESIi9SMqLpauhZWZMVThgQ
