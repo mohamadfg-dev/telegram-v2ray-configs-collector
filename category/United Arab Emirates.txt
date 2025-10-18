@@ -1,3 +1,5 @@
+vless://1b031c83-8798-4b34-a885-9486528ade03@uae.sepantamcloud.ir:8801?security=reality&encryption=none&pbk=fakA5O4Pw4_06PyIEcbE1pjz-tPQt-CsopOadCq5oUg&headerType=none&fp=firefox&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=b602711e4c89729c#🇦🇪 AE | 93.127.180.81
+vless://1b031c83-8798-4b34-a885-9486528ade03@uae.sepantamcloud.ir:8801?security=reality&encryption=none&pbk=fakA5O4Pw4_06PyIEcbE1pjz-tPQt-CsopOadCq5oUg&headerType=none&fp=firefox&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=b602711e4c89729c#🇦🇪 AE | 93.127.180.81
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 vless://855a7a3c-8a57-4d4a-b41e-efb8c928ffed@93.127.180.151:443?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.151
 vless://855a7a3c-8a57-4d4a-b41e-efb8c928ffed@93.127.180.151:3030?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.151

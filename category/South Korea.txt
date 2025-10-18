@@ -1,2 +1,1 @@
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@152.69.229.175:22558?path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇰🇷 KR | 152.69.229.175
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@152.69.229.175:22558?path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#🇰🇷 KR | 152.69.229.175
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#🇰🇷 KR | 3.36.127.113

@@ -5,6 +5,7 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://98e70086-6f4c-4435-a975-78d0d6f0fc42@94.184.18.245:8097?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.184.18.245
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=@vpnAndroid2.@vpnAndroid2.@vpnAndroid2.&headerType=none&type=tcp#🇮🇷 IR | 89.44.242.222
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
+vless://04ba58f8-5c8b-4a41-a88d-560abf36f064@sv5.maxhostco2.top:59443?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=www.speedtest.net&sid=502a76d3e038#🇮🇷 IR | 37.202.250.67
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://db316594-959c-48b5-8d8a-96304b7bb37b@TeslaaTeam.niceserver.sbs:124?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 109.95.65.233
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
