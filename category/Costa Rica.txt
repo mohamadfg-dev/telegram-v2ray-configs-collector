@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN222@190.93.244.125:443?allowInsecure=1&ws=1&wspath=/#🇨🇷 CR | 190.93.244.125
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.196:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=/?ed=2048#🇨🇷 CR | 190.93.244.196
