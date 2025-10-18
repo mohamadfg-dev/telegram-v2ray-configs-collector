@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
-vless://3b91defc-3983-4735-86bf-3576713d8f87@www.rexo.online:49796?security=&encryption=none&authority=rexo.rexo.online&type=grpc&serviceName=rexo.rexo.online#🇵🇱 PL | 147.135.198.243
+vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7EgUEwgfCA1Ny4xMjguMTkyLjYyIiwic2N5IjoiYXV0byIsInNuaSI6InB1dGloYi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@151.244.111.50:57456#🇵🇱 PL | 151.244.111.50
 trojan://3BLPOJr3OY@91.108.250.230:50191/?type=grpc&serviceName=&authority=&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&sni=cloudflare.com&sid=2e&spx=/#🇵🇱 PL | 91.108.250.230
-vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HtfCfh7EgUEwgfCA1Ny4xMjguMTkyLjYyIiwic2N5IjoiYXV0byIsInNuaSI6InB1dGloYi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
