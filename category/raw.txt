@@ -1,1 +1,1 @@
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 65.108.1.249
+vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a&type=raw&headertype=none#🇨🇳 CN | 115.190.19.83

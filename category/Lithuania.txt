@@ -1,1 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇱🇹 LT | 94.131.13.164
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇱🇹 LT | 94.131.14.193
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937381606720769.brussels-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc&mode=gun#🇱🇹 LT | 94.131.14.28

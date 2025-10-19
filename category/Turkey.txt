@@ -1,3 +1,4 @@
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?encryption=none&security=tls&fp=chrome&type=ws&path=/tqjkmwws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN#🇹🇷 TR | 185.234.66.94
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
