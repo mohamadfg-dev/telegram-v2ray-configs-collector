@@ -1,5 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
-vless://22254114-e596-4974-9f4b-d86a68bcfe99@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.92
-vless://22254114-e596-4974-9f4b-d86a68bcfe99@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
-vless://22254114-e596-4974-9f4b-d86a68bcfe99@tr.iranhostpro.ir:8443?security=reality&encryption=none&pbk=clDIokmUJ9jtkHdGGPZlF1_xgIRJiZF-j-vMak7-2hc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=c48c60bd07431c85#🇹🇷 TR | 5.180.45.138
