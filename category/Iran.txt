@@ -1,7 +1,7 @@
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir5.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.183
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir6.fastnode0.com:2087?security=none&encryption=none&type=ws#🇮🇷 IR | 185.126.6.184
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
-vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25lY3RlZC5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiZWY1YjQ2YWMtOGRlNS00MTk3LTgzZDItNmRkNDVmOWQ0ZThhIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNzgiLCJwcyI6IvCfh67wn4e3IElSIHwgODEuMTIuMzMuMTgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://00a61d7c-d806-4ee5-83ea-72ef8531482c@webi.goodplaynew.ir:9090?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇮🇷 IR | 94.182.81.229
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
@@ -11,8 +11,8 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&t
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#🇮🇷 IR | 46.38.146.250
-vmess://eyJhZGQiOiJzdjIwLndhcnpvbmUxLmluIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnUGlsOTRDei5kaXZhcmNkbi5jb20sdWEueWVrdGFuZXQuY29tIiwiaWQiOiI3MmJmNzVkMC1lZWNkLWNjNTctOGQ4Ny0zZWY3ZDZjMGNmMjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTE5NSIsInBzIjoi8J+HrvCfh7cgSVIgfCA3Ny4xMDQuOTIuNzciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
+vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
@@ -24,7 +24,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjcuODUiLCJhZGQiOiJjaGFu
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://182393b3-241e-4268-9978-7fb2be593bc7@tinyvpn-cdn1.unlimiteddev.co:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
 vless://182393b3-241e-4268-9978-7fb2be593bc7@tinyvpn-cdn2.unlimiteddev.co:8080?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
-vless://37579b17-fc65-447f-ab34-9c1f955eb409@62.60.212.211:8230?security=none&type=tcp&host=speedtest.net&headerType=http#🇮🇷 IR | 62.60.212.211
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
 vless://79415abe-73d5-4a49-b79c-9b0fbb70a8f4@212.23.214.14:15128?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 212.23.214.14
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
@@ -39,4 +38,4 @@ vless://5f07a164-7746-45bd-9941-faa351157a85@tttt1.hennessypro.site:4001?type=tc
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.12
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNDAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJzNC5jbG91ZGZsYXJlNHdhcmQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc2YTExYjUyLWYzZDAtNDdmOS03Mjg0LTRjMGJkMDEwNjVkZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTAiLCJwcyI6IvCfh67wn4e3IElSIHwgOTEuMjIzLjE4Ny41NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.167

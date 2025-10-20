@@ -1,4 +1,4 @@
-vless://701c0432-aecc-4aa6-b461-20d3db19bdf3@fin-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇫🇮 FI | 185.77.216.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇫🇮 FI | 185.193.102.7
 vless://Golestan-VPN@31.57.107.77:30169?path=/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080&security=none&encryption=none&type=ws#🇫🇮 FI | 31.57.107.77
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&type=grpc&mode=gun&serviceName=Smxhabwh&security=tls&fp=chrome&sni=offged.sahandconfig.ir&alpn=h2,http/1.1#🇫🇮 FI | 46.62.220.103
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
