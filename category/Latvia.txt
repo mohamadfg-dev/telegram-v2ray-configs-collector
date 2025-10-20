@@ -1,3 +1,2 @@
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432/?encryption=none&security=none&type=ws&path=/#🇱🇻 LV | 90.156.254.164
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#🇱🇻 LV | 216.173.70.187

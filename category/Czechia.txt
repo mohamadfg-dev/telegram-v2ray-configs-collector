@@ -1,2 +1,3 @@
 vless://80074d6b-23c5-465e-a348-dcf0378fd1f2@cze01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇨🇿 CZ | 2.56.176.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.195.67.178:990#🇨🇿 CZ | 185.195.67.178
+vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?security=reality&encryption=none&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=journalofbigdata.springeropen.com&sid=16b619c73e22#🇨🇿 CZ | 194.182.79.43
