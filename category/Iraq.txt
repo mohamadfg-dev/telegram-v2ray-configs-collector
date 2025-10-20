@@ -1,1 +1,1 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp#🇮🇶 IQ | 154.93.37.169
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#🇮🇶 IQ | 154.93.37.169
