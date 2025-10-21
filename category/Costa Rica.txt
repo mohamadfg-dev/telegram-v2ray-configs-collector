@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.168:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=/?ed=2048#🇨🇷 CR | 190.93.247.168
+trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?security=none&type=ws&path=/vless&host=Uk1.vless.site.#🇨🇷 CR | 190.93.247.152
