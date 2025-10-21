@@ -1,4 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 ES | 5.188.181.201
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#🇪🇸 ES | 185.251.81.253
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=/Telegram🇨🇳&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#🇪🇸 ES | 185.251.81.253
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbnhNZmoyb0wyUmFaVFFWZlZkNUVZ@194.87.45.189:443/?outline=1#🇪🇸 ES | 194.87.45.189
