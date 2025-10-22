@@ -1,4 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMlBwVXZPbHkySnhyM2lXczFWNzhG@172.238.21.207:38666#🇯🇵 JP | 172.238.21.207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMlBwVXZPbHkySnhyM2lXczFWNzhG@172.238.21.207:38666#🇯🇵 JP | 172.238.21.207
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMlBwVXZPbHkySnhyM2lXczFWNzhG@172.238.21.207:38666#🇯🇵 JP | 172.238.21.207
-trojan://3690911436885991424@54.150.8.182:443?sni=central-minnow.opossum872.cfd#🇯🇵 JP | 54.150.8.182
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=none&type=ws&path=/vless/#🇯🇵 JP | 5.253.41.223

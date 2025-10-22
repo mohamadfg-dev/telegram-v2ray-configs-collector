@@ -1,1 +1,1 @@
-vless://82ba36ec-dafe-40eb-b9ad-0f8a98101020@csgo.com:443?security=tls&type=ws&path=/profile/sharenode&host=cdn-node-oss-63.paofu.de&sni=csgo.com&fp=chrome#🇨🇾 CY | 195.85.59.161
+vless://82ba36ec-dafe-40eb-b9ad-0f8a98101020@csgo.com:443?security=tls&type=ws&path=/profile/sharenode&host=cdn-node-oss-63.paofu.de&sni=csgo.com&fp=chrome#🇨🇾 CY | 195.85.59.95
