@@ -1,6 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981#🇹🇷 TR | 62.133.63.222
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880/?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&type=grpc&mode=gun#🇹🇷 TR | 103.231.75.129
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 vless://1d66467e-fd2c-4321-92cc-79465ce2c25c@turkey.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&pbk=m8Tuf48MMB9ILy--1nfwGRPJOEbgHOdylaLS_JQ66DM&fp=chrome&type=xhttp&sni=stackoverflow.com&sid=89345bea5809f46d#🇹🇷 TR | 95.134.130.146
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981#🇹🇷 TR | 62.133.63.222
