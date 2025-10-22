@@ -1,4 +1,4 @@
-trojan://MbJwEfBGu6@91.108.249.171:443?security=reality&sni=google.com&fp=chrome&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&sid=b235e63f3b4bf29c&spx=/&type=tcp&headerType=http&host=www.namasha.com,s45.namasha.com#🇵🇱 PL | 91.108.249.171
+vmess://eyJhZGQiOiJwdWxhdS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InB1bGF1Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Xwn4exIFBMIHwgMTQ2LjU5LjExOC4yNTAiLCJzY3kiOiJhdXRvIiwic25pIjoicHVsYXUub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
 vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?security=none&type=grpc&serviceName=iranserver.com&packetEncoding=xudp&encryption=none#🇵🇱 PL | 147.135.198.243
 vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?security=none&type=grpc&serviceName=iranserver.com&packetEncoding=xudp&encryption=none#🇵🇱 PL | 147.135.198.243

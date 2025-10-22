@@ -1,6 +1,4 @@
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=/linkws?ed=2560&security=none&encryption=none&host=157.180.123.25&type=ws#🇫🇮 FI | 157.180.123.25
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&type=grpc&mode=gun&serviceName=Smxhabwh&security=tls&fp=chrome&sni=offged.sahandconfig.ir&alpn=h2,http/1.1#🇫🇮 FI | 46.62.220.103
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1#🇫🇮 FI | 45.15.127.193
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=w&security=none#🇫🇮 FI | 46.62.206.155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇫🇮 FI | 185.193.102.7
