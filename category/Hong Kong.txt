@@ -1,3 +1,5 @@
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#undefined HK | 58.152.110.40
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgNDMuMjQ3LjEzNC4yMTMiLCJhZGQiOiI0My4yNDcuMTM0LjIxMyIsInBvcnQiOiIxODM2NiIsInR5cGUiOiJub25lIiwiaWQiOiJjY2MzN2IxYi00ZWYwLTQzMGMtYjFlMS0yMGJmOTZmY2ZmOGMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii96a3N1YXBneCIsImhvc3QiOiJiYWlkdS5jb20iLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiI4LjIxNy4xODcuMTUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjI1NmM3ZDRjLTYwOTYtNDBiZC05ZjAxLWY3YTU3YWYxYjJkNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0Ijo1Njk1MCwicHMiOiJ1bmRlZmluZWQgSEsgfCA4LjIxNy4xODcuMTUiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#undefined HK | 58.152.110.40
