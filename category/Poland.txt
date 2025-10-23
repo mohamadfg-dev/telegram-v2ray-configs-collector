@@ -1,8 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUFhvaWtJTmJTRkRCZUR4NUJ6S2k3@77.83.246.74:443#🇵🇱 PL | 77.83.246.74
-vmess://eyJhZGQiOiJrYW1wb25nLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e18J+HsSBQTCB8IDU3LjEyOC4yMTYuMTI1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?security=none&type=grpc&serviceName=iranserver.com&packetEncoding=xudp&encryption=none#🇵🇱 PL | 147.135.198.243
 vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?security=none&type=grpc&serviceName=iranserver.com&packetEncoding=xudp&encryption=none#🇵🇱 PL | 147.135.198.243
 vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@poland.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=44103f58#🇵🇱 PL | 144.31.0.136
+vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&spx=/bQl6HfpT0Ua2ko9&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=698295d180#🇵🇱 PL | 77.83.246.235
