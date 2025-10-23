@@ -1,7 +1,6 @@
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
 vless://46c398b9-b1f5-4998-a968-ad723a475c95@46.62.196.119:200?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=87Vv-_qJyn9OupUeEZoisP5hLxohLNo0yNiK4rCH4QM&sid=b53eb572&spx=/&allowInsecure=1&type=grpc&authority=&serviceName=/Adamak_vpn&mode=gun#🇫🇮 FI | 46.62.196.119
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&host=cyrus.v2bazzar.ir&type=ws&sni=cyrus.v2bazzar.ir#🇫🇮 FI | 46.62.214.228
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?encryption=none&type=grpc&mode=gun&serviceName=Smxhabwh&security=tls&fp=chrome&sni=offged.sahandconfig.ir&alpn=h2,http/1.1#🇫🇮 FI | 46.62.220.103
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=w&security=none#🇫🇮 FI | 46.62.206.155

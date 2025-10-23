@@ -1,4 +1,3 @@
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#🇮🇳 IN | 45.88.183.156
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN | 82.180.146.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.243.232.218:57456#🇮🇳 IN | 103.243.232.218
-vless://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?mode=gun&security=reality&encryption=none&pbk=pwaWnYpE_MEvgwRxITFmHeSCiRJaYGyUBWh4zwDLn2w&fp=chrome&type=grpc&serviceName=b02b809d4d1b4f502c6fc275&sni=www.google.com&sid=0acd50cd4ee97bb6#🇮🇳 IN | 45.89.105.72
