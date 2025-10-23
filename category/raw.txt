@@ -1,1 +1,1 @@
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@cdn.chandplus.com:443?encryption=none&security=tls&sni=cdn.chandplus.com&fp=random&type=raw&headertype=none#🇫🇮 FI | 65.108.1.249
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?encryption=none&security=tls&sni=dedic.app-browser.org&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 65.109.145.54
