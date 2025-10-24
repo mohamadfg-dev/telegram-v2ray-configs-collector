@@ -1,1 +1,1 @@
-vless://919526f8-86c8-4f43-b5f7-91eea1368bad@141.227.178.165:25365?encryption=none&security=none&fp=chrome&type=grpc&authority=&serviceName=t.me/entryNET&mode=gun#🇧🇬 BG | 141.227.178.165
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.142.120.231:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#🇧🇬 BG | 45.142.120.231
