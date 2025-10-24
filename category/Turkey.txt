@@ -1,3 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?encryption=none&security=none&type=grpc#🇹🇷 TR | 185.234.66.104
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VzNWUENUSjlRZXZRMjMwMERHUjY1@31.210.50.196:12422#🇹🇷 TR | 31.210.50.196
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.104
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.104
