@@ -1,1 +1,1 @@
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.82:2053?security=tls&sni=nkGgd-87836.phoenixappdatad.uk&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/&host=nkGgd-87836.phoenixappdatad.uk&packetEncoding=xudp&encryption=none#🇧🇿 BZ | 45.131.211.82
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#🇧🇿 BZ | 45.131.209.189
