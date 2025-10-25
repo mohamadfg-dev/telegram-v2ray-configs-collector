@@ -1,4 +1,6 @@
+vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?security=reality&encryption=none&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=783500cd7f#🇹🇷 TR | 77.83.245.223
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?security=reality&encryption=none&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=783500cd7f#🇹🇷 TR | 77.83.245.223
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981#🇹🇷 TR | 62.133.63.222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDREFHRVlBQjFndmNJckZaWWhVYkVN@62.133.63.222:48981#🇹🇷 TR | 62.133.63.222
