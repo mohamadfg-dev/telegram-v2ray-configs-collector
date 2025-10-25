@@ -1,10 +1,7 @@
+vmess://eyJhZGQiOiJqc3ZzdXMtaXN2YWhzLWlzYnNpc2JzaC5wb3NoYWtob3dkeS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFtYXpvbi5mciIsImlkIjoiNmQzNDQyNGEtNGVlMi00M2U0LTg1ZGUtNGMyMzI0MjlkZDBiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzc0MzUiLCJwcyI6IvCfh7Pwn4exIE5MIHwgMzEuMTUuMTguMTkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://6d34424a-4ee2-43e4-85de-4c232429dd0b@jsvsus-isvahs-isbsisbsh.poshakhowdy.ir:29383?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 31.15.18.19
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.144.28.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWUV6RVd5cXVIb2I0eTgtWnpKNmF3@xce11lxz.pet0er23mh21qq.com:1080#🇳🇱 NL | 170.168.61.141
-vless://dc473237-2092-41a5-8dfe-11108759e233@xce11lxz.pet0er23mh21qq.com:8080?security=none&type=tcp&headerType=&path=&host=#🇳🇱 NL | 170.168.61.141
-vless://bda6f255-bce5-41eb-98b5-df2f5cdc73e3@138.124.89.174:8443?mode=multi&security=reality&encryption=mlkem768x25519plus.native.0rtt.EkywC3OJDgt26ryzKMZiB9zOgOobfLijrDa_hVquIS4&pbk=EaKX1GOoEuk4rYfH-kW04NBx6AUsxx35Gmsw9RuJvAY&fp=chrome&spx=/&type=grpc&serviceName=@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs?ed=2056&sni=tgju.org&sid=38ae4ab93a20#🇳🇱 NL | 138.124.89.174
-vless://261e2282-9ccc-4e48-aed2-fa1244b6fdf5@85.17.142.172:1504?security=reality&encryption=none&pbk=gVZhQqdCjhe1A2HtU2yMre0dFQXX6hOOLY2vhmJhXQs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=random&spx=/&type=tcp&sni=journalofbigdata.springeropen.com#🇳🇱 NL | 85.17.142.172
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.144.28.5
-vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl01.pickvpn.live:443?security=reality&encryption=none&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#🇳🇱 NL | 193.233.126.238
+vless://d9641059-9bbd-42d0-bde2-fb51fa342040@DailyConfigs.vigilante.ir:8443?mode=multi&security=reality&encryption=mlkem768x25519plus.native.0rtt.sxta1kLriyfRpqwNydcxE7z3_I8HkB6-FpK-mDkAACw&pbk=RFEqr_-bLGDOjvI1n8zKnrJLbk3NqXWxkZ8MkFQoMVk&fp=random&spx=/&type=grpc&serviceName=@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs-@DailyConfigs?ed=2056&sni=tgju.org&sid=76ef80f6#🇳🇱 NL | 138.124.89.174
 vless://12345678-1234-1234-1234-123456789123@154.194.0.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇳🇱 NL | 154.194.0.61
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL | 80.92.206.19
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
@@ -17,7 +14,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 trojan://qEqueKB1ej@nl.scpnb.top:39371/?type=grpc&serviceName=&authority=&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&fp=chrome&sni=cloudflare.com&sid=51be71a2bd&spx=/#🇳🇱 NL | 143.20.79.177
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.217
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#🇳🇱 NL | 159.223.209.139
@@ -28,12 +24,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024910159.lisbon-drc-dcrabj.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇳🇱 NL | 45.140.147.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇳🇱 NL | 45.12.142.96
-vless://09b57424-5a5c-4d5f-90ec-24202b250278@62.60.247.164:17226?mode=gun&security=reality&encryption=none&pbk=uWfe2A9RpUjC9VzEsRr2I-i5Z-mAWSZlDQ107NbJA0g&fp=chrome&spx=/&type=grpc&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sni=tgju.org&sid=fad1783730#🇳🇱 NL | 62.60.247.164
-vless://12345678-1234-1234-1234-123456789123@154.194.0.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇳🇱 NL | 154.194.0.61
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969986782681345.paris-blkaft-aaaw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.55
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.142.55
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=&encryption=none&type=grpc#🇳🇱 NL | 85.208.110.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@72.56.73.240:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=www.apple.com&pbk=H96TEu9kZc0ATR7TmY0M_sa_AnRWtoxncXv_wT45bxg&sid=30de9b62dca5142d&spx=/FCB0QD8fWp8nLtc#🇳🇱 NL | 72.56.73.240
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.144.28.5
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.140.147.74

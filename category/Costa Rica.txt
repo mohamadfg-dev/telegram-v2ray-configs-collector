@@ -1,1 +1,1 @@
-trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?security=none&type=ws&path=/vless&host=Uk1.vless.site.#🇨🇷 CR | 190.93.247.152
+vless://9cc04512-fca0-4d8f-9d4f-d859e8b4d328@colin.ns.cloudflare.com:443?path=/jwohquws&security=tls&encryption=none&host=638969196824390177.london-prmpl-aaaab.info&type=ws&sni=638969196824390177.london-prmpl-aaaab.info#🇨🇷 CR | 2803:f800:50::6ca2:c34b
