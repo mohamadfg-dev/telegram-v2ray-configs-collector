@@ -1,4 +1,4 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 trojan://Aimer@77.232.140.7:443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me&allowInsecure=1#🇦🇪 AE | 77.232.140.7
-vless://0d62c6d6-7864-4257-9cc9-fc9b23772a60@93.127.180.193:3030?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.193
-vless://0d62c6d6-7864-4257-9cc9-fc9b23772a60@93.127.180.193:2080?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 AE | 93.127.180.193
+vless://a9a5d32e-ec1e-4d9d-911c-1611c41f9eef@93.127.180.167:2087?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.167
+vless://a9a5d32e-ec1e-4d9d-911c-1611c41f9eef@93.127.180.167:2087?security=&encryption=none&headerType=&type=tcp#🇦🇪 AE | 93.127.180.167

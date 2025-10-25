@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@99.80.232.202:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 99.80.232.202
+vless://b07eb1ae-cffb-495f-9469-0963ada74d0f@141.227.162.200:51222?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNET-bia-t.me/entryNET-t.me/entryNET-t.me/entryNET-t.me/entryNET-ZEDMODEON-ZEDMODEON#🇮🇪 IE | 141.227.162.200
