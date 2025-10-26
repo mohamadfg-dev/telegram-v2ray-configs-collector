@@ -1,3 +1,3 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#🇮🇹 IT | 147.45.51.160
 vless://e05c0ada-bdfc-4dde-941d-f48fcc8c9e54@185.213.20.90:21545?security=none&encryption=none&type=tcp&headerType=none#🇮🇹 IT | 185.213.20.90
+vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#🇮🇹 IT | 92.42.100.180
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
