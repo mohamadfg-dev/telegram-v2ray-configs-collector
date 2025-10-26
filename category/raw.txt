@@ -1,1 +1,1 @@
-vless://8da7bd17-70ab-472d-a925-cc827857dc35@hk01.youyacloud.me:28888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tvb.com&fp=chrome&pbk=slSuocOAiBpxoouM2bOV03TG7LRqrGyKDivA__DEric&type=raw&headertype=none#undefined HK | 156.224.78.29
+vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&type=raw&headertype=none#🇺🇸 US | 89.117.78.129
