@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VzNWUENUSjlRZXZRMjMwMERHUjY1@31.210.50.196:12422#🇹🇷 TR | 31.210.50.196
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880/?type=grpc&encryption=none&flow=#🇹🇷 TR | 185.234.66.104
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#🇹🇷 TR | 185.234.66.89

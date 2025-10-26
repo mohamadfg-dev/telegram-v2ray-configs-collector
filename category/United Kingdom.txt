@@ -1,6 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@94.156.250.122:990#🇬🇧 GB | 94.156.250.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 4.250.186.235
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880/?type=grpc&encryption=none&flow=#🇬🇧 GB | 94.131.122.221
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇬🇧 GB | 185.138.164.11
+vless://adf73389-77f8-4d84-942c-f86be98a4e43@212.134.84.119:23292?security=reality&encryption=none&pbk=DfkLMBO0ZtJ-MopEEVTxqke0Y5dw9NcMRxoDWSdXYXE&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=pcmag.com&sid=bd#🇬🇧 GB | 212.134.84.119
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
@@ -10,9 +13,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.245.36
 vmess://eyJhZGQiOiI1NC4zNi4xNjMuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmYWU3ZmZlLWMxM2EtNGVmMS1hYWI0LWUzZTAwMWRjY2YyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU0LjM2LjE2My4yMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.107:8880?encryption=none&security=none&type=grpc#🇬🇧 GB | 95.164.18.107
-vless://88c72892-2f01-4aae-a326-2c0b54e9a94f@51.89.176.242:3478?encryption=none&type=grpc&mode=gun&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇬🇧 GB | 51.89.176.242
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=uk-09.allhubb.info#🇬🇧 GB | 51.68.215.27
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 94.131.122.221
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vmess://eyJhZGQiOiI1NC4zNi4xNjMuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmYWU3ZmZlLWMxM2EtNGVmMS1hYWI0LWUzZTAwMWRjY2YyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU0LjM2LjE2My4yMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
@@ -21,11 +24,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇬🇧 GB | 193.46.81.151
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
+vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#🇬🇧 GB | 107.181.134.113
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇬🇧 GB | 185.138.164.11
 vmess://eyJhZGQiOiI1NC4zNi4xNjMuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmYWU3ZmZlLWMxM2EtNGVmMS1hYWI0LWUzZTAwMWRjY2YyNyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU0LjM2LjE2My4yMTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 45.140.167.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.245.36
 vless://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
+vless://d36f457f-17a9-4891-a113-322ec6792917@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 57.128.163.127
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#🇬🇧 GB | 141.101.120.250
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 95.164.18.107
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 146.19.230.247

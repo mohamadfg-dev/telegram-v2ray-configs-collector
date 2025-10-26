@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880/?type=grpc&encryption=none&flow=#🇱🇹 LT | 94.131.14.193
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.200
