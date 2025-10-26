@@ -1,5 +1,6 @@
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.104:443?path=/?ed=#🇧🇿 BZ | 45.131.208.104
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#🇧🇿 BZ | 45.131.5.178
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.209.189:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#🇧🇿 BZ | 45.131.209.189
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#🇧🇿 BZ | 45.131.5.178
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.208.104:443?path=/?ed=#🇧🇿 BZ | 45.131.208.104
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.131.5.178:443?path=/?ed=#🇧🇿 BZ | 45.131.5.178
