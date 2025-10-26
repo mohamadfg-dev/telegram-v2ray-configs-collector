@@ -1,1 +1,2 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.97
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880/?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.104

@@ -1,1 +1,1 @@
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:20990?sni=sale.alibaba.com#🇰🇷 KR | 64.110.83.247
+vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@138.2.116.23:25001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&fp=firefox&security=reality&pbk=_rUCpgbk3Xkve93T67d8fxd46fKnQtb00pNWiOdebSw&sid=36453d37#🇰🇷 KR | 138.2.116.23
