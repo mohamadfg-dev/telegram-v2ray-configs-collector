@@ -1,1 +1,1 @@
-vless://ce608e7b-23ee-4562-a80f-eeebccee67c8@89.117.78.129:20446?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZqiKOLlxC5nVCXsth6QnaVDGk_4R-4xSVpnW0tHDl2Q&type=raw&headertype=none#🇺🇸 US | 89.117.78.129
+trojan://d9f4454bddb64c2c810ab8c008571c74@130.0.233.48:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇺🇦 UA | 130.0.233.48

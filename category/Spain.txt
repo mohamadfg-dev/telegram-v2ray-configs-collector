@@ -3,4 +3,3 @@ vless://c1d5a8a8-385d-4d67-b9a9-878b716e9496@tunnyl.ru:443?type=tcp&encryption=n
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdXdkRU40OEJCV1BwWE44dThLUTF6@194.87.45.189:443#🇪🇸 ES | 194.87.45.189
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇪🇸 ES | 45.12.150.97
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=@V2rayNGVPN+<=+کانفیگ+رایگان#🇪🇸 ES | 45.12.150.97
