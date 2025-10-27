@@ -1,1 +1,1 @@
-trojan://d9f4454bddb64c2c810ab8c008571c74@130.0.233.48:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇺🇦 UA | 130.0.233.48
+vless://8e311363-ffa6-ada3-6838-6283d896da4e@ukraine.marzxo.biz:8091?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇺🇦 UA | 185.243.99.16
