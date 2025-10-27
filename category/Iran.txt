@@ -1,3 +1,4 @@
+vless://a0ebf935-52f7-442a-80ad-95b715d32bd8@api4.callback.cdn.nim.file2.plsvi.online:2020?security=&encryption=none&host=api4.callback.cdn.nim.file2.plsvi.online&headerType=http&fp=chrome&type=tcp#🇮🇷 IR | 95.38.101.175
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
 vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25lY3RlZC5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiZWY1YjQ2YWMtOGRlNS00MTk3LTgzZDItNmRkNDVmOWQ0ZThhIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNzgiLCJwcyI6IvCfh67wn4e3IElSIHwgODEuMTIuMzMuMTgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
@@ -23,6 +24,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjcuODUiLCJhZGQiOiJjaGFu
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn1.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn2.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.29
+vless://a0ebf935-52f7-442a-80ad-95b715d32bd8@api4.callback.cdn.nim.file2.plsvi.online:2020?security=&encryption=none&host=api4.callback.cdn.nim.file2.plsvi.online&headerType=http&fp=chrome&type=tcp#🇮🇷 IR | 95.38.101.175
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
 vless://79415abe-73d5-4a49-b79c-9b0fbb70a8f4@212.23.214.14:15128?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 212.23.214.14
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
