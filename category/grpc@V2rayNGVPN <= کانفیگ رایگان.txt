@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.115:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇫🇷 FR | 195.42.233.115
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇫🇷 FR | 195.42.233.69
