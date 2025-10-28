@@ -5,11 +5,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.11:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?encryption=none&security=none&fp=chrome&type=grpc#🇬🇧 GB | 95.164.88.186
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇬🇧 GB | 4.250.220.204
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
 vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=www.cdn77.com&sid=785891acea1f52#🇬🇧 GB | 212.134.84.115
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443/?type=ws&encryption=none&flow=&host=taochan.sylphachan.ip-ddns.com&path=/&security=tls&sni=taochan.sylphachan.ip-ddns.com&alpn=http/1.1&fp=randomized#🇬🇧 GB | 2a06:98c1:3120::
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.107:8880?encryption=none&security=none&type=grpc#🇬🇧 GB | 95.164.18.107
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=uk-09.allhubb.info#🇬🇧 GB | 51.68.215.27
