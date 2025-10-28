@@ -1,2 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.195
+vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#🇱🇹 LT | 45.12.136.28
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.14.193
+vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@lt.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lt.monkeyisland.life&sid=08aa0813199a4c38#🇱🇹 LT | 45.12.136.28
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.181
