@@ -1,1 +1,1 @@
-trojan://d9f4454bddb64c2c810ab8c008571c74@130.0.233.48:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇺🇦 UA | 130.0.233.48
+vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&security=tls&sni=zoom.us&type=raw&headertype=none#🇸🇬 SG | 139.59.122.131
