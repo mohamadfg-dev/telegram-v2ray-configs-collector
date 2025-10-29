@@ -1,1 +1,1 @@
-vless://afe821e2-75a2-4b94-8960-c3f180c24d3e@nl01.pickvpn.live:443?security=reality&encryption=none&pbk=SfaN19bzY1LdAGU1cIOAW8YU2XaInYxMgonHlC_mTgg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#🇳🇱 NL | 45.143.166.138
+vless://3d11ab83-5a26-4bde-9883-ec490396703f@82.115.6.101:14915/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=VxVMU7int2JsYtzo5AaGXbg3_3YUmYjx0PXP179N73Y&sid=0472c30c#🇳🇱 NL | 82.115.6.101

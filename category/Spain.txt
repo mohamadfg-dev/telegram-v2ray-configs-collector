@@ -1,6 +1,5 @@
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🇪🇸 ES | 5.188.181.201
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇪🇸 ES | 45.12.150.67
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=/Telegram@Linkvws?ed=2560#🇪🇸 ES | 185.18.250.117
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#🇪🇸 ES | 45.86.229.170
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#🇪🇸 ES | 45.86.229.170
