@@ -1,1 +1,1 @@
-vless://b753fa60-9b8e-41b0-bf3d-7d800df4a070@server1.mrlizard.my:443?encryption=none&security=tls&sni=zoom.us&type=raw&headertype=none#🇸🇬 SG | 139.59.122.131
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=raw&headertype=none#🇮🇹 IT | 147.45.51.160
