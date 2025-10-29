@@ -1,2 +1,4 @@
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#🇯🇵 JP | 160.16.240.91
+ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 JP | 153.121.43.183
+ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 JP | 153.121.43.183
+ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 JP | 153.121.43.183
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZkRUWk9MeEg4R093NTdkZHg3RUFn@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
