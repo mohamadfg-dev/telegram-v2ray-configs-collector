@@ -1,5 +1,4 @@
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
-vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#🇫🇮 FI | 46.62.220.103
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=w&security=none#🇫🇮 FI | 46.62.206.155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#🇫🇮 FI | 38.244.136.233
@@ -8,4 +7,3 @@ vless://ed52b6dd-d53f-4f8b-bdc1-9abb3ac194ff@lb.aliusvpn.ru:8443?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#🇫🇮 FI | 38.244.136.233
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://56b4cb63-a69b-4485-a429-e955111c8bc4@46.62.225.235:26998?encryption=none&type=tcp&security=reality&fp=firefox&sni=Tekzo.ir&pbk=qsE9EmYS6z4IVl5oIxVAn16dtTIjYFYL_ETwpiFdQB4&sid=a523678a97e42162&spx=/#🇫🇮 FI | 46.62.225.235
-vless://2e46bac5-e1c6-4c29-ef94-53c9a08040d4@65.109.205.191:2096?mode=gun&security=reality&encryption=none&pbk=JYM1VewhKS7O9ivfLfhrknchEbRIy90VQk9nJeQuiQE&fp=chrome&type=grpc&sni=zula.ir#🇫🇮 FI | 65.109.205.191
