@@ -1,1 +1,1 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=raw&headertype=none#🇮🇹 IT | 147.45.51.160
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?encryption=none&security=tls&sni=dedic.app-browser.org&fp=random&type=raw&headertype=none#🇫🇮 FI | 65.109.145.54
