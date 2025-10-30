@@ -1,1 +1,1 @@
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.174.170.115:22577?security=tls&type=ws&path=/X@节点狂魔/?ed=2560&host=gaosir.unfeeling.sbs&sni=gaosir.unfeeling.sbs&fp=chrome#🇰🇷 KR | 49.174.170.115
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAxNDAuMjM4LjIuMjUwIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
