@@ -1,1 +1,1 @@
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?encryption=none&security=tls&sni=dedic.app-browser.org&fp=random&type=raw&headertype=none#🇫🇮 FI | 65.109.145.54
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMTYuMjI3LjE2OC4xNTciLCJhZGQiOiIyMTYuMjI3LjE2OC4xNTciLCJwb3J0IjoiNDUyNzIiLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ==
