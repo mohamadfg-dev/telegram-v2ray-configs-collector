@@ -1,3 +1,4 @@
 vless://4a508d30-77ce-4dac-9281-d01546e046db@lii.bliscorp.org:30849?type=tcp&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 84.234.29.45
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?type=tcp&security=none&headerType=http&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#🇨🇭 CH | 84.234.29.45
 vless://d1df518b-12e8-4b4a-9e95-e97b568d88d6@sana.mehdikarimi3.ir:5505?security=reality&encryption=none&pbk=tF9u_pB61tOwr1Opt5PsNgVaFM0PE-4qsxI-XBPZ9hs&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.refersion.com &sid=0d0f4c194672b1#🇨🇭 CH | 83.228.227.96
+vless://0d115197-6bf7-9361-9278-a048f37472f4@switzerland.marzxo.biz:8089?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇨🇭 CH | 83.228.225.44
