@@ -1,2 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@217.30.10.18:9033#🇵🇱 PL | 217.30.10.18
-vless://c93c6014-d516-4a11-b204-a4a1bfa22dc4@dl5-pl4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-pl4-cdn.fastfilecdn.org&type=ws#🇵🇱 PL | 145.239.84.155
+vless://ed52b6dd-d53f-4f8b-bdc1-9abb3ac194ff@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#🇵🇱 PL | 144.31.0.136
