@@ -3,4 +3,3 @@ vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encry
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#🇷🇺 RU | 5.129.201.43
-vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@77.110.105.19:443?security=reality&encryption=none&pbk=kOWOoO9dm7FfrdG_MzuCrKbw3FGHFE2-quprLGpryE0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=339f17fb@V2rayNGVPN <= کانفیگ رایگان#🇷🇺 RU | 77.110.105.19
