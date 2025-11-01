@@ -1,6 +1,5 @@
-vless://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 DE | 142.93.109.68
-vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&type=ws#🇩🇪 DE | 178.17.52.201
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.151.21:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.178.151.21
+vless://db5f89d0-a926-49ac-a558-c61ea5f79db1@refreshcloud-ger.parsgit.com:4040?path=/admin?ed=1024&security=none&encryption=none&type=ws#🇩🇪 DE | 178.17.52.160
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306321.oslo-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 DE | 94.131.110.64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU3YxN3V2MWZPRzFJa29CZDE3UEptMzE2cVdnWVI1WQ==@pasar.probook-caffe.ir:1080#🇩🇪 DE | 89.106.69.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU3YxN3V2MWZPRzFJa29CZDE3UEptMzE2cVdnWVI1WQ==@pasar.probook-caffe.ir:1080#🇩🇪 DE | 89.106.69.99
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 167.99.252.219
@@ -20,7 +19,7 @@ vless://96f391f6-0762-4895-a57c-433360967ca8@Alman2.netblocksir.ir:5454?security
 vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.98.35.135:443?mode=auto&path=/sdf&security=reality&encryption=none&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#🇩🇪 DE | 91.98.35.135
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA2OC4xODMuNjkuMTU1IiwiYWRkIjoiNjguMTgzLjY5LjE1NSIsInBvcnQiOiI0NDMiLCJpZCI6IjE5MWJlOWIyLTQ1MWYtNDkzOS05YzlhLTgzNzE4ZTFhMDRjNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYm13LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://d6c32036-2968-4c0a-91e2-2c93f563a236@142.132.227.65:34560?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 DE | 142.132.227.65
-vless://dfa7106c-37a4-461d-8c76-e6dfc0453e95@116.203.87.49:5050?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇩🇪 DE | 116.203.87.49
+vless://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 DE | 142.93.109.68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#🇩🇪 DE | 109.122.197.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#🇩🇪 DE | 109.122.197.192
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=/&type=tcp&sni=digg.com&sid=99d38a68#🇩🇪 DE | 172.104.148.48
@@ -36,19 +35,17 @@ vless://6b9a8841-e642-4dae-b3e3-3672347b8969@gr.sashabike.ir:9621?mode=auto&path
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇩🇪 DE | 91.107.150.173
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=/&host=&security=none#🇩🇪 DE | 91.107.150.173
 vless://9d468e0a-01ca-41a2-a89b-73b2756f91ec@49.13.199.174:55555?type=xhttp&mode=auto&host=google.com&path=/live你好&security=reality&fp=chrome&sni=google.com&pbk=d60ptqFh4ydtpW1uuMM2AxxHcJrKa-BinRNnTYW0r3w&sid=bc5a8ead5ee076aa#🇩🇪 DE | 49.13.199.174
-vless://d4ac5bfe-9aa9-4c3d-b82f-dea705a59d38@order.dissertationhelpspecialist.com:443?type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&authority=&security=reality&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&fp=firefox&sni=tgju.org&sid=3da49e0b43&spx=/#🇩🇪 DE | 77.90.52.253
+vless://5b9fb1fe-f919-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:80?security=none&type=ws&headerType=&path=/?ed=1024&host=mimi-god.com.#🇩🇪 DE | 91.107.164.103
 trojan://telegram-id-privatevpns@3.78.152.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.78.152.130
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.151.21:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 63.178.151.21
 vless://db90f3d7-bd8f-4e2d-ae0b-f9510ff3f7b9@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=box.ponisha.ir#🇩🇪 DE | 87.120.92.135
 vless://3d71e4dd-5e4b-473c-8d1c-28aefa14cdb5@93.94.51.9:28813?security=reality&sni=yandex.ru&fp=chrome&pbk=_4MQ6e6Z3IPdExI9HbGz8xqKL83Uv8YZHNs0hVET2FE&sid=daf1198a669f3b60&type=tcp&packetEncoding=xudp&encryption=none#🇩🇪 DE | 93.94.51.9
-vless://431213f3-cd59-4136-b1a7-75f758150279@pscresearch.faculty.ucdavis.edu:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇩🇪 DE | 2a04:4e42:400::740
 vless://0d75b1eb-db44-4213-853c-9292361bbbc6@raeesfolnoh.rtpxc.com:2002?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 167.99.252.219
 vless://3d71e4dd-5e4b-473c-8d1c-28aefa14cdb5@93.94.51.9:28813?security=reality&sni=yandex.ru&fp=chrome&pbk=_4MQ6e6Z3IPdExI9HbGz8xqKL83Uv8YZHNs0hVET2FE&sid=daf1198a669f3b60&type=tcp&packetEncoding=xudp&encryption=none#🇩🇪 DE | 93.94.51.9
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiLwn4ep8J+HqiBERSB8IDg1LjE5NS4xMDEuMTIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEVnOXNLVXR1Uk94bjN6YU5vZ3pV@81.19.141.45:443/?outline=1#🇩🇪 DE | 81.19.141.45
 vless://d4ac5bfe-9aa9-4c3d-b82f-dea705a59d38@order.dissertationhelpspecialist.com:443?type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&authority=&security=reality&pbk=xI1IUDhIUaKY3qPE9CSOcNaiJ4sRc69ppRamFOMwgiI&fp=firefox&sni=tgju.org&sid=3da49e0b43&spx=/#🇩🇪 DE | 77.90.52.253
 vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪 DE | 57.129.92.155
 vless://68ae7cab-98b7-48ab-9211-f54487375712@r.optiping.ir:33450?security=reality&encryption=none&pbk=Y3h3cOAkz3j_CbseRzm3EAkVq9HMkqv-gnwcXI2TI0Q&headerType=none&fp=chrome&type=tcp&sni=p.optiping.ir#🇩🇪 DE | 45.90.98.60
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#🇩🇪 DE | 138.199.175.204
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://bca499e0-1b11-4fe6-af76-7b8d770e2365@188.34.205.203:1286?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇩🇪 DE | 188.34.205.203
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.148.218
@@ -70,13 +67,13 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA0OS4xMy43LjE0NiIsImFkZCI6IjQ5LjEz
 vless://7153877e-dab2-4525-fa40-7e3f71dca814@91.107.254.105:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.254.105
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WE5mYTJWN1dibHhWY2lmUk52OUcvR1ZCcVh6QWx6bFBwOUNsSmJma3hZVT06K0VIWDk3V0I5OEFVMzQwYktPa211N2V4Nzk3LzhVU3dFb2Z0M2d5V2xFUT0=@116.203.94.200:10000#🇩🇪 DE | 116.203.94.200
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WE5mYTJWN1dibHhWY2lmUk52OUcvR1ZCcVh6QWx6bFBwOUNsSmJma3hZVT06K0VIWDk3V0I5OEFVMzQwYktPa211N2V4Nzk3LzhVU3dFb2Z0M2d5V2xFUT0=@116.203.94.200:10000#🇩🇪 DE | 116.203.94.200
+vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#🇩🇪 DE | 64.188.70.0
 vless://5717ebcd-8f35-4a23-a98a-f66ddb2f5a7a@91.107.147.22:8443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.147.22
 vless://5717ebcd-8f35-4a23-a98a-f66ddb2f5a7a@91.107.147.22:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.107.147.22
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇩🇪 DE | 51.77.91.192
 vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=/snippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#🇩🇪 DE | 185.158.133.50
 vless://0f6ef451-4fe5-490b-9264-6d63b21fb771@vaynora.imlast.com:443?type=tcp&security=none#🇩🇪 DE | 207.154.196.152
 vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 91.99.232.132
-vmess://eyJzZWVkIjoiIiwidiI6IjIiLCJzbmkiOiJiYXJhZGloYS5jb20iLCJkZXZpY2VJRCI6IiIsInBzIjoi8J+HqfCfh6ogREUgfCA1Ny4xMjkuMjguNjkiLCJhZGQiOiI1Ny4xMjkuMjguNjkiLCJob3N0IjoiYmFyYWRpaGEuY29tIiwiZnAiOiJjaHJvbWUiLCJtb2RlIjoiIiwiaGVhZGVyVHlwZSI6IiIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwidGxzIjoidGxzIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImV4dHJhIjoiIiwiZnJhZ21lbnQiOiIiLCJwYXRoIjoiL2xpbmt2d3MiLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzZXJ2aWNlTmFtZSI6Im5vbmUifQ==
 vless://e48de957-9db2-44c6-9de3-d23b44588c37@23.88.38.23:16753?type=tcp&security=none#🇩🇪 DE | 23.88.38.23
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.67.225.188:25670?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 3.67.225.188
 vmess://eyJhZGQiOiJtb3ZhZ2hhdDIwLmZ1bmZpbC5saW5rIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiMDhhM2JkZDItMjE2Ny00NzYxLWI1NDctZThiZDFiNGE0NGVjIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDg5MTMiLCJwcyI6IvCfh6nwn4eqIERFIHwgOTEuOTkuMTU4LjE0OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -90,7 +87,6 @@ vless://f57eedca-8962-49bc-909a-559468d0bc1b@www.test.com.pmgdrs.site:56212?type
 vless://038b3b7f-bdd0-4b95-badf-52244b120dba@www.test.com.pmgdrs.site:56212?type=tcp&encryption=none&security=reality&pbk=vuW_tSr2gzHSeh2SIwramt5mHdPYJqAOnikCLwzStlY&fp=chrome&sni=speedtest.net&sid=feed5821d0&spx=/feed5821d0#🇩🇪 DE | 2a01:4f8:1c17:cc1f::1
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#🇩🇪 DE | 91.99.199.137
 vless://c6ead936-20fd-4f84-980f-a7541ea0e324@account.userd44cd315b0a1274e.Analytics.lonup.org:10700?security=none&encryption=none&type=tcp&host=zowe.ir&path=/&headerType=http#🇩🇪 DE | 188.245.126.149
-vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&sni=google.com&fp=chrome&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&sid=89dbda1a1c9369&type=tcp&flow=xtls-rprx-vision&encryption=none#🇩🇪 DE | 64.188.70.0
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#🇩🇪 DE | 64.188.70.0
 vless://dfa7106c-37a4-461d-8c76-e6dfc0453e95@116.203.87.49:5050?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇩🇪 DE | 116.203.87.49
 vless://90180545-1425-4cf1-be15-3651710d6a4b@116.203.87.49:18850?mode=gun&security=none&encryption=none&type=grpc&serviceName=--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--#🇩🇪 DE | 116.203.87.49
