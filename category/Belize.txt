@@ -1,3 +1,2 @@
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.78:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🇧🇿 BZ | 45.131.211.78
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.209.40:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🇧🇿 BZ | 45.131.209.40
-vless://319bf187-098d-42c9-9f2b-476c9b232a6d@45.131.7.45:443?path=/whkobows&security=tls&encryption=none&host=638975205557982472.athens-prmpl-aaaad.com&type=ws&sni=638975205557982472.athens-prmpl-aaaad.com#🇧🇿 BZ | 45.131.7.45
