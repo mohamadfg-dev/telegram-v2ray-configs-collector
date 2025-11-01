@@ -1,2 +1,1 @@
-vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🇦🇪 AE | 87.248.129.226
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251

@@ -1,4 +1,5 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://041b0e57-d4f6-4332-8296-a06a046241fc@turkey8.yourbot.me:443?security=reality&encryption=none&pbk=OBKACuWea1rLl-_caAlsIu_V40AGwisGpq84qQwWRks&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=a26808#🇹🇷 TR | 45.89.52.98
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#🇹🇷 TR | 38.180.105.12
