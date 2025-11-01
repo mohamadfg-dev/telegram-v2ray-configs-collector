@@ -1,1 +1,1 @@
-vless://a194cf71-ac0f-429f-9ade-c859441e05e0@190.93.247.155:443?security=tls&sni=hu2.v2vless.site&type=ws&path=/vless#🇨🇷 CR | 190.93.247.155
+vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/@V2ray_confing33/&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#🇨🇷 CR | 2803:f800:50::6ca2:c34b
