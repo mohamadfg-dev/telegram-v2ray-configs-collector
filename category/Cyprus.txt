@@ -1,4 +1,2 @@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?encryption=none&type=ws&host=smart.trevanda.info&path=/?v2raycartel?ed=512&security=tls&fp=chrome&sni=smart.trevanda.info&alpn=h3,h2#🇨🇾 CY | 77.37.33.39
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@77.37.33.39:443?path=/&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#🇨🇾 CY | 77.37.33.39
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=DdLxDxZc3.VeLiNtO.OrG#🇨🇾 CY | 77.37.33.39
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#🇨🇾 CY | 77.37.33.39
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@77.37.33.39:443?path=/&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#🇨🇾 CY | 77.37.33.39
