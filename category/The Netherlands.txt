@@ -26,5 +26,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWUV6RVd5cXVIb2I0eTgtWnpKNmF3@170.168.61.141:1080#🇳🇱 NL | 170.168.61.141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱 NL | 193.29.139.251
 vless://358af1fa-3004-4b1f-84aa-3e0a04a529ff@194.87.216.190:24644?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=oFsSJnBttCg0nHwQl8srzne1W_paAwm-_qC6cyQAVgc&sid=67ae159415a35eaa&spx=/#🇳🇱 NL | 194.87.216.190

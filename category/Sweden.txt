@@ -1,4 +1,6 @@
+trojan://telegram-id-directvpn@13.49.211.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪 SE | 13.49.211.121
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
+trojan://telegram-id-directvpn@13.49.211.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪 SE | 13.49.211.121
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&fp=chrome&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#🇸🇪 SE | 78.40.117.185
 vless://Parsashonam-319@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=&encryption=none&host=De.Parsashonam.CFD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
 vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@62.182.192.91:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#🇸🇪 SE | 62.182.192.91

@@ -1,1 +1,3 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.178:443?security=tls&sni=co.ylks.xyz&type=ws&path=/blue#🇧🇷 BR | 185.133.35.178
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.178:443?security=tls&sni=co.ylks.xyz&type=ws&path=/blue#🇧🇷 BR | 185.133.35.178
 vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh6fwn4e3IEJSIHwgOTUuMTY0LjQuODgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
