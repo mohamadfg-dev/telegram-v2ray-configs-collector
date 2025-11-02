@@ -1,1 +1,1 @@
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.245.99:80?security=none&type=ws&host=us1.rtacg.com&path=/#🇨🇷 CR | 190.93.245.99
+vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/fiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#🇨🇷 CR | 2803:f800:50::6ca2:c34b
