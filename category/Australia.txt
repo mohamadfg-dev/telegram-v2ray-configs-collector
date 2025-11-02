@@ -1,1 +1,2 @@
 trojan://trojan@2.58.107.44:443?encryption=none&security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=random&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#🇦🇺 AU | 2.58.107.44
+trojan://trojan@2.58.107.44:443?encryption=none&security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=random&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#🇦🇺 AU | 2.58.107.44
