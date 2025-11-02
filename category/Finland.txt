@@ -1,8 +1,11 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 171.22.114.244
 vless://1901d9da-a3ca-44b2-9033-752aa449cc50@f1.robotklass.space:8443?security=reality&encryption=none&pbk=pUD3mOlIKBEtDyFWK0LsGkY7j__7vblFPXnEVoY9oVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=22f040ed1037da8f#🇫🇮 FI | 92.63.224.160
+ss://YWVzLTI1Ni1nY206MWE5ZTE0MzAtMTIyNy00Y2EzLWJjZjktNTIwODFkODdmMWVm@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
 vmess://eyJhZGQiOiJpdS1vaWdkdWRkNjM2MzYyNzItMjcyMjcyNy5wb3NoYWtob3dkeS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmFtYXpvbi5mciIsImlkIjoiYzk3NmI0NzEtZWNiMy00M2E0LWYwYjItMTQwOWE0MDZjMDM0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzc0MzUiLCJwcyI6IvCfh6vwn4euIEZJIHwgNjUuMTA5LjE3OS44OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://c976b471-ecb3-43a4-f0b2-1409a406c034@iu-oigdudd63636272-2722727.poshakhowdy.ir:29383?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.179.89
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#🇫🇮 FI | 95.217.206.161
+ss://YWVzLTI1Ni1nY206MWE5ZTE0MzAtMTIyNy00Y2EzLWJjZjktNTIwODFkODdmMWVm@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
+ss://YWVzLTI1Ni1nY206MWE5ZTE0MzAtMTIyNy00Y2EzLWJjZjktNTIwODFkODdmMWVm@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
 vless://ca60233b-2453-44e6-a133-2ef95eb19366@37.27.21.218:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#🇫🇮 FI | 37.27.21.218
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=w&security=none#🇫🇮 FI | 46.62.206.155
