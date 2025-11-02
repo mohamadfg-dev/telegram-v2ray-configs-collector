@@ -1,5 +1,4 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#🇹🇷 TR | 5.188.168.230
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiR2VmVkpvUExwVjdEeFVVUW9MMG12@62.133.63.21:65262#🇹🇷 TR | 62.133.63.21
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#🇹🇷 TR | 45.12.143.191
