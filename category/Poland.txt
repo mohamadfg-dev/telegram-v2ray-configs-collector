@@ -1,1 +1,2 @@
 vless://5b5f72ba-b217-469d-a805-9a34021911eb@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&host=V2xay&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f3a8ef9e63946aaa#🇵🇱 PL | 92.62.251.248
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#🇵🇱 PL | 217.30.10.18
