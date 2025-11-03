@@ -1,1 +1,2 @@
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?encryption=none&security=tls&alpn=h3%2ch2%2chttp%2f1.1&fp=chrome&type=raw&headertype=none#🇫🇷 FR | 147.79.100.54
+trojan://G9CHhXltVx@96.9.213.108:12646?encryption=none&security=tls&sni=96.9.213.108&type=raw&headertype=none#🇸🇬 SG | 96.9.213.108
