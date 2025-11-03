@@ -1,4 +1,5 @@
+vless://7fd54cbf-5b2d-42ef-a401-bcd9bf4b0c73@77.83.245.170:55613?security=reality&encryption=none&pbk=25g2-R6d7OLmXcTuJGjqz7DfB3XDH0fs13ad2TeVUGc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=a3bf3e305b3c3ffc#🇹🇷 TR | 77.83.245.170
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY25yd1EwSWsxN29RNVdsakZYYlRw@62.133.63.21:65262#🇹🇷 TR | 62.133.63.21
+vless://aea2c185-aca0-4259-b6d8-4840f7aff9a3@213.142.156.56:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=7cb7ad2e83f550a0#🇹🇷 TR | 213.142.156.56
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
