@@ -1,1 +1,1 @@
-vless://e4db7e72-621d-4485-9e03-48380344f23d@173.245.59.100:80?security=none&encryption=none&host=dlvds127.pwteam.ir&type=ws@V2rayNGVPN <= کانفیگ رایگان#🇨🇦 CA | 173.245.59.100
+vless://8bc1deee-1136-4533-f5d0-0b5751803107@host17.sheydayeman.nl:8880?path=/&security=none&encryption=none&type=ws@V2rayNGVPN+<=+کانفیگ+رایگان#🇨🇦 CA | 172.67.188.111
