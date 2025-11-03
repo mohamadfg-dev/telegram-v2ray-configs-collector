@@ -1,2 +1,1 @@
-trojan://trojan@2.58.107.44:443?encryption=none&security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=random&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#🇦🇺 AU | 2.58.107.44
-trojan://trojan@2.58.107.44:443?encryption=none&security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=random&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=/?ed=2560#🇦🇺 AU | 2.58.107.44
+vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇦🇺 AU | 1.1.1.1
