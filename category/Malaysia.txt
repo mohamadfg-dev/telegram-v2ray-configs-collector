@@ -1,1 +1,1 @@
-vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?encryption=none&security=tls&type=ws&path=/dahuqpws#🇲🇾 MY | 45.128.54.17
+vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiLwn4ey8J+HviBNWSB8IDQ1Ljg5LjEwNy41MSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=

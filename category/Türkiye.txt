@@ -1,7 +1,7 @@
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇹🇷 TR | 155.212.110.3
 vless://7fd54cbf-5b2d-42ef-a401-bcd9bf4b0c73@77.83.245.170:55613?security=reality&encryption=none&pbk=25g2-R6d7OLmXcTuJGjqz7DfB3XDH0fs13ad2TeVUGc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=a3bf3e305b3c3ffc#🇹🇷 TR | 77.83.245.170
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇹🇷 TR | 155.212.110.3
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.211:57456#🇹🇷 TR | 62.133.63.211
 vless://52a15490-6ae2-43f3-9aef-2bf7acf9cc0a@teary.ilooo.ir:2020?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇹🇷 TR | 31.14.10.197
 vless://52a15490-6ae2-43f3-9aef-2bf7acf9cc0a@teary.ilooo.ir:2020?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇹🇷 TR | 31.14.10.197
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
