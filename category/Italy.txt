@@ -1,1 +1,2 @@
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
+vless://6a87fe75-186e-434d-992b-4c96e72c1a57@italy1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 80.211.133.72
