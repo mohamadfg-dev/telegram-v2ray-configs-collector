@@ -1,1 +1,2 @@
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&spx=/&type=raw&headertype=none#🇰🇿 KZ | 83.222.23.81
+vless://6206bf1d-068d-4186-9eee-d534a01cb98e@kazakhstan22.clearorbitllc.com:443?security=reality&encryption=none&pbk=fHpH9g6a4LZOICjPOq7yFgqKWNG5a_idjfoDBGk_OwQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan22.clearorbitllc.com&sid=aee3#🇰🇿 KZ | 31.3.209.107
