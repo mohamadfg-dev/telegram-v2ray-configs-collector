@@ -1,3 +1,4 @@
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.2.49.197:587/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#🇯🇵 JP | 138.2.49.197
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#🇯🇵 JP | 160.16.123.124
-vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#🇯🇵 JP | 109.123.229.205
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.2.49.197:587/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#🇯🇵 JP | 138.2.49.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpraUV4TXdia2ZnMDNEeUZObEF4T29r@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151

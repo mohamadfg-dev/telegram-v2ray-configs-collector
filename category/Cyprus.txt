@@ -1,1 +1,1 @@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#🇨🇾 CY | 77.37.33.39
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none&domain=gb-42123.shenzogmbh.com#🇨🇾 CY | 77.37.33.39

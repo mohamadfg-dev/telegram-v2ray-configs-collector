@@ -1,1 +1,1 @@
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&spx=/&type=raw&headertype=none#🇰🇿 KZ | 83.222.23.81
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
