@@ -1,2 +1,1 @@
-trojan://7x42LetRa0@106.180.225.69:1443?allowInsecure=0#🇯🇵 JP | 106.180.225.69
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#🇯🇵 JP | 160.16.240.91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpraUV4TXdia2ZnMDNEeUZObEF4T29r@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
