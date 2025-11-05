@@ -1,2 +1,1 @@
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?encryption=none&security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&type=ws&path=/#🇦🇺 AU | 2.58.107.29
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=DdLxDxZc3.VeLiNtO.OrG#🇦🇺 AU | 2.58.107.29
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?allowInsecure=0#🇦🇺 AU | 168.138.8.86
