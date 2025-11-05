@@ -1,1 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAxNzIuMTExLjE0Ni42NCIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?security=reality&encryption=none&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#🇯🇵 JP | 109.123.229.205
