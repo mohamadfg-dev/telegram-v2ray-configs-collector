@@ -1,2 +1,1 @@
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY&sid=#🇦🇪 AE | 45.88.13.10
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251

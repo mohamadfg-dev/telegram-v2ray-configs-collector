@@ -1,1 +1,1 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@195.26.229.3:8880/?type=ws&encryption=none&flow=&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#🇨🇾 CY | 195.26.229.3
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#🇨🇾 CY | 77.37.33.39
