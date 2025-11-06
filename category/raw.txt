@@ -1,2 +1,1 @@
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?encryption=none&security=tls&sni=api.chandplus.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 95.217.206.161
-vless://b30deaec-52cf-4bb2-bad3-3828738cb8c0@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41&spx=/HUDVPN_join_TELEGRAM_HUDVPN&type=raw&headertype=none#🇩🇪 DE | 94.141.123.233
