@@ -1,3 +1,2 @@
-trojan://rvZdriRTag@91.108.249.171:443?security=reality&sni=google.com&fp=chrome&pbk=YAdvt-gLAjJf-a36b9XwQyd9bGxH4xIlyyeNiY7sPik&sid=b235e63f3b4bf29c&spx=/&type=tcp&headerType=http&host=www.namasha.com,s45.namasha.com#🇵🇱 PL | 91.108.249.171
 vless://5b5f72ba-b217-469d-a805-9a34021911eb@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&host=V2xay&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f3a8ef9e63946aaa#🇵🇱 PL | 92.62.251.248
 vless://83e57c25-1c8e-429f-974f-e3bde3fff12d@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.nnvpn.io&sid=f3a8ef9e63946aaa#🇵🇱 PL | 92.62.251.248
