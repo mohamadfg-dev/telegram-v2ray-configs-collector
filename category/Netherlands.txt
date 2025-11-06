@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.188.99:5004#🇳🇱 NL | 172.99.188.99
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#🇳🇱 NL | 78.142.194.129
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#🇳🇱 NL | 78.142.194.129
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#🇳🇱 NL | 78.142.194.129
