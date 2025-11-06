@@ -11,7 +11,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#🇳🇱 NL | 209.38.97.113
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱 NL | 45.12.130.190
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇳🇱 NL | 166.1.131.6
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#🇳🇱 NL | 159.223.209.139
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
