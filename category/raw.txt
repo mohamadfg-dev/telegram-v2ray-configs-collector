@@ -1,1 +1,1 @@
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?encryption=none&security=tls&sni=api.chandplus.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 95.217.206.161
