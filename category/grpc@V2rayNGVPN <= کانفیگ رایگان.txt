@@ -1,2 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇫🇮 FI | 171.22.114.123
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.12:8880?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇫🇷 FR | 185.234.64.12
+vless://358edbda-53c3-4fb5-a68d-2faecf95f1bd@209.38.97.113:2096?mode=gun&security=none&encryption=none&type=grpc@V2rayNGVPN <= کانفیگ رایگان#🇳🇱 NL | 209.38.97.113
