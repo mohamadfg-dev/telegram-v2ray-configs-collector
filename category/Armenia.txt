@@ -1,1 +1,2 @@
+vmess://eyJhZGQiOiIxOTQuMTU2LjEwMy42OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicnViaWthLmlyIiwiaWQiOiIwM2EyYzIwZS02YmIyLTQ1NzQtOTY2MC04YzRlZjllY2U3NTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMjAxIiwicHMiOiLwn4em8J+HsiBBTSB8IDE5NC4xNTYuMTAzLjY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
