@@ -1,5 +1,3 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
-vless://a943931f-2a8f-48c7-bdad-0fd61a29e2fb@g4viptkk.hpx.lol:8443?security=reality&encryption=none&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ae3261#🇹🇷 TR | 92.60.70.46
-vless://a943931f-2a8f-48c7-bdad-0fd61a29e2fb@g4viptkk.hpx.lol:8443?security=reality&encryption=none&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ae3261#🇹🇷 TR | 92.60.70.46
