@@ -1,2 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hp/Cfh78gQlogfCAyMDMuMzAuMTkxLjE5IiwiYWRkIjoiMjAzLjMwLjE5MS4xOSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoiYXV0byIsImlkIjoiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
 trojan://bpb-trojan@45.131.209.114:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🇧🇿 BZ | 45.131.209.114
