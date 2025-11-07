@@ -1,1 +1,1 @@
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@86.38.214.253:2096?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#🇱🇹 LT | 86.38.214.253
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇱🇹 LT | 94.131.13.181

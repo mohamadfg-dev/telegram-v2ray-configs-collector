@@ -1,1 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpclimo#🇳🇱 NL | 45.144.28.5
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.79:8880?mode=gun&security=none&encryption=none&type=grpclimo#🇫🇷 FR | 95.164.6.79
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.106:8880?mode=gun&security=none&encryption=none&type=grpclimo#🇹🇷 TR | 185.234.66.106
