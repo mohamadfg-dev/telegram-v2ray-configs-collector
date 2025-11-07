@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 95.164.88.186
+vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?mode=auto&path=/vaime?ed=#🇬🇧 GB | 2a04:4e42::731
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@141.101.120.246:443?path=/assets&security=tls&alpn=http/1.1&encryption=none&host=dip.amperes.workers.dev&type=ws&sni=DIP.Amperes.Workers.DEV#🇬🇧 GB | 141.101.120.246
@@ -16,10 +16,11 @@ vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=
 vless://260fdda5-f10b-475c-b8b4-95f7c879518e@germanshi.vtuix.ir:7035?security=none&type=ws&path=/&host=filimo.com&packetEncoding=xudp&encryption=none#🇬🇧 GB | 51.89.8.2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.173:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 45.140.167.173
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
+vless://a5b6be30-5ba9-49fc-ac09-95fce84da16a@am288.amin-1.ir:2082?mode=auto&path=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&security=none&encryption=none&host=am288.amin-1.ir&type=xhttp#🇬🇧 GB | 2a06:98c1:3121::
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 4.250.220.204
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.209:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 45.140.167.209
-vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?mode=auto&path=/vaime?ed=2560&security=none&encryption=none&host=birenmon766.com&type=xhttp#🇬🇧 GB | 2a04:4e42:200::731
+vless://5a1497bc-f028-4a4a-a713-a0ee1e49d34a@speedtest.net:80?mode=auto&path=/vaime?ed=2560&security=none&encryption=none&host=birenmon766.com&type=xhttp#🇬🇧 GB | 2a04:4e42:600::731
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.231.76
@@ -29,4 +30,4 @@ vless://9f5fa7fa-e30e-4fb8-bb57-d29a5b8f0592@193.46.81.151:50853?security=realit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 94.131.122.221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&type=tcp&sni=pcmag.com&sid=96016aaff14b#🇬🇧 GB | 212.134.84.115
-vless://02cad727-7b64-4477-8146-ad266e56aa64@pscresearch.faculty.ucdavis.edu:80?mode=auto&path=/&security=none&encryption=none&host=xiliunlimited.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 2a04:4e42:200::740
+vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoi8J+HrPCfh6cgR0IgfCA1Ny4xMjguMTg5LjI0MCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
