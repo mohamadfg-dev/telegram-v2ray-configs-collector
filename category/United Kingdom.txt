@@ -1,14 +1,14 @@
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@wangcai201.cloudflare.182682.xyz:2096?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 2a06:98c1:3120::5692:61a4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880/?type=grpc&encryption=none&flow=#🇬🇧 GB | 95.164.88.186
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://0459fcb8-05f0-4cfc-97b9-82683e513902@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=-@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray------@G0dv2ray&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#🇬🇧 GB | 193.46.81.151
+vless://0459fcb8-05f0-4cfc-97b9-82683e513902@193.46.81.151:50853/?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&host=/&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=69#🇬🇧 GB | 193.46.81.151
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
 vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=www.cdn77.com&sid=785891acea1f52#🇬🇧 GB | 212.134.84.115
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?encryption=none&security=tls&sni=fast01.0860852.xyz&type=ws&host=fast01.0860852.xyz&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#🇬🇧 GB | 154.197.121.253
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.170.33.219:443#🇬🇧 GB | 18.170.33.219
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
@@ -24,5 +24,4 @@ vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?security=
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&type=tcp&sni=pcmag.com&sid=96016aaff14b#🇬🇧 GB | 212.134.84.115
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6zwn4enIEdCIHwgNTcuMTI4LjE4OS4xNDMiLCJzY3kiOiJhdXRvIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
