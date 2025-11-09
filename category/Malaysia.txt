@@ -1,1 +1,2 @@
 vmess://eyJhZGQiOiI0Ny4yNTAuOTUuNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWU3NjQ0M2EtNWRiMS00YTk4LThhYzktMGI4ZTY5Yzg0ZmFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOiIyNTMxMyIsInBzIjoi8J+HsvCfh74gTVkgfCA0Ny4yNTAuOTUuNTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp#🇲🇾 MY | 31.97.191.168
