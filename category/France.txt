@@ -1,14 +1,12 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145569691.prague-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 95.179.218.58
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 195.42.233.47
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 95.164.6.156
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 trojan://telegram-id-directvpn@13.38.220.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.220.77
 trojan://telegram-id-directvpn@35.181.179.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.179.99
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&type=grpc&mode=gun#🇫🇷 FR | 86.104.74.177
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.155
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145569691.prague-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 95.179.218.58
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA1MS43Ny4yMC4xMzIiLCJhZGQiOiI1MS43Ny4yMC4xMzIiLCJwb3J0IjoiNDQzIiwidHlwZSI6ImF1dG8iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImEuYmFyYWRpaGEuY29tIiwidGxzIjoidGxzIn0=
+trojan://telegram-id-directvpn@35.181.212.211:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.212.211
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.177:8880?encryption=none&security=none&type=grpc&mode=gun#🇫🇷 FR | 86.104.74.177
 trojan://telegram-id-privatevpns@13.38.220.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.220.77
 trojan://telegram-id-privatevpns@35.181.179.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.179.99
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.4
@@ -28,6 +26,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.66:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.234.64.66
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#🇫🇷 FR | 95.164.6.156
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDAiLCJhaWQiOjAsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiLwn4er8J+HtyBGUiB8IDkxLjEzNC44LjEwMCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#🇫🇷 FR | 185.234.64.228
 trojan://telegram-id-v2rayvpnchannel@13.38.220.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.220.77
 trojan://telegram-id-v2rayvpnchannel@35.181.179.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.179.99
