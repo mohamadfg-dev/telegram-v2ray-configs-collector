@@ -1,1 +1,2 @@
-vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=latvia6.clearorbitllc.com&fp=chrome&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&sid=81e0b568&type=raw&headertype=none#🇱🇻 LV | 94.131.104.178
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?encryption=none&security=tls&sni=dedic.app-browser.org@V2rayNGVPN+<=+کانفیگ+رایگان&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 65.109.145.54
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=raw&headertype=none#🇦🇲 AM | 77.91.68.70
