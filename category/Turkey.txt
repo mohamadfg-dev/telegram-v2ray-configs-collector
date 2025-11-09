@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.86:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 185.234.66.86
+vless://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@188.132.141.112:410?security=none&encryption=none&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=http&type=tcp#🇹🇷 TR | 188.132.141.112
