@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgxYjU3Yzg0LTY5OGYtNDk0NC05MjY4LWRiNmEwNmE0YTYzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzMyNDgiLCJwcyI6IvCfh7Xwn4etIFBIIHwgOC4yMjAuMTg4LjIzOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://23f88d32-aa7c-4adf-ae31-9358ea8efa09@154.83.2.238:443?path=/kardel&security=tls&alpn=h2&encryption=none&host=reypi.duck-sai.info&fp=chrome&type=ws&sni=reypi.duck-sai.info#🇵🇭 PH | 154.83.2.238

@@ -1,2 +1,1 @@
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#🇲🇰 MK | 38.99.95.76
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?security=none&encryption=none&headerType=none&type=tcp#🇲🇰 MK | 38.190.150.75
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.185.37:990#🇲🇰 MK | 46.183.185.37

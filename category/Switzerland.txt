@@ -1,3 +1,2 @@
-vless://da120944-50e7-d866-693a-2ce3236847e9@switzerland.marzxo.biz:8089?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#🇨🇭 CH | 83.228.224.139
 vless://4a508d30-77ce-4dac-9281-d01546e046db@lii.bliscorp.org:30849?type=tcp&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 83.228.224.6
 vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?type=tcp&security=none&headerType=http&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#🇨🇭 CH | 83.228.224.6
