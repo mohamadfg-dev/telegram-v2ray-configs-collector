@@ -1,1 +1,2 @@
 vless://23f88d32-aa7c-4adf-ae31-9358ea8efa09@154.83.2.238:443?path=/kardel&security=tls&alpn=h2&encryption=none&host=reypi.duck-sai.info&fp=chrome&type=ws&sni=reypi.duck-sai.info#🇵🇭 PH | 154.83.2.238
+vless://23f88d32-aa7c-4adf-ae31-9358ea8efa09@154.83.2.238:443?path=/kardel&security=tls&alpn=h2&encryption=none&host=reypi.duck-sai.info&fp=chrome&type=ws&sni=reypi.duck-sai.info#🇵🇭 PH | 154.83.2.238
