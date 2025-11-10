@@ -1,1 +1,1 @@
-trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#🇳🇱 NL | 78.142.194.129
+vless://62a7f030-a79d-437f-b523-e7bdbf913855@netherlands.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#🇳🇱 NL | 178.173.249.131
