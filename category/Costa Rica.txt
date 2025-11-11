@@ -1,2 +1,2 @@
-vless://92d76bd5-3a45-4372-98b2-61d8cf44c846@clyde.ns.cloudflare.com:443?path=/cazsbows&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=638981351827384399.insight-amshd.com#🇨🇷 CR | 2803:f800:50::6ca2:c15b
-vless://92d76bd5-3a45-4372-98b2-61d8cf44c846@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=638981351827384399.insight-amshd.com&alpn=h2&fp=chrome&type=ws&host=638981351827384399.insight-amshd.com&path=/cazsbows#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://4f020b1b-ecc1-4419-9aae-2caf388aae7e@brenna.ns.cloudflare.com:443?path=/pvdqxqws&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=638981351827444389.insight-amshd.com#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://4f020b1b-ecc1-4419-9aae-2caf388aae7e@brenna.ns.cloudflare.com:443?path=/pvdqxqws&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=638981351827444389.insight-amshd.com#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
