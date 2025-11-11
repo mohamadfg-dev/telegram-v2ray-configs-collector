@@ -1,1 +1,1 @@
-vless://4f020b1b-ecc1-4419-9aae-2caf388aae7e@brenna.ns.cloudflare.com:443?path=/pvdqxqws&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=638981351827444389.insight-amshd.com#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://5b44fc89-c5be-48e6-aa2e-0f90ff733390@norman.ns.cloudflare.com:443?path=/dndgjqws&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=638981351826446112.insight-amshd.com#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
