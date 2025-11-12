@@ -1,1 +1,1 @@
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?encryption=none&security=tls&type=raw&headertype=none#undefined HK | 165.154.112.107
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@local.rogsoftwaregroup.com:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
