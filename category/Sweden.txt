@@ -1,4 +1,5 @@
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#🇸🇪 SE | 185.146.173.39
 vless://Parsashonam-321@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=&encryption=none&host=De.Parsashonam.CFD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
+vless://4dc71c9e-3f62-4828-9b08-b78fa7b3317e@abaddon.fonixapp.org:43120?security=reality&encryption=none&pbk=v17iBiOuZTtgwfEvXvaFI9zNwZbbyfHLQXfD-DESEl0&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=smallpdf.com&sid=fe#🇸🇪 SE | 95.111.208.215
 vless://Parsashonam-300@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇸🇪 SE | 185.146.173.39
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39
