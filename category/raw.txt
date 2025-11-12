@@ -1,2 +1,1 @@
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@local.rogsoftwaregroup.com:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
-trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?encryption=none&security=tls&sni=raincoat.bluetigeraa.click&type=raw&headertype=none#🇺🇸 US | 155.138.228.41
