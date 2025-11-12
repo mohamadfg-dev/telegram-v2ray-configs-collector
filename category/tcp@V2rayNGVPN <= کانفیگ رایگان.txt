@@ -1,1 +1,1 @@
-vless://86ae2e85-949e-45d1-a162-cded972fc252@151.101.3.8:80?security=none&encryption=none&headerType=none&type=tcp@V2rayNGVPN+<=+کانفیگ+رایگان#🇨🇦 CA | 151.101.3.8
+vless://22b59772-268e-4bd5-9264-bc2b3f6c8614@91.217.166.5:19648?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp@V2rayNGVPN+<=+کانفیگ+رایگان#🇮🇷 IR | 91.217.166.5

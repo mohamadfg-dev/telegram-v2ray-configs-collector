@@ -1,3 +1,4 @@
 trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443&host=joss.dus.biz.id#🇵🇱 PL | 45.144.48.158
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZFRGNlk0MTBJMHVROVliUVBhU3lx@77.83.246.74:443/?outline=1#🇵🇱 PL | 77.83.246.74
 trojan://3BLPOJr3OY@91.108.250.230:50191/?type=grpc&serviceName=&authority=&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&sni=cloudflare.com&sid=2e&spx=/#🇵🇱 PL | 91.108.250.230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTHBBSGNOU29sRVo5QWpkRU40bWlB@77.83.246.227:39830#🇵🇱 PL | 77.83.246.227
+vmess://eyJhZGQiOiI1Ny4xMjguMjE2LjEyNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e18J+HsSBQTCB8IDU3LjEyOC4yMTYuMTI1Iiwic2N5IjoiYXV0byIsInNuaSI6ImthbXBvbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
