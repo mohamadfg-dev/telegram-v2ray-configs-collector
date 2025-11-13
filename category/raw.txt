@@ -1,1 +1,1 @@
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@local.rogsoftwaregroup.com:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
+vless://aa0a3771-d590-4702-9681-e8d69c7c2428@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043&type=raw&headertype=none#🇩🇪 DE | 194.87.29.240

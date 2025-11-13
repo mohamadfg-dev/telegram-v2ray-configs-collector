@@ -1,1 +1,2 @@
-vless://39872609-4ced-42c7-aca4-14081ba7e073@tr2.hosmci.com:8880?security=none&seed=Hs5xtwTnIM&encryption=none&headerType=wireguard&type=kcp#🇹🇷 TR | 213.156.152.238
+vless://31b48cf3-6855-40b4-bb75-d54e968ca6e3@all-net.ir.pmgdrs.site:27168?type=kcp&encryption=none&headerType=none&seed=PkYE604WLl&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
+vless://3ed87f5c-689c-4849-848c-9b5f2a53bd34@all-net.ir.pmgdrs.site:27168?type=kcp&encryption=none&headerType=none&seed=PkYE604WLl&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
