@@ -1,1 +1,2 @@
-trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.158=8443&host=joss.dus.biz.id#🇵🇱 PL | 45.144.48.158
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@91.239.148.100:443?security=tls&sni=ai.ylks.xyz&type=ws&path=/blue#🇵🇱 PL | 91.239.148.100
+vmess://eyJhZGQiOiIxNDYuNTkuNzAuMTQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e18J+HsSBQTCB8IDE0Ni41OS43MC4xNDYiLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
