@@ -1,3 +1,4 @@
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=none&encryption=none&type=ws#🇯🇵 JP | 5.253.41.223
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#🇯🇵 JP | 5.253.41.223
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA4LjIxMS4xNjQuMjE1IiwiYWRkIjoiOC4yMTEuMTY0LjIxNSIsInBvcnQiOiIyMDUyMiIsImlkIjoiNzMxOTNjY2UtN2NhMS00YjA4LTkzZmYtNGVlOGIwMTQ3Mzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#🇯🇵 JP | 5.253.41.223
+trojan://1b57001bd214304027025a740b6cf1ac@160.16.89.176:4095?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 JP | 160.16.89.176
