@@ -1,1 +1,1 @@
-vless://1762a070-294a-4999-9c59-05aa4922feed@185.177.238.80:443?security=reality&encryption=none&pbk=VA5-XSH73WyopK0i8jc2i-23N0VPVwmN8w7TX1MnVyg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nl3.truservice.top&sid=9df18b8856e52959#🇦🇱 AL | 185.177.238.80
+vless://678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5@78.159.131.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=ZmcE7f2ZycnrnsUSPkCrPBIGYC8dM4b27DX47DwCHXk&sid=473915f2ef487f#🇦🇱 AL | 78.159.131.74
