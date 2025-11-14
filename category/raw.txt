@@ -1,1 +1,2 @@
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&spx=/&type=raw&headertype=none#🇰🇿 KZ | 178.236.16.98
+vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94&type=raw&headertype=none#🇳🇱 NL | 45.128.232.102
+trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇸🇬 SG | 185.151.146.211
