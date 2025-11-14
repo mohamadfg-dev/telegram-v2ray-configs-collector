@@ -1,7 +1,5 @@
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
-vless://9429f5ce-ed0f-48e7-afda-12f7b23441af@193.124.182.224:4442/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&security=reality&pbk=HCkRC28M16WYrORNt2-Bga_3AuxuGnphlAwXHY9R4SI&sid=fd99#🇷🇺 RU | 193.124.182.224
 vless://796dcbfe-d6a1-4be7-9f8c-85e3a3b29cfd@185.233.187.26:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.edgecenter.ru&sid=4c02bbbfa833b3b6#🇷🇺 RU | 185.233.187.26
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?encryption=none&security=tls&sni=28.img.avito.st&allowInsecure=1&type=ws&host=cdn.filterai.ru&path=/websocketpl#🇷🇺 RU | 81.161.98.228
