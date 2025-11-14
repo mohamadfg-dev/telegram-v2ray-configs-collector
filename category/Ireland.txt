@@ -1,3 +1,1 @@
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?mode=gun&security=none&encryption=none&type=grpc#🇮🇪 IE | 34.244.215.81
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇮🇪 IE | 34.244.215.81
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇮🇪 IE | 34.244.215.81
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.187.196:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪 IE | 34.255.187.196
