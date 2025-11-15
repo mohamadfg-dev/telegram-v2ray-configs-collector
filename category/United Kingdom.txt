@@ -1,3 +1,4 @@
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@wangcai166.000444.cn:2096?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=tls&encryption=none&host=xxy.wzzsl.dynv6.net&fp=chrome&type=ws&sni=xxy.wzzsl.dynv6.net#🇬🇧 GB | 2a06:98c1:3101::ac40:919e
 vmess://eyJhZGQiOiIxNDEuMTAxLjEyMC4yNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwiaWQiOiJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvPy0tLUBBWkFSQkFZS0FCMS0tLUBBWkFSQkFZSkFCMS0tLUBBWkFSQkFZSkFCMS0tLUBBWkFSQkFZSkFCMS0tLUBBWkFSQkFZSkFCMS8/ZWQ9MjU2MCIsInBvcnQiOiI4MCIsInBzIjoi8J+HrPCfh6cgR0IgfCAxNDEuMTAxLjEyMC4yNTAiLCJzY3kiOiJhdXRvIiwic25pIjoiVE1fQVpBUkJTWUpBQjEuTkVXLjEuUEFHRVMuREVWLiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬🇧 GB | 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
@@ -7,18 +8,16 @@ vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCMklTSjNmYURYbGtSVVhVZVF1MTgy@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUM5Sk9IaUdrZnE2Yk4yOE5pZTJ4@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443/?outline=1#🇬🇧 GB | 89.185.84.185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpibW9qNm9yTGowaXBkb3ZOVlVKelZM@89.185.84.185:443#🇬🇧 GB | 89.185.84.185
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 4.250.220.204
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.231.76
+vless://d988a5dc-35a4-44e6-8a78-a56659eee68c@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#🇬🇧 GB | 193.46.81.151
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://b21a057a-e474-4dc8-a9fe-8579ed386501@212.134.84.115:443?security=reality&encryption=none&pbk=-rFZDbTY311FfuSHKsKENvN0gjaGdJBK_iTK50WL3mk&headerType=none&fp=chrome&type=tcp&sni=pcmag.com&sid=96016aaff14b#🇬🇧 GB | 212.134.84.115
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123
-vless://3b6d938e-6f75-8849-bf95-adedf96b855c@dl-05.chapjavan.ir:45555?security=tls&alpn=h3,h2,http/1.1&encryption=none&host=zhaket.com&headerType=http&fp=firefox&type=tcp#🇬🇧 GB | 23.81.34.214
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info#🇬🇧 GB | 2a06:98c1:50::ac40:2263
