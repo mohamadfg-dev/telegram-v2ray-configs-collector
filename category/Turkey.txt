@@ -1,1 +1,4 @@
-vless://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095?path=/&security=&encryption=none&type=httpupgrade#🇹🇷 TR | 188.132.141.112
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.80:8880?mode=gun&security=&encryption=none&authority=Join----TM (@AZARBAYJAB1)---Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)&type=grpc&sni=/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#🇹🇷 TR | 185.234.66.80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&authority=Join----TM (@AZARBAYJAB1)---Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)----Join----TM (@AZARBAYJAB1)&type=grpc&sni=/?---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net#🇹🇷 TR | 185.234.66.97
+vless://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:2095/?path=/&security=&encryption=none&type=httpupgrade#🇹🇷 TR | 188.132.141.112
+vless://3855723f-0260-4014-9225-4b0025f1768c@188.132.141.112:33727?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 188.132.141.112

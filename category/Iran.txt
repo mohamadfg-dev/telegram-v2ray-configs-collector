@@ -5,6 +5,7 @@ vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&s
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=/news&security=none&encryption=none&host=bama.ir.german.cdnir.org&type=ws#🇮🇷 IR | 185.143.232.224
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
+vless://f1a5d46d-756c-4d91-9b12-50195a9dc026@uhCY9q.de4.razercompany.com:8634?security=none&path=/&host=ybsrxjzv.divarcdn.com&headerType=http&type=tcp#🇮🇷 IR | 85.133.230.4
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
@@ -25,6 +26,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjcuODUiLCJhZGQiOiJjaGFu
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn1.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.14
 vless://57ba8202-6afe-4cfb-a98d-d18d08b3b9ff@tinyvpn-cdn2.unlimiteddev.co:8080/?type=ws&path=/&host=&security=none#🇮🇷 IR | 81.12.32.14
+vless://a9675ecc-38cf-4de1-ac10-69cfd31fe608@sJoHMu.de6.razercompany.com:323?security=none&path=/&host=7z90w2qs.cafebazaar.ir,+7z90w2qs.divarcdn.com&headerType=http&type=tcp#🇮🇷 IR | 85.133.230.8
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
