@@ -1,4 +1,3 @@
-trojan://535b9dbb-33f9-46af-a4a9-35228f9ae124@5.188.78.218:2053?path=/Free-VPN-CF-Geo-Project/5.188.78.218=2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🇷🇺 RU | 5.188.78.218
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
 vless://796dcbfe-d6a1-4be7-9f8c-85e3a3b29cfd@185.233.187.26:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.edgecenter.ru&sid=4c02bbbfa833b3b6#🇷🇺 RU | 185.233.187.26
