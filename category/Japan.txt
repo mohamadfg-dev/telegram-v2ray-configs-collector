@@ -1,4 +1,3 @@
-vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkjp55.eovay.com:40055?security=reality&encryption=none&pbk=9o3SRBZXuCmIzT62VDD49t1iizy80sU_Sx05HQO_bh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gghouse.co.jp&sid=c46b996f#🇯🇵 JP | 43.207.175.232
 trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇯🇵 JP | 160.16.81.84
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇯🇵 JP | 153.121.51.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUXEwNU82a2JRbVdjY0o5cWhkYUl6@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
