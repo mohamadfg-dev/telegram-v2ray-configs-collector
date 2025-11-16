@@ -1,1 +1,1 @@
-trojan://2b1487cd-e56b-4c62-b1e9-8beb686e002c@45.95.232.18:2053?path=/Free-VPN-CF-Geo-Project/45.95.232.18=2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🇨🇭 CH | 45.95.232.18
+vless://657cc78e-a6e8-4ed0-ba97-44ded0f06f56@sana.mehdikarimi3.ir:44962?security=reality&encryption=none&pbk=tF9u_pB61tOwr1Opt5PsNgVaFM0PE-4qsxI-XBPZ9hs&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.refersion.com&sid=0d0f4c194672b1#🇨🇭 CH | 83.228.227.96
