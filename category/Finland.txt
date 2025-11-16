@@ -2,10 +2,7 @@ vless://77357c7c-1391-4699-a212-3040b49aca8b@37.27.40.194:42671?type=tcp&encrypt
 vless://77357c7c-1391-4699-a212-3040b49aca8b@37.27.40.194:42671?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.40.194
 vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443?security=tls&encryption=none&headerType=none&type=tcp&sni=node.chandplus.com#🇫🇮 FI | 65.109.179.90
 vless://e6d40947-2351-4a7e-af1f-055b3bbc1b7a@bia-kanalemoon.vigilante.ir:443?encryption=none&security=reality&sni=tgju.com&fp=firefox&pbk=YpHq6fPKEFKnRC47H3GhnN9Ft-_j1XERI-k82elzXwc&spx=/&type=grpc&authority=&serviceName=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=multi#🇫🇮 FI | 79.137.206.52
-vless://48d51674-9a5e-408d-975e-b2eb4f297c22@95.217.212.135:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#🇫🇮 FI | 95.217.212.135
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 171.22.114.244
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
-vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#🇫🇮 FI | 135.181.62.183
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&security=tls&sni=joss.dus.biz.id#🇫🇮 FI | 65.109.227.138
 vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:10000?type=tcp&encryption=none&security=none#🇫🇮 FI | 65.109.231.154
 vless://5d3bffc3-20f6-41ae-9fe7-bb12a122c3a3@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=4a6c2577ce53af9e#🇫🇮 FI | 92.63.224.153
