@@ -2,3 +2,4 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇵🇱 PL | 144.31.3.213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVnlUVk14VHhhWUJYeEVTWkJOcUdW@77.83.246.74:443/?outline=1#🇵🇱 PL | 77.83.246.74
 trojan://3BLPOJr3OY@91.108.250.230:50191/?type=grpc&serviceName=&authority=&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&sni=cloudflare.com&sid=2e&spx=/#🇵🇱 PL | 91.108.250.230
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇵🇱 PL | 144.31.3.213
