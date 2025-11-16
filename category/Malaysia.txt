@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiI0Ny4yNTAuMTEyLjkzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJkOWQ2OTUxMi0yMmE1LTQ5N2QtYjkyNy0xMjU2YzdjN2Y2OTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NTkyNzcsInBzIjoi8J+HsvCfh74gTVkgfCA0Ny4yNTAuMTEyLjkzIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?encryption=none&security=none&type=grpc&mode=gun#🇲🇾 MY | 45.89.107.241
