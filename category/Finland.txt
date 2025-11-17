@@ -1,7 +1,5 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇮 FI | 171.22.114.132
 vless://d8de4ac8-6825-4185-848c-e074075051a3@bia-kanalemoon.vigilante.ir:443?mode=multi&security=reality&encryption=none&pbk=9ZR3R3mfbe0mgsVhKhXjO3NCf_ycwlslbN4nO1_uOkE&fp=firefox&spx=/&type=grpc&serviceName=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&sni=tgju.com#🇫🇮 FI | 79.137.206.52
-vless://29b6687e-0544-4749-b1b3-ad2e29e81cf6@65.109.184.82:7443?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.184.82
-vless://a13b4b95-7997-4c0d-8225-38dee08316ad@37.27.40.194:24199/?security=none&encryption=none&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&type=ws#🇫🇮 FI | 37.27.40.194
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&security=tls&sni=joss.dus.biz.id#🇫🇮 FI | 65.109.227.138
 vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:10000?type=tcp&encryption=none&security=none#🇫🇮 FI | 65.109.231.154
