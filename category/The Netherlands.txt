@@ -23,9 +23,5 @@ vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443?type=tcp#🇳🇱 NL | 212.34.140.184
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇳🇱 NL | 45.12.142.96
 vless://25f325bd-3ed0-4eac-bedd-ad43c3a44e0c@blackout.nethcloud.top:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇳🇱 NL | 103.249.132.2
-vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇳🇱 NL | 45.93.168.44
-vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@146.103.33.38:443?path=/&security=tls&encryption=none&host=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&sni=cold-snow-07fa.mokhinmokhini.workers.dev#🇳🇱 NL | 146.103.33.38
-vless://62744573-ca28-4bae-bf8e-b5915048b7af@91.84.107.88:443?security=reality&encryption=none&pbk=Tk7r4Scoti1f1Zc81x0VWJD9VB9FcTbTHUR3oyiGQV4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.m.vk.ru&sid=210f698ddd200c86#🇳🇱 NL | 91.84.107.88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#🇳🇱 NL | 193.29.139.191

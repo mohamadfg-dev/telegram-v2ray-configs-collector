@@ -1,5 +1,6 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://f7a204a7-e3f8-4349-a12d-7e6868a3b84e@213.156.152.223:28689?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=smallpdf.com&pbk=8UJHCuXan_An_xsXNPCN7h_0Yj4EwRtTATjrPiqcC3M&sid=687dcc8146&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷 TR | 213.156.152.223
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74

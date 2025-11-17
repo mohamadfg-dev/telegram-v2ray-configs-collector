@@ -1,1 +1,1 @@
-vless://62a7f030-a79d-437f-b523-e7bdbf913855@netherlands.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#🇳🇱 NL | 178.173.249.131
+vless://f622d985-ea5a-463b-ad0a-d1031b0d403e@nor1.vlessok.store:443?security=reality&encryption=none&pbk=teGK61lH7ZMhpHLTpYXcDeb8kR9GU-S2QfNd2jjJLHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.google.com&sid=abc05e53#🇳🇱 NL | 178.173.249.163
