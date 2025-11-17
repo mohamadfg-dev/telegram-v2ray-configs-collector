@@ -1,4 +1,3 @@
 vless://257d871f-7d5c-41f1-9ba0-e01672d326f9@dubai.fonixapp.org:38980?security=reality&encryption=none&pbk=KzII--MOd_xsyPV6gxRtGlpyQez-HxOy2nHhvo_KPDs&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=023d#🇦🇪 AE | 217.195.200.224
-vless://b295104c-4950-4bcb-a71f-8e2486b5bcc7@astro3.mevsyou.sbs:8880?security=none&encryption=none&headerType=http&type=tcp#🇦🇪 AE | 185.253.116.45
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 AE | 147.78.0.182
