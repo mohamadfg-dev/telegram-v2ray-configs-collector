@@ -1,7 +1,2 @@
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#🇯🇵 JP | 153.121.51.214
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#🇯🇵 JP | 153.121.51.214
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#🇯🇵 JP | 153.121.51.214
-trojan://2274c52572e721086f8bd8f88984643c@160.16.81.84:2760?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇯🇵 JP | 160.16.81.84
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇯🇵 JP | 153.121.51.29
+vmess://eyJhZGQiOiI4LjIxMS4xNjQuMjE1IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjczMTkzY2NlLTdjYTEtNGIwOC05M2ZmLTRlZThiMDE0NzM3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6IvCfh6/wn4e1IEpQIHwgOC4yMTEuMTY0LjIxNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.124.55
-vmess://eyJhZGQiOiI0NS4zMi40NS40NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkYmY3YTZlNC1kNTE4LTRmOWItYTU1ZS0yN2VmODkyZmZhYzEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0NzYwIiwicHMiOiLwn4ev8J+HtSBKUCB8IDQ1LjMyLjQ1LjQ1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
