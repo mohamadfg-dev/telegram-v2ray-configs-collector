@@ -1,8 +1,8 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://acacdb17-f35a-43b0-8829-dcf2d8fe76a6@srv18.towersflowerss.com:443?security=reality&encryption=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv18.towersflowerss.com#🇹🇷 TR | 138.124.107.139
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#🇹🇷 TR | 103.231.75.74
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vless://3e5ccfa3-d034-4cd7-99ae-230d7fe6df8c@trdir.aurqx.com:1516?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇹🇷 TR | 31.40.204.199
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
-vless://1725f6ff-96b3-40fa-bc31-a9261967f056@45.138.183.73:42866?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.138.183.73
 vless://4f09c421-f289-4e4e-8d70-a96582376011@62.60.233.181:8443?security=reality&encryption=none&pbk=n-jengMmQUhis2zhigHO-o51vL_59JLh2_WuG8v6TxU&headerType=none&fp=chrome&spx=/@sinavm-@sinavm&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=21aeac0f2a#🇹🇷 TR | 62.60.233.181
 vless://1725f6ff-96b3-40fa-bc31-a9261967f056@45.138.183.73:42866?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.138.183.73
