@@ -3,7 +3,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.132:8880?mode=gun&securi
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.40.194:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.40.194
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.40.194:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.40.194
 vless://c2654702-cc11-49f6-bb7f-cab560e78918@bia-kanalemoon.vigilante.ir:443?encryption=none&security=reality&sni=tgju.com&fp=firefox&pbk=9ZR3R3mfbe0mgsVhKhXjO3NCf_ycwlslbN4nO1_uOkE&spx=/&type=grpc&authority=&serviceName=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&mode=multi#🇫🇮 FI | 79.137.206.52
-vless://7e501035-03bb-47ac-bcdb-8f21b57ba571@65.109.177.133:520?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.177.133
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://32bcee33-6646-42d9-8067-9988e2a58647@65.109.231.154:10000?type=tcp&encryption=none&security=none#🇫🇮 FI | 65.109.231.154
 vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9#🇫🇮 FI | 92.63.224.153
