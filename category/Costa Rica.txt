@@ -1,2 +1,1 @@
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987378208894304.sentra-amshr.info&fp=chrome&type=ws&sni=638987378208894304.sentra-amshr.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638989641566694428.tucson-amshx.info&type=ws&sni=638989641566694428.tucson-amshx.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
