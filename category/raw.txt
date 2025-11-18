@@ -1,2 +1,1 @@
-vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&sid=229b2a94&type=raw&headertype=none#🇳🇱 NL | 45.128.232.102
-trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇸🇬 SG | 185.151.146.211
+vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=EOYTqph-go2SazIPcSDl5pJGNyOnrR0mWaL8Tc_paEM&type=raw&headertype=none#🇺🇸 US | 216.133.149.139
