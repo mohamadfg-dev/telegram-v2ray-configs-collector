@@ -1,1 +1,1 @@
-vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://0a079dd2-86dc-4209-b2b2-0069c5d6f1de@norman.ns.cloudflare.com:443?path=/kbsozzws&security=tls&encryption=none&host=638990351278603478.civic-amshz.info&type=ws&sni=638990351278603478.civic-amshz.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
