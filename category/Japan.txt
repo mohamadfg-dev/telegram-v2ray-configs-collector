@@ -1,7 +1,5 @@
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=none&encryption=none&type=ws#🇯🇵 JP | 172.111.146.64
-trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:4211?sni=www.nintendogames.net&path=/#🇯🇵 JP | 160.16.151.196
+trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:127?sni=www.nintendogames.net&path=/#🇯🇵 JP | 153.121.65.107
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=none&encryption=none&type=ws#🇯🇵 JP | 172.111.146.64
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#🇯🇵 JP | 5.253.41.223
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=none&encryption=none&type=ws#🇯🇵 JP | 172.111.146.64
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IvCfh6/wn4e1IEpQIHwgMTMxLjE4Ni42My44OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJoay5uYmVlLnBwLnVhIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?path=/freecodes/?ed=2560&security=tls&encryption=none&insecure=1&host=gaosir.unfeeling.sbs&type=ws&allowInsecure=1&sni=gaosir.unfeeling.sbs#🇯🇵 JP | 153.121.45.101
