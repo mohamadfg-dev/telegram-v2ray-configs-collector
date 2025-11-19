@@ -5,7 +5,6 @@ vless://dbf7fa30-ad3e-445a-9c09-8f21aa01c209@gr.sepshoping.de:8017?security=none
 vless://72ca0721-3f1f-47f7-9060-e24156df0ca0@zone.ru.f2zone.ir:23209?security=none&type=tcp&headerType=http&path=/&host=telewebion.com#🇮🇷 IR | 185.83.182.183
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 94.182.137.12
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
-vless://3b7d0cef-fea5-4ce2-95de-8f30ea3a525d@brand3.mainonline.link:8080?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.29.149
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
