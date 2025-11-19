@@ -1,3 +1,4 @@
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&type=tcp&encryption=none#🇫🇮 FI | 95.217.233.18
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.40.194:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.40.194
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.40.194:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.40.194
 vless://15c2abe2-09b3-4a0a-90e4-87d59c497a66@bia-kanalemoon.vigilante.ir:443?mode=multi&security=reality&encryption=none&pbk=KXBh7V6rrtLLnRtUB1SgVGgsw4paoBddG07kW9wa0VY&fp=firefox&spx=/&type=grpc&serviceName=/Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs-Daily-Configs?ed=2048&sni=tgju.com#🇫🇮 FI | 79.137.206.52
@@ -11,6 +12,7 @@ vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@abmive.abmivenaser-18.ir:1520?secur
 vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.180.91
 vless://ed52b6dd-d53f-4f8b-bdc1-9abb3ac194ff@lb.aliusvpn.ru:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2356d1ae4b#🇫🇮 FI | 85.192.49.144
 vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&security=none#🇫🇮 FI | 95.217.214.252
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#🇫🇮 FI | 45.144.52.23
 vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.180.91
 vless://e1ef8cd4-25a7-4d3d-b7b5-7c329b381543@abmive.abmivenaser-18.ir:1520?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.180.91
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
