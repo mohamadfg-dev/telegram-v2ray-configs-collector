@@ -1,2 +1,5 @@
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#🇪🇸 ES | 194.62.99.239
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#🇪🇸 ES | 194.62.99.239
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeDYzUzZtc3cwMGVMYkF3eUwxTVlG@194.87.45.189:443/?outline=1#🇪🇸 ES | 194.87.45.189
 vless://6f0d0074-c227-4370-84aa-4b198955398a@145.249.109.54:10343?security=reality&encryption=none&pbk=0D54zil8NeTzPPOBQgx1nXaITEE14UqeTJ4IUyvLvTk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=cdbd76ca6912d8c9#🇪🇸 ES | 145.249.109.54
