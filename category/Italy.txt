@@ -1,3 +1,5 @@
-vless://ab3aece1-4719-4093-826e-d320f64f6a25@it.quattro-tech.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=it.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&spx=/sinavm#🇮🇹 IT | 92.42.100.180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹 IT | 176.126.83.121
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹 IT | 176.126.83.121
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹 IT | 176.126.83.121
 vless://678bbdc1-7307-4cf2-bec1-bcdbd8efdbe5@italy.pocomacho.ru:443?security=reality&encryption=none&pbk=w8fmqaWzMuOLi9qoV5ueSdrVel8xgr2R2Z1ayUE48EI&headerType=none&fp=chrome&spx=/D2j6eFVa56guYTK&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=40b4681581dae8#🇮🇹 IT | 147.45.51.164
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
