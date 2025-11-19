@@ -1,1 +1,4 @@
+vless://a308ddf6-cf9a-49ac-b128-27cf52052853@tu.soreanapanel.com:31724?security=reality&encryption=none&pbk=-rqtKEhyEldsxEbNVfdTr9kjVH507vQnDXpHLcgpYQE&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=27#🇹🇷 TR | 193.163.72.85
 vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 188.132.141.112
+vless://61545806-60b6-4b38-9d2f-884081a5a913@188.132.141.112:410?security=none&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 188.132.141.112
+vless://a308ddf6-cf9a-49ac-b128-27cf52052853@tu.soreanapanel.com:31724?security=reality&encryption=none&pbk=-rqtKEhyEldsxEbNVfdTr9kjVH507vQnDXpHLcgpYQE&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=27#🇹🇷 TR | 193.163.72.85
