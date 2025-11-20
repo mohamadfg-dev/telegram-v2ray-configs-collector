@@ -6,10 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=ifxoy.olivia-moosh.com&type=ws&sni=ifxoy.olivia-moosh.com#🇬🇧 GB | 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443/?type=ws&encryption=none&flow=&host=taochan.sylphachan.ip-ddns.com&path=/&security=tls&sni=taochan.sylphachan.ip-ddns.com&alpn=http/1.1&fp=randomized#🇬🇧 GB | 2a06:98c1:3120::
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇬🇧 GB | 51.68.198.51
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
@@ -21,6 +19,5 @@ vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@S
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@37.221.125.227:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#🇬🇧 GB | 37.221.125.227
 vless://d988a5dc-35a4-44e6-8a78-a56659eee68c@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=69#🇬🇧 GB | 193.46.81.151
-vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai16.000444.cn:443?mode=packet-up&path=/gdsthjjjvfxsstyy؟ed=443&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cho.chonon.sbs#🇬🇧 GB | 2a06:98c1:3101::ac40:919e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@51.89.116.123:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇬🇧 GB | 51.89.116.123

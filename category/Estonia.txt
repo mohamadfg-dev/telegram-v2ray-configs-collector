@@ -1,2 +1,1 @@
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇪🇪 EE | 38.180.45.61
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@38.180.45.61:11000/?type=ws&path=/tw&security=tls&sni=noproblemvpn.ru#🇪🇪 EE | 38.180.45.61
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#🇪🇪 EE | 37.252.5.75

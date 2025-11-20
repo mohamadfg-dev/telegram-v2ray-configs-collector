@@ -1,1 +1,2 @@
-vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=/ljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&type=ws&sni=638991523882288916.impreza-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://6c5294f9-c5b5-4d19-8bbd-985075972e20@betty.ns.cloudflare.com:443?path=/cmcfpxws&security=tls&encryption=none&type=ws&sni=638991681638524433.jetta-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b

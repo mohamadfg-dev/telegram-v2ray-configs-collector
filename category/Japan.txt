@@ -1,4 +1,3 @@
-vless://1eff6d61-2f9f-4689-82a9-4232a8f48949@47.79.32.82:42037?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&fp=chrome&pbk=3XDxoCztHymlFMXbG1BtoHyWRHpZ9Uvzwa5z9JrQC1E&sid=e978d721cd&type=raw&headertype=none#🇯🇵 JP | 47.79.32.82
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=/vless/&security=&encryption=none&type=ws#🇯🇵 JP | 5.253.41.223
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IvCfh6/wn4e1IEpQIHwgMTMxLjE4Ni42My44OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJoay5uYmVlLnBwLnVhIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=/vless/&security=none&encryption=none&host=Join-Join-Join-Join-&type=ws#🇯🇵 JP | 172.111.146.64
