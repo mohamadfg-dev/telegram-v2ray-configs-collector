@@ -1,4 +1,3 @@
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇷🇺 RU | 5.42.220.253
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#🇷🇺 RU | 84.201.138.55
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=bitva.mail.ru#🇷🇺 RU | 37.18.14.103
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#🇷🇺 RU | 84.201.138.55
