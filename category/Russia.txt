@@ -1,10 +1,14 @@
+ss://924a17e7-4e9d-4055-bf2e-6f8edfdee786@194.113.106.197:104?security=none&type=tcp#🇷🇺 RU | 194.113.106.197
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#🇷🇺 RU | 84.201.138.55
-vless://acb2c1bd-8f2e-4567-bd06-9243feaacfdc@92.51.38.205:443?security=reality&encryption=none&pbk=a7pE0PrtV-p1g975c57xFrQ8MBI4G_Ozd7eWiq4L6lU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=id.sber.ru&sid=f1d00cbbb31154b1🇷🇺 XN - VLESS REALITY Russia#🇷🇺 RU | 92.51.38.205
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=bitva.mail.ru#🇷🇺 RU | 37.18.14.103
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#🇷🇺 RU | 84.201.138.55
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇷🇺 RU | 5.42.220.253
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=vkdoc.mail.ru#🇷🇺 RU | 37.18.14.192
+trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?path=/Free-VPN-CF-Geo-Project/185.229.66.213=2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#🇷🇺 RU | 185.229.66.213
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=collections.yandex.ru#🇷🇺 RU | 37.18.14.192
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=web.max.ru#🇷🇺 RU | 37.18.14.192
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IvCfh7fwn4e6IFJVIHwgNDUuNjcuMjMwLjc5In0=
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=collections.yandex.ru#🇷🇺 RU | 37.18.14.192
+vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=web.max.ru#🇷🇺 RU | 37.18.14.192
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=web.max.ru#🇷🇺 RU | 37.18.14.192
