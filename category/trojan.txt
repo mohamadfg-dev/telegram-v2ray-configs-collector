@@ -1,10 +1,10 @@
 trojan://telegram-id-directvpn@52.47.116.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.116.99
 trojan://telegram-id-directvpn@35.181.114.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.114.162
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?encryption=none&security=tls&sni=azadnet-bdr.pages.dev&type=ws&host=azadnet-bdr.pages.dev&path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan#🇺🇸 US | 104.25.254.4
+trojan://babcaca-caba-baac-cdab-abbacbbaccac@127.0.0.1:8080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 trojan://telegram-id-privatevpns@52.47.116.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.116.99
 trojan://telegram-id-privatevpns@35.181.114.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.114.162
-trojan://3BLPOJr3OY@91.108.250.230:50191/?type=grpc&serviceName=&authority=&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&fp=chrome&sni=cloudflare.com&sid=2e&spx=/#🇵🇱 PL | 91.108.250.230
 trojan://D3OJA7xY5U@209.200.246.53:10785/?type=grpc&serviceName=&authority=&security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&sni=cloudflare.com&sid=20b09680&spx=/#🇨🇦 CA | 209.200.246.53
+trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&serviceName=&authority=&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&sni=cloudflare.com&sid=d9&spx=/#🇫🇷 FR | 145.223.70.115
 trojan://Aimer@135.84.74.254:2083/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me&allowInsecure=1#🇺🇸 US | 135.84.74.254
 trojan://Aimer@92.243.74.239:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#🇰🇭 KH | 92.243.74.239
 trojan://telegram-id-v2rayvpnchannel@52.47.116.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.116.99
