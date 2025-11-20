@@ -1,8 +1,5 @@
 vless://6f8923d9-f812-4ca6-b93a-8f9227bf2eab@195.93.253.49:33094?security=reality&encryption=none&pbk=35JazACyPS6LcDwpGibneEeMzkzGYWf4KTG_Oqp0oBE&headerType=none&type=tcp&sni=yahoo.com&sid=29489194da0d5d#🇳🇱 NL | 195.93.253.49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#🇳🇱 NL | 193.29.139.132
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@144.124.242.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=kY32I2PvI5UYqhjoZlcL0z6V6r1AV_lLZolQH78ApmU&sid=ae575a16aa1a19a9&type=tcp&headerType=none#🇳🇱 NL | 144.124.242.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#🇳🇱 NL | 193.29.139.132
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#🇳🇱 NL | 193.29.139.132
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL | 80.92.206.19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🇳🇱 NL | 193.29.139.179
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
@@ -24,5 +21,3 @@ vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl76.sulduznet.ir:35026/?type=tcp&s
 vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl76.sulduznet.ir:35026/?type=tcp&security=reality&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&fp=firefox&sni=refersion.com&sid=9d0424d2&spx=/#🇳🇱 NL | 5.255.122.92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
-vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@nl1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl1.clear-vpn.org&sid=fb228829c3da833b#🇳🇱 NL | 212.113.109.220
-vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?path=/&security=none&encryption=none&type=ws#🇳🇱 NL | 144.124.243.180
