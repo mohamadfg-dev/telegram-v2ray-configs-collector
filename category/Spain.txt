@@ -1,2 +1,3 @@
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@esp1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=esp1.clear-vpn.org&sid=fb228829c3da833b#🇪🇸 ES | 185.121.12.178
+vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@fi1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi1.clear-vpn.org&sid=fb228829c3da833b#🇪🇸 ES | 193.17.182.220

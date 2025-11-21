@@ -1,2 +1,1 @@
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
-vless://ab6ae524-eae1-47f6-966e-2cd6b777cef7@lat1.clear-vpn.org:443?security=reality&encryption=none&pbk=tCsa9mOLB6gCTdF4cx-s4BhckPBw846-cxggHOhmkyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lat1.clear-vpn.org&sid=fb228829c3da833b#🇱🇻 LV | 85.159.228.164
