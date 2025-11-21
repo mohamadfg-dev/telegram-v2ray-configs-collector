@@ -1,1 +1,1 @@
-vless://a1015799-6c9a-4bab-8ad0-8c9444d46fa0@141.227.166.22:11230/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&packetEncoding=xudp#🇳🇴 NO | 141.227.166.22
+vless://fd7d3e61-288e-4d0f-b5dc-591dcdbc119f@82.25.34.231:443?security=reality&encryption=none&pbk=_XTvBC1BC0f3QVzBPFqLQmyPKabSRxE5Py4jrmO84W8&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=63d80d5199a2bc#🇳🇴 NO | 82.25.34.231
