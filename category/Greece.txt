@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#🇬🇷 GR | 192.71.166.100
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#🇬🇷 GR | 192.71.166.100
+vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#🇬🇷 GR | 85.90.197.100
