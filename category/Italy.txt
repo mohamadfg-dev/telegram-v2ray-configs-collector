@@ -1,1 +1,2 @@
+vless://b7c88dc6-1513-49c0-be12-1cfe37bcd25b@usa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=cd123.global.ssl.fastly.net&type=ws#🇮🇹 IT | 151.101.241.242
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172

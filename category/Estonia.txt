@@ -1,3 +1,2 @@
 vless://33948d80-d11f-461e-9379-1a2f155e3b5d@64.188.82.240:8443?security=reality&encryption=none&pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE&host=google.com:443&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=62ec44ae23107c6f#🇪🇪 EE | 64.188.82.240
 vless://33948d80-d11f-461e-9379-1a2f155e3b5d@64.188.82.240:8443?security=reality&encryption=none&pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE&host=google.com:443&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=62ec44ae23107c6f#🇪🇪 EE | 64.188.82.240
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🇪🇪 EE | 188.214.36.155
