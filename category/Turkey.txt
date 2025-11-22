@@ -1,1 +1,3 @@
+vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@tr.srv1.stafillo.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇹🇷 TR | 188.132.192.30
+vless://9cab5397-59a5-4eb5-8833-805dd57c6eb8@tr.srv1.stafillo.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇹🇷 TR | 188.132.192.30
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&fp=chrome&type=ws#🇹🇷 TR | 185.234.66.81
