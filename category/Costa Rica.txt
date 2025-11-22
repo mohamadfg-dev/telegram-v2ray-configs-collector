@@ -1,1 +1,1 @@
-vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@delilah.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638992899155750157.sylphy-amsid.info&type=ws&sni=638992899155750157.sylphy-amsid.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=/assets?ed=512Join-&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#🇨🇷 CR | 2803:f800:50::6ca2:c26e
