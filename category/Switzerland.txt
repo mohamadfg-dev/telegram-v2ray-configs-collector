@@ -1,1 +1,1 @@
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24470?type=ws&path=/&security=none#🇨🇭 CH | 83.228.225.98
+vless://2e57f159-2bc1-4266-91a1-e96873ef4edc@38.180.161.18:443?security=reality&encryption=none&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=free3.tunnely.ru&sid=fc45029be9d08fdc#🇨🇭 CH | 38.180.161.18
