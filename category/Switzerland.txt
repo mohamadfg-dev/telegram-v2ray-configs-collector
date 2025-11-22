@@ -1,1 +1,1 @@
-vless://2e57f159-2bc1-4266-91a1-e96873ef4edc@38.180.161.18:443?security=reality&encryption=none&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=free3.tunnely.ru&sid=fc45029be9d08fdc#🇨🇭 CH | 38.180.161.18
+vless://fe72c121-a889-4b0e-8906-afa8f9af0737@che-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇨🇭 CH | 5.182.36.249
