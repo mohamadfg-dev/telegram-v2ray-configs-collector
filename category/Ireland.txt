@@ -1,1 +1,1 @@
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.244.75.137:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#🇮🇪 IE | 34.244.75.137
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.216.70:22222/?type=ws&encryption=none&flow=&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&security=tls&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪 IE | 34.250.216.70
