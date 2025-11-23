@@ -1,2 +1,2 @@
-wireguard://2Ax5nKaBrfiMpaH1MNn8JG/rJH5WB11wbgad+ihcv0s=@162.159.192.9:7559?address=172.16.0.2/32&presharedkey=&reserved=12,174,107&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | 2Ax5nKaBrfiMpaH1MNn8JG
-wireguard://6NcXfVkz/AfkMIQpiUZEwwczmJjKVl1Bc6jJT1ssumg=@162.159.192.17:934?address=172.16.0.2/32&presharedkey=&reserved=17,102,140&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | 6NcXfVkz
+wireguard://8CBaFoNjMJ64gMWudh+rjxrHtCq0lktrhxseaYo2S0k=@162.159.192.20:903?address=172.16.0.2/32&presharedkey=&reserved=228,46,87&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.192.20
+wireguard://CDnLLZSn0EimiIm5/tKx2sGIjXYehlKiEkOVKUVJJWw=@162.159.195.5:908?address=172.16.0.2/32&presharedkey=&reserved=183,56,128&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | CDnLLZSn0EimiIm5
