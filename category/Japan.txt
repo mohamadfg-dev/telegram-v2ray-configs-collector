@@ -1,5 +1,6 @@
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?encryption=none&security=tls&sni=pq-japan3.09vpn.com&type=ws&path=/vless/#🇯🇵 JP | 5.253.41.237
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.150.76
+vmess://eyJhZGQiOiI0NS4zMi40NS40NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkYmY3YTZlNC1kNTE4LTRmOWItYTU1ZS0yN2VmODkyZmZhYzEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0NzYwIiwicHMiOiLwn4ev8J+HtSBKUCB8IDQ1LjMyLjQ1LjQ1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#🇯🇵 JP | 160.16.117.182
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.89.176
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.150.76

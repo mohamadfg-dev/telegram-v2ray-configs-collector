@@ -1,2 +1,1 @@
-vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@45.144.49.61:4655?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 PL | 45.144.49.61
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🇵🇱 PL | 5.188.108.13
