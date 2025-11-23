@@ -1,1 +1,1 @@
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.36.16.188:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#🇰🇷 KR | 3.36.16.188
+vless://3c626a9e-c327-4666-9d89-01ca7495232d@kr.x8lab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.w3.org&sid=c44bcdb731f12c41#🇰🇷 KR | 78.153.150.98
