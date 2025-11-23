@@ -1,1 +1,1 @@
-trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443/?type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&security=tls&sni=joss.gpj1.web.id#🇧🇪 BE | 34.22.190.30
+trojan://0a477acf-1f95-47cb-b4a5-a627b4c57de3@34.22.190.30:443?path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#🇧🇪 BE | 34.22.190.30
