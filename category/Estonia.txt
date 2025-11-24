@@ -1,1 +1,1 @@
-vless://33948d80-d11f-461e-9379-1a2f155e3b5d@64.188.82.240:8443?security=reality&encryption=none&pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE&host=google.com:443&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=62ec44ae23107c6f#🇪🇪 EE | 64.188.82.240
+trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#🇪🇪 EE | 37.252.5.75
