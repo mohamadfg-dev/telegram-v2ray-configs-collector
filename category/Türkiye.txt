@@ -1,5 +1,5 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-vless://30fdfa76-f89e-4e50-831d-d6421b1c2dde@83.217.9.210:62178/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=zTn523BtZw4lI_vCGidIF8WTb8xZ-mUOoK8nCXnIAXk&sid=eeee2c2e8a38b0fb#🇹🇷 TR | 83.217.9.210
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxNTQuNTMuMTY0Ljg0IiwiYWRkIjoiMTU0LjUzLjE2NC44NCIsInBvcnQiOjgwODAsImlkIjoiMjVmYzJlNDEtZTY1NC00YjUxLWE5NjItMjJmNzdmZjJhOTc5IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
+vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.81.113.60
 vless://4f09c421-f289-4e4e-8d70-a96582376011@62.60.233.181:8443?security=reality&encryption=none&pbk=n-jengMmQUhis2zhigHO-o51vL_59JLh2_WuG8v6TxU&headerType=none&fp=chrome&spx=/@sinavm-@sinavm&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=21aeac0f2a#🇹🇷 TR | 62.60.233.181

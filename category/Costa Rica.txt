@@ -1,2 +1,5 @@
+vless://bc859634-e3c4-4575-9f79-566b8372b7d0@clyde.ns.cloudflare.com:443?path=/dcgbbdws&security=tls&encryption=none&type=ws&sni=638993742411384713.impreza-amsid.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?path=/tgysufws&security=tls&encryption=none&host=638992008112154761.jimny-amsib.info&type=ws&sni=638992008112154761.jimny-amsib.info#🇨🇷 CR | 2803:f800:50::6ca2:c202
 vless://c648044b-ed62-480d-a707-83c75f75bc0c@betty.ns.cloudflare.com:443?path=/ttjsmows&security=tls&encryption=none&insecure=1&host=638993963060199096.cayenne-amsid.info&type=ws&allowInsecure=1&sni=638993963060199096.cayenne-amsid.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://8b10d145-580b-4857-bcde-25f0c7f13bef@betty.ns.cloudflare.com:443?path=/ymyxzpws&security=tls&encryption=none&type=ws&sni=638993742412132259.impreza-amsid.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
 vless://c648044b-ed62-480d-a707-83c75f75bc0c@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993963060199096.cayenne-amsid.info&type=ws&host=638993963060199096.cayenne-amsid.info&path=/ttjsmows#🇨🇷 CR | 2803:f800:50::6ca2:c04b
