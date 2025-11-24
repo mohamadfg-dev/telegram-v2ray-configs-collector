@@ -1,2 +1,2 @@
+vless://c648044b-ed62-480d-a707-83c75f75bc0c@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993963060199096.cayenne-amsid.info&type=ws&host=638993963060199096.cayenne-amsid.info&path=/ttjsmows#🇨🇷 CR | 2803:f800:50::6ca2:c04b
 vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.32:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=/blue#🇨🇷 CR | 190.93.244.32
