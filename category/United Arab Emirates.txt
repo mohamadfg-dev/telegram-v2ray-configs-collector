@@ -1,2 +1,1 @@
-vless://ef2e086e-bce5-4c2f-b5b3-9e27911e995a@ua.sepserver.de:8029?encryption=none&security=reality&sni=www.stackoverflow.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#🇦🇪 AE | 37.202.222.228
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
