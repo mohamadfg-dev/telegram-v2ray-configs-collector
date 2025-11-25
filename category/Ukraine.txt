@@ -1,1 +1,1 @@
-vless://a9457db5-e0b8-4a86-bb33-957c99b235c0@185.243.99.104:29453/?type=tcp&encryption=none&flow=&sni=zhaket.com&fp=chrome&security=reality&pbk=cXsw864RT4iYYUdUe02MPtYLYjantGqOSSQjc5Y8mCY&sid=850a5cbb81#🇺🇦 UA | 185.243.99.104
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#🇺🇦 UA | 194.152.44.253
