@@ -1,2 +1,1 @@
-trojan://3c6c2cac-7e0a-462b-ae19-2e5e264d7fdf@46.183.186.57:443?path=/Free-VPN-CF-Geo-Project/46.183.186.57=443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#🇭🇺 HU | 46.183.186.57
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@74.49.214.253:2096?encryption=none&security=tls&sni=vless.muzheng.top&type=ws&host=vless.muzheng.top&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#🇭🇺 HU | 74.49.214.253
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@217.13.104.112:443?encryption=none&security=reality&sni=cloudflare.com&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&sid=123abc&type=grpc&authority=&serviceName=xyz&mode=gun#🇭🇺 HU | 217.13.104.112
