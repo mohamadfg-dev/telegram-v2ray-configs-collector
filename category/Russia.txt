@@ -1,3 +1,4 @@
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇷🇺 RU | 5.42.220.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺 RU | 90.156.203.62
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🇷🇺 RU | 62.113.42.65
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🇷🇺 RU | 62.113.42.65

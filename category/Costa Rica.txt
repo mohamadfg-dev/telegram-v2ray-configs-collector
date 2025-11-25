@@ -1,3 +1,1 @@
-vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?path=/fhujaiws&security=tls&encryption=none&host=638991995737742135.swift-amsib.info&type=ws&sni=638991995737742135.swift-amsib.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
-vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
-vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=xverb.ice-pierli.info#🇨🇷 CR | 2803:f800:50::6ca2:c1f7
