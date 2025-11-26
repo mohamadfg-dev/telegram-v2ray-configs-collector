@@ -1,2 +1,3 @@
-vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?path=/brxigzws&security=tls&encryption=none&type=ws&sni=638996735062000656.highlander-amsih.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@laylah.ns.cloudflare.com:443?path=/assets?ed=512&security=tls&alpn=http/1.1&encryption=none&host=asli25qor1.garden-3265.ir&fp=chrome&type=ws&sni=asli25qor1.garden-3265.ir#🇨🇷 CR | 2803:f800:50::6ca2:c2e6
+vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=/uywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&type=ws&sni=638996506447943078.soul-amsih.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b

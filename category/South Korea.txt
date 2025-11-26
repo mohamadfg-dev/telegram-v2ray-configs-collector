@@ -1,1 +1,1 @@
-vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd#🇰🇷 KR | 45.88.182.24
+vless://2bb0eee3-ee05-467a-9705-86cdff7b988a@217.60.189.18:42370?security=none&type=grpc&serviceName=@vpn_landbot@vpn_landbot@vpn_landbot#🇰🇷 KR | 217.60.189.18

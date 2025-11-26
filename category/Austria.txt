@@ -1,1 +1,1 @@
-vless://25f325bd-3ed0-4eac-bedd-ad43c3a44e0c@blackout.nethcloud.top:8443?security=reality&encryption=none&pbk=EUJQeYjLR3WY8bKDPVHsSZ_V_xOSmb6dxhqG9k-EqCY&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=96d0a6e8a6c0d73a#🇦🇹 AT | 62.60.238.26
+vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@at.monkeyisland.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at.monkeyisland.xyz&fp=chrome&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7&type=tcp&headerType=none#🇦🇹 AT | 87.251.69.114
