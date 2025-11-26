@@ -2,5 +2,4 @@ vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTM0LjE4MyIsImFkZCI6Ijgu
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vmess://eyJhZGQiOiI4LjIxOC4xNzUuNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWI5NTc1YzMtYzQwNC00YzkzLTk4ZjgtNjM1ODFlODhmZmRmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOiI5NzU0IiwicHMiOiJ1bmRlZmluZWQgSEsgfCA4LjIxOC4xNzUuNjQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#undefined HK | 58.152.26.173
-vless://e258977b-e413-4718-a3af-02d75492c349@154.21.203.45:8443?encryption=none&security=tls&sni=www.x-aniu--hk.netlib.re&allowInsecure=1&type=ws&host=www.x-aniu--hk.netlib.re&path=/?ed=2560#undefined HK | 154.21.203.45
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=/snippets/ip#undefined HK | 27.50.48.8
