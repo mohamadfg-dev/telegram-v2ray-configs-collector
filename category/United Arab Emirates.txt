@@ -1,2 +1,1 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
-vless://e616f24a-a30e-4d1a-a7fd-7b02dccfd9d2@cdncloudthree.serverstats.ru:443?encryption=none&security=tls&sni=cdncloudthree.serverstats.ru&alpn=h2,http/1.1&fp=chrome&type=xhttp&host=cdncloudthree.serverstats.ru&mode=auto#🇦🇪 AE | 188.72.103.3
