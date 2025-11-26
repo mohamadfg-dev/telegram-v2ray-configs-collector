@@ -1,1 +1,1 @@
-vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=/xjfclmws&security=tls&encryption=none&type=ws&sni=638996506447943078.soul-amsih.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?path=/fhujaiws&security=tls&encryption=none&host=638991995737742135.swift-amsib.info&type=ws&sni=638991995737742135.swift-amsib.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b

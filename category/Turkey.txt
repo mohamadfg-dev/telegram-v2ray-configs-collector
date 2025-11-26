@@ -1,2 +1,1 @@
-vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&path=/hfwsxtws#🇹🇷 TR | 185.234.66.101
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&flow=&path=/lkjdasws&security=tls#🇹🇷 TR | 185.234.66.81
+vless://1855b4d0-f414-40d6-9b3a-78c2b5217de4@tr.cartfunshop.com:47193?security=reality&type=tcp&headerType=none&path=&host=&sni=www.pcmag.com&fp=firefox&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&sid=82bf76bf5e1008d8#🇹🇷 TR | 5.180.45.246
