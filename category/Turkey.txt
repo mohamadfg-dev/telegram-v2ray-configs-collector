@@ -1,1 +1,2 @@
-vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=firefox&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#🇹🇷 TR | 213.142.133.46
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?encryption=none&security=tls&type=ws&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&path=/hfwsxtws#🇹🇷 TR | 185.234.66.101
+vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&flow=&path=/lkjdasws&security=tls#🇹🇷 TR | 185.234.66.81
