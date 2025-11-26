@@ -1,1 +1,3 @@
-vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?flow=&type=ws&host=&path=/xjfclmws&security=tls&sni=638996506447943078.soul-amsih.info&fp=chrome&allowInsecure=0#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://038a42d5-05b0-4d12-af99-37643ac347a1@betty.ns.cloudflare.com:443?path=/fhujaiws&security=tls&encryption=none&host=638991995737742135.swift-amsib.info&type=ws&sni=638991995737742135.swift-amsib.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@west.ns.cloudflare.com:443?path=/harman&security=tls&encryption=none&fp=chrome&type=ws&sni=xverb.ice-pierli.info#🇨🇷 CR | 2803:f800:50::6ca2:c1f7

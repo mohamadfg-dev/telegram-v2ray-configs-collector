@@ -1,1 +1,1 @@
-vless://86e55674-3841-4f7a-a902-cdb887393c2d@83.228.227.96:48933?security=reality&encryption=none&pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=8457e2#🇨🇭 CH | 83.228.227.96
+vless://571bd439-e05a-4273-9f9f-d1e7de8f8d41@213.176.18.183:443?security=reality&encryption=none&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=free2.tunnely.ru&sid=fc45029be9d08fdc#🇨🇭 CH | 213.176.18.183
