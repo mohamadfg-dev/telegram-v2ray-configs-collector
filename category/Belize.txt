@@ -1,1 +1,1 @@
-trojan://bpb-trojan@45.131.208.81:443?security=tls&sni=403B3611-99BC-43b7-88D7-26eD5d0825A9-3.PaGES.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=/trt3XSTgGNyK4r9U0o?ed=2560&fp=randomized&alpn=h2,http/1.1#🇧🇿 BZ | 45.131.208.81
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.78:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🇧🇿 BZ | 45.131.211.78
