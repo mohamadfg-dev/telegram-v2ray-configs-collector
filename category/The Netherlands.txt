@@ -6,10 +6,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇳🇱 NL | 80.92.206.19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#🇳🇱 NL | 193.29.139.179
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=/?BIA_TELEGRAM@V2rayBaaz&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🇳🇱 NL | 45.136.125.217
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🇳🇱 NL | 45.136.125.216
 vless://d7fbe279896e40118c23d15fe537dddd@213.176.16.74:443?security=reality&encryption=none&pbk=XNL_xB1Spd09CQQQGnjeMPPK6_tPnFuYI_nLKk3EiWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=aabbccdd#🇳🇱 NL | 213.176.16.74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR2hRcHNNVXByY0hYS0NkbnlTR1Aw@194.87.216.218:52571#🇳🇱 NL | 194.87.216.218
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=&encryption=none&headerType=&type=tcp#🇳🇱 NL | 159.223.209.139
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
@@ -22,4 +21,6 @@ vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@146.103.33.38:443?encryption=none&s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#🇳🇱 NL | 77.238.224.29
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=/?BIA_TELEGRAM@V2rayBaaz&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🇳🇱 NL | 45.136.125.215
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@nld26.luckernld.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cybo.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&spx=/&type=tcp&headerType=none&host=/?BIA_TELEGRAM@V2rayBaaz#🇳🇱 NL | 45.136.125.217
 vless://06909812-7bd8-4e39-aa4f-911b1ce7c45c@38.131.1.85:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#🇳🇱 NL | 38.131.1.85
