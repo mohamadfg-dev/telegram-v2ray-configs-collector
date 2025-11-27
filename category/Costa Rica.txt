@@ -1,1 +1,2 @@
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@laylah.ns.cloudflare.com:443?path=/assets?ed=512&security=tls&encryption=none&alpn=http/1.1&host=asli25qor1.garden-3265.ir&fp=chrome&type=ws&sni=asli25qor1.garden-3265.ir#🇨🇷 CR | 2803:f800:50::6ca2:c2e6
+vless://3142ceda-6964-4377-94e5-190f17c8ad32@190.93.247.56:2052?security=none&type=ws&host=webmail.palmex.iR.&path=/speedtest?ed=2560#🇨🇷 CR | 190.93.247.56
+vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=/ybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
