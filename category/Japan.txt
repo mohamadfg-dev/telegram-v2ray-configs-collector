@@ -1,4 +1,5 @@
 vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.49.152:443?security=reality&encryption=none&pbk=xx7kFsgSVU_ovUPxmnKruzMKAs6oSUO8SvcvTRs6GnY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ameba.jp&sid=aea7080e57#🇯🇵 JP | 147.45.49.152
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.236.32:2760?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 JP | 160.16.236.32
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:4054?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 JP | 160.16.240.91
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 JP | 153.121.43.183
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IvCfh6/wn4e1IEpQIHwgMTMxLjE4Ni42My44OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJoay5uYmVlLnBwLnVhIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🇯🇵 JP | 160.16.63.16
