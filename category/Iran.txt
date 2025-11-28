@@ -4,9 +4,7 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://dbf7fa30-ad3e-445a-9c09-8f21aa01c209@gr.sepshoping.de:8017?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 87.236.38.11
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 94.182.137.12
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
-vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3333?security=none&type=ws&path=/#🇮🇷 IR | 5.202.9.117
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
