@@ -1,3 +1,4 @@
 vless://b127d2d2-277a-491e-bf80-2e8688fa85e2@147.45.49.152:443?security=reality&encryption=none&pbk=xx7kFsgSVU_ovUPxmnKruzMKAs6oSUO8SvcvTRs6GnY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ameba.jp&sid=aea7080e57#🇯🇵 JP | 147.45.49.152
+trojan://2cf6d686799e6fa95316394064f26c0a@153.121.44.99:3093?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🇯🇵 JP | 153.121.44.99
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V2ZnWlNsMmRNdlEyd1liY2JwSXZ4@sakura.outlinekeys.net:1235#🇯🇵 JP | 91.194.160.151
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IvCfh6/wn4e1IEpQIHwgMTMxLjE4Ni42My44OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJoay5uYmVlLnBwLnVhIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://e258977b-e413-4718-a3af-02d75492c349@18.183.172.12:443?encryption=none&security=tls&sni=www.x-aniu--sg.netlib.re&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=www.x-aniu--sg.netlib.re&path=/?ed=2560#🇯🇵 JP | 18.183.172.12
