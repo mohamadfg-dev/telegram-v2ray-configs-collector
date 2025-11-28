@@ -1,1 +1,1 @@
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@laylah.ns.cloudflare.com:443?path=/assets?ed=512&security=tls&encryption=none&alpn=http/1.1&host=asli25qor1.garden-3265.ir&fp=chrome&type=ws&sni=asli25qor1.garden-3265.ir#🇨🇷 CR | 2803:f800:50::6ca2:c2e6
+vless://289f0d70-5985-46e9-b05a-9f66f821f47d@diana.ns.cloudflare.com:443?path=/assets?ed=512&security=tls&alpn=http/1.1&encryption=none&host=all1azar.darolmajanin.com&fp=chrome&type=ws&sni=all1azar.darolmajanin.com#🇨🇷 CR | 2803:f800:50::6ca2:c217
