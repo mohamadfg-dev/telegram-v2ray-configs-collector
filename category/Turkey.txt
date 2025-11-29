@@ -1,1 +1,1 @@
-vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#🇹🇷 TR | 193.111.76.140
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 TR | 185.234.66.94
