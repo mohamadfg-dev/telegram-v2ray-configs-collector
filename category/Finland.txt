@@ -1,4 +1,3 @@
-vless://78302036-66e6-4018-ae95-d168cff5a475@helsinki.fonixapp.org:28264?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=9e7234a45944#🇫🇮 FI | 109.61.17.127
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.220.218
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.220.218
 vless://4c8659ab-e49f-4db6-9a87-d0247e98f5ec@m61a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮 FI | 65.109.200.240
@@ -8,6 +7,7 @@ vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encrypti
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&host=fl-3-direct.djarbnet.ru&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#🇫🇮 FI | 45.144.52.23
 vless://ccbd9bac-1706-42e4-a471-db3096e7314c@1.pandaserver654.ir:3696?security=reality&encryption=none&pbk=Jsvqk8hSyL-JT5-sasABrFsbQmafOp-wMy85Y8Xm1T0&headerType=none&fp=firefox&spx=/example&type=tcp&sni=www.stackoverflow.com&sid=33552dae47b33e54#🇫🇮 FI | 65.109.181.219
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&type=ws&host=fl-3-direct.djarbnet.ru&path=/getupdates&security=tls&fp=chrome&sni=fl-3-direct.djarbnet.ru#🇫🇮 FI | 45.144.52.23
 vless://b35e1a7b-1248-406c-a35c-d417cd6c830e@fl.mizbanandata.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&sni=docker.com&sid=fd1dff03520d8f56#🇫🇮 FI | 65.109.182.195
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&host=fl-3-direct.djarbnet.ru&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#🇫🇮 FI | 45.144.52.23
 vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9#🇫🇮 FI | 92.63.224.153
@@ -15,6 +15,7 @@ vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&secur
 vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@65.109.188.4:33801?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.188.4
 vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl79.sulduznet.ir:35029/?type=tcp&security=reality&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&fp=firefox&sni=refersion.com&sid=9d0424d2&spx=/#🇫🇮 FI | 65.109.213.179
 vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl79.sulduznet.ir:35029/?type=tcp&security=reality&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&fp=firefox&sni=refersion.com&sid=9d0424d2&spx=/#🇫🇮 FI | 65.109.213.179
-vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 37.27.220.218
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690#🇫🇮 FI | 46.62.241.106
+vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 37.27.220.218
+vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#🇫🇮 FI | 65.109.177.74
