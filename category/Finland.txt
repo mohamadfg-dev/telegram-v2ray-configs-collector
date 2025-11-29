@@ -1,6 +1,6 @@
+vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 37.27.220.218
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.220.218
 vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 37.27.220.218
-vless://4b0735b5-672b-468f-af98-d6901d620e50@autos.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇫🇮 FI | 85.192.49.56
 vless://4c8659ab-e49f-4db6-9a87-d0247e98f5ec@m61a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮 FI | 65.109.200.240
 vless://5faae05e-c789-49b2-981f-eb1d16138e72@37.27.40.194:10138?path=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=none&encryption=none&type=ws#🇫🇮 FI | 37.27.40.194
 vless://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@inst.faceppm.ru:1888?security=reality&encryption=none&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.kernel.org&sid=16b7f8a207cda6e3#🇫🇮 FI | 185.42.163.177
