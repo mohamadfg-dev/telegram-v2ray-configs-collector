@@ -1,1 +1,1 @@
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?encryption=none&type=ws&host=fast01.0860852.xyz&path=/Telegram @sinavm /?ed=2560&security=tls&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
