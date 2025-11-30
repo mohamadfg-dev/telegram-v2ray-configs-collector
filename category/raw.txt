@@ -1,1 +1,2 @@
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.245.184.186:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=raw&headertype=none#🇺🇸 US | 172.245.184.186
+vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&type=raw&headertype=none#🇫🇷 FR | 38.54.122.118

@@ -1,1 +1,1 @@
-vless://c99ed771-8487-49b3-8f7b-53db209be53f@193.228.128.96:6433/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&security=reality&pbk=cbob-JZh-G-GsvnDJH1rW2nuWpM1bJJEiPBOsPpGRGs&sid=1A2B3C4D5E6F7890#🇪🇪 EE | 193.228.128.96
+vless://a4d62ac0-fd19-4d7d-b65f-5ac8f0323372@est01-ss01.tcp-reset-club.net:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=86e999a2cdc2#🇪🇪 EE | 185.155.96.155
