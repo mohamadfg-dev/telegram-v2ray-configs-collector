@@ -1,4 +1,3 @@
-vless://669be00c-67b4-4b87-b08f-311c45abced2@212.233.74.218:443?security=reality&encryption=none&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.rutube.ru&sid=ffffffffff#🇷🇺 RU | 212.233.74.218
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇷🇺 RU | 80.92.206.19
 vless://c2d09c1c-7d4d-46c4-838f-ad263b93c4e1@213.165.54.4:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=cdnjs.com&fp=safari&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#🇷🇺 RU | 213.165.54.4
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
@@ -9,4 +8,6 @@ vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=real
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🇷🇺 RU | 62.113.42.65
+vless://_911331@89.23.113.137:49943?security=reality&encryption=none&pbk=_7L2lOpu_wMQLTxy0VT0WIHe8yYfBFKKq8wWWLr-4Tw&headerType=none&fp=random&type=tcp&sni=ietf.org&sid=ffffffffff#🇷🇺 RU | 89.23.113.137
+vless://669be00c-67b4-4b87-b08f-311c45abced2@212.233.73.23:443?security=reality&encryption=none&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.rutube.ru&sid=ffffffffff#🇷🇺 RU | 212.233.73.23
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🇷🇺 RU | 62.113.42.65

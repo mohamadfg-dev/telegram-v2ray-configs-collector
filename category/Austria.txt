@@ -1,1 +1,1 @@
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@152.53.47.193:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=edge&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff#🇦🇹 AT | 152.53.47.193
+vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=200f99e321#🇦🇹 AT | 5.181.21.152
