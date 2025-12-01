@@ -1,1 +1,2 @@
 vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&type=ws&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
