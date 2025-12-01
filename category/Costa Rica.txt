@@ -1,1 +1,1 @@
-vless://32a569a9-9a45-41ba-af1d-41222d4de04b@clyde.ns.cloudflare.com:443?path=/bvyuajws&security=tls&encryption=none&type=ws&sni=638999788656454329.vitara-amsim.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
