@@ -1,1 +1,3 @@
 vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&type=ws&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://ff153813-f7ba-4a70-9a9f-a33bbaeb9ec3@betty.ns.cloudflare.com:443?path=/skoiykws&security=tls&encryption=none&type=ws&sni=639001517381359848.impreza-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
