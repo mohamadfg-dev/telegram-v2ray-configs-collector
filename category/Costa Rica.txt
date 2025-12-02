@@ -1,3 +1,2 @@
-vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&type=ws&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
-vless://ff153813-f7ba-4a70-9a9f-a33bbaeb9ec3@betty.ns.cloudflare.com:443?path=/skoiykws&security=tls&encryption=none&type=ws&sni=639001517381359848.impreza-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
-vless://a27518e0-0593-4771-9e9c-f3b2134ded11@clyde.ns.cloudflare.com:443?path=/mjfutiws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001485683144053.stinger-amsip.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.34:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#🇨🇷 CR | 190.93.246.34
+vless://6c5294f9-c5b5-4d19-8bbd-985075972e20@betty.ns.cloudflare.com:443?path=/cmcfpxws&security=tls&encryption=none&host=638991681638524433.jetta-amsia.info&type=ws&sni=638991681638524433.jetta-amsia.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
