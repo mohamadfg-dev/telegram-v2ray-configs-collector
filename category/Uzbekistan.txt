@@ -1,1 +1,1 @@
-vless://06dea0c2-488d-4e6a-a8c3-fb7d4c5a4be8@82.148.2.86:443?path=/Free-VPN-CF-Geo-Project/82.148.2.86=443&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#🇺🇿 UZ | 82.148.2.86
+trojan://69e41ad8-254b-4e50-acfb-34910ba4b50c@82.148.2.86:443?path=/Free-VPN-CF-Geo-Project/82.148.2.86=443&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#🇺🇿 UZ | 82.148.2.86

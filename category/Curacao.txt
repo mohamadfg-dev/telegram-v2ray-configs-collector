@@ -1,3 +1,5 @@
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.146.201.253:2096?path=/ /?ed=2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#undefined CW | 45.146.201.253
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v6.hiddendom.shop#undefined CW | 5.10.245.70
