@@ -1,1 +1,2 @@
 vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=/egakxows&security=tls&encryption=none&host=639002592262919469.sentra-amsir.info&type=ws&sni=639002592262919469.sentra-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.247.65
