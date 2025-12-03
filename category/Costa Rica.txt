@@ -1,1 +1,1 @@
-vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639002442881637239.supra-amsir.info&allowInsecure=1&type=ws&host=639002442881637239.supra-amsir.info&path=/pvoxsaws#🇨🇷 CR | 2803:f800:50::6ca2:c15b
+vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=/egakxows&security=tls&encryption=none&host=639002592262919469.sentra-amsir.info&type=ws&sni=639002592262919469.sentra-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
