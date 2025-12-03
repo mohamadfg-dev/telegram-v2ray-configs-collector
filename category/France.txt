@@ -1,13 +1,11 @@
-ss://YWVzLTI1Ni1nY206ZmZjMTJhMWQtZDY2YS00YjVlLWFiMmEtMWUzYTFkZGI5NjQ1@185.156.72.107:443#🇫🇷 FR | 185.156.72.107
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 137.74.53.176
 trojan://telegram-id-directvpn@51.45.40.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.40.238
 trojan://telegram-id-directvpn@15.188.94.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.94.111
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.155
-ss://YWVzLTI1Ni1nY206ZmZjMTJhMWQtZDY2YS00YjVlLWFiMmEtMWUzYTFkZGI5NjQ1@185.156.72.107:443#🇫🇷 FR | 185.156.72.107
-ss://YWVzLTI1Ni1nY206ZmZjMTJhMWQtZDY2YS00YjVlLWFiMmEtMWUzYTFkZGI5NjQ1@185.156.72.107:443#🇫🇷 FR | 185.156.72.107
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288?security=tls&sni=sweetdream.sweetthunder.click&fp=chrome&type=tcp&path=/#🇫🇷 FR | 217.69.10.156
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇫🇷 FR | 45.77.62.215
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967640653061122.qazvin-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 94.131.118.169
+vless://7982c1ea-1292-4f87-a8fd-92a5f12575c1@57.130.29.181:41639?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇫🇷 FR | 57.130.29.181
 trojan://telegram-id-privatevpns@51.45.40.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.40.238
 trojan://telegram-id-privatevpns@15.188.94.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.94.111
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷 FR | 194.4.49.4
@@ -25,7 +23,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.94.111:22224?type=ws&securit
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 137.74.53.176
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=#🇫🇷 FR | 95.179.217.208
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 31.56.146.225
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#🇫🇷 FR | 185.234.64.228
-trojan://telegram-id-v2rayvpnchannel@15.188.94.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.94.111
-trojan://telegram-id-v2rayvpnchannel@51.45.40.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.40.238
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org#🇫🇷 FR | 51.159.96.121

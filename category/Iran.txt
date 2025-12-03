@@ -5,7 +5,6 @@ vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25l
 vless://dbf7fa30-ad3e-445a-9c09-8f21aa01c209@gr.sepshoping.de:8017?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 87.236.38.11
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
-vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
@@ -26,13 +25,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTMuMTc2LjcuODUiLCJhZGQiOiJjaGFu
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
-vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#🇮🇷 IR | 193.151.135.21
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v6.hiddendom.shop#🇮🇷 IR | 45.131.4.77
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
