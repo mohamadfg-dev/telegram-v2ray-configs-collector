@@ -6,5 +6,4 @@ vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?encryption=none&fl
 vless://8ff440e9-2c27-4b20-be26-9be27086fc8d@45.136.5.30:110?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.30
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=19aa22f681923dc8#🇹🇷 TR | 45.92.219.50
 vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#🇹🇷 TR | 46.31.76.3
-vless://8ff440e9-2c27-4b20-be26-9be27086fc8d@45.136.5.30:110?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.136.5.30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563#🇹🇷 TR | 185.39.204.161
