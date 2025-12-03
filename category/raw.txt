@@ -1,1 +1,1 @@
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=raw&headertype=none#🇰🇿 KZ | 109.248.170.119
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA4NS4yMzQuOTQuMTQzIiwiYWRkIjoibHQuZnhsY24uY29tIiwicG9ydCI6IjQ1MjkxIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=

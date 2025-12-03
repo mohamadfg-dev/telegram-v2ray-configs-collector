@@ -1,2 +1,1 @@
-vless://3c626a9e-c327-4666-9d89-01ca7495232d@78.153.150.98:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.w3.org&fp=chrome&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41#🇰🇷 KR | 78.153.150.98
-vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@43.202.56.51:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&spx=/&type=grpc#🇰🇷 KR | 43.202.56.51
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAxMjkuMTU0LjYxLjMyIiwiYWRkIjoiMTI5LjE1NC42MS4zMiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI5M2M4ZmQ5NC0xN2RlLTQ3MzAtODk3Ny1kNTVlMzA0ZTlhODUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiMTI5LjE1NC42MS4zMiIsInRscyI6IiJ9
