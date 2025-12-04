@@ -1,1 +1,2 @@
-vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?security=tls&type=ws&path=/ssxboqws&host=639003543253503779.supra-amsit.info&sni=639003543253503779.supra-amsit.info&fp=chrome&encryption=none#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001966559981133.yaris-amsiq.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=/lzummpws&security=tls&encryption=none&type=ws&sni=639003456258253450.mustang-amsit.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
