@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA4NS4yMzQuOTQuMTQzIiwiYWRkIjoibHQuZnhsY24uY29tIiwicG9ydCI6IjQ1MjkxIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@api.chandplus.com:443?encryption=none&security=tls&sni=api.chandplus.com&alpn=h3,h2,http/1.1&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 95.217.206.161
