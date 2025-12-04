@@ -1,2 +1,2 @@
-vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639002745868715407.golf-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🇨🇷 CR | 190.93.245.33
+vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?security=tls&type=ws&path=/ssxboqws&host=639003543253503779.supra-amsit.info&sni=639003543253503779.supra-amsit.info&fp=chrome&encryption=none#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639002442881637239.supra-amsir.info&allowInsecure=1&type=ws&host=639002442881637239.supra-amsir.info&path=/pvoxsaws#🇨🇷 CR | 2803:f800:50::6ca2:c15b
