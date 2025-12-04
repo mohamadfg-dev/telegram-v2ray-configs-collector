@@ -1,2 +1,1 @@
 vless://1242d7fa-0b37-4fe7-bc98-9b6e576614c0@delilah.ns.cloudflare.com:443?security=tls&type=ws&path=/ssxboqws&host=639003543253503779.supra-amsit.info&sni=639003543253503779.supra-amsit.info&fp=chrome&encryption=none#🇨🇷 CR | 2803:f800:50::6ca2:c263
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.245.33
