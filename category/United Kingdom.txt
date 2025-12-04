@@ -5,6 +5,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#🇬�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇬🇧 GB | 82.38.31.210
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇬🇧 GB | 82.38.31.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
@@ -12,7 +13,7 @@ vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&securi
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&security=none&encryption=none&type=httpupgrade#🇬🇧 GB | 2a06:98c1:3120::
+vless://55d198a1-a5f5-4a96-9e4a-70950ea166a8@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639002442881637239.supra-amsir.info&allowInsecure=1&type=ws&host=639002442881637239.supra-amsir.info&path=/pvoxsaws#🇬🇧 GB | 2a06:98c1:50::ac40:215b
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 vless://0abae059-b759-4040-a928-f84a57b8fbd4@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇬🇧 GB | 51.68.198.51
 vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇬🇧 GB | 51.68.198.51
@@ -24,6 +25,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#🇬🇧 GB | 82.38.31.191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🇬🇧 GB | 82.38.31.187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🇬🇧 GB | 82.38.31.217
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-SiNAVM_SiNAVM_SiNAVM_SiNAVMed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/Telegram @sinavm/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=512&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
@@ -31,14 +34,17 @@ vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none#🇬🇧 GB | 158.177.96.122
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&insecure=0&allowInsecure=0&type=ws&host=gaosir.unfeeling.sbs&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#🇬🇧 GB | 25.25.25.253
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&insecure=0&allowInsecure=0&type=ws&host=gaosir.unfeeling.sbs&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#🇬🇧 GB | 25.25.25.253
-vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=/egakxows&security=tls&encryption=none&host=639002592262919469.sentra-amsir.info&type=ws&sni=639002592262919469.sentra-amsir.info#🇬🇧 GB | 2a06:98c1:50::ac40:2263
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=639001966559968893.yaris-amsiq.info&type=ws&sni=639001966559968893.yaris-amsiq.info#🇬🇧 GB | 2a06:98c1:50::ac40:21d9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#🇬🇧 GB | 82.38.31.191
 vless://f3a4585f-0c2d-4ff9-85a4-94cb1cd19a47@13.135.76.1:4655?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 13.135.76.1
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/Telegram @sinavm/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-SiNAVM_SiNAVM_SiNAVM_SiNAVMed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/Telegram @sinavm/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@95.154.237.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#🇬🇧 GB | 95.154.237.116
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vmess://eyJhZGQiOiJqNDY1OGUudGVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiajQ2NThlLnRlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9rMHV6Yi5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HrPCfh6cgR0IgfCAyYTA2Ojk4YzE6MzEyMDo6Iiwic2N5IjoiYXV0byIsInNuaSI6Imo0NjU4ZS50ZWVvb21ib29tLmRlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇬🇧 GB | 82.38.31.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇬🇧 GB | 82.38.31.194
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
