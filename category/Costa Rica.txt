@@ -1,2 +1,1 @@
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639001966559981133.yaris-amsiq.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
-vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=/lzummpws&security=tls&encryption=none&type=ws&sni=639003456258253450.mustang-amsit.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.247.65
