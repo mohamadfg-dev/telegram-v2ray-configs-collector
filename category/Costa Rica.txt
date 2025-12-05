@@ -1,5 +1,2 @@
-vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=/egakxows&security=tls&encryption=none&host=639002592262919469.sentra-amsir.info&type=ws&sni=639002592262919469.sentra-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
-vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&fp=chrome&type=ws&sni=hazmkardan.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.245.33
-vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=/egakxows&security=tls&encryption=none&insecure=0&host=639002592262919469.sentra-amsir.info&fp=chrome&type=ws&allowInsecure=0&sni=639002592262919469.sentra-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&type=ws&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
