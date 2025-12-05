@@ -1,7 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792#🇫🇮 FI | 78.153.139.98
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792?note=@freeOnlineVPN#🇫🇮 FI | 78.153.139.98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792#🇫🇮 FI | 78.153.139.98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoRG84M3BvMXBUSmZxY2JiblV4bE04@78.153.139.98:1792#🇫🇮 FI | 78.153.139.98
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 ss://YWVzLTEyOC1nY206MXo2ZzA3ZHNnaTJqdjhzOGpzczQ=@185.103.110.67:18282#🇫🇮 FI | 185.103.110.67
@@ -12,4 +9,5 @@ vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮 FI | 45.15.127.49
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690#🇫🇮 FI | 46.62.241.106
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#🇫🇮 FI | 65.108.1.249
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&type=ws&sni=ak.suoni.nyc.mn#🇫🇮 FI | 212.192.212.74
