@@ -1,2 +1,1 @@
-vless://6a29a79c-9807-48da-9f7f-5d2e085392a3@145.249.109.183:38971/?type=tcp&encryption=none&flow=&sni=yandex.ru&fp=chrome&security=reality&pbk=NQdNdh_nLXsrNtOAq6yHUyEk7SypYgg80B-TacLSVj0&sid=72fe07f24a45e9f6#🇪🇸 ES | 145.249.109.183
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
