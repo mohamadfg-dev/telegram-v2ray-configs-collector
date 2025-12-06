@@ -1,1 +1,2 @@
 vless://c1853115-eb6b-4592-b01f-05037d33505d@bg.fasssst.ru:443?security=reality&encryption=none&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.fasssst.ru&sid=f5b76860a3c9c3f5#🇧🇬 BG | 2.59.218.5
+vless://c1853115-eb6b-4592-b01f-05037d33505d@bg.fasssst.ru:443?security=reality&encryption=none&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.fasssst.ru&sid=f5b76860a3c9c3f5#🇧🇬 BG | 2.59.218.5

@@ -1,3 +1,2 @@
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&type=ws&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
-vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&type=ws&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.247.65
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.245.33
