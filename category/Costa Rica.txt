@@ -1,2 +1,4 @@
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🇨🇷 CR | 190.93.245.33
+vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?path=/emrqyfws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639005817910603942.renegade-amsit.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=hub-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
+vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws&security=tls&encryption=none&host=639002745868715407.golf-amsir.info&type=ws&sni=639002745868715407.golf-amsir.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&type=ws&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
