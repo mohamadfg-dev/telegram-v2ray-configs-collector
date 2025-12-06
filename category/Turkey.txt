@@ -1,2 +1,1 @@
-vless://598277a9-a7aa-4397-affd-e1ea12e8300f@193.111.76.140:6060?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.ftmsoft.com#🇹🇷 TR | 193.111.76.140
 vless://3fa2e480-581c-44a8-8b03-dbb2b447ac7c@dl75.sulduznet.ir:35025?encryption=none&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&sid=9d0424d2&spx=/#🇹🇷 TR | 88.209.249.199
