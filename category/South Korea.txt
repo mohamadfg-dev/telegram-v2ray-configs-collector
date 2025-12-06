@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@124.153.214.6:10001?security=tls&sni=ke.ylks.xyz&type=ws&path=/blue#🇰🇷 KR | 124.153.214.6
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.148.152:20980?sni=sale.alibaba.com#🇰🇷 KR | 146.56.148.152
