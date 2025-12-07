@@ -1,1 +1,1 @@
-vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@146.19.143.8:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#🇪🇪 EE | 146.19.143.8
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.238:2053?path=/security&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇪🇪 EE | 45.80.110.238
