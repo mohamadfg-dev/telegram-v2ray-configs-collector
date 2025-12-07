@@ -1,16 +1,15 @@
 vless://59a3247b-34ef-4704-98cc-2ad20caee0b4@dmit.cknightll.live:43664?security=reality&encryption=none&pbk=OlJaW1CfKit7siQ-T9ooy_iiM1u-Zg0b-bxfsrkVWR8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=statici.icloud.com&sid=e9fd825f7dae56e0#🇺🇸 US | 154.26.183.213
 vless://7426d51e-bb52-403d-e3bb-ef823d306766@142.171.217.19:29028?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇺🇸 US | 142.171.217.19
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 US | 173.244.56.6
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?path=/&security=tls&encryption=none&host=ula347.tiri-viri.com&fp=chrome&type=ws&sni=ula347.tiri-viri.com#🇺🇸 US | 45.45.218.166
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?path=/GGPPfZ3NKyOoKNiK?ed&security=tls&alpn=h2,http/1.1&encryption=none&host=cosmocare.ir&type=ws&sni=cosmocare.ir#🇺🇸 US | 167.82.97.49
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAxNS4yMDQuMTAzLjciLCJhZGQiOiIxNS4yMDQuMTAzLjciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyJ9
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?mode=gun&security=&encryption=none&type=grpc#🇺🇸 US | 45.82.251.249
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.114.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#🇺🇸 US | 166.62.114.253
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 US | 173.244.56.6
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 US | 173.244.56.6
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇺🇸 US | 85.209.195.174
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇺🇸 US | 85.209.195.174
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880/?type=grpc&encryption=none#🇺🇸 US | 45.82.251.114
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@160.79.105.62:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/#🇺🇸 US | 160.79.105.62
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.151:443?path=/blue&security=tls&encryption=none&type=ws&sni=he.ylks.xyz#🇺🇸 US | 198.62.62.151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🇺🇸 US | 45.87.175.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🇺🇸 US | 45.87.175.157
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAzOC4xNzMuMjI3LjEwNSIsImFkZCI6Im4xNjgyMzk2MTk3LmVkcG12Z2EuY24iLCJwb3J0Ijo0NDMsImlkIjoiMmQ2ZmViMjQtZWZjNS00OTMyLWEyNTUtZDE1Yzc5MWU5YjNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
@@ -19,7 +18,6 @@ vless://32bc0d7f-09ec-4418-dd78-43cd60f4f7d4@usaa.fastlynew.hosting-ip.com:80?pa
 vless://40e07aa0-665e-4d77-ab88-2aa02fca83b7@62.60.179.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.latimes.com&fp=chrome&pbk=e3dW-3-dYEVMkTUNOlqVZY2RuSXK-DxhvmdVn1lijxY&sid=8c0bcf&spx=/&type=tcp&headerType=none#🇺🇸 US | 62.60.179.68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eGlLdWFkSUs5cFF0T0E1Tm9BYmcx@104.192.227.162:443#🇺🇸 US | 104.192.227.162
 vless://TELEGRAM-CONFiGLiNE-80@configline.fastly140.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=aaeman.global.ssl.fastly.net&type=xhttp#🇺🇸 US | 140.248.189.242
-vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVVMgfCAxNzIuMjM5LjU3LjExNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwdXRpaGIub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 US | 71.19.148.143
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@188.114.99.48:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#🇺🇸 US | 188.114.99.48
@@ -27,7 +25,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#🇺🇸 US | 45.87.175.158
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
 vless://01a6e691-b436-40da-bc19-f379923c0f6e@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#🇺🇸 US | 151.101.169.242
-vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🇺🇸 US | 185.250.151.61
+vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🇺🇸 US | 94.131.101.253
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=/vpghRaDdORhcsIFV/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&fp=randomized&type=ws&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV#🇺🇸 US | 104.21.32.1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🇺🇸 US | 45.87.175.92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 US | 71.19.148.143
@@ -36,12 +34,11 @@ vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none
 vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?security=reality&encryption=none&pbk=Gd8fDDLpqXZoIybSXnBaN-YWrpbgqe2944h0cjXA4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=3a84f8ce#🇺🇸 US | 92.118.112.83
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=/assets?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=RR-FF.pages.DEV#🇺🇸 US | 141.101.114.197
 vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.118:8080?security=none&allowInsecure=0&encryption=none&type=ws&path=/?ed#🇺🇸 US | 40.160.4.118
-vless://TELEGRAM-CONFiGLiNE-80@configline.fastly140.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=aaeman.global.ssl.fastly.net&type=xhttp#🇺🇸 US | 140.248.137.249
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=/Telegram🇨🇳+@WangCai2+/?ed=2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇺🇸 US | 159.246.55.253
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#🇺🇸 US | 167.68.4.253
 vless://69cb0f76-b4fc-4960-bab4-48294ffff209@dl77.sulduznet.ir:35027/?type=tcp&security=reality&pbk=3HvkSIe39xecOCzxjerCHgABleRK77u5fEG1rl1y81Q&fp=firefox&sni=refersion.com&sid=c8cd18b0&spx=/#🇺🇸 US | 5.161.159.109
-vless://32bc0d7f-09ec-4418-dd78-43cd60f4f7d4@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#🇺🇸 US | 151.101.25.242
 vless://dfe195d3-58d2-4829-8fcf-5bef58175170@172.67.174.89:443?type=ws&encryption=none&path=/wolf_vpn02&host=section1.plugchat.ir&security=tls&fp=chrome&alpn=h2&sni=section1.plugchat.ir#🇺🇸 US | 172.67.174.89
 vless://c318f59b-dbdf-487e-a121-e1bee8613f88@172.67.174.89:443?type=ws&encryption=none&path=/wolf_vpn02&host=section1.plugchat.ir&security=tls&fp=chrome&alpn=h2&sni=section1.plugchat.ir#🇺🇸 US | 172.67.174.89
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=1&host=picassoo.info&type=ws&allowInsecure=1&sni=picassoo.info#🇺🇸 US | 162.159.44.45
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?type=ws&host=cs.laoyoutiao.link&path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=none#🇺🇸 US | 141.193.213.11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRHRIV3dBQUVwQ2ZHc1dwTW16SGJE@92.118.112.101:9483#🇺🇸 US | 92.118.112.101
