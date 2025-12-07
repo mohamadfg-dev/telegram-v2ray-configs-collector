@@ -1,2 +1,1 @@
 vless://3fa2e480-581c-44a8-8b03-dbb2b447ac7c@dl75.sulduznet.ir:35025?encryption=none&type=tcp&security=reality&fp=firefox&sni=refersion.com&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&sid=9d0424d2&spx=/#🇹🇷 TR | 88.209.249.199
-vless://id8312437383@62.3.12.118:443?security=reality&encryption=none&pbk=JCIX7uiiOtjImlTWuj2j_70ym68oSOyYWvbi8kPdhyY&headerType=none&fp=chrome&spx=/jodYKqQ6W4FSqdp&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=d8a915e3#🇹🇷 TR | 62.3.12.118

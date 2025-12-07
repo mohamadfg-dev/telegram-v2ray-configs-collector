@@ -1,2 +1,4 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
-vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?path=/emrqyfws&security=tls&encryption=none&type=ws&sni=639005817910603942.renegade-amsit.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@brenna.ns.cloudflare.com:443?path=/uefsanws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639005752550920321.accord-lmnxa.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://55ac52fd-4937-4e15-a37b-7d6ed383d2a1@norman.ns.cloudflare.com:443?path=/emrqyfws&security=tls&encryption=none&host=639005817910603942.renegade-amsit.info&type=ws&sni=639005817910603942.renegade-amsit.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.245.33
+vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
