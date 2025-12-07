@@ -1,2 +1,1 @@
-vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&type=ws&path=/perform&security=tls&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
-vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&security=tls&sni=ice-nimejam.info&type=ws&path=/perform#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
