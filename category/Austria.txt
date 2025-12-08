@@ -1,1 +1,1 @@
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@77.73.131.77:2053/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560&security=tls&sni=kejiland.freewarp.eu.org#🇦🇹 AT | 77.73.131.77
+vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=200f99e321#🇦🇹 AT | 5.181.21.152
