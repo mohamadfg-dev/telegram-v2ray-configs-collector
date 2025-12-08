@@ -1,4 +1,2 @@
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&path=/sghiyws#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=/aafeuws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=redlabell.info&type=ws&sni=redlabell.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
-vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?path=/perform&security=tls&encryption=none&type=ws&sni=key-nimejam.info#🇨🇷 CR | 2803:f800:50::6ca2:c0c4
