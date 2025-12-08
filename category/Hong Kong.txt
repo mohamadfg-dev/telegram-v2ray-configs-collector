@@ -1,4 +1,6 @@
-vmess://eyJ2IjpudWxsLCJwcyI6InVuZGVmaW5lZCBISyB8IDIyMC4yNDYuMTczLjkxIiwiYWRkIjoiOTUwOTJjMDMtdDZyNXMwLXRjMGZvcy04c2tmLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOjgwLCJpZCI6IjQ0ZWU4ZDcwLTMwOWQtMTFlYi1hOGJmLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiOTUwOTJjMDMtdDZyNXMwLXRjMGZvcy04c2tmLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IvCfh63wn4ewIEhLIDExIn0=
 vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTM0LjE4MyIsImFkZCI6IjguMjEwLjEzNC4xODMiLCJwb3J0IjoiMzcyMSIsImlkIjoiZTcyZjVjNmItMjIwZi00MGIzLWExMTUtMmQ4MTQ3MzQ1OGNmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#undefined HK | 58.152.18.95
+trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#undefined HK | 58.152.18.95
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
+trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#undefined HK | 58.152.18.95
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#undefined HK | 58.152.26.173

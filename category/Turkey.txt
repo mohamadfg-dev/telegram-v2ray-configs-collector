@@ -1,1 +1,1 @@
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&encryption=none&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msk.capybara.press&sid=9c2378562188c3cb#🇹🇷 TR | 178.171.122.65
+vless://id8565675152@94.131.108.49:443?security=reality&encryption=none&pbk=5cHHMWqr2Ty-RJiYIXpezH7446JR9Y1a19mYHP7P6Bc&headerType=none&fp=chrome&spx=/dhmvr1li2eykI3K&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0f1ac6f52ebbb2f2#🇹🇷 TR | 94.131.108.49

@@ -1,2 +1,4 @@
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=1&host=picassoo.info&type=ws&allowInsecure=1&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?path=/prheflws&security=tls&encryption=none&host=639003338940169118.highlander-amsis.info&type=ws&sni=639003338940169118.highlander-amsis.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#🇨🇷 CR | 2803:f800:50::6ca2:c263
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.245.33
