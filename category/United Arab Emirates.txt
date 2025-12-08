@@ -1,3 +1,2 @@
 vless://1437fec7-064b-4f8f-98f4-8c9aad3738b0@dubai.fonixapp.org:443?security=reality&encryption=none&pbk=HZM7SXNCsT5M_zWuBURZfplLY-L5Gqww5qRPJZAP8C4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=754dc2#🇦🇪 AE | 217.195.200.224
-vless://1437fec7-064b-4f8f-98f4-8c9aad3738b0@dubai.fonixapp.org:443?security=reality&encryption=none&pbk=HZM7SXNCsT5M_zWuBURZfplLY-L5Gqww5qRPJZAP8C4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=754dc2#🇦🇪 AE | 217.195.200.224
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
