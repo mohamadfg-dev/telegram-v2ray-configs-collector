@@ -1,4 +1,5 @@
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?mode=gun&security=reality&encryption=none&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&type=grpc&sni=yahoo.com&sid=722ee6b369#🇹🇷 TR | 198.105.123.182
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://cb7188cf-2c3a-43a5-af90-d893922e4917@istanbul.fonixapp.org:443?security=reality&encryption=none&pbk=eS0NqJCAo6Jn4PuU3nU4A5D7RyNbn3WyhipXViddnzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=5457#🇹🇷 TR | 213.156.152.223
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&host=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&headerType=none&type=tcp#🇹🇷 TR | 89.144.20.173
