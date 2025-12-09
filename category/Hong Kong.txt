@@ -1,4 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTM0LjE4MyIsImFkZCI6IjguMjEwLjEzNC4xODMiLCJwb3J0IjoiMzcyMSIsImlkIjoiZTcyZjVjNmItMjIwZi00MGIzLWExMTUtMmQ4MTQ3MzQ1OGNmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://5e9b182a-9262-3244-8381-5aa946697b8d@gy.58n.net:22741?allowInsecure=1&sni=dufu.hongkongnode.top#undefined HK | 175.29.22.19
 trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#undefined HK | 58.152.18.95
 trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#undefined HK | 58.152.18.95
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
