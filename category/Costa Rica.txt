@@ -1,2 +1,2 @@
-vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?path=/prheflws&security=tls&encryption=none&host=639003338940169118.highlander-amsis.info&type=ws&sni=639003338940169118.highlander-amsis.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://d64fbcef-f032-48ae-8f52-d73976cb0c57@betty.ns.cloudflare.com:443?path=/unjgcrws&security=tls&encryption=none&type=ws&sni=639006691599818826.sentra-amsiv.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
