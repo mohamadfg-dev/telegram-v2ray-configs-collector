@@ -1,1 +1,2 @@
+vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/zqpahpws#🇹🇷 TR | 185.234.66.93
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@5.180.45.176:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇹🇷 TR | 5.180.45.176
