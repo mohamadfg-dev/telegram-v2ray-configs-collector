@@ -1,5 +1,4 @@
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🇱🇮 LI | 45.15.167.35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUkZMMkdwTEVqTUNjRVd1R0ZibWJMZHJvdWhIUWJESQ@45.15.167.6:443#🇱🇮 LI | 45.15.167.6
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🇱🇮 LI | 45.15.167.35
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🇱🇮 LI | 45.15.167.35
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🇱🇮 LI | 45.15.167.35
