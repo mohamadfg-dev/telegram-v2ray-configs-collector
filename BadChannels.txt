@@ -1,7 +1,6 @@
 https://t.me/s/config_fre
 https://t.me/s/AchaVPN
 https://t.me/s/Artemisvpn1
-https://t.me/s/heyatserver
 https://t.me/s/alfred_config
 https://t.me/s/alfred_config
 https://t.me/s/ana_service
@@ -42,6 +41,7 @@ https://t.me/s/moein_insta
 https://t.me/s/moftinet
 https://t.me/s/msv2flyng
 https://t.me/s/msv2flyng
+https://t.me/s/mtproxy_lists
 https://t.me/s/nationalproxytelegram
 https://t.me/s/netaccount
 https://t.me/s/ntgreenplus
@@ -70,6 +70,7 @@ https://t.me/s/v2box_free
 https://t.me/s/v2box_free
 https://t.me/s/v2ngfast
 https://t.me/s/v2ray_fd
+https://t.me/s/v2ray_free_conf
 https://t.me/s/v2ray_sub
 https://t.me/s/v2ray_sub
 https://t.me/s/v2ray_tz

@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMmZONVpod0tya2dZMDJneVpVeVR0@92.62.251.201:443#🇵🇱 PL | 92.62.251.201
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.82.255.32:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇵🇱 PL | 45.82.255.32
+vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱 PL | 193.247.82.67
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.70:9037#🇵🇱 PL | 217.30.10.70
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=firefox&type=xhttp&sni=plb.tunnelguard.ru#🇵🇱 PL | 193.247.82.67
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱 PL | 193.247.82.67
