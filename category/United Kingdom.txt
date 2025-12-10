@@ -2,20 +2,18 @@ vless://aab74025-0737-410c-b048-bcbde3bc1852@141.227.174.26:32418?mode=gun&secur
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇬🇧 GB | 82.25.101.123
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#🇬🇧 GB | 82.38.31.208
-vless://77fb812d-2eb5-430e-afea-ccacc9795a86@speedtest.net:80?path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#🇬🇧 GB | 2a04:4e42:400::731
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=1&host=picassoo.info&type=ws&allowInsecure=1&sni=picassoo.info#🇬🇧 GB | 2a06:98c1:50::ac40:232d
-vless://d19cf37c-6b64-4b4e-8592-6b785b1c4297@test.fast199.hosting-ip.com:80?type=xhttp&path=/@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420&host=mops.global.ssl.fastly.net&mode=auto&security=none#🇬🇧 GB | 199.232.53.135
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&insecure=0&host=gaosir.unfeeling.sbs&type=ws&allowInsecure=0&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 vless://7b1c5bee-19f1-422f-8be2-e03175fabe4a@104.248.168.91:80?path=/?ed=2048&security=none&encryption=none&type=ws#🇬🇧 GB | 104.248.168.91
 vless://2f6756c6-10ea-4c24-b8ac-c5bb4883f3d6@104.248.168.91:8443?mode=gun&security=none&encryption=none&type=grpc#🇬🇧 GB | 104.248.168.91
 vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&security=&encryption=none&type=ws#🇬🇧 GB | 134.209.23.173
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=/aafeuws&security=tls&encryption=none&host=redlabell.info&type=ws&sni=redlabell.info#🇬🇧 GB | 2a06:98c1:50::ac40:215b
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
 vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇬🇧 GB | 51.68.198.51
 vless://50d266a9-e139-419f-a0a3-6bf5c91d9b20@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#🇬🇧 GB | 51.68.198.51
+vless://TELEGRAM-CONFiGLiNE-81@test.fast199.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=byby.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 199.232.53.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcXRoYXlmbWl0YUw0bG55YjZ3MG1x@89.185.84.185:443/?outline=1#🇬🇧 GB | 89.185.84.185
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NXVtR1BMNnI2R2RoV2RTZndyMVZB@89.185.84.185:443/?outline=1#🇬🇧 GB | 89.185.84.185
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
@@ -30,4 +28,3 @@ vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/
 vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9#🇬🇧 GB | 185.93.105.130
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&security=tls&encryption=none&insecure=0&host=hazmkardan.info&type=ws&allowInsecure=0&sni=hazmkardan.info#🇬🇧 GB | 2a06:98c1:50::ac40:2263
