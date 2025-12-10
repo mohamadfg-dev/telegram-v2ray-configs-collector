@@ -1,1 +1,1 @@
-vless://9beab868-ab67-48a4-b84e-0155b7965d33@ltu01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420#🇱🇹 LT | 195.66.25.169
+vless://6c6f93a6-a32c-4011-bcf9-cbabe3a992dc@195.66.25.62:42905?security=reality&encryption=none&pbk=qQq64y5X4I2DbYCwIi56W78r-L9qwI2wI-yEJGbmbQM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=1f983660b0930ac7#🇱🇹 LT | 195.66.25.62
