@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SHVZSUtzV09GZFBRN2FZRzIyT3Qw@212.113.106.76:29149#🇦🇹 AT | 212.113.106.76
+vless://9032f390-3f3a-4684-8c08-eb43a8221840@152.53.48.191:443?security=reality&encryption=none&pbk=wG4RJ_iEf7jv_-IfxcDlEH2iU_owWeHKUUdRfCLSTlc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=microsoft.com&sid=1b4f98936510#🇦🇹 AT | 152.53.48.191
