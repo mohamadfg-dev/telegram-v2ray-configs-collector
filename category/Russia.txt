@@ -1,6 +1,4 @@
-vless://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#🇷🇺 RU | 185.234.59.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇷🇺 RU | 80.92.206.19
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
 vless://495d0938-b565-4f65-aa65-cbe876aadf47@yt.fasssst.ru:444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yt.fasssst.ru&pbk=14S-a9NL1PacapqVE4ojKZeEM5995jFyfwS0xc9UtRk&sid=1c2a18e708a1be9d#🇷🇺 RU | 80.249.131.236
 vless://d3e684e2-1b3a-41a2-ba19-5a84a8ca2122@217.16.18.50:443?security=reality&encryption=none&pbk=l7cLIMrQQPS1LCyzgqCqP9O1rvoIanR9Npa3lYrz2xI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=c050b3628fab#🇷🇺 RU | 217.16.18.50
