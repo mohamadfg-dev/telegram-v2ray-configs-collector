@@ -1,1 +1,2 @@
 vless://6c6f93a6-a32c-4011-bcf9-cbabe3a992dc@195.66.25.62:42905?security=reality&encryption=none&pbk=qQq64y5X4I2DbYCwIi56W78r-L9qwI2wI-yEJGbmbQM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=1f983660b0930ac7#🇱🇹 LT | 195.66.25.62
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@li.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#🇱🇹 LT | 147.45.217.14
