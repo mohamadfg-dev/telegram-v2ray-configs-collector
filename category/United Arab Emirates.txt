@@ -1,1 +1,2 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
+vless://4910966b-b8ad-4229-ac83-739694b7509a@dubai.fonixapp.org:2083?security=reality&encryption=none&pbk=TACk8mMKqDjoRPIwbWLd8k_Ozr2C0JDrcGXF2lV_vVw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=ebe53d#🇦🇪 AE | 217.195.200.224
