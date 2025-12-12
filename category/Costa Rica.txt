@@ -1,2 +1,4 @@
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
 vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=picassoo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
