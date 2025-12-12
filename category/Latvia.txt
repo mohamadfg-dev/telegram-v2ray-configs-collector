@@ -1,2 +1,2 @@
+vless://eda70929-9846-48d3-abd6-f73ab1cf0dd0@31.57.157.7:29125?security=reality&encryption=none&pbk=fKahzzQNkfnQHUfPMT_WDGMISzYC2FC7E7bL24WK2Aw&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=8b#🇱🇻 LV | 31.57.157.7
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🇱🇻 LV | 96.43.100.253
