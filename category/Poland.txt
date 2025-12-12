@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMmZONVpod0tya2dZMDJneVpVeVR0@92.62.251.201:443#🇵🇱 PL | 92.62.251.201
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱 PL | 193.247.82.67
+vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&alpn=h2,http/1.1&fp=firefox&type=xhttp&path=/&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&packetEncoding=xudp#🇵🇱 PL | 193.247.82.67
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱 PL | 193.247.82.67
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011#🇵🇱 PL | 217.30.10.70
