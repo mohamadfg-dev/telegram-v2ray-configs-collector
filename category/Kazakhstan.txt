@@ -1,1 +1,2 @@
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#🇰🇿 KZ | 83.222.23.113
+vless://7456a064-ba90-4383-aa73-074749bdfead@151.236.93.180:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&fp=chrome&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#🇰🇿 KZ | 151.236.93.180
