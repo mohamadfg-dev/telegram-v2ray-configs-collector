@@ -1,2 +1,2 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA4NS4yMzQuOTQuMTQzIiwiYWRkIjoibHQuZnhsY24uY29tIiwicG9ydCI6IjQ1Mjk0IiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA4NS4yMzQuOTQuMTQzIiwiYWRkIjoibHQuZnhsY24uY29tIiwicG9ydCI6IjQ1Mjk0IiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&fp=chrome&type=raw&headertype=none#🇫🇮 FI | 65.108.231.185
