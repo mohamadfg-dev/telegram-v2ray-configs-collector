@@ -1,3 +1,1 @@
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@103.231.73.126:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&path=/Telegram,VPNCUSTOMIZE?ed#🇱🇻 LV | 103.231.73.126
-vless://7daf6801-f3b9-4139-8394-2dd91723c26f@103.231.73.126:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&path=/Telegram,VPNCUSTOMIZE?ed#🇱🇻 LV | 103.231.73.126
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
