@@ -1,7 +1,4 @@
-vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@rusdokyav.vtuix.ir:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&spx=/---&type=grpc&serviceName=t.me/entryNET&sni=telewebion.com&sid=16b6cda7ab793526#🇷🇺 RU | 45.140.169.69
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇷🇺 RU | 80.92.206.19
-vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&encryption=none&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#🇷🇺 RU | 51.250.20.121
-vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&encryption=none&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#🇷🇺 RU | 51.250.20.121
 vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&encryption=none&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#🇷🇺 RU | 51.250.20.121
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
@@ -15,3 +12,4 @@ vless://d3e684e2-1b3a-41a2-ba19-5a84a8ca2122@217.16.18.50:443?security=reality&e
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.24.245:4249?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 RU | 51.250.24.245
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@83.166.255.72:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=01.img.avito.st#🇷🇺 RU | 83.166.255.72
