@@ -2,7 +2,7 @@ vless://69239696-f17e-4eb2-a337-7ce07d65d23d@209.38.168.122:21250?mode=gun&secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#🇬🇧 GB | 37.221.125.38
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇬🇧 GB | 82.25.101.123
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#🇬🇧 GB | 2a06:98c1:3120::
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaFd4dnp1S3lnRmgxejA5a0MyYktr@144.31.213.7:51027#🇬🇧 GB | 144.31.213.7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#🇬🇧 GB | 37.221.125.38
@@ -20,14 +20,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 GB | 141.98.101.182
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#🇬🇧 GB | 102.177.189.28
-vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#🇬🇧 GB | 37.221.125.172
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none#🇬🇧 GB | 158.177.96.122
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none#🇬🇧 GB | 158.177.96.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇬🇧 GB | 82.38.31.194
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#🇬🇧 GB | 2a06:98c1:3120::
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaFd4dnp1S3lnRmgxejA5a0MyYktr@144.31.213.7:51027#🇬🇧 GB | 144.31.213.7
 vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9#🇬🇧 GB | 185.93.105.130
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaFd4dnp1S3lnRmgxejA5a0MyYktr@144.31.213.7:51027#🇬🇧 GB | 144.31.213.7
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 GB | 141.98.101.182
-vless://af9e39b5-f7be-4f7a-b5de-c4a7e79e1fea@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🇬🇧 GB | 199.232.53.135
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=1&host=azizoarjmand.info&type=ws&allowInsecure=1&sni=azizoarjmand.info#🇬🇧 GB | 2a06:98c1:50::ac40:21d9
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@94.237.121.29:4655?security=&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 94.237.121.29
