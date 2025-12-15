@@ -1,1 +1,1 @@
-vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.15.170.188:22599?security=reality&encryption=none&pbk=3zQQrSVaYQJYJCRqPximrXbACRvTCBl6wQiTs2Q_3Qg&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=2a134254db459494#🇦🇱 AL | 45.15.170.188
+vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#🇦🇱 AL | 185.177.238.18
