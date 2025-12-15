@@ -1,1 +1,1 @@
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#undefined CW | 45.146.201.251
+vless://97b11ee6-a62a-4e60-839c-de974a155089@88.216.67.197:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=/hajmi?ed=2560&alpn=http/1.1#undefined CW | 88.216.67.197
