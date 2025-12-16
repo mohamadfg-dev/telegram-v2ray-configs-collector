@@ -14,6 +14,7 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=no
 vless://817e76f9-0107-42bb-9552-979ddde5ff77@max14.musicdoon.ir:8080?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=chatgpt.com&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#🇫🇷 FR | 54.36.98.254
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=ssp2.100896.xyz&allowInsecure=1#🇫🇷 FR | 141.101.120.10
 trojan://telegram-id-v2rayvpnchannel@13.39.251.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.251.75
+trojan://telegram-id-v2rayvpnchannel@13.37.70.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.70.47
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#🇫🇷 FR | 51.77.91.192
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.251.75:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.251.75
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.70.47:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.70.47
@@ -21,4 +22,5 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&e
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#🇫🇷 FR | 185.234.64.228
 trojan://telegram-id-v2rayvpnchannel@13.39.251.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.251.75
+trojan://telegram-id-v2rayvpnchannel@13.37.70.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.70.47
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ns3.turkeyone.org#🇫🇷 FR | 51.159.96.121
