@@ -1,1 +1,1 @@
-vless://7e65b436-f33c-4cb6-bb24-7c350b313ab4@144.31.178.137:1080?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇪🇪 EE | 144.31.178.137
+vless://ad7a9316-1953-439a-854f-66355100a004@216.144.231.65:465?mode=gun&security=reality&encryption=none&pbk=bjmYfGsbMMVrbhhdbhKbOrsmmOq04rtsJP8xEyHAcUA&fp=chrome&type=grpc&serviceName=SMTP&sni=smtp.yandex.ru&sid=4c11446008#🇪🇪 EE | 216.144.231.65
