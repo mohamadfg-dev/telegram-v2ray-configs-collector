@@ -1,1 +1,4 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🇨🇷 CR | 190.93.245.33
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?path=/aafeuws&security=tls&encryption=none&host=redlabell.info&type=ws&sni=redlabell.info#🇨🇷 CR | 2803:f800:50::6ca2:c15b
