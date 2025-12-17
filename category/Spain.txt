@@ -1,1 +1,2 @@
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
+vless://7f760f5f-a79c-4f0c-aac1-6c647a81925a@176.120.74.41:443?path=/ssiiccws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=st.ozone.ru#🇪🇸 ES | 176.120.74.41
