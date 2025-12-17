@@ -1,1 +1,1 @@
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=raw&headertype=none#🇰🇿 KZ | 176.120.72.63
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.213:53809?encryption=none&security=tls&sni=www.vk.com&type=raw&headertype=none#🇮🇹 IT | 146.70.73.213
