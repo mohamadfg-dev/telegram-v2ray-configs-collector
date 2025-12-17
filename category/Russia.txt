@@ -14,3 +14,4 @@ vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@193.160.209.95:4443?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjUHpGaDJwOU1XWHZWWVdzNWhYNTVlNUJaRnR5N2tlLQ==@91.221.37.30:1234#🇷🇺 RU | 91.221.37.30
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
+vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@msk.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇷🇺 RU | 185.22.154.42
