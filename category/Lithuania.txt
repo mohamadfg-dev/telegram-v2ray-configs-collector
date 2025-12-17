@@ -1,1 +1,1 @@
-vless://6c6f93a6-a32c-4011-bcf9-cbabe3a992dc@195.66.25.62:42905?security=reality&encryption=none&pbk=qQq64y5X4I2DbYCwIi56W78r-L9qwI2wI-yEJGbmbQM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=1f983660b0930ac7#🇱🇹 LT | 195.66.25.62
+vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#🇱🇹 LT | 88.216.69.54
