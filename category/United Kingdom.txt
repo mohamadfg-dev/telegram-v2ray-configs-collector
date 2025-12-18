@@ -1,9 +1,7 @@
+vless://08e65da4-808a-44e3-86af-cbf5233ba83f@zula.ir:8080?path=/&security=none&encryption=none&host=movivoolom.movementvip.ir&type=httpupgrade#🇬🇧 GB | 2a06:98c1:3121::
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇬🇧 GB | 82.25.101.123
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#🇬🇧 GB | 64.227.47.120
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=/&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.225:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&allowInsecure=1#🇬🇧 GB | 146.19.230.225
-vless://832a3784-7ae1-4ff2-ab13-5fb4bf8abd28@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#🇬🇧 GB | 199.232.53.135
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#🇬🇧 GB | 2a06:98c1:50::ac40:22b0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#🇬🇧 GB | 82.38.31.205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZUxibXlUUjY1dWV5aU1wVjhtXzVB@51.195.200.77:443#🇬🇧 GB | 51.195.200.77
@@ -14,7 +12,6 @@ vless://2be20bd2-d376-433e-9259-99983cac98e9@134.209.23.173:15580?path=/&securit
 vless://5e691744-3d66-45a2-9c69-278f25865c0f@llc.v2sub.ir:2087?type=httpupgrade&encryption=none&path=/&host=gozar-fire.rvn-cloud.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=gozar-fire.rvn-cloud.ir#🇬🇧 GB | 91.193.58.148
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB | 145.133.58.113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB | 4.250.220.204
-vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&security=none&encryption=none&type=httpupgrade#🇬🇧 GB | 2a06:98c1:3121::
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#🇬🇧 GB | 82.38.31.191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇬🇧 GB | 82.38.31.210
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@51.89.230.196:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇬🇧 GB | 51.89.230.196
@@ -28,7 +25,6 @@ vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@S
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none#🇬🇧 GB | 158.177.96.122
 vless://turboo-server@sub.turboo-server.com.co:80?type=ws&encryption=none&path=/&host=&security=none#🇬🇧 GB | 158.177.96.122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🇬🇧 GB | 82.38.31.194
-vless://401d3213-a02d-4bd2-b1b2-2812f5ce0203@geteway-UK.nub-shop.ir:5050?security=reality&encryption=none&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&host=zhaket.com&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=a1026d5c5267b93c#🇬🇧 GB | 217.61.20.130
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇬🇧 GB | 25.25.25.253
 vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443?path=/zmiuyqws&security=tls&encryption=none&type=ws&sni=wikiportal.ru#🇬🇧 GB | 144.126.225.77
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?path=/uirexwws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧 GB | 139.59.168.171
