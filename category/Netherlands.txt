@@ -1,1 +1,2 @@
 vless://f622d985-ea5a-463b-ad0a-d1031b0d403e@nor1.vlessok.store:443/?security=reality&encryption=none&pbk=teGK61lH7ZMhpHLTpYXcDeb8kR9GU-S2QfNd2jjJLHA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.google.com&sid=abc05e53#🇳🇱 NL | 178.173.249.163
+ss://YWVzLTI1Ni1nY206VUtvUVk2amkwSU1hMGtnY2xiMVQ0LzNGRkp3NFliY3FLNW9jc1p3VEFTVT0=@5.180.183.135:10015#🇳🇱 NL | 5.180.183.135
