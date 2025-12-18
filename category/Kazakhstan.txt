@@ -1,2 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?path=tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🇰🇿 KZ | 31.43.179.22
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#🇰🇿 KZ | 83.222.23.113
