@@ -1,2 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZEdISWRMeXBlQ000Q2o3Q2VzMm1K@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭 CH | 45.95.232.236
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&sni=www.microsoft.com&fp=safari&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#🇨🇭 CH | 208.69.78.5
+vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@ch1.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ch1.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 CH | 171.22.16.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@ch1.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ch1.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 CH | 171.22.16.166
+vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@ch1.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ch1.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 CH | 171.22.16.166
