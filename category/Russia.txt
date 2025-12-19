@@ -9,4 +9,3 @@ vless://d29bde62-daa4-4804-9c69-6e23a4150006@45.92.176.55:1243?security=reality&
 vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@51.250.71.197:443?security=reality&encryption=none&pbk=96px9lCo9VgWb1Je0958ayYtcwyOAmpCBmbfK0O6jxI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=static.rutube.ru&sid=db92410532#🇷🇺 RU | 51.250.71.197
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@83.166.255.72:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=01.img.avito.st#🇷🇺 RU | 83.166.255.72

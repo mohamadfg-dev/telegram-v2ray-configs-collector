@@ -1,1 +1,1 @@
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.213:53809?encryption=none&security=tls&sni=www.vk.com&type=raw&headertype=none#🇮🇹 IT | 146.70.73.213
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA0Ni4zLjQ3LjI1MCIsImFkZCI6IjQ2LjMuNDcuMjUwIiwicG9ydCI6IjIwMDIyIiwiaWQiOiJlNWNlNDI1ZS0wYjg0LTQzNWMtYWVlNS05ZjllY2JlMmNiMTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=
