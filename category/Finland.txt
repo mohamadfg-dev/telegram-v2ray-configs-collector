@@ -10,9 +10,9 @@ vless://c7c325ea-d3bc-4700-9e00-8fb6b614da01@hy6awiaa3c2e.dopweed.com:2053?mode=
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&security=none#🇫🇮 FI | 95.217.214.252
+vless://ca14b15a-50d5-4e2c-9ebd-85b2d0dd1651@dedi.netbazchanell.ir:2087?mode=gun&security=tls&encryption=none&type=grpc#🇫🇮 FI | 157.180.62.120
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://95b0f8b6-8373-4398-893f-782af287e2fe@static.50.146.62.46.clients.your-server.de:443?hiddify=1&sni=www.speedtest.net&type=grpc&alpn=h2&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=0VTuTCdLL8WUYSwaz2OnC5y&serviceName=0VTuTCdLL8WUYSwaz2OnC5y&mode=gun&encryption=none&fp=chrome&headerType=None&security=reality&pbk=L4ja73hdU_P-euK_ikOs623oM4u3PpDS5IwzXOrCjnE&sid=15cf0914947a4379#🇫🇮 FI | 46.62.146.50
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690#🇫🇮 FI | 46.62.241.106
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🇫🇮 FI | 141.98.169.94
-vless://6a35ac5c-12cb-4719-86f8-3334cb5970e4@77.42.16.205:443?mode=auto&path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#🇫🇮 FI | 77.42.16.205
