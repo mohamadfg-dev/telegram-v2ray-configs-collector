@@ -1,7 +1,5 @@
 vless://aa5faf41-48db-4043-a5c4-dde07b10eb0d@37.27.217.185:16553?mode=gun&security=reality&encryption=none&authority=%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL-JOIN-%40FAST78_CHANNEL-TEL--%40FAST78_CHANNEL&pbk=kb8yYc6hEyJ5KLho4ol_Fzmh48wUFYxl9FuWegdEvBk&fp=chrome&spx=/&type=grpc&sni=google.com&sid=38cc#🇫🇮 FI | 37.27.217.185
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮 FI | 45.15.127.49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮 FI | 45.15.127.49
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://673bb129-29f7-4d22-b554-cb42ba6f9bfb@157.180.29.225:443?encryption=none&security=tls&sni=www.wikipedia.org&alpn&fp=chrome&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&sid=1c213fd68e13&type=xhttp&path=/farasati1&mode=auto&packetEncoding=xudp#🇫🇮 FI | 157.180.29.225
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
