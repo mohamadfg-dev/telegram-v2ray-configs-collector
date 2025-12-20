@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@119.207.86.66:12209?path=/&security=tls&encryption=none&type=ws&sni=a.ssll.gay#🇰🇷 KR | 119.207.86.66
+vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@45.82.246.114:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇰🇷 KR | 45.82.246.114
