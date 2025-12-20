@@ -1,1 +1,1 @@
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=true&fp=chrome#🇮🇸 IS | 167.17.185.228
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇸 IS | 89.221.224.220
