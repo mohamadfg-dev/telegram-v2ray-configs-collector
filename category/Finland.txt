@@ -2,8 +2,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg@
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.avito.ru#🇫🇮 FI | 65.108.231.185
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇫🇮 FI | 46.62.128.207
+vless://b683c1f1-ef32-4ae8-a419-1c08838425cd@46.62.162.64:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#🇫🇮 FI | 46.62.162.64
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
-vless://395c2a67-fe4d-4f73-b7d5-35d2b679d6a9@65.109.205.214:12214?type=ws&encryption=none&path=/&host=&security=none#🇫🇮 FI | 65.109.205.214
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#🇫🇮 FI | 94.131.100.164
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=/oyoelzws&security=tls&encryption=none&type=ws&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
@@ -11,10 +11,10 @@ vless://5a2c1bf2-b18c-4023-a655-f05120e63b7f@1.pandaserver654.ir:3696?security=r
 ss://YWVzLTI1Ni1nY206MTcyOTViOTItNGU1MC00MjVjLWFmOTUtZWU0NGM0MmJjMDNl@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@31.13.208.3:1234?type=tcp&headerType=none&security=none#🇫🇮 FI | 31.13.208.3
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&type=ws#🇫🇮 FI | 141.98.169.94
+vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDY1LjEwOS4xOTAuMTU1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDY1LjEwOS4xOTAuMTU1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://c7c325ea-d3bc-4700-9e00-8fb6b614da01@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=/&type=grpc&serviceName=Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY&sni=tgju.org&sid=9ea773bd0f13#🇫🇮 FI | 65.109.219.23
-vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://02d89938-6dcc-40ac-91d9-51bdff3d3c7b@95.217.214.252:51169?type=tcp&security=none#🇫🇮 FI | 95.217.214.252
