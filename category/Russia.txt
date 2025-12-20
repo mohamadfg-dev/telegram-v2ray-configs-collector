@@ -1,6 +1,5 @@
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#🇷🇺 RU | 62.113.42.65
+vless://6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb@109.248.203.71:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=85225c27630d023f&pbk=PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ&encryption=none#🇷🇺 RU | 109.248.203.71
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇷🇺 RU | 80.92.206.19
-vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&encryption=none&pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#🇷🇺 RU | 51.250.20.121
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=/sinavm#🇷🇺 RU | 51.250.47.231
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133

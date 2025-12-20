@@ -1,1 +1,1 @@
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=web.max.ru#🇮🇸 IS | 167.17.185.172
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=true&fp=chrome#🇮🇸 IS | 167.17.185.228

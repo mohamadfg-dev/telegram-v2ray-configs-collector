@@ -1,3 +1,2 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@114.34.202.224:10004?path=/?ed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🇹🇼 TW | 114.34.202.224
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.138
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.138
