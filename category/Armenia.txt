@@ -1,1 +1,2 @@
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@93.115.240.90:10000?encryption=none&security=none&type=ws&path=/#🇦🇲 AM | 93.115.240.90
+vless://b869258e-b419-41b1-a865-f3c4225edeba@ARMEN.TORPROSPEED.IR:250?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.zhaket.com&pbk=ZOyMDA__RlDV75g7zASfK4YqrFQsqPz7SAw6QuE-gAM&sid=11e272502d739a32&spx=/&mux=8#🇦🇲 AM | 85.90.207.47

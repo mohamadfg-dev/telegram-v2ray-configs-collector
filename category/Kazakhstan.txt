@@ -1,5 +1,4 @@
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#🇰🇿 KZ | 83.222.23.113
-vless://fb1d2fa9-8e7a-42dd-ab0e-2dbcd3c6973d@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#🇰🇿 KZ | 77.73.232.61
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#🇰🇿 KZ | 178.236.16.98
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#🇰🇿 KZ | 178.236.16.98
