@@ -1,2 +1,2 @@
-wireguard://WD+F8nVqnOv81C7Cz8/WnCUsKG3t12vXigr+E0bgjEw=@162.159.195.8:4198?wnoise=quic&presharedkey=&address=172.16.0.2/32&reserved=48,19,216&keepalive=5&wpayloadsize=5-10&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&wnoisedelay=1-2&wnoisecount=15&mtu=1280#🏴‍☠️ UN | WD+F8nVqnOv81C7Cz8
-wireguard://EGJv3zPymgGxvlJjXqcB2cmyY8Xo4mY0w9bxP1pk2GQ=@162.159.192.18:7281?address=172.16.0.2/32&reserved=145,102,173&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1280#🇨🇦 CA | 162.159.192.18
+wireguard://EACg2DaM5/t6HFpYWHVWL/F1S+nGV3/cQ/PaN+dzlmM=@wire.nscl.ir:878?address=172.16.0.2/32&presharedkey=&reserved=8,127,44&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EACg2DaM5
+wireguard://EKRnbt/neTTclhsU842c9xRu+QWECvZQav1nOx/ZL0M=@[2606:4700:d0::a29f:c002]:2408?address=172.16.0.2/32&presharedkey=&reserved=47,145,192&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EKRnbt
