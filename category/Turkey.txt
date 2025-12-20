@@ -1,3 +1,1 @@
-vless://84e747b3-1408-2bfc-e86b-343e386698b4@u14-unlim.standalonemsnew.cam:79?security=none&encryption=none&type=ws&sni=1#🇹🇷 TR | 194.5.193.96
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇹🇷 TR | 31.57.225.233
-vless://82d2aa9c-f12a-4faa-9786-966a2c0b1479@protr.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=99e037aa35c0293f#🇹🇷 TR | 77.87.122.231
