@@ -1,3 +1,2 @@
-vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#🇯🇵 JP | 116.80.44.144
 vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇯🇵 JP | 5.253.41.52
 vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇯🇵 JP | 5.253.41.52
