@@ -1,2 +1,3 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=/tixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🇨🇷 CR | 190.93.247.65
