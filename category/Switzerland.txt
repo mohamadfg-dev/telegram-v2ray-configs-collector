@@ -1,3 +1,5 @@
+vless://ccf34364-583c-4994-8344-41e4a7bed12c@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTk9acDlGSXA4M1E2WmVXSUpiZVRN@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+vless://ccf34364-583c-4994-8344-41e4a7bed12c@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 84.234.28.119
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236

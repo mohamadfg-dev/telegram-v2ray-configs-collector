@@ -1,4 +1,2 @@
 wireguard://EACg2DaM5/t6HFpYWHVWL/F1S+nGV3/cQ/PaN+dzlmM=@wire.nscl.ir:878?address=172.16.0.2/32&presharedkey=&reserved=8,127,44&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EACg2DaM5
 wireguard://EKRnbt/neTTclhsU842c9xRu+QWECvZQav1nOx/ZL0M=@[2606:4700:d0::a29f:c002]:2408?address=172.16.0.2/32&presharedkey=&reserved=47,145,192&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EKRnbt
-wireguard://EACg2DaM5/t6HFpYWHVWL/F1S+nGV3/cQ/PaN+dzlmM=@wire.nscl.ir:878?address=172.16.0.2/32&presharedkey=&reserved=8,127,44&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EACg2DaM5
-wireguard://EKRnbt/neTTclhsU842c9xRu+QWECvZQav1nOx/ZL0M=@[2606:4700:d0::a29f:c002]:2408?address=172.16.0.2/32&presharedkey=&reserved=47,145,192&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | EKRnbt

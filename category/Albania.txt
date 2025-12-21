@@ -1,1 +1,1 @@
-vless://71e0492e-9dc5-4fef-891b-15c983934886@185.177.238.40:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=alban.normbot.ru&sid=505adbea98a0b5fe#🇦🇱 AL | 185.177.238.40
+vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@78.159.131.23:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=3846b9259d66cc64#🇦🇱 AL | 78.159.131.23
