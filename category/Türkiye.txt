@@ -1,4 +1,3 @@
-vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&headerType=none&fp=safari&type=tcp&sni=www.refersion.com&sid=ecd8d10c1518fb7b#🇹🇷 TR | 45.144.214.100
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4UVN3UFFfRTIzSGh1cDI5RUZMY3h0MEw5N3dvazVSbQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://1efe68bb-88bd-480e-84e5-5be8ce28d1b3@fast-tr.apbxz.com:2053?security=none&type=tcp&headerType=http&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#🇹🇷 TR | 45.144.214.67

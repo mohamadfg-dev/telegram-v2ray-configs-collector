@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg@31.13.208.3:1234?note=--Telegram--@Argo_VPN1--#🇫🇮 FI | 31.13.208.3
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
-vless://6885d3e7-0e50-4bdc-9f57-d2c4b51b2b18@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=/&type=grpc&serviceName=Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY&sni=tgju.org&sid=9ea773bd0f13#🇫🇮 FI | 65.109.219.23
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 ss://YWVzLTI1Ni1nY206MTcyOTViOTItNGU1MC00MjVjLWFmOTUtZWU0NGM0MmJjMDNl@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
