@@ -1,1 +1,1 @@
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@UL-Mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🇲🇽 MX | 45.134.9.133
+trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🇲🇽 MX | 216.238.79.82
