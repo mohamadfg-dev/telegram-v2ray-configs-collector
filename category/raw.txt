@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgNDYuMy4yNC4xMzgiLCJhZGQiOiI0Ni4zLjI0LjEzOCIsInBvcnQiOiIyMDEwNCIsImlkIjoiZTVjZTQyNWUtMGI4NC00MzVjLWFlZTUtOWY5ZWNiZTJjYjE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9
+vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pingless.com&fp=chrome&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&spx=/---type=tcp&type=raw&headertype=none#🇫🇷 FR | 151.247.197.212
