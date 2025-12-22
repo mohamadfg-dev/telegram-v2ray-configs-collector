@@ -1,2 +1,4 @@
+vless://89643b95-aa9e-4188-803f-8559478e8e2a@13.229.121.192:22362?security=none&type=ws&host=m.whatsapp.com&path=/#🇸🇬 SG | 13.229.121.192
+vless://d005aae6-774a-4139-9b72-9f6cab5c11a7@13.229.121.192:38549?security=none&type=ws&host=m.zoom.us&path=/#🇸🇬 SG | 13.229.121.192
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTRyB8IDYyLjE0Ni4yMzUuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
