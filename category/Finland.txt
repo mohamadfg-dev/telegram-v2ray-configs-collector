@@ -1,13 +1,13 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg@31.13.208.3:1234?note=--Telegram--@Argo_VPN1--#🇫🇮 FI | 31.13.208.3
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
-vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443?path=/bspuwfws&security=tls&encryption=none&type=ws&sni=web.max.ru#🇫🇮 FI | 141.98.169.111
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 ss://YWVzLTI1Ni1nY206MTcyOTViOTItNGU1MC00MjVjLWFmOTUtZWU0NGM0MmJjMDNl@38.244.209.215:443#🇫🇮 FI | 38.244.209.215
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&type=ws#🇫🇮 FI | 141.98.169.94
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
-vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮 FI | 157.180.82.171
 vless://c7c325ea-d3bc-4700-9e00-8fb6b614da01@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=/&type=grpc&serviceName=Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY Tel:@VPN_KING_V2RAYTel:@VPN_KING_V2RAY&sni=tgju.org&sid=9ea773bd0f13#🇫🇮 FI | 65.109.219.23
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
