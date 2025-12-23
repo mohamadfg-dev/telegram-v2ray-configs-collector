@@ -1,6 +1,5 @@
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@93.152.207.254:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&type=raw&headertype=none#🇫🇮 FI | 93.152.207.254
-vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443/?type=ws&encryption=none&flow=&host=639010645287857140.accord-lmnxa.info&path=/coxzfsws&security=tls&sni=www.vk.com#🇫🇮 FI | 94.131.100.173
+vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443?path=/bspuwfws&security=tls&encryption=none&type=ws&sni=web.max.ru#🇫🇮 FI | 141.98.169.111
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#🇫🇮 FI | 94.131.100.173
