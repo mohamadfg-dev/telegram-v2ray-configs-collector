@@ -1,4 +1,2 @@
-vless://b2311f15-7d3c-4492-8204-f8eaa08f0880@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 vless://394e4c71-fb6a-4e3e-8843-efe4c98ae67e@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
-vless://c42e4667-ca09-4769-b544-89a8da730daf@ch3.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch3.tunnely.ru&sid=2e40144ddc07e8e1#🇨🇭 CH | 83.228.210.39
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+vless://106c2ad7-71c6-4199-b497-80a89eee8316@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
