@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇸 IS | 89.221.224.220
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.88:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome&type=ws&host=rayan-007.parvin.dpdns.org&path=/Telegram:@AZARBAYJAB1?ed=2560#🇮🇸 IS | 45.83.21.88
