@@ -1,1 +1,1 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v6.hiddendom.shop#🇧🇿 BZ | 45.131.208.129
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.10:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🇧🇿 BZ | 45.131.210.10

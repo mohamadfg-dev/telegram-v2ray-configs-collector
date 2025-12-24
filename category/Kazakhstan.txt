@@ -1,3 +1,1 @@
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443#🇰🇿 KZ | 91.147.92.153
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443#🇰🇿 KZ | 91.147.92.153
-vless://154470f4-45f2-4974-9119-2f333a18061a@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
+vless://d93b1e43-3b19-42cd-a0af-c7faa92f4198@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166

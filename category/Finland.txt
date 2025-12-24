@@ -1,10 +1,10 @@
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.217.0
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?security=reality&encryption=none&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=bb5cae#🇫🇮 FI | 37.27.81.159
-vless://a650d3e6-550b-4ae8-b7bc-f7223abba5e4@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 65.109.198.23
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://33f4ca29-6404-42de-8ca7-18846dbf5dcc@141.98.169.94:443?path=/puzoscws&security=tls&encryption=none&type=ws#🇫🇮 FI | 141.98.169.94
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
+vmess://eyJhZGQiOiIxNTcuMTgwLjEyMC4xOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MDEwMCIsInBzIjoi8J+Hq/Cfh64gRkkgfCAxNTcuMTgwLjEyMC4xOTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮 FI | 94.131.100.163
 vless://14be96d8-843c-45f9-935d-aeabeb44a663@65.109.198.23:53330?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 65.109.198.23

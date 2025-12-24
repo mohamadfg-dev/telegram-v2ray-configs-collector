@@ -1,6 +1,6 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-vless://d93b1e43-3b19-42cd-a0af-c7faa92f4198@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYlBSV0UtUUtxWlg4cEdLcDZmRHc1alN5VE1MeUF0dQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://1efe68bb-88bd-480e-84e5-5be8ce28d1b3@fast-tr.apbxz.com:2053?security=none&type=tcp&headerType=http&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#🇹🇷 TR | 45.144.214.67
 vless://0b7286d8-0216-4a73-bc5a-197a4d7c6fcb@vip3.seniorrnet.info:34568?mode=gun&security=none&encryption=none&type=grpc&serviceName=@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING@SEVEN_PING#🇹🇷 TR | 195.244.41.104
 vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#🇹🇷 TR | 213.156.152.223
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇹🇷 TR | 45.12.143.84
