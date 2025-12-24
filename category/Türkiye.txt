@@ -1,5 +1,3 @@
-vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#🇹🇷 TR | 213.156.152.223
-vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#🇹🇷 TR | 213.156.152.223
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.refersion.com&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&sid=ecd8d10c1518fb7b&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷 TR | 45.144.214.100
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TFNYSjBzUGFLdjJrN0J0bTZHS0tFSk02UmVhdU4zRQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
