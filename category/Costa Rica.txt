@@ -1,1 +1,2 @@
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=redlabell.info&path=/aafeuws&sni=redlabell.info&fp=chrome#🇨🇷 CR | 2803:f800:50::6ca2:c15b
