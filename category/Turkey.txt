@@ -1,2 +1,1 @@
-vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&type=tcp&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&sid=d1d42381ba35&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&encryption=none#🇹🇷 TR | 62.3.12.221
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇹🇷 TR | 31.57.225.233
