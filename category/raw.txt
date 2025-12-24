@@ -1,1 +1,1 @@
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=raw&headertype=none#🇩🇪 DE | 193.233.254.154
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@178.154.205.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0&type=raw&headertype=none#🇷🇺 RU | 178.154.205.131
