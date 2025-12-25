@@ -1,2 +1,1 @@
-trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?encryption=none&security=tls&sni=goodmorning.dancingbrick.click&type=raw&headertype=none#🇨🇦 CA | 134.195.197.69
-trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?encryption=none&security=tls&sni=www.gpt123.one&type=raw&headertype=none#🇸🇬 SG | 185.151.146.211
+trojan://d30ab83dbde4480082048fb315bedebd@59.37.173.53:3387?encryption=none&security=tls&sni=59.37.173.53&type=raw&headertype=none#🇨🇳 CN | 59.37.173.53
