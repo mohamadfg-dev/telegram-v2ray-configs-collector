@@ -1,3 +1,2 @@
 vless://309b65e0-a348-4302-82bb-25b3250c1a4a@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 vless://24a9d8bc-7499-4a65-805b-7728476a0d18@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
-vless://24a9d8bc-7499-4a65-805b-7728476a0d18@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 84.234.28.119
