@@ -1,3 +1,2 @@
-vless://f018f393-8e22-46d4-a7f0-f1018195ceea@84.234.28.119:37949?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 vless://357fc392-6854-4bce-b678-7a5e61aa87be@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
-vless://357fc392-6854-4bce-b678-7a5e61aa87be@84.234.28.119:51912?security=none&type=tcp&encryption=none#🇨🇭 CH | 84.234.28.119
+vless://309b65e0-a348-4302-82bb-25b3250c1a4a@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
