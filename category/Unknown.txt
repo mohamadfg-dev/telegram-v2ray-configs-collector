@@ -45,6 +45,5 @@ vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?host=fast.com&type=tcp&security=none&encryption=none&headerType=http#🏴‍☠️ UN | dl2.kuckenpq.ir
 vless://e5f689a0-16c9-490e-8276-c1535964efc2@sublink.kharejishop.sbs:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=BKCXk7rOuoL_V29FXRuOY0D9n0SvNIrU_RSQ2U0mLTo&fp=chrome&type=grpc&serviceName=W7lsFNbKqr3KudvIdn0xHgBq2t&sni=refersion.com&sid=1a71da57#🏴‍☠️ UN | sublink.kharejishop.sbs
 vless://04ef20c2-2926-40f9-e0f8-f5abb3d4456f@github.seatech.ir:993?security=tls&encryption=none&headerType=http&type=tcp&sni=github.seatech.ir#🏴‍☠️ UN | github.seatech.ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkWnhRNjNuTHh0R1l1NldwVnQ2SXZh@[2a12:bec4:1ac0:170::]:18851#🏴‍☠️ UN | [2a12:bec4:1ac0:170::]
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?path=/&security=none&encryption=none&host=shole.zarghamportal.ir&type=httpupgrade#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://8369bccd-ec80-4c73-ba46-17edbe003e87@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir

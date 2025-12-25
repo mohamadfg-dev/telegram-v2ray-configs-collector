@@ -1,1 +1,2 @@
-vless://28c69927-fc08-43c2-a09f-e9c7bb1529bb@185.177.238.57:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=3846b9259d66cc64#🇦🇱 AL | 185.177.238.57
+vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=7d498dcd#🇦🇱 AL | 78.159.131.51
+vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=7d498dcd#🇦🇱 AL | 78.159.131.51
