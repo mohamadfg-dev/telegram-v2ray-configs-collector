@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@108.129.58.201:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇮🇪 IE | 108.129.58.201
+vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇮🇪 IE | 199.232.25.242
