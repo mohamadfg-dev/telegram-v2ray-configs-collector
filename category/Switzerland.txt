@@ -1,3 +1,2 @@
-vless://e500b0a1-dffa-4983-9217-484913715071@144.31.216.16:444?security=reality&encryption=none&pbk=wMbKwMppoyj--v07kQdzy73hrnQ2MaM_WfVf4zVqJko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=6ba85179e30d4fc2#🇨🇭 CH | 144.31.216.16
 vless://24a9d8bc-7499-4a65-805b-7728476a0d18@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 vless://9277c2ec-9bef-4c98-8df9-d44da6989eb3@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
