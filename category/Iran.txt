@@ -1,5 +1,4 @@
 vless://e03314c1-5841-4471-9cbf-65074a7b919b@195.238.240.20:28091?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 IR | 195.238.240.20
-vless://e03314c1-5841-4471-9cbf-65074a7b919b@195.238.240.20:28091?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 IR | 195.238.240.20
 vless://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 62.60.219.75
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
 vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25lY3RlZC5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiZWY1YjQ2YWMtOGRlNS00MTk3LTgzZDItNmRkNDVmOWQ0ZThhIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNzgiLCJwcyI6IvCfh67wn4e3IElSIHwgODEuMTIuMzMuMTgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
