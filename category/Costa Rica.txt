@@ -1,2 +1,1 @@
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&type=ws&allowInsecure=0&sni=azizoarjmand.info#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=redlabell.info&path=/aafeuws&sni=redlabell.info&fp=chrome#🇨🇷 CR | 2803:f800:50::6ca2:c15b
