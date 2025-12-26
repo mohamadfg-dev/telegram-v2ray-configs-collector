@@ -1,2 +1,2 @@
-vless://11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b@viop.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=gogojiyour-name.global.ssl.fastly.net&type=xhttp#🇮🇪 IE | 199.232.25.242
+trojan://telegram-id-directvpn@54.217.161.50:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.217.161.50
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇮🇪 IE | 31.57.56.213
