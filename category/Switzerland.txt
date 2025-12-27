@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT21WWkJGazc5NGtmYkJrTVFmQnZh@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭 CH | 45.95.232.236
+vless://4be5e76e-f86a-44a1-aedc-7809ac0ffe59@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
+vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
