@@ -1,5 +1,5 @@
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&host=pro.turbooserver.com&type=ws#🇨🇭 CH | 84.234.30.125
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&path=/ed=2560&security=none&encryption=none&host=pro.turbooserver.com&type=ws#🇨🇭 CH | 84.234.30.125
-vless://4be5e76e-f86a-44a1-aedc-7809ac0ffe59@84.234.28.119:51912?type=tcp&encryption=none&security=none#🇨🇭 CH | 84.234.28.119
 vless://7a8ecc72-f913-486b-8fe7-24fb3a2845cf@84.234.28.119:51912?type=tcp&encryption=none&security=reality&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&fp=chrome&sni=cdn.getambassador.com&sid=3c&spx=/#🇨🇭 CH | 84.234.28.119
+vless://9d22695d-92dc-4a24-b910-e0f5d6c817ee@84.234.28.119:51912?type=tcp&encryption=none&security=reality&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&fp=chrome&sni=cdn.getambassador.com&sid=3c&spx=/#🇨🇭 CH | 84.234.28.119
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
