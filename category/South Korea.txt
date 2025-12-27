@@ -1,1 +1,1 @@
-trojan://moist@152.70.239.134:34237?type=ws&sni=trojan.freenods.sbs&path=/&host=trojan.freenods.sbs#🇰🇷 KR | 152.70.239.134
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDMuemdqb2suY29tIiwiaWQiOiI3MmEwZGFjNC05Njg5LTRhNTctYjE2NC01YzY1YmZhOTQ3NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IvCfh7Dwn4e3IEtSIHwgMTQ2LjU2LjE3Ny4xNjYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJzZW91bDAzLnpnam9rLmNvbSJ9
