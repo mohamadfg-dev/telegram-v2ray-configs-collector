@@ -1,1 +1,2 @@
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇹🇷 TR | 31.57.225.233
+vless://id8269253016@2.56.127.102:443?security=reality&encryption=none&pbk=jFMvhD5TELzxTDz3jX045k9s0M8meyKhDivFqwaY83I&headerType=none&fp=chrome&spx=/gfFfd40p6VYCH24&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=4b28164280270264#🇹🇷 TR | 2.56.127.102
