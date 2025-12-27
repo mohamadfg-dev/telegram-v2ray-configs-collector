@@ -1,4 +1,4 @@
 vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#🇯🇵 JP | 116.80.58.239
-ss://YWVzLTI1Ni1nY206NzkyZTBiZGItMDFkYi00NTBjLTk0YzQtOTI1MTUxZWIzOTZl@ss.029.node-for-bigairport.win:36887#🇯🇵 JP | 13.231.203.126
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?sni=www.nintendogames.net&path=/#🇯🇵 JP | 153.121.53.187
+ss://YWVzLTI1Ni1nY206NzkyZTBiZGItMDFkYi00NTBjLTk0YzQtOTI1MTUxZWIzOTZl@ss.029.node-for-bigairport.win:36887#🇯🇵 JP | 35.78.72.8
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net&path=/#🇯🇵 JP | 160.16.107.37
 vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇯🇵 JP | 195.78.49.158
