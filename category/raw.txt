@@ -1,1 +1,1 @@
-trojan://d30ab83dbde4480082048fb315bedebd@59.37.173.53:3387?encryption=none&security=tls&sni=59.37.173.53&type=raw&headertype=none#🇨🇳 CN | 59.37.173.53
+trojan://d30ab83dbde4480082048fb315bedebd@i1.tjone.cn:3387?encryption=none&security=tls&sni=i1.tjone.cn&type=raw&headertype=none#🇨🇳 CN | 59.37.139.217
