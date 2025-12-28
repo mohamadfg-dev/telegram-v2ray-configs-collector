@@ -1,1 +1,1 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇦🇺 AU | 45.15.185.69
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#🇦🇺 AU | 185.207.198.254

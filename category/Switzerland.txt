@@ -1,7 +1,6 @@
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&path=/ed=2560&security=none&encryption=none&host=pro.turbooserver.com&type=ws#🇨🇭 CH | 84.234.30.125
 vless://9d22695d-92dc-4a24-b910-e0f5d6c817ee@84.234.28.119:51912?type=tcp&encryption=none&security=reality&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&fp=chrome&sni=cdn.getambassador.com&sid=3c&spx=/#🇨🇭 CH | 84.234.28.119
 vless://c202e449-04bc-44be-ac4c-dd61d2455c7e@84.234.28.119:51912?type=tcp&encryption=none&security=reality&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&fp=chrome&sni=cdn.getambassador.com&sid=3c&spx=/#🇨🇭 CH | 84.234.28.119
-vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#🇨🇭 CH | 208.69.78.5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT21WWkJGazc5NGtmYkJrTVFmQnZh@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT21WWkJGazc5NGtmYkJrTVFmQnZh@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
