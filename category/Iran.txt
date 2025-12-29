@@ -1,9 +1,10 @@
-vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@DiGiTAlvOrTeX.sPEeD3.DiGiTAlvOrTeX.iR:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#🇮🇷 IR | 185.213.164.174
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?flow=&type=tcp&headerType=none&security=none#🇮🇷 IR | 95.38.210.6
 vless://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 62.60.219.75
 vless://de9575f0-62de-4451-8fd0-5cef172f7ad9@vp2.diesevip.shop:28146?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.215.59.90
 vmess://eyJhZGQiOiJjb25lY3RlZGdyZWVuc2FiemJhc2hvbmxpbmUwMi5ncmVlbmJyaWRnZS1jb25lY3RlZC5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiZWY1YjQ2YWMtOGRlNS00MTk3LTgzZDItNmRkNDVmOWQ0ZThhIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNzgiLCJwcyI6IvCfh67wn4e3IElSIHwgODEuMTIuMzMuMTgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vless://e03314c1-5841-4471-9cbf-65074a7b919b@195.238.240.20:28091?encryption=none&security=none&type=grpc#🇮🇷 IR | 195.238.240.20
+ss://YWVzLTI1Ni1nY206Y2VlZTg1MmYtMGU4My1mNjFlLWM5YTctMzg5ZDljZjdkODE5@32477555142435287570082724328044.international-ixp.com:11316#🇮🇷 IR | 37.32.11.48
+ss://YWVzLTI1Ni1nY206Y2VlZTg1MmYtMGU4My1mNjFlLWM5YTctMzg5ZDljZjdkODE5@32477555142435287570082724328044.international-ixp.com:11316#🇮🇷 IR | 37.32.11.48
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 95.38.210.6
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
@@ -19,8 +20,10 @@ vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&heade
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
 vless://c59695d1-b0d3-440e-a502-76e408805a1e@212.80.9.85:57209?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🇮🇷 IR | 212.80.9.85
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@DiGiTAlvOrTeX.sPEeD3.DiGiTAlvOrTeX.iR:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#🇮🇷 IR | 185.213.164.174
 vmess://eyJhZGQiOiJjaGFubmVsLnByb3h5dnBudmlwLnB2dmlwLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2t5cm9vbS5vbmxpbmUiLCJpZCI6IkBQcm94eVZQTlZpcC1DaGFubmVsVGVsZWdyYW0iLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0BQcm94eVZQTlZpcCIsInBvcnQiOiIyMDg3IiwicHMiOiLwn4eu8J+HtyBJUiB8IDk1LjM4LjE5Ny4xNDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@DiGiTAlvOrTeX.sPEeD3.DiGiTAlvOrTeX.iR:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#🇮🇷 IR | 185.213.164.174
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 213.176.0.80
 vless://8c531d7b-20fb-467c-b149-4f50b5868b03@94.183.149.102:10005?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.183.149.102
@@ -34,4 +37,6 @@ vless://5f07a164-7746-45bd-9941-faa351157a85@tttt1.hennessypro.site:4001?type=tc
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.12
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNDAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://8b9e2cfe-78ea-49b3-b943-e15c2d1ed7ef@j3s1i.proxyfire.xyz:8000?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.49
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 89.47.198.53
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 185.243.49.205
