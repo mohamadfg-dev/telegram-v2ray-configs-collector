@@ -1,6 +1,6 @@
 vless://9f870015-3572-4ed6-bda4-23adecb8d344@84.234.28.119:51912?type=tcp&encryption=none&security=reality&pbk=0hesu0nLOGTP71vrC7DqVX4L0ZQ1hqeQw0AtEG_23jE&fp=chrome&sni=cdn.getambassador.com&sid=3c&spx=/#🇨🇭 CH | 84.234.28.119
 vless://263cdf5c-ec17-44a6-baa8-e817d0db32d1@84.234.30.84:36226?type=tcp&encryption=none&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 84.234.30.84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT21WWkJGazc5NGtmYkJrTVFmQnZh@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXWmVNZDkxb2JXeG9jSlU4VXdOOXVV@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
 vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 83.228.225.253
