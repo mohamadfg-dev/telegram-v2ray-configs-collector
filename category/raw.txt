@@ -1,1 +1,1 @@
-trojan://d30ab83dbde4480082048fb315bedebd@120.236.198.170:3387?encryption=none&security=tls&sni=120.236.198.170&type=raw&headertype=none#🇨🇳 CN | 120.236.198.170
+vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&alpn=h2,http/1.1&fp=chrome&type=raw&headertype=none#🇱🇮 LI | 45.15.167.35
