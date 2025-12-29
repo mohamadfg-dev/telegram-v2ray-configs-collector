@@ -3,4 +3,3 @@ vless://94b17f0e-1c8d-490a-a771-956dfbb9f7a1@84.234.30.84:36226?type=tcp&encrypt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXWmVNZDkxb2JXeG9jSlU4VXdOOXVV@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
 vless://8dcbc92f-5c77-42a8-8d35-064e14c55f6e@pro.turbooserver.com:80?path=/ed=2560&security=none&encryption=none&type=ws#🇨🇭 CH | 84.234.30.125
-vless://2364f94b-f985-478b-d694-879bb47d14e6@all.app-nima.shop:3749?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 83.228.225.253
