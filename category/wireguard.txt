@@ -1,3 +1,2 @@
-wireguard://EKRnbt/neTTclhsU842c9xRu+QWECvZQav1nOx/ZL0M=@[2606:4700:d0::a29f:c002]:2408?address=#🏴‍☠️ UN | EKRnbt
 wireguard://GCpkNcdHkbft3GDGx370jW6SZtYQ17C1CB2lV1QA92Q=@[2606:4700:d0::a29f:c003]:2408?address=172.16.0.2/32&presharedkey=&reserved=165,62,85&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | [2606:4700:d0::a29f:c003]
 wireguard://IKDOz/9G//YE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs=@[2606:4700:d0::a29f:c004]:8742?address=172.16.0.2/32&presharedkey=&reserved=120,35,122&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | IKDOz
