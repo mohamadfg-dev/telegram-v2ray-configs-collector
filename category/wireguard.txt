@@ -1,3 +1,2 @@
-wireguard://IKDOz/9G//YE7Srr1lDQvwm2wH7c2kHfzIAOvjERyHs=@[2606:4700:d0::a29f:c004]:8742?address=172.16.0.2/32&presharedkey=&reserved=120,35,122&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | IKDOz
 wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.195.4
 wireguard://8CBaFoNjMJ64gMWudh+rjxrHtCq0lktrhxseaYo2S0k=@162.159.192.20:903?address=172.16.0.2/32&presharedkey=&reserved=228,46,87&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.192.20
