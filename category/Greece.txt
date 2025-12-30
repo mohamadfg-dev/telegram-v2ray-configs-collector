@@ -1,1 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#🇬🇷 GR | 31.22.116.198
+vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#🇬🇷 GR | 94.131.8.19

@@ -1,5 +1,4 @@
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&security=reality&type=tcp&sni=mailru.ookcdn.ru&fp=chrome&flow=xtls-rprx-vision&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&encryption=none#🇹🇷 TR | 77.83.245.220
-vless://d76da2d9-47b7-417a-ae80-f0a586ced83f@tr.ircloudmarket.com:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&fp=firefox&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&sid=#🇹🇷 TR | 45.92.219.146
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656?security=none&type=tcp&encryption=none#🇹🇷 TR | 45.81.113.60
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowWkZxRXRkaDFHbjJMUG95R0ZKMGtyTXplMkpBRXJjZg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
