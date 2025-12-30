@@ -4,6 +4,7 @@ vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encrypti
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&sid=bb5cae&type=tcp&headerType=none#🇫🇮 FI | 37.27.81.159
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&encryption=none&security=none#🇫🇮 FI | 77.42.77.66
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#🇫🇮 FI | 77.42.77.66
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/&security=none&encryption=none&host=cloudflare.com&type=ws#🇫🇮 FI | 65.109.217.108
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#🇫🇮 FI | 77.42.77.66
