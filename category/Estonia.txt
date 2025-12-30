@@ -1,1 +1,1 @@
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 EE | 144.31.178.168
+vless://e9dbc178-3656-40f8-8833-5023f306ef1d@est01-ss01.tcp-reset-club.net:8443?security=reality&type=tcp&sni=stats.vk-portal.net&fp=chrome&flow=xtls-rprx-vision&sid=48720c&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#🇪🇪 EE | 185.155.96.155

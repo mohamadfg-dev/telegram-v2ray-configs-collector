@@ -1,6 +1,5 @@
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?security=reality&encryption=none&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=bb5cae#🇫🇮 FI | 37.27.81.159
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?security=reality&encryption=none&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=bb5cae#🇫🇮 FI | 37.27.81.159
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443/?path=/&security=none&encryption=none&host=cloudflare.com&type=ws#🇫🇮 FI | 65.109.217.108
 vless://0a67c1bc-4d33-4713-c711-6bd1ad07e633@65.109.178.29:443?type=tcp&encryption=none&security=reality&pbk=dnQjj0veNVgsQNC_tkbU3XKj4L3pqkS3LmVeyKuRa1Q&fp=chrome&sni=microsoft.com&sid=&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 65.109.178.29
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@37.27.81.159:46704?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&sid=bb5cae&type=tcp&headerType=none#🇫🇮 FI | 37.27.81.159
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
