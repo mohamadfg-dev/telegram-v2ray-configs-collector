@@ -1,3 +1,2 @@
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTRyB8IDYyLjE0Ni4yMzUuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
-vless://6e69871c-4506-4cb9-b375-ac97cb972742@66.42.51.60:8443?security=tls&sni=saas.520cf.dns.army&alpn=&fp=random&type=ws&host=saas.520cf.dns.army&path=/proxyip=sjc.o00o.ooo&fragment=1,40-60,30-50,tlshello&encryption=none#🇸🇬 SG | 66.42.51.60

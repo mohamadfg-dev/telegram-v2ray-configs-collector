@@ -7,6 +7,7 @@ vless://e03314c1-5841-4471-9cbf-65074a7b919b@195.238.240.20:28091?encryption=non
 vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@DiGiTAlvOrTeX.sPEeD3.DiGiTAlvOrTeX.iR:5453?security=none&encryption=none&host=cd.thundervortex.ir&headerType=http&type=tcp#🇮🇷 IR | 185.213.164.174
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
+vless://b5b98557-33d6-6efd-0fc6-2989fcf97cd5@185.213.164.174:5453?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇮🇷 IR | 185.213.164.174
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.210.6
 vless://29a6f284-dd9f-48be-9c26-7fea94064322@poland.a1mshop2.xyz:49894?mode=stream-one&type=tcp&path=/&security=none&host=www.speedtest.net&headerType=http#🇮🇷 IR | 46.38.146.250
@@ -34,7 +35,4 @@ vless://5f07a164-7746-45bd-9941-faa351157a85@tttt1.hennessypro.site:4001?type=tc
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.12
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNDAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://4dd96d2f-6989-4046-b255-0d48c7db1fa6@avval.ir:80?path=/graphql&security=none&encryption=none&host=v5.smartyevent.click&type=ws#🇮🇷 IR | 185.143.234.235
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 89.47.198.53
-vless://68b398ff-8a8c-4fb6-8839-544e5ae6bde1@srv.cactusdomain.site:58911?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.182.83.105
-vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.210.6
