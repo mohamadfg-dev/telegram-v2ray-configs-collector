@@ -1,1 +1,2 @@
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@190.93.245.108:443?security=tls&type=ws&path=/assets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#🇨🇷 CR | 190.93.245.108
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
