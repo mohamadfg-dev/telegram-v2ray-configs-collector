@@ -23,8 +23,6 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&t
 vless://turboo-server@85.133.206.34:6200?path=/ed=2560&security=none&encryption=none&type=ws#🇮🇷 IR | 85.133.206.34
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.210.6
 vless://8c531d7b-20fb-467c-b149-4f50b5868b03@94.183.149.102:10005?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.183.149.102
-vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@us.sepshoping.de:1121?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 87.236.38.26
-vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@sw.sepshoping.de:1121?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 37.202.232.48
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
