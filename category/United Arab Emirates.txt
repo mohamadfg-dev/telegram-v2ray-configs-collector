@@ -1,3 +1,2 @@
 vless://94924a56-29dc-44ad-846b-91e3908d1bd8@94.140.0.149:80?path=/跌倒七次，爬起来八次&security=none&encryption=none&host=one.sibscription.ir&type=ws#🇦🇪 AE | 94.140.0.149
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@ae2.tunnely.ru:443?security=reality&type=tcp&sni=ae2.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&encryption=none#🇦🇪 AE | 176.97.66.148
