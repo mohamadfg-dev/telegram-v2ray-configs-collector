@@ -1,4 +1,2 @@
-wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.195.4
-wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.195.4
-wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.195.4
+wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🏴‍☠️ UN | 162.159.195.4
 wireguard://CBMxaub4dG7Q9W91x4+lUCqtF9eV1BN+4osBfWZNXHs=@162.159.195.4:2371?address=172.16.0.2/32&presharedkey=&reserved=225,17,205&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1380#🇨🇦 CA | 162.159.195.4
