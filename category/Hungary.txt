@@ -1,1 +1,1 @@
-vless://95fffeb4-c143-4f2c-abe9-8dfeff2c33d7@217.13.104.149:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=3f200574d011010f#🇭🇺 HU | 217.13.104.149
+vless://dcddd89c-aeca-4824-a680-d88f96510e9f@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6354585c37827955#🇭🇺 HU | 217.13.104.134
