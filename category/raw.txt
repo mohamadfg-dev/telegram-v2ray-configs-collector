@@ -1,1 +1,2 @@
-vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&alpn=h2,http/1.1&fp=chrome&type=raw&headertype=none#🇱🇮 LI | 45.15.167.35
+trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.250:27234?encryption=none&security=tls&sni=www.vk.com&type=raw&headertype=none#🇳🇱 NL | 167.17.70.250
+trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.250:27234?encryption=none&security=tls&sni=www.vk.com&type=raw&headertype=none#🇳🇱 NL | 167.17.70.250
