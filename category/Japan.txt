@@ -1,1 +1,2 @@
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#🇯🇵 JP | 178.239.124.30
+vless://6e69871c-4506-4cb9-b375-ac97cb972742@3.112.200.136:443?security=tls&sni=saas.520cf.dns.army&alpn=&fp=random&type=ws&host=saas.520cf.dns.army&path=/proxyip=sjc.o00o.ooo&fragment=1,40-60,30-50,tlshello&encryption=none#🇯🇵 JP | 3.112.200.136
