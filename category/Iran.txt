@@ -28,7 +28,6 @@ vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&s
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.210.6
 vless://8c531d7b-20fb-467c-b149-4f50b5868b03@94.183.149.102:10005?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.183.149.102
-vless://d41c4963-2136-4d2f-a521-129b78d362ba@151.234.162.112:2095?encryption=none&type=tcp&headerType=http&host=soft98.ir&security=none#🇮🇷 IR | 151.234.162.112
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 85.133.200.106
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215

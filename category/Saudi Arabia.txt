@@ -1,1 +1,1 @@
-ss://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=/snippets&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#🇸🇦 SA | 91.209.253.43
+vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468?security=none&encryption=none&headerType=none&type=tcp#🇸🇦 SA | 185.253.118.198
