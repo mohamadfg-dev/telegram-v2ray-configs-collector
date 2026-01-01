@@ -1,1 +1,3 @@
-vless://id8269253016@2.56.127.102:443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=4b28164280270264&pbk=jFMvhD5TELzxTDz3jX045k9s0M8meyKhDivFqwaY83I&encryption=none#🇹🇷 TR | 2.56.127.102
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🇹🇷 TR | 45.89.52.66
+trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#🇹🇷 TR | 62.3.12.114
+trojan://nYzYreUpD4dDjzjFcgf6Fe3oaw4QFN@trunker.cc:8080?security=reality&pbk=BNDEyo7JzKrJ1xPgFNJv5P-emcPIoiUkGZ6OUmlctU4&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=20b8da6c1f3a9ed7#🇹🇷 TR | 185.153.182.13

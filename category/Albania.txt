@@ -1,1 +1,1 @@
-vless://9a2fd84d-6ccb-4030-a340-65de7439b49e@alb.zov-bot.ru:33970?security=reality&encryption=none&pbk=lJQyTjg665wJ5_BAq53d_1i0oA9_Uv5vHpASlBigDSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=55#🇦🇱 AL | 78.159.131.183
+vless://8b55c24a-806d-4b29-9388-0e5034cf78df@78.159.131.51:443/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=702cc6ff#🇦🇱 AL | 78.159.131.51
