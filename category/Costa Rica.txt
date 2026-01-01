@@ -1,1 +1,1 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443/?path=/rbjisuws&security=tls&encryption=none&host=639018301854287215.camry-amsjk.info&type=ws&sni=639018301854287215.camry-amsjk.info#🇨🇷 CR | 2803:f800:50::6ca2:c263

@@ -1,3 +1,3 @@
-vless://dcddd89c-aeca-4824-a680-d88f96510e9f@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6354585c37827955#🇭🇺 HU | 217.13.104.134
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🇭🇺 HU | 5.182.38.91
-ss://291a2db3-04b5-4089-af90-adb5d1ce05ff@79.127.133.77:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f4b4a6365558ea2e#🇭🇺 HU | 79.127.133.77
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1&security=none&encryption=none&type=ws#🇭🇺 HU | 87.229.100.155
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/TR/1&security=none&encryption=none&type=ws#🇭🇺 HU | 87.229.100.155
