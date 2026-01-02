@@ -1,2 +1,2 @@
-vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1&security=none&encryption=none&type=ws#🇭🇺 HU | 87.229.100.155
 vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?encryption=none&security=none&type=ws&path=/IVApi/US/1#🇭🇺 HU | 87.229.100.155
+vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?path=/IVApi/US/1&security=none&encryption=none&type=ws#🇭🇺 HU | 87.229.100.155
