@@ -1,1 +1,1 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
+vless://EXPRESSVPN_420@test.fast199.hosting-ip.com:80?type=xhttp&path=&host=mopd.global.ssl.fastly.net&mode=auto&security=none#🇦🇹 AT | 199.232.19.9

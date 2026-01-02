@@ -1,4 +1,3 @@
-vless://442c519e-037a-4833-b80c-7721de17acf9@84.234.30.84:36226?type=tcp&encryption=none&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 84.234.30.84
 vless://2f902c95-2c02-4bca-bf7c-20e048bb0096@84.234.30.84:36226?type=tcp&encryption=none&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 84.234.30.84
-vless://7016807b-af17-4dda-ba6e-dc70d7fdfaa6@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
+vless://fd98db89-e471-44d2-b60a-d4263042928a@84.234.30.84:36226?type=tcp&encryption=none&path=/&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&security=none#🇨🇭 CH | 84.234.30.84
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=tcp&encryption=none#🇨🇭 CH | 208.69.78.5

@@ -1,2 +1,1 @@
-trojan://d30ab83dbde4480082048fb315bedebd@120.236.198.170:3387?encryption=none&security=tls&sni=120.236.198.170&type=raw&headertype=none#🇨🇳 CN | 120.236.198.170
-trojan://d30ab83dbde4480082048fb315bedebd@120.236.198.170:3387?encryption=none&security=tls&sni=120.236.198.170&type=raw&headertype=none#🇨🇳 CN | 120.236.198.170
+vless://c2d09c1c-7d4d-46c4-838f-ad263b93c4e1@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41&type=raw&headertype=none#🇩🇪 DE | 194.87.29.240
