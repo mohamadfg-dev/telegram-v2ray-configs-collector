@@ -1,1 +1,1 @@
-vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#🇯🇵 JP | 178.239.124.30
+trojan://f653ef08c54e21b3@13.114.31.41:3306?security=tls&type=ws&sni=TG.WangCai2&path=/gateway/connect&host=TG.WangCai_1#🇯🇵 JP | 13.114.31.41

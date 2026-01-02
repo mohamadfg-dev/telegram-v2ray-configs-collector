@@ -1,1 +1,2 @@
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🇱🇻 LV | 94.131.104.178
+vless://18664eed-9d0f-475b-a5d6-0842239a6b1d@62.192.174.198:443?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gosuslugi.ru&sid=2ee3a5b4ed37e2#🇱🇻 LV | 62.192.174.198
