@@ -1,1 +1,3 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.158:2096/?type=ws&encryption=none&flow=&host=sni.111000.de5.net&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.de5.net#undefined CW | 5.10.245.158
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=/?ed=2560&&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#undefined CW | 62.72.166.238
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=/?ed=2560&&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#undefined CW | 62.72.166.238
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@62.72.166.238:2096?path=/?ed=2560&&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#undefined CW | 62.72.166.238
