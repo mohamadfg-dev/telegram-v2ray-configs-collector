@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM3dCUzU5ckZmdFAyZWI3STVpVDNh@45.95.232.236:4248#🇨🇭 CH | 45.95.232.236
+vless://2c3f2cd4-4fc5-4793-8897-9c0b6a6b57c3@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
 ss://YWVzLTEyOC1nY206dnlabFctb0Zfa1RpcE1CNnVBaUt6QQ@195.15.241.91:443#🇨🇭 CH | 195.15.241.91
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=tcp&encryption=none#🇨🇭 CH | 208.69.78.5
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#🇨🇭 CH | 2.59.219.204

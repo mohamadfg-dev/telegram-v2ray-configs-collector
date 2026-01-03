@@ -1,4 +1,5 @@
-vless://8449ba07-9c88-4967-9a5c-6663b4f42dcf@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=civan.global.ssl.fastly.net&type=ws#🇮🇹 IT | 151.101.241.242
+vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=turboo-server.io&type=ws#🇮🇹 IT | 146.75.55.82
+vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=turboo-server.io&type=ws#🇮🇹 IT | 146.75.55.82
 vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=turboo-server.io&type=ws#🇮🇹 IT | 146.75.55.82
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
-vless://b608c486-56e6-45c7-d66c-50a46d34b2d3@ip.fastlynew.hosting-ip.com:80?mode=auto&path=/vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66?ed=2650&security=none&encryption=none&host=shadow66.global.ssl.fastly.net&type=xhttp#🇮🇹 IT | 151.101.241.242
+vless://8d89787b-6dd0-4134-ac9c-52e37addc143@tralalero.site:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f32140952ba18e18#🇮🇹 IT | 84.17.58.152
