@@ -1,1 +1,2 @@
-vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?security=&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 88.209.249.31
+vless://id8302072915@5.180.45.245:443?note=---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---Telegram---@Argo_VPN1---&security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/UnJIZrVE2SpBw2j&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=d9b9c014#🇹🇷 TR | 5.180.45.245
+vless://id8302072915@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/UnJIZrVE2SpBw2j&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=d9b9c014#🇹🇷 TR | 5.180.45.245

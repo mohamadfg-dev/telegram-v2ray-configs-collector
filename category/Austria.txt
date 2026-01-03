@@ -1,4 +1,5 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
-vless://6ac4d982-39e4-41b5-8bd9-f27dd58786b0@178.22.31.68:8443/?type=tcp&encryption=none&flow=&security=tls&sni=at17.fastlanehosting.ru&alpn=h2,http/1.1&fp=chrome#🇦🇹 AT | 178.22.31.68
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
+vless://6ac4d982-39e4-41b5-8bd9-f27dd58786b0@178.22.31.68:8443/?type=tcp&encryption=none&flow=&security=tls&sni=at17.fastlanehosting.ru&alpn=h2,http/1.1&fp=chrome#🇦🇹 AT | 178.22.31.68
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🇦🇹 AT | 212.183.88.158
