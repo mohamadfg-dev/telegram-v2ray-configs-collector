@@ -1,1 +1,2 @@
-vless://b327d2bf-a1d4-530f-bf85-5f7033483334@ee1.xvless.online:80?path=/httpupgrade&security=none&encryption=none&host=ee1.xvless.online&type=httpupgrade#🇳🇿 NZ | 23.230.179.92
+vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&encryption=none&insecure=1&type=httpupgrade&allowInsecure=1&sni=dl96-168-107-91w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.11
+vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&encryption=none&insecure=1&type=httpupgrade&allowInsecure=1&sni=dl204-188-107-91w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
