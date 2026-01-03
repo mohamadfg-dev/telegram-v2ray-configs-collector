@@ -1,4 +1,6 @@
 vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#🇨🇭 CH | 208.69.78.161
 vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#🇨🇭 CH | 208.69.78.161
 ss://YWVzLTEyOC1nY206dnlabFctb0Zfa1RpcE1CNnVBaUt6QQ@195.15.241.91:443#🇨🇭 CH | 195.15.241.91
+vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#🇨🇭 CH | 208.69.78.161
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443/?type=tcp&encryption=none#🇨🇭 CH | 208.69.78.5
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=868419504747f6de#🇨🇭 CH | 2.59.219.204
