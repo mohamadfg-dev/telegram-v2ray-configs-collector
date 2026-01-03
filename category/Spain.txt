@@ -1,1 +1,3 @@
+vless://e0e23e65-6880-44b4-a2b8-d3a5e731f0e6@velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=random&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&type=tcp&headerType=none#🇪🇸 ES | 185.93.3.34
+vless://e0e23e65-6880-44b4-a2b8-d3a5e731f0e6@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#🇪🇸 ES | 185.93.3.34
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67

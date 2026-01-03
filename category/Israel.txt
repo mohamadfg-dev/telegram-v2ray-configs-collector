@@ -1,1 +1,1 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇮🇱 IL | 77.91.74.179
+vless://4352f2a7-d620-474e-9249-e866774a2c81@5.188.94.5:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=/hgffg#🇮🇱 IL | 5.188.94.5

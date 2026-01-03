@@ -1,1 +1,1 @@
-vless://a8cc4860-2daa-a943-a2ba-d2ea31251d11@87.229.100.155:80?encryption=none&security=none&type=ws&path=/IVApi/US/1#🇭🇺 HU | 87.229.100.155
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=e55fd8f9c9a9a0ca#🇭🇺 HU | 217.13.104.134
