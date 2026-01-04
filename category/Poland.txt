@@ -1,2 +1,1 @@
-vless://9c0857dc-2900-4038-ac5e-c0bc189405d7@poland.4uvpn1.us:52361?security=none&encryption=none&host=zula.ir,parspack.com&headerType=http&type=tcp#🇵🇱 PL | 188.137.178.119
-vless://51209cce-e3f4-4237-a157-d75b83fcdd66@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇵🇱 PL | 145.239.31.99
+vless://9e997319-fbe6-41b2-8226-4b7dd2008fde@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇵🇱 PL | 145.239.31.99
