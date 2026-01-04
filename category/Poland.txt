@@ -1,1 +1,2 @@
 vless://9e997319-fbe6-41b2-8226-4b7dd2008fde@145.239.31.99:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇵🇱 PL | 145.239.31.99
+vless://43660f19-e968-424d-bd9d-cfcfdd638e4a@144.31.3.255:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇵🇱 PL | 144.31.3.255
