@@ -1,4 +1,5 @@
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.168:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 EE | 144.31.178.168
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 EE | 144.31.178.168
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodesfp#🇪🇪 EE | 45.80.110.211
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 EE | 144.31.178.168
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.80.108.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#🇪🇪 EE | 45.80.108.238
