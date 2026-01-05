@@ -2,3 +2,4 @@ vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=none&encryption=none&host=cloudflare.com&type=ws#🇸🇬 SG | 5.223.59.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 SG | 194.53.53.249
+vless://319895b6-52d4-4980-b159-cb21ded9b45b@lukas.mmadcoffee.info:443?path=/17979/google&security=tls&encryption=none&insecure=0&host=lukas.mmadcoffee.info&fp=chrome&type=httpupgrade&allowInsecure=0&sni=lukas.mmadcoffee.info#🇸🇬 SG | 43.174.246.35

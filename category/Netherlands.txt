@@ -1,1 +1,2 @@
-vless://f1f737fb-39d9-4c07-986f-0d2b2ed1b7d2@nl.quattro-tech.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇳🇱 NL | 192.241.120.22
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#🇳🇱 NL | 178.173.250.47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#🇳🇱 NL | 178.173.250.47
