@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 JP | 149.22.87.241
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 JP | 149.22.87.241
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=b52815d3a6ac45b4#🇯🇵 JP | 109.61.109.135
