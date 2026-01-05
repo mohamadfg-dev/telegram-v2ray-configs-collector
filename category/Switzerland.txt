@@ -1,1 +1,1 @@
-vless://38d5c1f7-a63e-408d-b9d9-b8d88a5850ac@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
+vless://a6bdce65-2ec9-47e3-9814-bc281cffadcd@ch.svdualvpn.ru:8443?security=reality&type=tcp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇨🇭 CH | 179.43.140.27

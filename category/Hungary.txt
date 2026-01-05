@@ -1,1 +1,1 @@
-vless://600cb39d-5f62-4e6c-927e-3775285887c1@79.127.133.70:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2715592069f36fe7#🇭🇺 HU | 79.127.133.70
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=e55fd8f9c9a9a0ca#🇭🇺 HU | 217.13.104.134
