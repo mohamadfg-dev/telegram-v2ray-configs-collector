@@ -1,1 +1,2 @@
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@114.129.43.29:443?encryption=none&type=httpupgrade&security=tls&sni=fl-dl158-176-109-65w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
+vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@114.129.43.29:443?encryption=none&type=httpupgrade&security=tls&sni=fl-dl220-183-109-65w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
+vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@114.129.43.29:443?encryption=none&type=httpupgrade&security=tls&sni=fl-dl220-183-109-65w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
