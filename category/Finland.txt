@@ -1,4 +1,5 @@
 vless://6caf585f-ae05-4c4e-9c97-a48728ca0885@77.42.77.102:46704?type=tcp&encryption=none&security=reality&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&fp=chrome&sni=google.com&sid=bb5cae&spx=/#🇫🇮 FI | 77.42.77.102
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&type=tcp&headerType=none#🇫🇮 FI | 171.22.114.248
 vless://11c21629-e286-4c60-9f14-cf1935854b3e@77.42.47.11:46704?security=reality&encryption=none&pbk=HxFj9w2QRYJD6gLPuRW4upoYqe1A2lHqdAiB1mdcBUQ&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=bb5cae#🇫🇮 FI | 77.42.47.11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://18a6bad2-7354-4366-ba8b-e4ab3009d39e@free12.shomboli.blog:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#🇫🇮 FI | 65.109.206.185

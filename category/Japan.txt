@@ -1,1 +1,1 @@
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@109.61.109.135:443?security=reality&encryption=none&pbk=2Q0J_OPL73qhEIYf3YBLCuY4RIBurgz5QDVchQ8e9ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn.stun.su&sid=b52815d3a6ac45b4#🇯🇵 JP | 109.61.109.135
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@103.53.81.195:36515?encryption=none&security=tls&sni=sni.111000.cc.cd&type=ws&host=sni.111000.cc.cd&path=/?ed=2560&Telegram🇨🇳@WangCai2#🇯🇵 JP | 103.53.81.195
