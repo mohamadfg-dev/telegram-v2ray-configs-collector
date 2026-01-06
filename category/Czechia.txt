@@ -1,1 +1,1 @@
-vless://3b259973-5f12-4fa8-8f2a-edb61e4b9258@141.227.134.105:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇨🇿 CZ | 141.227.134.105
+vless://98895157-4ded-4eeb-a22c-058ed62bdac3@45.15.162.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#🇨🇿 CZ | 45.15.162.85

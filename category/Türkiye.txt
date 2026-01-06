@@ -1,4 +1,3 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYWZvcTg0UDU5VnVWYzBUM1ExS0pMUTJqVDZ0eDJ6bg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 TR | 38.180.113.194
 vless://628a1148-09a4-4808-b484-806f6206e6ba@45.141.148.146:10002?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#🇹🇷 TR | 45.141.148.146
