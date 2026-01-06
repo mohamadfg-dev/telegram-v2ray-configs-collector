@@ -1,1 +1,1 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@118.130.241.44:22353?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=random#🇰🇷 KR | 118.130.241.44
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAxNTIuNzAuMjQxLjE4IiwiYWRkIjoiMTUyLjcwLjI0MS4xOCIsInBvcnQiOiIyNjY3NiIsInR5cGUiOiJub25lIiwiaWQiOiJlY2QyNzRjMC0xNzVkLTQ1ZjctODI3Ni1hM2RhOTM3ODY2MzIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
