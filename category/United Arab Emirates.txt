@@ -1,2 +1,2 @@
-vless://54f7ec07-e994-4861-b951-0a0886439ae4@146.75.64.0:80?encryption=none&type=xhttp&mode=auto&host=abriconf.global.ssl.fastly.net&path=/cdn/assets?&security=none#🇦🇪 AE | 146.75.64.0
+vless://f385a62a-bbc8-4406-be01-83019c67b083@146.75.64.0:80/?type=xhttp&encryption=none&path=/cdn/assets?&host=abriconf.global.ssl.fastly.net&mode=auto&security=none#🇦🇪 AE | 146.75.64.0
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
