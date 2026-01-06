@@ -1,1 +1,2 @@
 vless://a11ab9c5-4155-430b-9efc-7a7122531382@japan.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=japan.geodema.network&sid=1ed136481e0ede74#🇯🇵 JP | 142.91.106.176
+vless://e343471a-aad3-40da-9dea-72cc8c7dce5f@pq.vmjp.yydjc.top:443?security=reality&encryption=none&pbk=ybBxu1pW3O9Me954LCDfXgHW6lIYepAbnla82yaZ5HE&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=6a1faecb#🇯🇵 JP | 103.62.49.139
