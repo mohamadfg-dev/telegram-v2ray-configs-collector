@@ -1,1 +1,2 @@
 vless://7d27c544-135d-41a2-bd84-713b8af4f3c2@uaegaming.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇦🇪 AE | 38.180.26.251
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=/cdn/assets?&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#🇦🇪 AE | 146.75.64.0
