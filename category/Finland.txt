@@ -1,3 +1,4 @@
+vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880?path=/&security=none&encryption=none&host=s-test.hyberserver.ir&type=ws#🇫🇮 FI | 62.60.229.31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://18a6bad2-7354-4366-ba8b-e4ab3009d39e@free12.shomboli.blog:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#🇫🇮 FI | 65.109.206.185
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.89.117
