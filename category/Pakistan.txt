@@ -1,1 +1,2 @@
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇵🇰 PK | 103.175.79.10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#🇵🇰 PK | 154.205.145.37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzlkODEzNTgzNDZjYTdm@154.205.145.195:11201#🇵🇰 PK | 154.205.145.195
