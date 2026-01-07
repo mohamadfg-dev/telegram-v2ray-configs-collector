@@ -1,1 +1,2 @@
-vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443?path=/tyipizws&security=tls&encryption=none&host=639028216785109112.fit-amsjl.info&type=ws&sni=639028216785109112.fit-amsjl.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#🇨🇷 CR | 2803:f800:50::6ca2:c0f9
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?flow=&type=ws&host=sunseet.info&path=/hsdgsws&security=tls&sni=sunseet.info&alpn=http/1.1&fp=chrome&allowInsecure=0#🇨🇷 CR | 2803:f800:50::6ca2:c0f9

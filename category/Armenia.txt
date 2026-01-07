@@ -1,5 +1,4 @@
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?path=/&security=tls&encryption=none&host=GfV5t2331T.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&sni=GfV5t2331T.sMaRtTeChZaAl.InFo#🇦🇲 AM | 5.10.214.0
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?path=/&security=tls&encryption=none&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo#🇦🇲 AM | 5.10.214.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#🇦🇲 AM | 85.90.207.104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18792#🇦🇲 AM | 85.90.207.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#🇦🇲 AM | 85.90.207.104
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?flow=&type=ws&host=&path=/&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&fp=chrome&allowInsecure=0#🇦🇲 AM | 5.10.214.0
-vless://27ea2a5a-8d85-2ef7-0203-f3d0487d9fda@real3.viegopro.com:2096?security=reality&encryption=none&pbk=4pyEFR6wk2igRiA_16NIkkO7C8s0TAo--X9QeXlLIhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=70b44faadff666bf#🇦🇲 AM | 93.115.240.23

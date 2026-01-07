@@ -1,1 +1,1 @@
-vless://28174dca-bd3d-410b-b776-92cae7c09e17@fi2.axolab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=none&type=tcp&sni=api.gosuslugi.ru&sid=669d7ae5e1611511#🇧🇪 BE | 45.148.101.129
+vless://1ecbc38f-e18d-49b5-995e-4fc08296c19c@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
