@@ -1,1 +1,1 @@
-vless://28174dca-bd3d-410b-b776-92cae7c09e17@fi2.axolab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=none&type=tcp&sni=api.gosuslugi.ru&sid=669d7ae5e1611511#🇦🇹 AT | 152.53.94.147
+vless://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80/?path=/?ed=2052?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=none&encryption=none&host=norbert-team-free1.global.ssl.fastly.net&type=ws#🇦🇹 AT | 199.232.19.9
