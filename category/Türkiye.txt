@@ -1,5 +1,3 @@
-vless://5a16f715-170d-4dad-9637-373303952d26@45.92.219.38:15510?flow=&type=tcp&headerType=http&host=teamspeak.com&path=/&security=none#🇹🇷 TR | 45.92.219.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#🇹🇷 TR | 154.205.148.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#🇹🇷 TR | 154.205.148.202
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdVlwX3g5eWVlS3gwVy05RlZhdnM1dEhaQ2VXblpUMA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
