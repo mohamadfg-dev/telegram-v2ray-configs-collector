@@ -1,6 +1,5 @@
 vless://613725ab-ca86-4d54-852e-a0bf45e812de@45.139.26.133:443?security=reality&encryption=none&pbk=IU2t096hBC7gAQ_rY1qwYsAtgiegzYI6loivZJxpx1E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alisa.kosmolet.xyz&sid=28e1270764a2464b#🇷🇺 RU | 45.139.26.133
 vmess://eyJhZGQiOiIyLjU2LjI0Mi4yMTAiLCJhaWQiOiIwIiwiaG9zdCI6InNuaXBwZXRzLmtraWkuZXUub3JnIiwiaWQiOiI2ZmU2YjYyYS1kZmJlLTQ3NTMtZDc5NS1lMDJmMjU2MWVkZWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDg5NSIsInBzIjoi8J+Ht/Cfh7ogUlUgfCAyLjU2LjI0Mi4yMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://e39204ba-70fd-4d56-87c3-4f9d0dded63a@83.166.236.32:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=2715592069f36fe7#🇷🇺 RU | 83.166.236.32
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#🇷🇺 RU | 80.92.206.19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺 RU | 90.156.203.62
 vless://329bd550-a8f8-4157-b2df-dc4503097a27@83.166.236.201:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=8f222b3475800821#🇷🇺 RU | 83.166.236.201
@@ -14,9 +13,7 @@ vless://987c44fb-0072-4c43-b790-4a05c2f97e2e@84.201.144.113:47060?flow=xtls-rprx
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺 RU | 90.156.203.62
 vless://0885f5e7-5a16-4f62-b3a6-cc3e7d6b077a@178.154.201.52:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=n3D2iju9CkAzG7m88Kmg5nZZgAjBC9PCgpEpFeaxMmQ&sid=a20d3ed244c76426#🇷🇺 RU | 178.154.201.52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenR3eTM0QjA3ZXFONkg0WW9QR1ha@93.183.94.163:32609#🇷🇺 RU | 93.183.94.163
-vless://bc32639e-100a-40ad-b064-b0829a0bd197@176.109.109.58:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tradingview.com&sid=6419bed7fd0a2cff&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none#🇷🇺 RU | 176.109.109.58
 vless://d29bde62-daa4-4804-9c69-6e23a4150006@45.92.176.55:1243?security=reality&encryption=none&pbk=jcJeCbLo5JtfveFIQLV6WNm1148XzxDc0Rzy336hXy0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=ff3cef7cdcf9#🇷🇺 RU | 45.92.176.55
 vless://bc32639e-100a-40ad-b064-b0829a0bd197@176.109.109.58:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=6419bed7fd0a2cff#🇷🇺 RU | 176.109.109.58
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDenR3eTM0QjA3ZXFONkg0WW9QR1ha@93.183.94.163:32609#🇷🇺 RU | 93.183.94.163

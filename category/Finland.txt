@@ -1,3 +1,4 @@
+vless://d7f13b84-bc35-4632-9ca9-e0de57999bea@77.42.17.213:7621?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=tc6.speedx3net.ir#🇫🇮 FI | 77.42.17.213
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.89.117
 vless://de14ae87-5b0b-4012-a9d6-890f7813801a@65.109.184.27:443?security=reality&encryption=none&pbk=morxJfGxtCi0KeEAY4q73DaWGCL4uJVLwcPemGoikRE&host=www.speedtest.net&headerType=http&fp=chrome&spx=/ezAVp7KfJLThzEJ&type=tcp&sni=apple.com&sid=37#🇫🇮 FI | 65.109.184.27
