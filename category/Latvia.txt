@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#🇱🇻 LV | 94.131.104.147
+vless://b63444c6-3fdd-40f3-a8a5-41e36ebda1cc@188.253.19.234:444?security=reality&encryption=none&pbk=GJhAveZRyo-TOH_lMlI0YxNb3Lv-3-7esgvKx8aRHik&headerType=none&fp=random&spx=/kmdb2uBQ2SDpSix&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=dd42e28556#🇱🇻 LV | 188.253.19.234
