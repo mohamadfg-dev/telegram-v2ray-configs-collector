@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#🇹🇷 TR | 154.205.148.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#🇹🇷 TR | 154.205.148.202
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Ym50TEN5LW1kclZuNC1iVDV6bWtFRUNzSG85UWdEVA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vless://108c39c5-0bb9-4eda-a837-48efa3717f7c@fast.lucypro.ir:2095?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 198.105.123.188
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqdVlwX3g5eWVlS3gwVy05RlZhdnM1dEhaQ2VXblpUMA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
