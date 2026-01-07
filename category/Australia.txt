@@ -1,2 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.28:443?security=tls&sni=zdyi.kpcloud.eu.org&type=ws&path=/blue#🇦🇺 AU | 103.169.142.28
-vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@37.9.54.98:443/?type=tcp&encryption=none&flow=&sni=download.cdn.yandex.net&fp=chrome&security=reality&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&sid=9d8307f6#🇦🇺 AU | 37.9.54.98
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#🇦🇺 AU | 185.207.198.254
