@@ -1,1 +1,1 @@
-vless://id8302072915@5.180.45.245:443?security=reality&encryption=none&pbk=eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA&headerType=none&fp=chrome&spx=/UnJIZrVE2SpBw2j&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=d9b9c014#🇹🇷 TR | 5.180.45.245
+vless://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@5.180.45.176:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#🇹🇷 TR | 5.180.45.176
