@@ -1,3 +1,4 @@
-vless://3adc0bb0-b811-494e-bcd8-59fa996a2c44@145.239.29.93:48216?mode=gun&security=&encryption=none&type=grpc&serviceName=t.me/entryNETEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇵🇱 PL | 145.239.29.93
+vless://0f66d466-fd01-404e-b813-05e62d9e1202@54.38.137.111:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇵🇱 PL | 54.38.137.111
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#🇵🇱 PL | 51.83.249.182
 trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#🇵🇱 PL | 45.144.51.35
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#🇵🇱 PL | 51.68.146.248

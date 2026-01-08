@@ -1,8 +1,7 @@
 vless://2a473904-8aca-419c-9067-aee6034b2ab9@Ai.amin-1.ir:1000?type=grpc&encryption=none&serviceName=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config&authority=&security=reality&pbk=U2SWzx91cd3HksqX3wgDx_6pIk3eTH_GUoohbqyDIm4&fp=chrome&sni=refersion.com&sid=&spx=/#🇫🇮 FI | 2a01:4f9:c012:e0f7::1
-vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 65.109.178.83
+vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 77.42.77.66
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.89.117
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 37.27.89.117
+vless://552ec06f-7cd9-4c5e-ae5a-e00944e397fc@37.27.89.117:13212?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.89.117
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@37.27.89.117:32323?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 37.27.89.117
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
