@@ -1,3 +1,2 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSk5QVTZmbUhSS3l5SlhaNHAwNDlNTTZyMEpaenVSbg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vless://46221cac-0d9f-4280-8d6b-12e7f3e58b0c@tr.thepon.xyz:443?security=reality&encryption=none&pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=anygo.info#🇹🇷 TR | 62.133.63.227
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
