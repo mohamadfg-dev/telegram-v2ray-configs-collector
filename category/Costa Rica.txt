@@ -1,2 +1,2 @@
-vless://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@190.93.247.155:8080?path=/&security=none&encryption=none&host=waded.narcoshop.ir.&type=ws#🇨🇷 CR | 190.93.247.155
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443?path=/?ed=2048&;security=tls&;encryption=none&;alpn=http/1.1&;host=current.ircp.online&;fp=chrome&;type=ws&;sni=current.ircp.online#🇨🇷 CR | 190.93.244.51
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
