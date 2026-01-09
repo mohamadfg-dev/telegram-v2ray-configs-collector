@@ -1,1 +1,1 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.238:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#undefined CW | 5.10.245.238
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.146.201.251:443/?type=ws&encryption=none&flow=&host=sni.111000.cc.Cd&path=/Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN&security=tls&sni=sni.111000.cc.Cd&allowInsecure=1&fp=firefox#undefined CW | 45.146.201.251
