@@ -1,4 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿 KZ | 103.106.3.82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿 KZ | 103.106.3.82
 vless://47452852-ecc7-417f-b087-8227e543e605@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#🇰🇿 KZ | 109.61.39.150
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=maxru.outlinekeys.net&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇰🇿 KZ | 38.107.234.38
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=maxru.outlinekeys.net&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇰🇿 KZ | 38.107.234.38
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=maxru.outlinekeys.net&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇰🇿 KZ | 38.107.234.38
