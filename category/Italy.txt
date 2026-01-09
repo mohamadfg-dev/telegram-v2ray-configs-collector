@@ -1,3 +1,4 @@
 vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=jone-turboo-server.com&type=ws#🇮🇹 IT | 146.75.55.82
 vless://turboo-server@server.ultra-irancell.com:80?path=/ed=2560&security=none&encryption=none&host=jone-turboo-server.com&type=ws#🇮🇹 IT | 146.75.55.82
+vless://fbd4c424-df08-4a32-a2bc-fe3dd7ad5680@grs.zdshop.ir:80?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI&mode=multi&security=tls&#🇮🇹 IT | 146.75.55.82
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
