@@ -12,7 +12,6 @@ ss://YWVzLTI1Ni1nY206OTljOGQ0OTctNGMyOS1lYWJhLTYyYTEtYzhkNzhkOTRmYWU5@9042718082
 vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=firefox&type=tcp&sni=parsabr.com&sid=3650a4286bf867e9#🇮🇷 IR | 37.152.175.93
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.#🇮🇷 IR | 185.116.161.5
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
-vless://c78e34bb-4840-443f-8e9b-c400c2043530@en.sardarr.top:2035?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇮🇷 IR | 85.133.238.39
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://8013a9c2-704c-4dc5-a341-9c3fd6a00dd9@185.14.160.228:6556/?type=tcp&encryption=none&path=/&headerType=http&security=none#🇮🇷 IR | 185.14.160.228
 vmess://eyJhZGQiOiIxNzguMjM5LjE0OC40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMzczYjAzZS05ZmNkLTQ1NTMtODZkNy1jMWRjZDRiNjZhOWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NTQ2IiwicHMiOiLwn4eu8J+HtyBJUiB8IDE3OC4yMzkuMTQ4LjQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -50,7 +49,6 @@ vless://d8a19626-eec4-4b70-b1de-813b976a8cba@v2shop27.bing-net.com:4927?encrypti
 vless://d8a19626-eec4-4b70-b1de-813b976a8cba@v2shop27.bing-net.com:4927?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#🇮🇷 IR | 87.107.9.186
 vless://8d4d2bd9-f2f9-44fa-bd7a-3949f2b4180b@46.38.138.235:11103?encryption=none&type=xhttp&mode=auto&path=/&security=none#🇮🇷 IR | 46.38.138.235
 vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 45.138.132.231
-vless://b9c6eac0-a320-4c0b-a10c-4bf7e49bddd9@num2.donlo.ir:2083/?type=ws&path=/&host=colf.ir&security=tls&fp=chrome&alpn=&allowInsecure=1&sni=colf.ir#🇮🇷 IR | 45.138.132.231
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 78.38.53.45
 vless://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.83.182.94
@@ -60,4 +58,3 @@ vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://YWVzLTI1Ni1nY206ZmVkNjQyNWItZDA1ZC1mZjM4LTQ5ZjktMzA4ZmU3YzViZTkz@37050813702269272654038283817908.international-ixp.com:11312#🇮🇷 IR | 37.32.11.48
 ss://YWVzLTI1Ni1nY206OTljOGQ0OTctNGMyOS1lYWJhLTYyYTEtYzhkNzhkOTRmYWU5@90427180822371121690946278334118.international-ixp.com:11310#🇮🇷 IR | 37.32.11.48
-vless://c8f1d6ea-6cc4-4a30-b08d-3627036f21bf@45.82.136.114:8080?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 45.82.136.114
