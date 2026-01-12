@@ -4,7 +4,6 @@ vless://20500c73-e7e3-4770-8a39-45a6f55641cd@65.109.206.185:443?security=reality
 vless://92d927ec-7af8-7960-cdcd-5fc48fd0f6f8@fn.aftabix.com:6491?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇫🇮 FI | 157.180.89.152
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 77.42.77.66
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.210.144
 vless://552ec06f-7cd9-4c5e-ae5a-e00944e397fc@37.27.89.117:13212?type=tcp&encryption=none&security=none#🇫🇮 FI | 37.27.89.117
@@ -14,4 +13,3 @@ vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880?path=/&security=&
 vless://20500c73-e7e3-4770-8a39-45a6f55641cd@65.109.206.185:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&spx=/SeyyedMT&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#🇫🇮 FI | 65.109.206.185
 vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.210.144
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690#🇫🇮 FI | 46.62.241.106
-vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.210.144

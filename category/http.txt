@@ -1,1 +1,2 @@
-vless://713278fe-fff9-4dbc-b6e2-4207468f04ef@65.109.220.221:443?security=reality&sni=derak.cloud&type=http&host=221.220.109.65.foreign.iaas.derak.cloud.sjmek.ir&path=/221.220.109.65.foreign.iaas.derak.cloud.sjmek.ir&fp=chrome&pbk=prsSytxkJ0J49TYOoO9esRKKjSxbW7PA0FAFZfoa_Qo#🇫🇮 FI | 65.109.220.221
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@68.183.137.194:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🇺🇸 US | 68.183.137.194
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@68.183.137.194:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🇺🇸 US | 68.183.137.194
