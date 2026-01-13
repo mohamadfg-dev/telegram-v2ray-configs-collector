@@ -1,1 +1,1 @@
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=e55fd8f9c9a9a0ca#🇭🇺 HU | 217.13.104.134
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.111.70:3443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#🇭🇺 HU | 217.13.111.70
