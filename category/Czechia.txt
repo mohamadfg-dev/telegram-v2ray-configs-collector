@@ -1,1 +1,1 @@
-vless://0a8998f4-0642-4408-9f74-ac40593efb28@cze01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#🇨🇿 CZ | 45.15.162.34
+vless://4d2e16a5-a0f8-4189-a851-5780693d71b3@45.15.162.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420#🇨🇿 CZ | 45.15.162.34

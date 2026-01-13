@@ -1,1 +1,1 @@
-vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=/hsdgsws&security=tls&alpn=http/1.1&encryption=none&host=sunseet.info&fp=chrome&type=ws&sni=sunseet.info#🇨🇷 CR | 2803:f800:50::6ca2:c0f9
+vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443?path=/oqxdqtws&security=tls&encryption=none&insecure=0&host=639031180460930556.altima-amsjq.info&type=ws&allowInsecure=0&sni=639031180460930556.altima-amsjq.info#🇨🇷 CR | 2803:f800:50::6ca2:c04b
