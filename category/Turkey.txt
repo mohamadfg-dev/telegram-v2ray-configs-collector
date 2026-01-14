@@ -1,1 +1,1 @@
-vless://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@5.180.45.176:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#🇹🇷 TR | 5.180.45.176
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@ardagulerturk.gojustore.site:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=www.telewebion.com&sid=16b6cda7ab793526#🇹🇷 TR | 188.132.141.58
