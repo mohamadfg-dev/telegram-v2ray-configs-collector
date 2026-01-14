@@ -1,3 +1,4 @@
+vless://3e2a71d0-7b44-426d-9471-2e917a3024c5@speedtest.net:80?path=/wss?ed=#🏴‍☠️ UN | speedtest.net
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWRjZ+O4e1Z9+yhb7yBFpHPo=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc/+dcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWTdJDR3WlCQi9wCOfvZIiI0=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | [2a01:4f8:1c1a:dc2b::1]
@@ -5,7 +6,7 @@ vless://89cab344-a811-489f-ebc3-22d24aabe5a1@free.sabettrade.shop:22727?path=/&s
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#🏴‍☠️ UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
-vless://1b89c683-2fe6-4aeb-82a3-df62adc4d56a@pirahan.lebasmavi.sbs:30518?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | pirahan.lebasmavi.sbs
+vless://65115d6d-7c5b-45e5-929f-f50a86138f51@gr1.asc-sam.ir:80?path=/swgsth&security=none&encryption=none&host=gr1.asc-sam.ir&type=ws#🏴‍☠️ UN | gr1.asc-sam.ir
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IG4xNjgyMzk2MTk3LmVkcG12Z2EuY24iLCJhZGQiOiJuMTY4MjM5NjE5Ny5lZHBtdmdhLmNuIiwicG9ydCI6NDQzLCJpZCI6IjJkNmZlYjI0LWVmYzUtNDkzMi1hMjU1LWQxNWM3OTFlOWIzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoidGxzIn0=
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ#🏴‍☠️ UN | YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg#🏴‍☠️ UN | YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg
@@ -27,7 +28,6 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:2053?path=/@V2RAXX/@V2RAXX/@V2RAXX/@V
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://5c088217-6f41-4a1c-8163-ea1e335a64c0@[2a13:9500:3f:5::]:53966?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ UN | [2a13:9500:3f:5::]
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir:233?mode=auto&path=/moveis&security=reality&encryption=none&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&host=fuck-israel.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=210cfdf17087#🏴‍☠️ UN | fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir
-vless://1b89c683-2fe6-4aeb-82a3-df62adc4d56a@pirahan.lebasmavi.sbs:30518?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | pirahan.lebasmavi.sbs
 vless://df297d5e-f1dd-4a71-8089-44ee2c025b5b@maxb17.getssserver.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🏴‍☠️ UN | maxb17.getssserver.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
@@ -51,5 +51,3 @@ vless://9d60b0cd-a4c3-450d-b0ae-0a0bb21c9c5e@0.0.0.0:8080?security=reality&type=
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?host=fast.com&type=tcp&security=none&encryption=none&headerType=http#🏴‍☠️ UN | dl2.kuckenpq.ir
 vless://e5f689a0-16c9-490e-8276-c1535964efc2@sublink.kharejishop.sbs:443?mode=gun&security=reality&alpn=h2&encryption=none&pbk=BKCXk7rOuoL_V29FXRuOY0D9n0SvNIrU_RSQ2U0mLTo&fp=chrome&type=grpc&serviceName=W7lsFNbKqr3KudvIdn0xHgBq2t&sni=refersion.com&sid=1a71da57#🏴‍☠️ UN | sublink.kharejishop.sbs
-vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?encryption=none&security=tls&sni=blueivy.qzz.io&insecure=0&allowInsecure=0&type=ws&host=blueivy.qzz.io&path=/192.252.182.52:7602#🏴‍☠️ UN | blueivy.qzz.io
-vless://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | t1.heroicshop.ir

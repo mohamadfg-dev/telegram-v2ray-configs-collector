@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🇲🇹 MT | 171.22.254.17
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.110:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🇲🇹 MT | 172.64.204.110
