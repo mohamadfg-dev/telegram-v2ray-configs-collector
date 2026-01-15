@@ -1,1 +1,1 @@
-vless://832a3784-7ae1-4ff2-ab13-5fb4bf8abd28@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?path=/Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#🇮🇪 IE | 199.232.24.2
+trojan://telegram-id-privatevpns@52.51.41.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.51.41.201
