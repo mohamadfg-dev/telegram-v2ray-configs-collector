@@ -1,1 +1,1 @@
-vless://d7f13b84-bc35-4632-9ca9-e0de57999bea@37.156.46.188:8529?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=tc7.speedx3net.ir#🇨🇭 CH | 37.156.46.188
+vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 45.85.93.204
