@@ -1,10 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#🇸🇬 SG | 45.135.228.135
-vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&allowInsecure=1&sni=whatsapp.com#🇸🇬 SG | 174.138.24.216
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#🇸🇬 SG | 45.135.228.135
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.202.91:2083?security=tls&sni=jpg.ylks01.eu.org&type=ws&path=/blue#🇸🇬 SG | 47.236.202.91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#🇸🇬 SG | 154.26.132.38
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTRyB8IDYyLjE0Ni4yMzUuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4e48J+HrCBTRyB8IDE1MC4xMDkuMTEuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4e48J+HrCBTRyB8IDE1MC4xMDkuMTEuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=none&encryption=none&host=cloudflare.com&type=ws#🇸🇬 SG | 5.223.59.164
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#🇸🇬 SG | 45.135.228.135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.130.95:2053?security=tls&sni=vf.ylks.xyz&type=ws&path=/?proxyip#🇸🇬 SG | 47.236.130.95
