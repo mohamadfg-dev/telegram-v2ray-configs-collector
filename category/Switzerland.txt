@@ -1,1 +1,1 @@
-vless://0baabd0d-a5c3-4127-a844-b598a448cbab@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
+vless://d7f13b84-bc35-4632-9ca9-e0de57999bea@37.156.46.188:8529?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=tc7.speedx3net.ir#🇨🇭 CH | 37.156.46.188
