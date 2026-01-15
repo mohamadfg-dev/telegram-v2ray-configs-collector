@@ -1,6 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🇳🇱 NL | 82.38.31.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#🇳🇱 NL | 193.29.139.189
-vless://fbdd0c81-2ece-41b1-8c11-78550b8e656e@p1.nl.thepon.xyz:443?security=reality&encryption=none&pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=anygo.info#🇳🇱 NL | 194.164.35.194
+vless://fbdd0c81-2ece-41b1-8c11-78550b8e656e@p1.nl.thepon.xyz:443?security=reality&encryption=none&pbk=hDc2QMm_LQMREOqAYuJXEZobeFNo9z0UEIT4Fmh2cAs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=anygo.info#🇳🇱 NL | 89.110.107.184
 vless://28ef7769-b7a8-478f-bac7-052494312c01@ne.zerogravitypineapple.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇳🇱 NL | 45.67.35.224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#🇳🇱 NL | 193.29.139.189
 vless://28ef7769-b7a8-478f-bac7-052494312c01@ne.zerogravitypineapple.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇳🇱 NL | 45.67.35.224
@@ -13,4 +12,4 @@ vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path
 vless://459e1090-4d7c-4cfd-804a-cff510ba9442@pugna.sligvpn.ru:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇳🇱 NL | 146.103.122.67
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&spx=/&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#🇳🇱 NL | 89.23.107.188
 vless://bc1cfd52-fddf-4c94-affd-cdc9f47eafde@194.60.133.108:2095?path=/vless&security=none&encryption=none&type=ws#🇳🇱 NL | 194.60.133.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#🇳🇱 NL | 82.38.31.191
+vless://2d22450f-8b17-4d19-a4a8-36e77c645509@pronl.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=b724afad4b35395e#🇳🇱 NL | 109.205.63.189
