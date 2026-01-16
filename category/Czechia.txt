@@ -1,1 +1,1 @@
-vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇿 CZ | 78.159.247.74
+vless://ccf8ae47-e54e-4ac0-a2fc-8f5a18578e74@80.211.207.110:443?security=reality&sni=gmail.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇿 CZ | 80.211.207.110

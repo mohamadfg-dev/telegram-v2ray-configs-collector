@@ -1,1 +1,5 @@
-vless://3ff60b54-f6d6-467f-9189-df1a0567c647@External-Net.fast199.hosting-ip.com:80?path=/?ed=2052?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=none&encryption=none&host=norbert-team-free1.global.ssl.fastly.net&type=ws#🇮🇪 IE | 199.232.24.2
+trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.16.85.89
+trojan://telegram-id-directvpn@34.241.207.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 34.241.207.114
+trojan://telegram-id-directvpn@34.241.207.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 34.241.207.114
+trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.16.85.89
+trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.16.85.89
