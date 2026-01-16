@@ -3,7 +3,6 @@ vless://2a473904-8aca-419c-9067-aee6034b2ab9@Ai.amin-1.ir:1000?type=grpc&encrypt
 vless://20500c73-e7e3-4770-8a39-45a6f55641cd@65.109.206.185:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&spx=/SeyyedMT&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#🇫🇮 FI | 65.109.206.185
 vless://92d927ec-7af8-7960-cdcd-5fc48fd0f6f8@fn.aftabix.com:6491?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇫🇮 FI | 157.180.89.152
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
-vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.210.144
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -14,4 +13,3 @@ vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:4
 vless://1a99307d-7dfb-4f0c-dcc5-8098f94033f8@95.216.154.119:37265?path=/&security=none&encryption=none&type=ws#🇫🇮 FI | 95.216.154.119
 vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=Cloudflare.com&pbk=b87VY4gZ48z7tHI3mkzpQIKg_IgenzkBvB4gD5qz2ww&sid=cedc7d97e0a02690#🇫🇮 FI | 46.62.241.106
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#🇫🇮 FI | 65.108.1.249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🇫🇮 FI | 38.244.136.233
