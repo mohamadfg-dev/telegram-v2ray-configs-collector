@@ -1,2 +1,4 @@
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#🇮🇹 IT | 31.14.135.127
+vless://f22c9b63-f93b-4650-80d7-937c5422c471@217.12.219.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92#🇮🇹 IT | 217.12.219.51
 vless://fbd4c424-df08-4a32-a2bc-fe3dd7ad5680@grs.zdshop.ir:80?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI&mode=multi&security=tls&#🇮🇹 IT | 146.75.55.82
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172
