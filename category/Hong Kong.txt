@@ -1,4 +1,5 @@
 vmess://eyJhZGQiOiI4LjIxOC4yMzguMjU0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjVkNTY0MDU1LTJiNDItNDA2Yi05MTgzLTI4Y2M2M2Q4OTE0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIveCIsInBvcnQiOiI0NjUyNCIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTguMjM4LjI1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.238.52.240:80?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/TG@ZDYZ2?ed=2560&fp=random#undefined HK | 47.238.52.240
 vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTM0LjE4MyIsImFkZCI6IjguMjEwLjEzNC4xODMiLCJwb3J0IjoiMzcyMSIsImlkIjoiZTcyZjVjNmItMjIwZi00MGIzLWExMTUtMmQ4MTQ3MzQ1OGNmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw@194.246.114.101:443#undefined HK | 194.246.114.101
