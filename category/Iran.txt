@@ -1,9 +1,13 @@
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.218.150:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.218.150
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.193.40:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.193.40
 vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.gologiah-shop.ir:3488?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇮🇷 IR | 195.182.38.205
 vless://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 2.144.4.149
 vless://3bf1b958-ce72-42d0-abc4-4322586de2c1@h.nvimu.ir:8080?path=/&security=none&encryption=none&type=ws#🇮🇷 IR | 185.143.234.235
 vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?security=none&encryption=none&host=www.downloadha.com&headerType=http&type=tcp#🇮🇷 IR | 31.41.35.29
 ss://YWVzLTI1Ni1nY206OTljOGQ0OTctNGMyOS1lYWJhLTYyYTEtYzhkNzhkOTRmYWU5@90427180822371121690946278334118.international-ixp.com:11310#🇮🇷 IR | 37.32.11.48
 ss://YWVzLTI1Ni1nY206OTljOGQ0OTctNGMyOS1lYWJhLTYyYTEtYzhkNzhkOTRmYWU5@90427180822371121690946278334118.international-ixp.com:11310#🇮🇷 IR | 37.32.11.48
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.218.150:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.218.150
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.193.40:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.193.40
 vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=firefox&type=tcp&sni=parsabr.com&sid=3650a4286bf867e9#🇮🇷 IR | 37.152.175.93
 vless://780f342d-5630-4245-8f32-f5629b59a082@tu.uk.yo-servers.com:2086?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=872r7f20.divarcdn.com,872r7f20.snappfood.ir,872r7f20.yjc.ir,872r7f20.digikala.com,872r7f20.tic.ir&type=ws#🇮🇷 IR | 5.159.54.199
 ss://780f342d-5630-4245-8f32-f5629b59a082@tu.uk.yo-servers.com:2086?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=872r7f20.divarcdn.com,872r7f20.snappfood.ir,872r7f20.yjc.ir,872r7f20.digikala.com,872r7f20.tic.ir&type=ws#🇮🇷 IR | 5.159.54.199
@@ -35,7 +39,9 @@ vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&t
 vless://c8f1d6ea-6cc4-4a30-b08d-3627036f21bf@45.82.136.114:8080?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 45.82.136.114
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🇮🇷 IR | 78.157.37.114
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@87.236.38.164:8016?encryption=none&security=none&type=tcp&headerType=http#🇮🇷 IR | 87.236.38.164
-vless://de685d3c-6a4c-4b89-aba6-3b5dfdf85553@megadafv-9b279a8be3-hadaf.apps.ir-central1.arvancaas.ir:80?encryption=none&security=none&type=ws&host=megadafv-9b279a8be3-hadaf.apps.ir-central1.arvancaas.ir&path=/#🇮🇷 IR | 185.143.234.200
+vless://de685d3c-6a4c-4b89-aba6-3b5dfdf85553@megadafv-9b279a8be3-hadaf.apps.ir-central1.arvancaas.ir:80?encryption=none&security=none&type=ws&host=megadafv-9b279a8be3-hadaf.apps.ir-central1.arvancaas.ir&path=/#🇮🇷 IR | 185.143.232.200
+vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.226:80?path=/preply&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 185.228.236.226
+vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.241:443?path=/classgap&security=tls&encryption=none&insecure=1&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=1&sni=app.gplance.com,nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir#🇮🇷 IR | 185.228.236.241
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCA1LjIwMi41LjEzOCIsImFkZCI6IjUuMjAyLjUuMTM4IiwicG9ydCI6MTAxMzEsImlkIjoiYmE5MjY4NjYtNTdmZC00ZWVjLTgwN2EtZGI1ZjRmODE1YmRmIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIn0=
 vmess://eyJhZGQiOiJ0LmFpdGVhbXBsdXMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNreXJvb20ub25saW5lIiwiaWQiOiI3ZjVkNWJjMC0xYWUxLTQ0YTItYTg1ZS1kNWQ1MGU3OWUwYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI2MDA4IiwicHMiOiLwn4eu8J+HtyBJUiB8IDk0LjE4My4xNjcuNTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?encryption=none&type=tcp&headerType=http&host=www.downloadha.com&security=none#🇮🇷 IR | 31.41.35.29
@@ -55,3 +61,5 @@ vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://YWVzLTI1Ni1nY206ZmVkNjQyNWItZDA1ZC1mZjM4LTQ5ZjktMzA4ZmU3YzViZTkz@37050813702269272654038283817908.international-ixp.com:11312#🇮🇷 IR | 37.32.11.48
 ss://YWVzLTI1Ni1nY206OTljOGQ0OTctNGMyOS1lYWJhLTYyYTEtYzhkNzhkOTRmYWU5@90427180822371121690946278334118.international-ixp.com:11310#🇮🇷 IR | 37.32.11.48
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 IR | 85.133.215.188
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.193.40:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.193.40
+vless://40d28513-d1c3-4346-a480-27601b0650f4@62.60.218.150:85?path=/classgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#🇮🇷 IR | 62.60.218.150
