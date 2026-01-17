@@ -5,3 +5,4 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&s
 vless://f53c61ca-5f73-4494-9d12-37a0077b237e@se.spancloud.sbs:443?security=reality&encryption=none&pbk=ykPZfJ6MIARDu6wFgQCA7NXFBeMV9ZltaY33HVa7DSM&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=f1e511a15a80c4b8#🇸🇪 SE | 46.226.164.13
 vless://0f66d466-fd01-404e-b813-05e62d9e1202@141.227.160.187:7005?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&type=tcp&headerType=none#🇸🇪 SE | 141.227.160.187
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=/&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#🇸🇪 SE | 192.71.82.245
