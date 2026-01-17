@@ -1,1 +1,2 @@
-vless://680f2845-6568-4454-8da5-63ce322b893d@54.38.137.111:7005?security=reality&encryption=none&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇵🇱 PL | 54.38.137.111
+vless://535235d3-5088-4746-8722-8720e820c043@pl.connect-iskra.cv:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=powodzenia.xyz&fp=qq&security=reality&pbk=UeBcV1nVO3N5d8Ng15MviC_hCnFO3zc0vrB5ykUaGRE&sid=93ac39ad3731f745#🇵🇱 PL | 144.31.4.110
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#🇵🇱 PL | 217.30.10.70

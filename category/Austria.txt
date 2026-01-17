@@ -1,1 +1,1 @@
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955?security=reality&type=grpc&mode=gun&serviceName=grpc&sni=one-piece.com&fp=chrome&sid=6ba85179e30d4fc2&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&encryption=none#🇦🇹 AT | 152.53.49.130
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#🇦🇹 AT | 152.53.50.126

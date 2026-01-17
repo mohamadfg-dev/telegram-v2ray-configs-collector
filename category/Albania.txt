@@ -1,1 +1,1 @@
-vless://b82d5a1d-88be-47ea-b59d-2eb0a36b3922@45.15.170.217:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.dev&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.15.170.217
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=chrome&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇦🇱 AL | 185.177.238.18
