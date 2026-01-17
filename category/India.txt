@@ -1,1 +1,3 @@
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN | 82.180.146.173
+vless://42961e67-c3e0-4b84-8d71-1ff20bdcedae@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇮🇳 IN | 65.20.71.254
+vless://42961e67-c3e0-4b84-8d71-1ff20bdcedae@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇮🇳 IN | 65.20.71.254

@@ -1,2 +1,1 @@
-vless://535235d3-5088-4746-8722-8720e820c043@pl.connect-iskra.cv:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=powodzenia.xyz&fp=qq&security=reality&pbk=UeBcV1nVO3N5d8Ng15MviC_hCnFO3zc0vrB5ykUaGRE&sid=93ac39ad3731f745#🇵🇱 PL | 144.31.4.110
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#🇵🇱 PL | 217.30.10.70
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.70:9079#🇵🇱 PL | 217.30.10.70

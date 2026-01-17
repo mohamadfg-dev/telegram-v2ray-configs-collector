@@ -1,1 +1,1 @@
-vless://177dfbdf-8337-40ea-8791-906924b9fb2f@208.167.239.252:12345?security=reality&sni=refersion.com&type=http&fp=chrome&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&sid=c57d2373#🇺🇸 US | 208.167.239.252
+vless://177dfbdf-8337-40ea-8791-906924b9fb2f@149.28.43.236:12345?type=http&security=reality&pbk=0hue6xKKmwuEefA0eMXQszxESSoagq2kqLB_gPrRc3s&fp=chrome&sni=refersion.com&sid=c57d2373&spx=/&flow=#🇺🇸 US | 149.28.43.236
