@@ -1,8 +1,4 @@
-ss://YWVzLTI1Ni1nY206T1dzb01oT2VsKzdtY1orcA==@91.149.236.182:8388#undefined HK | 91.149.236.182
 vmess://eyJhZGQiOiI4LjIxOC4yMzguMjU0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjVkNTY0MDU1LTJiNDItNDA2Yi05MTgzLTI4Y2M2M2Q4OTE0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIveCIsInBvcnQiOiI0NjUyNCIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTguMjM4LjI1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-ss://YWVzLTI1Ni1nY206T1dzb01oT2VsKzdtY1orcA==@91.149.236.182:8388#undefined HK | 91.149.236.182
 vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTM0LjE4MyIsImFkZCI6IjguMjEwLjEzNC4xODMiLCJwb3J0IjoiMzcyMSIsImlkIjoiZTcyZjVjNmItMjIwZi00MGIzLWExMTUtMmQ4MTQ3MzQ1OGNmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-ss://YWVzLTI1Ni1nY206T1dzb01oT2VsKzdtY1orcA==@91.149.236.182:8388#undefined HK | 91.149.236.182
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
-ss://YWVzLTEyOC1nY206YmUxYzZlYWItM2Q3MC00Y2YwLWFlOWEtYjMxNzVjN2RmYjQ3@gd.bjnet2.com:36602/?plugin=simple-obfs;obfs=http;obfs-host=9962b9147f2651d984febb6ba061f477.baidu.com#undefined HK | 45.149.92.75
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw@194.246.114.101:443#undefined HK | 194.246.114.101
