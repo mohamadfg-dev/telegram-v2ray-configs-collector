@@ -1,2 +1,2 @@
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.101.36.153:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=00684d2eae2cdd16#🇰🇿 KZ | 5.101.36.153
+vless://6041126e-fee4-4951-b05e-cffc849ddcae@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=maxru.outlinekeys.net&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇰🇿 KZ | 38.107.234.38
