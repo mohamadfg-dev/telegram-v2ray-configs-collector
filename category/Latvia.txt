@@ -1,1 +1,2 @@
+vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=alfabank.ru&fp=chrome&security=reality&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7#🇱🇻 LV | 185.77.231.80
 vless://d0dea598-9047-4567-a934-84c2797c0978@193.43.146.18:8443/?security=reality&encryption=none&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=f1071c148a5aefc4#🇱🇻 LV | 193.43.146.18

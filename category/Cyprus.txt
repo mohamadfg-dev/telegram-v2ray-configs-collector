@@ -1,1 +1,1 @@
-trojan://c7625c79-cb4a-4bc4-97b9-5ec3709a979a@csgo.com:443?security=tls&sni=go.isbigdick.cc.cd&insecure=0&allowInsecure=0&type=ws&host=go.isbigdick.cc.cd&path=/argox-tr?ed=2560#🇨🇾 CY | 195.85.59.95
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🇨🇾 CY | 154.92.9.46
