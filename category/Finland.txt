@@ -9,3 +9,4 @@ vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880?path=/&security=&encryption=none&host=s-test.hyberserver.ir&type=ws#🇫🇮 FI | 62.60.229.31
 vless://20500c73-e7e3-4770-8a39-45a6f55641cd@65.109.206.185:443?security=reality&encryption=none&pbk=YLSRUKO-sm6In4ckqgVjagHKrWcA5r2aV7khO5brOUQ&headerType=none&fp=chrome&spx=/SeyyedMT&type=tcp&sni=p30afzar.com&sid=e3c5c005cae07eb7#🇫🇮 FI | 65.109.206.185
 vless://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 37.27.210.144
+vless://caf7161a-f6dc-58e0-9f0f-724aa3c66d8b@fn.aftabix.com:6491?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇫🇮 FI | 157.180.89.152
