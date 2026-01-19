@@ -1,1 +1,1 @@
-vless://8490dc84-c986-4a07-87f8-5d2a64579fc4@194.87.219.24:17641/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=628da9aed237#🇳🇱 NL | 194.87.219.24
+vless://52d910a0-e17a-43d1-976c-d3775cf1e339@194.87.219.24:21755/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=a79ee9d365da7d81#🇳🇱 NL | 194.87.219.24
