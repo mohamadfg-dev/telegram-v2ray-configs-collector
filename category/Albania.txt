@@ -1,1 +1,1 @@
-vless://4d388def-074d-4cf6-997d-6144c75a6da8@185.177.238.18:443?security=reality&encryption=none&pbk=jrpL94cShQQzeMnCRGQlfiRctXb17NOI6JgUPPcG2XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=84ba23f147ad6a56#🇦🇱 AL | 185.177.238.18
+vless://f22c9b63-f93b-4650-80d7-937c5422c471@185.177.238.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=3846b9259d66cc64#🇦🇱 AL | 185.177.238.57
