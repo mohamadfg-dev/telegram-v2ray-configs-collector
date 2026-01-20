@@ -1,1 +1,1 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443/?type=ws&encryption=none&flow=&host=ww3.xaniujp1.qzz.io&path=/&security=tls&sni=ww3.xaniujp1.qzz.io&allowInsecure=1#🇳🇱 NL | 188.253.27.190
+vless://52d910a0-e17a-43d1-976c-d3775cf1e339@194.87.219.24:21755/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&fp=chrome&security=reality&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&sid=a79ee9d365da7d81#🇳🇱 NL | 194.87.219.24
