@@ -1,7 +1,8 @@
-vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#🇮🇷 IR | 2.144.2.32
+vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#🇮🇷 IR | 2.144.4.167
 vless://e0e111bb-68e0-489d-9896-af1cbba9b877@213.176.126.201:46293?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 213.176.126.201
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.#🇮🇷 IR | 185.116.161.5
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
+vless://0142a151-e647-416b-aedd-afd06c66015e@45.142.189.13:8081?encryption=none&type=tcp&security=none#🇮🇷 IR | 45.142.189.13
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://6e9459e4-edb5-490c-b712-638dfa8f70d7@2.144.5.150:80?path=/&security=none&encryption=none&host=iran.ir&type=ws#🇮🇷 IR | 2.144.5.150
 vless://8013a9c2-704c-4dc5-a341-9c3fd6a00dd9@185.14.160.228:6556/?type=tcp&encryption=none&path=/&headerType=http&security=none#🇮🇷 IR | 185.14.160.228
@@ -11,16 +12,16 @@ vless://3fca404e-7f91-4b31-bbd3-255fc6e9a97f@81.12.33.182:3070?security=none&enc
 vmess://eyJhZGQiOiI4MS4xMi4zMy4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhcnNhYnIuY29tIiwiaWQiOiIxNmViZTI1Zi02NTI0LTQ3OWItOGQwYy1lYTlkNzQ2OGNmYzkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2FwaS9yZWdpc3Rlci9uZXcvbmFtZS9kYXYvcmVzcG9uc2UvY21WMGFYSmxaQ0JvWld4c2J5Qm9iM2NnWVhKbElIbHZkU0IwYUdseklHbHpJRzE1SUc1bGR5Qm9aV0ZrWlhJZ2QiLCJwb3J0IjoiMjAyNiIsInBzIjoi8J+HrvCfh7cgSVIgfCA4MS4xMi4zMy4xODIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🇮🇷 IR | 185.83.182.87
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
+vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?encryption=none&type=tcp&headerType=http&host=zara.com&path=/&security=none#🇮🇷 IR | 2.144.2.32
 vless://8f184538-bac6-4209-a405-dc8a01b1d493@aratel.pcc-guide.site:15737/?type=tcp&security=none#🇮🇷 IR | 37.32.41.95
+vless://404606d3-fc87-4732-a9b0-c4a593b8afc1@mci.sulduz.pw:38064?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷 IR | 37.152.173.220
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
 vless://4bb55bfd-419a-490c-90d8-9743aeda7a86@dsasert.placestores.top:51728?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=H_591e0U2JU10-kAQu4Zr_PfYn4cMtC-w9z5XCeErXU&sid=1297fca7f63c&spx=/QOFPiFBOODKxO8k#🇮🇷 IR | 5.160.132.24
 vmess://eyJhZGQiOiI4NS45LjEwNC43NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MGVjOGEyNy01Zjk5LTRlMzgtODc2NS02YWJiNzUzMjgzNmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5NzUzIiwicHMiOiLwn4eu8J+HtyBJUiB8IDg1LjkuMTA0Ljc2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://45d7662d-1d90-468b-9c08-90f85bae2bf1@212.80.10.72:80?type=ws&encryption=none&path=/&host=parsabr.com&security=none#🇮🇷 IR | 212.80.10.72
-ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#🇮🇷 IR | 185.60.137.65
 vless://a7d3954c-cfd4-4560-9cea-02d7dca2c154@185.50.38.39:80/?type=tcp&encryption=none&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.50.38.39
-vless://5a0e48ad-02ba-4c48-91ee-61be3a398aff@dlc-srv94.persian-ping.com:3004?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 46.38.150.232
 vless://IRAN@super.novanv.shop:8080?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 94.182.93.107
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://72d71a79-8412-4f22-8320-e2b78075d95e@188.0.247.218:8989?path=/&security=none&encryption=none&type=ws#🇮🇷 IR | 188.0.247.218
@@ -32,7 +33,6 @@ vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&securit
 vless://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.83.182.94
 vless://5f07a164-7746-45bd-9941-faa351157a85@tttt1.hennessypro.site:4001?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.83.182.94
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.45
-vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#🇮🇷 IR | 2.144.7.1
+vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?security=none&encryption=none&host=zara.com&headerType=http&type=tcp#🇮🇷 IR | 2.144.2.76
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNDAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI4OS40NC4yNDIuMjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwYXJzYWJyLmNvbSIsImlkIjoiMmUwYzBiYzAtNmJlYy00OGQ5LTk0YjQtYTVjNDdkY2ExN2IyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwMTAiLCJwcyI6IvCfh67wn4e3IElSIHwgODkuNDQuMjQyLjI1NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://b251f81a-95aa-4c83-a716-889acec63fa5@ee1vip.vnet215.xyz:24009?encryption=none&security=none&type=tcp&headerType=http&host=zara.com#🇮🇷 IR | 2.144.2.21
