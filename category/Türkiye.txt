@@ -1,1 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdllDRVlTU0E1dzhmYTBaWTgtLWs4bVdBRXJiMnVEZg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 TR | 185.123.101.64
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 TR | 185.123.101.64
+vless://97c0bcaf-76a0-4d1c-9d19-fde3c99a9dc8@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGX2pLUGhHUVlnM0tzbTlOd3RDWVZnRFQzQmViLXRjLQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 TR | 185.123.101.64
