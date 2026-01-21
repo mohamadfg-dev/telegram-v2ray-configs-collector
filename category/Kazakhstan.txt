@@ -1,1 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿 KZ | 103.106.3.82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿 KZ | 103.106.3.82
+vless://97c0bcaf-76a0-4d1c-9d19-fde3c99a9dc8@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#🇰🇿 KZ | 103.106.3.82
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.107.234.38:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=maxru.outlinekeys.net&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇰🇿 KZ | 38.107.234.38
