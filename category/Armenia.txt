@@ -1,1 +1,5 @@
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=/&security=tls&encryption=none&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&fp=chrome&type=ws&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#🇦🇲 AM | 5.10.214.5
+vless://e36a6452-2eab-4085-ac23-f55e56041659@am.srv1.stargrian.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=firefox&type=tcp&sni=adobe.com#🇦🇲 AM | 85.90.207.241
+vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?encryption=none&headerType=http&host=excoino.com&security=none&type=tcp#🇦🇲 AM | 92.223.2.59
+vless://e36a6452-2eab-4085-ac23-f55e56041659@am.srv1.stargrian.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=firefox&type=tcp&sni=adobe.com#🇦🇲 AM | 85.90.207.241
+vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@am2.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇦🇲 AM | 92.223.2.59
+vless://e36a6452-2eab-4085-ac23-f55e56041659@am.srv1.stargrian.com:443?security=reality&encryption=none&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&headerType=none&fp=firefox&type=tcp&sni=adobe.com#🇦🇲 AM | 85.90.207.227
