@@ -1,4 +1,3 @@
-vless://edb4028d-e5f9-4d79-835c-7604fbd119b3@185.146.173.58:8080?security=none&type=ws&host=SHHproxy--shhPROXY--SHHproxy.ntherspeedtest.net.&path=SHHPROXY?ed=8080#🇸🇪 SE | 185.146.173.58
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&fp=firefox&type=ws&sni=kingmethode.bIack.ir#🇸🇪 SE | 192.71.82.2
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&host=kingmethode.bIack.ir&fp=firefox&type=ws&sni=kingmethode.bIack.ir#🇸🇪 SE | 192.71.82.2
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39

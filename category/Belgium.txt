@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdllDRVlTU0E1dzhmYTBaWTgtLWs4bVdBRXJiMnVEZg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://97c0bcaf-76a0-4d1c-9d19-fde3c99a9dc8@113.30.152.46:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=telegavpn.com#🇧🇪 BE | 113.30.152.46
