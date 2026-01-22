@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.185:443?security=tls&sni=kke.ylks.xyz&type=ws&path=/?proxyip#🇿🇦 ZA | 160.123.255.185
+vmess://eyJhZGQiOiJib29nZXltYW4uY2hvbWJhLnRlY2giLCJhaWQiOjAsImhvc3QiOiJib29nZXltYW4uY2hvbWJhLnRlY2giLCJpZCI6IjliNmE4N2VkLTk5NDktNDlmNi1hYjZmLWNmOWFiMTUxNzdkNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoi8J+Hv/Cfh6YgWkEgfCA0LjI1My4zMy4xNTUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
