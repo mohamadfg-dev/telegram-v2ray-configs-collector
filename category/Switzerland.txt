@@ -1,2 +1,2 @@
-vless://ca8d5058-2365-4e07-8231-4fda963006ad@213.176.18.39:3445/?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=tgju.org#🇨🇭 CH | 213.176.18.39
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#🇨🇭 CH | 5.182.36.251
+vless://ca8d5058-2365-4e07-8231-4fda963006ad@213.176.18.39:3445?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=tgju.org#🇨🇭 CH | 213.176.18.39
+vless://82286d07-bf84-4e6a-a813-4c866849800f@api2.farzadyek.ir:8080?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=yZe84ZQWR5hcRp_Ly59f-T7bKo0QsmXf6aDU6YYrZ2c&sid=a660fce541a267#🇨🇭 CH | 195.15.207.153

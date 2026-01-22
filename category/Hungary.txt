@@ -1,1 +1,1 @@
-vless://16bbdaa1-7145-4e5d-9c49-d2059d76432d@217.13.104.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c#🇭🇺 HU | 217.13.104.148
+vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096/?encryption=none&security=tls&sni=vless.hubp.de&type=ws&host=vless.hubp.de&path=/snippets#🇭🇺 HU | 74.49.215.61

@@ -1,1 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVcGRiczhqeTBFNnl3bXUwcEtGTVVXeTBVVGt1VVptQQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+vless://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@87.249.139.231:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e57932a42872a362#🇹🇷 TR | 87.249.139.231
+vless://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@87.249.139.231:8443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e57932a42872a362#🇹🇷 TR | 87.249.139.231
