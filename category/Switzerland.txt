@@ -1,1 +1,2 @@
-vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@45.85.93.204:2345/?security=none&encryption=none&headerType=none&type=tcp#🇨🇭 CH | 45.85.93.204
+vless://ca8d5058-2365-4e07-8231-4fda963006ad@213.176.18.39:3445/?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=tgju.org#🇨🇭 CH | 213.176.18.39
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#🇨🇭 CH | 5.182.36.251
