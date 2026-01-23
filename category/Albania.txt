@@ -1,1 +1,1 @@
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.144:2083?mode=gun&security=reality&encryption=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&fp=chrome&type=grpc&serviceName=UpdateService&sni=apple.com&sid=6da16b1335651b38#🇦🇱 AL | 185.177.238.144
+vless://dbbe163b-b446-45dd-97ca-6a0a0667a7c6@op.mobileggatte.ir:4558/?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🇦🇱 AL | 185.186.77.57

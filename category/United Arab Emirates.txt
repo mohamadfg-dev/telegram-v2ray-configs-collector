@@ -1,5 +1,9 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@146.75.64.0:80?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false, "xmux": {"maxConcurrency": "16-32", "maxConnections": 0, "cMaxReuseTimes": "64-128", "cMaxLifetimeMs": 0, "hMaxRequestTimes": "800-900", "hKeepAlivePeriod": 0}}&host=sudo2018.ir&type=xhttp#🇦🇪 AE | 146.75.64.0
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://ec198a90-194e-4eed-88a3-e392ea63c271@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/#🇦🇪 AE | 89.44.80.37
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://16899fd6-6ca0-4400-805d-9b891885bd69@goth.hellpresso.ir:10684?security=reality&encryption=none&pbk=LVY1rowuIyvG93Rt0971CUGW7_gfXjALPqrocCRq3TY&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.tgju.org&sid=50499fc5#🇦🇪 AE | 109.61.18.23

@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇵🇱 PL | 57.128.214.100
-vless://9f51682b-487d-4912-9418-c659cbe8f4ed@zen-core.megaconfig.com:1198?security=reality&encryption=none&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=908833730613ddfb#🇵🇱 PL | 45.144.50.41
 vless://f0dab6f2-afa0-4b6c-818a-b806a40ccb4a@meta-hub.megaconfig.com:1198?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&sid=908833730613ddfb&type=tcp&headerType=none#🇵🇱 PL | 45.144.50.234
