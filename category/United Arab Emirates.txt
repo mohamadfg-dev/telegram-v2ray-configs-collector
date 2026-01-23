@@ -1,5 +1,1 @@
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://ec198a90-194e-4eed-88a3-e392ea63c271@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/#🇦🇪 AE | 89.44.80.37
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233

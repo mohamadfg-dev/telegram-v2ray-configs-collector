@@ -1,2 +1,4 @@
-vless://ca8d5058-2365-4e07-8231-4fda963006ad@213.176.18.39:3445?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=tgju.org#🇨🇭 CH | 213.176.18.39
+vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#🇨🇭 CH | 83.228.225.9
+vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#🇨🇭 CH | 83.228.225.9
 vless://82286d07-bf84-4e6a-a813-4c866849800f@api2.farzadyek.ir:8080?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=yZe84ZQWR5hcRp_Ly59f-T7bKo0QsmXf6aDU6YYrZ2c&sid=a660fce541a267#🇨🇭 CH | 195.15.207.153
+vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#🇨🇭 CH | 83.228.225.9
