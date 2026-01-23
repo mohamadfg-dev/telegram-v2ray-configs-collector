@@ -1,5 +1,4 @@
 vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?security=reality&encryption=none&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=916e8258c4a01b02#🇹🇷 TR | 193.187.132.145
 vless://e719bf78-4ea9-41f4-a709-fb672375dc8a@tr.sephost.de:7022?security=reality&encryption=none&pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=7fec3adb0c3aee58#🇹🇷 TR | 77.83.203.186
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDUllWUjctSDBfb1dqR3I4MlRwZUtYRVU4eUphLUMtUg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vless://e719bf78-4ea9-41f4-a709-fb672375dc8a@tr.sephost.de:7022?security=reality&encryption=none&pbk=TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=7fec3adb0c3aee58#🇹🇷 TR | 77.83.203.186
-vless://8bd64c9d-c76a-4eba-8448-9a4646e9d0e3@tk.napsternetx.ir:2096?security=none&encryption=none&host=panel.arvancloud.ir&headerType=http&type=tcp#🇹🇷 TR | 213.142.156.208
+vless://d7c89dff-38c1-4206-8101-15cc5bb4ca6f@trk.asreabi.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=excoino.com#🇹🇷 TR | 213.156.152.183
