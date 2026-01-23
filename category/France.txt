@@ -1,20 +1,22 @@
-vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=tcp1.speedx3net.ir#🇫🇷 FR | 45.154.96.51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA==@64.31.63.92:443#🇫🇷 FR | 64.31.63.92
 vless://e017e0ab-08cf-49d1-8eba-2ef69393a89f@france.tzteam.online:2098?encryption=none&security=reality&sni=sourceforge.net&fp=firefox&pbk=JNcCRy0bfOEzzyqh1foTuuG9T8IvwiO8ApJu5FhVERs&sid=2665af94c7b25f90&type=grpc&authority=&serviceName=fdvsdv&mode=gun#🇫🇷 FR | 62.60.148.212
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.111.194:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#🇫🇷 FR | 15.236.111.194
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=tcp1.speedx3net.ir#🇫🇷 FR | 45.154.96.51
-trojan://telegram-id-directvpn@51.44.195.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA==@64.31.63.92:443#🇫🇷 FR | 64.31.63.92
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.232:22224?encryption=none&type=ws&path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.232
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA==@64.31.63.92:443#🇫🇷 FR | 64.31.63.92
-trojan://telegram-id-privatevpns@51.44.195.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.232
+vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.196.35.27:443?security=reality&encryption=none&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.fasti.win&sid=67f8515f3fa23d2f#🇫🇷 FR | 196.196.35.27
+trojan://telegram-id-directvpn@15.236.111.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.111.194
+vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=firefox&type=tcp&allowInsecure=1&sni=tcp1.speedx3net.ir#🇫🇷 FR | 45.154.96.51
+vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?security=&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 45.154.96.185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷 FR | 51.178.114.83
+trojan://telegram-id-privatevpns@15.236.111.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.111.194
+vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.196.35.27:443?security=reality&encryption=none&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.fasti.win&sid=67f8515f3fa23d2f#🇫🇷 FR | 196.196.35.27
+vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.196.35.27:443?security=reality&encryption=none&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.fasti.win&sid=67f8515f3fa23d2f#🇫🇷 FR | 196.196.35.27
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+HtyBGUiB8IDkxLjEzNC44LjEwMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://telegram-id-v2rayvpnchannel@13.37.69.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.69.223
+trojan://telegram-id-v2rayvpnchannel@51.44.195.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.232
 vless://a37f349e-04b0-4967-a9e5-fb35083fa353@45.154.96.51:2222?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=tcp1.speedx3net.ir#🇫🇷 FR | 45.154.96.51
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.232:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.232
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.111.194:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.111.194
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.239
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDU3OSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://b247ad58-1454-4be9-b16f-26e6ea4ae1f5@194.116.217.60:55901?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇫🇷 FR | 194.116.217.60
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?path=/qnbufdws&security=tls&encryption=none&type=ws#🇫🇷 FR | 185.234.64.228
 trojan://telegram-id-v2rayvpnchannel@35.181.130.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.130.191
 vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjIwMTM6OjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiZTE3ODZkNDktY2NiYS00NjZiLWEwZGQtZTFhYjU5YmQ4M2JiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjYyMjExIiwicHMiOiLwn4er8J+HtyBGUiB8IDIwMDE6YmM4OjMyZDc6MjAxMzo6OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
