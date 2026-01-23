@@ -1,4 +1,3 @@
 vless://5dd83f45-e443-4587-8024-7f29e371b537@reality-tr.beraghsa.ir:1334?encryption=none&security=reality&sni=fa.wikipedia.org&fp=chrome&pbk=dpFlUMie2WQOvFzjAF46EOcL0ZYqThk_Db-nyVz62H4&sid=465098eade233ea3&type=tcp&headerType=none#🇹🇷 TR | 213.142.133.107
-vless://7c00a46c-aec5-46fa-b36f-28b8cfe1ca2f@classic.amki.ir:2052?path=/&security=none&encryption=none&host=dcssvdsvdvdfvdvdvduuiyhuryurr.turk.amki.ir&type=ws#🇹🇷 TR | 188.132.141.88
 vless://5dd83f45-e443-4587-8024-7f29e371b537@reality-tr.beraghsa.ir:1334?encryption=none&security=reality&sni=fa.wikipedia.org&fp=chrome&pbk=dpFlUMie2WQOvFzjAF46EOcL0ZYqThk_Db-nyVz62H4&sid=465098eade233ea3&type=tcp&headerType=none#🇹🇷 TR | 213.142.133.107
 vless://39802a7f-3d9f-496f-9baa-59c09a126ade@tr.instasup.ir:1002?security=reality&encryption=none&pbk=uWdy-05745pCUMEKq0ybaRCVBtQB8JrhyWCkHfv2I0U&headerType=none&fp=firefox&type=tcp&sni=jetbrains.com&sid=14cf6857b8741cbf#🇹🇷 TR | 188.132.141.19

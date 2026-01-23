@@ -1,2 +1,4 @@
-vless://e797bcce-428e-47a8-c9f4-03af9bef5fca@109.248.161.103:54319?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇮🇳 IN | 109.248.161.103
+vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?encryption=none&type=tcp&headerType=http&host=snapp.ir&security=none#🇮🇳 IN | 45.88.183.76
+vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=snapp.ir&headerType=http&type=tcp#🇮🇳 IN | 45.88.183.76
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN | 82.180.146.173
+vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇮🇳 IN | 45.88.183.76
