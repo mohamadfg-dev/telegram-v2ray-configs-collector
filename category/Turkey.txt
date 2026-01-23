@@ -1,4 +1,3 @@
 vless://3d568c4a-4dc5-49b6-be12-3e6fc87645bd@up1.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🇹🇷 TR | 130.185.123.126
+vless://1f1096d3-a717-4af3-8c2f-580c772a4148@map.magicdriveman.com:5764?security=reality&type=tcp&headerType=none&path=&host=&sni=www.latimes.com&fp=firefox&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&sid=a41949cbc7c41377#🇹🇷 TR | 188.132.141.90
 vless://8d157387-faab-4956-b8ab-47da7af50dc5@protr.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=43a007179df71231#🇹🇷 TR | 77.87.122.231
-vless://8d157387-faab-4956-b8ab-47da7af50dc5@protr.soreanapanel.com:443?security=reality&encryption=none&pbk=UqOnYKBtVUADBnjVw1rS2ZYcMa0vsCFFe6c1OkFXzGM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=43a007179df71231#🇹🇷 TR | 77.87.122.231
-vless://3d568c4a-4dc5-49b6-be12-3e6fc87645bd@up1.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🇹🇷 TR | 130.185.123.126

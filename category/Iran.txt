@@ -1,11 +1,9 @@
-vless://722a190a-fc7b-45ef-85f7-8f24da4749f1@fr1vip.vnet215.xyz:19154?encryption=none&type=tcp&headerType=http&host=canva.com&path=/&security=none#🇮🇷 IR | 2.144.7.1
+vless://722a190a-fc7b-45ef-85f7-8f24da4749f1@fr1vip.vnet215.xyz:19154?encryption=none&type=tcp&headerType=http&host=canva.com&path=/&security=none#🇮🇷 IR | 2.144.2.32
 vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?security=none&encryption=none&host=www.downloadha.com&headerType=http&type=tcp#🇮🇷 IR | 31.41.35.29
-vless://260225a1-8f2c-4302-a7de-1250f334e566@nimba.aparat-movies-download.ir:42535?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.204.188
 vless://881c1168-3ae5-4020-af6d-0a4d6d8b1739@91.216.71.69:5050?type=tcp&encryption=none&path=/&host=bmw.com&headerType=http&security=none#🇮🇷 IR | 91.216.71.69
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.#🇮🇷 IR | 185.116.161.5
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
-vless://6e9459e4-edb5-490c-b712-638dfa8f70d7@2.144.5.150:80?path=/&security=none&encryption=none&host=iran.ir&type=ws#🇮🇷 IR | 2.144.5.150
 vless://8013a9c2-704c-4dc5-a341-9c3fd6a00dd9@185.14.160.228:6556/?type=tcp&encryption=none&path=/&headerType=http&security=none#🇮🇷 IR | 185.14.160.228
 vmess://eyJhZGQiOiIxNzguMjM5LjE0OC40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMzczYjAzZS05ZmNkLTQ1NTMtODZkNy1jMWRjZDRiNjZhOWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NTQ2IiwicHMiOiLwn4eu8J+HtyBJUiB8IDE3OC4yMzkuMTQ4LjQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://7df38fe5-4220-4e19-ce35-e79bb5bc7b75@109.122.255.184:2099?security=&encryption=tls&headerType=http&type=tcp#🇮🇷 IR | 109.122.255.184
