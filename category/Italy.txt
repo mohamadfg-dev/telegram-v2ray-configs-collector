@@ -1,4 +1,6 @@
 vless://0041e43e-b888-47ab-a6ce-4906631cffa4@iT-aNiMalZoO-lOvE.rEdMaK.iR:8447?mode=auto&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com#🇮🇹 IT | 172.232.206.56
+vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.192.163:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇹 IT | 172.232.192.163
+vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.192.163:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇹 IT | 172.232.192.163
 vless://0041e43e-b888-47ab-a6ce-4906631cffa4@iT-aNiMalZoO-lOvE.rEdMaK.iR:8447?mode=auto&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com#🇮🇹 IT | 172.232.206.56
-vless://0041e43e-b888-47ab-a6ce-4906631cffa4@iT-aNiMalZoO-lOvE.rEdMaK.iR:8447?mode=auto&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com#🇮🇹 IT | 172.232.206.56
+vless://1fa85b0b-c76a-43ba-9158-35c12a143411@Content.darkhoursehome.com:9341?security=reality&encryption=none&pbk=ftI-LBfHBgxFoWIe0jfytjgR0bqp4mli3pxZjCvD8Qw&headerType=none&fp=firefox&type=tcp&sni=www.latimes.com&sid=a41949cbc7c41377#🇮🇹 IT | 195.231.39.254
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172

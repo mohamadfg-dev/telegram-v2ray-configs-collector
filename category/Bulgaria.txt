@@ -1,1 +1,1 @@
-vless://nasnet@nasnet-146198073-direct.iranpress.co:443?security=tls&type=tcp&alpn=h2,http/1.1&sni=nasnet-146198073-direct.iranpress.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇧🇬 BG | 146.19.80.73
+vmess://eyJhZGQiOiIxODguMjExLjE2Ni4yMzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY5NDdjMDgtZDdlMC00ODlkLWEyMzctNWNlZDM5MzhlNGE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6fwn4esIEJHIHwgMTg4LjIxMS4xNjYuMjM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
