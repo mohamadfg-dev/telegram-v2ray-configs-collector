@@ -1,2 +1,3 @@
+ss://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#🇨🇭 CH | 83.228.225.9
+vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@83.228.230.175:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇨🇭 CH | 83.228.230.175
 vless://82286d07-bf84-4e6a-a813-4c866849800f@api2.farzadyek.ir:8080?security=reality&type=tcp&headerType=none&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=yZe84ZQWR5hcRp_Ly59f-T7bKo0QsmXf6aDU6YYrZ2c&sid=a660fce541a267#🇨🇭 CH | 195.15.207.153
-vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#🇨🇭 CH | 83.228.225.9

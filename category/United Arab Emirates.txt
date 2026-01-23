@@ -1,3 +1,5 @@
 vless://ec198a90-194e-4eed-88a3-e392ea63c271@home.app9.ir:8866?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/#🇦🇪 AE | 89.44.80.37
-vless://cbcafae9-4b13-4a5c-8521-342262dc57eb@109.61.18.25:26480?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 109.61.18.25
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?encryption=none&security=none&type=ws&path=/#🇦🇪 AE | 217.195.200.233
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?encryption=none&security=none&type=ws&path=/#🇦🇪 AE | 217.195.200.233
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?encryption=none&security=none&type=ws&path=/#🇦🇪 AE | 217.195.200.233
 vless://16899fd6-6ca0-4400-805d-9b891885bd69@goth.hellpresso.ir:10684?security=reality&encryption=none&pbk=LVY1rowuIyvG93Rt0971CUGW7_gfXjALPqrocCRq3TY&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.tgju.org&sid=50499fc5#🇦🇪 AE | 109.61.18.23
