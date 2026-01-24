@@ -1,1 +1,2 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@50.7.4.108:443?path=/&security=tls&encryption=none&insecure=0&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ww23.sgxaniu.qzz.io#🇮🇪 IE | 50.7.4.108
+vless://6dfc1eeb-1450-4051-a861-890f791c7e95@212.147.228.170:80?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇮🇪 IE | 212.147.228.170
+vless://6dfc1eeb-1450-4051-a861-890f791c7e95@212.147.228.170:80?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇮🇪 IE | 212.147.228.170

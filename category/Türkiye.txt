@@ -1,5 +1,2 @@
-vless://47cb652e-d31f-4951-87bf-184305c8d964@dl-tr.iranfastfod.ir:20908?security=reality&encryption=none&pbk=9oJwu4bhYXTQqVvnH_lNuI93w1UI7m-QpLyWxNEkHHA&headerType=none&fp=random&type=tcp&sni=divar.ir&sid=eb336182f8c7705d#🇹🇷 TR | 62.133.63.176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TWE5VTIyTjh2RE04c1hzc1ZnMmVkSFp5NThSbVRHTg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://226ecd86-5e26-4d36-9d87-dd8841f351f9@kesvar.turkey.iransystemstatus.com:8080/?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 213.156.152.133
-vless://9e3d1839-9d6f-45ac-971a-d0f8365a75eb@tr.speeditest.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇹🇷 TR | 213.156.152.171
-vless://2c89637d-cab2-4334-837c-ae49e88eb86e@tr.starknetlabs.ir:49676?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇹🇷 TR | 213.142.156.57
