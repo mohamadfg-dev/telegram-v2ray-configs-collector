@@ -1,4 +1,3 @@
-vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?path=/&security=none&encryption=none&type=ws#🇪🇪 EE | 37.252.4.176
 vless://65cd15ed-7a25-41ce-8bdd-bb5db2c38f65@dawn.wenllies.com:443?mode=auto&path=/&security=reality&encryption=none&pbk=3J8YJQeHFWsw534gd2p3iJr3XCnwS7Tpr-ElIX8G80I&fp=random&spx=/&type=xhttp&sni=dawn.wenllies.com&sid=47e15ea2b54ad22d#🇪🇪 EE | 178.130.46.230
 vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?path=/&security=none&encryption=none&type=ws#🇪🇪 EE | 37.252.4.176
 vless://8ad4523c-032e-4ec3-94ea-182638c8e688@37.252.4.176:35979?path=/&security=none&encryption=none&type=ws#🇪🇪 EE | 37.252.4.176
