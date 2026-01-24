@@ -1,6 +1,4 @@
-trojan://qHmYAcJH01McOqgsMUuQjg@62.133.63.21:2083?security=tls&type=ws&sni=h110vpnturkey.outlinekeys.net#🇹🇷 TR | 62.133.63.21
-vless://226ecd86-5e26-4d36-9d87-dd8841f351f9@kesvar.turkey.iransystemstatus.com:8080/?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 213.156.152.133
 vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
 vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.104
-vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
+vless://04d03542-5d95-49de-a2f5-0f65a6b79e46@185.226.92.188:443?path=/&security=&encryption=none&type=ws#🇹🇷 TR | 185.226.92.188
 vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#🇹🇷 TR | 45.92.219.146

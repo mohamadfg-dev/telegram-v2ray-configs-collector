@@ -1,2 +1,1 @@
-vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#🇨🇿 CZ | 81.2.233.201
 vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&sni=fast.spacenetpro.xyz#🇨🇿 CZ | 81.2.233.201
