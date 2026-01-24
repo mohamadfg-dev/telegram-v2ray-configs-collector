@@ -1,5 +1,4 @@
-vless://3001ec8f-42a7-4785-a351-51651f817101@sw.hexogate.com:5051?security=reality&encryption=none&pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A&headerType=none&fp=ios&type=tcp&sni=digg.com&sid=02796ded32907eab#🇹🇼 TW | 82.115.8.132
-vless://3001ec8f-42a7-4785-a351-51651f817101@sw.hexogate.com:5051?security=reality&encryption=none&pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A&headerType=none&fp=ios&type=tcp&sni=digg.com&sid=02796ded32907eab#🇹🇼 TW | 82.115.8.132
+trojan://3c9e4a24-aa0f-4571-970b-d374ccded73b@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#🇹🇼 TW | 220.130.58.136
 vless://3001ec8f-42a7-4785-a351-51651f817101@sw.hexogate.com:5051?security=reality&encryption=none&pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A&headerType=none&fp=ios&type=tcp&sni=digg.com&sid=02796ded32907eab#🇹🇼 TW | 82.115.8.132
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136

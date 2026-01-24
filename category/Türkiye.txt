@@ -1,7 +1,6 @@
-vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TWE5VTIyTjh2RE04c1hzc1ZnMmVkSFp5NThSbVRHTg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+trojan://qHmYAcJH01McOqgsMUuQjg@62.133.63.21:2083?security=tls&type=ws&sni=h110vpnturkey.outlinekeys.net#🇹🇷 TR | 62.133.63.21
 vless://226ecd86-5e26-4d36-9d87-dd8841f351f9@kesvar.turkey.iransystemstatus.com:8080/?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 213.156.152.133
-vless://198b3de2-6f17-4b75-b1cb-a5e6c300bd28@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
 vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
-vmess://eyJhZGQiOiJ0bHNtNTEuZ3NtdnguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU5YmE3MmYzLTg1N2MtNGNhZS1hNDhkLTI1MzhmOGNkMmQ1YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1IiwicHMiOiLwn4e58J+HtyBUUiB8IDc3LjgzLjI0NS4xNjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.104
+vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
+vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#🇹🇷 TR | 45.92.219.146

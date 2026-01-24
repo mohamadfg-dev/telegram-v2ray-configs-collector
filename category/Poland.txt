@@ -1,2 +1,2 @@
-vless://7f47fd09-a30d-4d5e-a758-55d1cbf95a44@pl.connect-opengate.cv:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&sni=hello.opengate.tech&sid=30531914bddc70c8#🇵🇱 PL | 144.31.4.76
+vless://7c30c0b4-c6f3-4fca-92f7-a8beacceff9e@82.22.40.44:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=tgju.com&path=/&headerType=http#🇵🇱 PL | 82.22.40.44
 vless://f0dab6f2-afa0-4b6c-818a-b806a40ccb4a@meta-hub.megaconfig.com:1198?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=J4od8RrAV4Us8mO38jkKdaW6yb-8TqISgE0ttrtPoV4&sid=908833730613ddfb&type=tcp&headerType=none#🇵🇱 PL | 45.144.50.234

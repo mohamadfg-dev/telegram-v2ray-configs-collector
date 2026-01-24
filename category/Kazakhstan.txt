@@ -1,3 +1,2 @@
 vless://33f2f3cd-0d71-4ab2-b81a-39daeeaeb919@cdn.halazzon.ir:2083?mode=auto&path=/Penubit&security=tls&alpn=h2&encryption=none&host=digikala.snapp.dpdns.org&fp=chrome&type=xhttp&sni=digikala.snapp.dpdns.org#🇰🇿 KZ | 194.76.18.23
-vless://4d8f29a4-f8b4-4bbc-b3a4-a1724e591b4a@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
 vless://33f2f3cd-0d71-4ab2-b81a-39daeeaeb919@cdn.halazzon.ir:2083?mode=auto&path=/Penubit&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=digikala.snapp.dpdns.org#🇰🇿 KZ | 194.76.18.23
