@@ -1,4 +1,4 @@
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
-vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇪🇸 ES | 5.22.219.57
+vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=&encryption=none&host=soft98.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇪🇸 ES | 5.22.219.57
 vless://e5b2a149-94d5-46fb-ab3e-88e4e83ddc87@tunnyl.ru:8443?security=reality&encryption=none&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&headerType=none&fp=ios&spx=/&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=38cd424d5ba6441d#🇪🇸 ES | 185.236.25.242
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇪🇸 ES | 5.22.219.57

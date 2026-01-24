@@ -1,2 +1,2 @@
 vless://807f-32ef-c229-0804-ebc15aef@sv-fl-2.servadd.net:587?encryption=none&security=none&type=ws&path=/#🇳🇱 NL | 88.218.16.92
-vless://3a65b0bc-81b9-4e2f-8c2e-35511839a5ac@r2.noode.work:443?security=reality&encryption=none&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=f74c6a18133e2e72#🇳🇱 NL | 45.142.164.60
+vless://3a65b0bc-81b9-4e2f-8c2e-35511839a5ac@r2.noode.work:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=qTfZpilVyQrFDIgxmEsd18Ph3c_-8O-R_af4o_WQ_Tg&sid=f74c6a18133e2e72&type=tcp&headerType=none#🇳🇱 NL | 45.142.164.60

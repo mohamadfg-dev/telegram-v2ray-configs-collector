@@ -1,10 +1,16 @@
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
+vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
+vless://98d80dd4-86bc-419c-8b3d-4d5f2423f4b1@64.188.73.65:20150?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 64.188.73.65
+vless://39d41c6a-7288-4641-8371-b3e5bac9d576@64.188.73.65:20150?security=&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 64.188.73.65
+vless://39d41c6a-7288-4641-8371-b3e5bac9d576@64.188.73.65:20150?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 64.188.73.65
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 171.22.114.244
+vless://18228710-dfd0-4bca-8425-4abff39843a4@Fin.1mrsub.site:9001?security=reality&type=tcp&headerType=none&path=&host=&sni=tgju.org&fp=firefox&pbk=rtJTADmnAaoOPp0jfrQ1F-Y7jq9iOM-gJcycs8NCgRQ&sid=9b40#🇫🇮 FI | 65.109.188.82
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 65.109.178.83
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
+vless://3c4ae067-6c92-4d82-b081-02fa0a270026@64.188.73.65:20150?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 64.188.73.65
+vless://3c4ae067-6c92-4d82-b081-02fa0a270026@64.188.73.65:20150?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇮 FI | 64.188.73.65
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://dc923edf-9962-4817-bd51-f43f696c5fbc@37.27.18.24:9090?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 37.27.18.24
-vless://dc923edf-9962-4817-bd51-f43f696c5fbc@oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com:3090?path=/&security=none&encryption=none&host=ebqbi.knedno.kbrgcwq.aqpfmy.utzuryso.infinityofconnectedminds.com&type=ws#🇫🇮 FI | 62.60.229.31
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=00684d2eae2cdd16#🇫🇮 FI | 144.31.19.193

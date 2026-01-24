@@ -1,2 +1,3 @@
+vless://5c4a6750-4eb8-4e58-b1a2-d286f88be331@sw.hexogate.com:5051?security=reality&encryption=none&pbk=Zrk7y7YzcSb_s5H2qkcwPqj-CY6POtrcq-JFPuTTA1A&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=digg.com&sid=7ee3513d3e3387d8#🇹🇼 TW | 82.115.8.132
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
