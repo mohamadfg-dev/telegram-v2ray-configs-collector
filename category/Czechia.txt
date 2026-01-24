@@ -1,1 +1,2 @@
-vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@78.159.247.131:7443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir-2.ozone.ru&sid=a20d3ed244c76426#🇨🇿 CZ | 78.159.247.131
+vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#🇨🇿 CZ | 81.2.233.201
+vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&sni=fast.spacenetpro.xyz#🇨🇿 CZ | 81.2.233.201

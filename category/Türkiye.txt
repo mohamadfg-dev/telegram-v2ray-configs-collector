@@ -1,9 +1,7 @@
+vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TWE5VTIyTjh2RE04c1hzc1ZnMmVkSFp5NThSbVRHTg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://226ecd86-5e26-4d36-9d87-dd8841f351f9@kesvar.turkey.iransystemstatus.com:8080/?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 213.156.152.133
-vless://61ad3a9d-110d-4a9f-b10a-7d58a6064b7c@vatantuk.sevenploos.com.tr:2126?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
 vless://198b3de2-6f17-4b75-b1cb-a5e6c300bd28@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
-vless://7ca25829-0b15-48d5-b4cc-2fe2affc108b@m-tr.leperfume.ir:1443?security=none&encryption=none&host=Excoino.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.95
-vless://198b3de2-6f17-4b75-b1cb-a5e6c300bd28@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
-vless://7ca25829-0b15-48d5-b4cc-2fe2affc108b@m-tr.leperfume.ir:1443?security=none&encryption=none&host=Excoino.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.95
+vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
+vmess://eyJhZGQiOiJ0bHNtNTEuZ3NtdnguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImU5YmE3MmYzLTg1N2MtNGNhZS1hNDhkLTI1MzhmOGNkMmQ1YyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1IiwicHMiOiLwn4e58J+HtyBUUiB8IDc3LjgzLjI0NS4xNjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.104
-vless://f4695c75-13cc-45d7-b06e-6d86c3165a42@tr-node.vopn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-node.vopn.net&fp=qq&security=reality&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=63c359bdc3f8562b#🇹🇷 TR | 198.105.123.179
