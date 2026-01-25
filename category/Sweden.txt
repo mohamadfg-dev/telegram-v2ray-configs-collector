@@ -1,4 +1,2 @@
-vless://52e7723a-b840-4498-9e44-b8dc89d67e1f@172.232.159.142:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇸🇪 SE | 172.232.159.142
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=2560&security=tls&alpn=h3&encryption=none&host=kingmethode.bIack.ir&fp=firefox&type=ws&sni=kingmethode.bIack.ir#🇸🇪 SE | 192.71.82.2
-vless://a855c1fd-c571-47a3-a7eb-9f0895d0f414@sto2-xt.aminv.ir:80?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇸🇪 SE | 37.252.8.100
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39
