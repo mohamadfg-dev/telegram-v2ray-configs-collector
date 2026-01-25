@@ -1,3 +1,1 @@
-vless://23e71031-3a27-4497-aff0-9831e44271fe@vatantuk.sevenploos.com.tr:2126?encryption=none&headerType=http&host=varzesh3.com&security=none&type=tcp#🇹🇷 TR | 45.144.214.72
 vless://ffabe614-3bc8-4676-b8d3-c015ba274cc2@trfastgateway.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇹🇷 TR | 45.144.214.72
-vless://0933bf59-bf78-4d08-986c-c8327b875431@game.pcapps.ir:8095?path=/?ed=2048&security=none&encryption=none&host=skyroom.online&type=ws#🇹🇷 TR | 198.105.123.61

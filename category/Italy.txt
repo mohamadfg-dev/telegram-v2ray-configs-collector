@@ -1,3 +1,1 @@
-vless://bfe612f0-af7e-48e1-a529-86d76aa20dde@cdn.asreabi.ir:80?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#🇮🇹 IT | 5.59.248.19
-vless://bfe612f0-af7e-48e1-a529-86d76aa20dde@cdn.asreabi.ir:80?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#🇮🇹 IT | 5.59.248.19
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?host=Germany.ss.ss&type=ws&security=none&path=WEDBAZ?ed=2048&encryption=none#🇮🇹 IT | 151.101.242.172

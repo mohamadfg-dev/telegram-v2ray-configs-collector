@@ -2,7 +2,4 @@ vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?security=none&en
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇨🇭 CH | 84.234.28.125
 vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#🇨🇭 CH | 195.15.202.129
 vless://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&security=none&encryption=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&type=ws#🇨🇭 CH | 83.228.227.202
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#🇨🇭 CH | 195.15.202.129
 vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 45.59.117.126
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#🇨🇭 CH | 195.15.202.129
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#🇨🇭 CH | 195.15.202.129
