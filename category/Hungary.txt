@@ -1,1 +1,1 @@
-vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.157:80/?type=ws&encryption=none&flow=&path=/IVApi/UK/0&packetEncoding=xudp#🇭🇺 HU | 87.229.100.157
+vless://bbb7910f-3005-225f-3fe1-6cce2dff2d60@87.229.100.158:80?encryption=none&security=none&type=ws&path=/IVApi/US/0#🇭🇺 HU | 87.229.100.158

@@ -1,1 +1,1 @@
-vless://18228710-dfd0-4bca-8425-4abff39843a4@Armania.mrvpvn.com:9002?security=reality&encryption=none&pbk=rtJTADmnAaoOPp0jfrQ1F-Y7jq9iOM-gJcycs8NCgRQ&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=0c808317#🇹🇷 TR | 212.115.103.37
+vless://1db83ca2-64bf-44f2-8e5d-0934228ddd03@188.132.141.2:8443?path=/&security=none&encryption=none&type=ws#🇹🇷 TR | 188.132.141.2
