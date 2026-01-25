@@ -1,3 +1,2 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
-vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=none&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233
 vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=/ws&security=none&encryption=none&host=minoomizban.ir&type=ws#🇦🇪 AE | 31.57.228.162

@@ -1,2 +1,2 @@
-vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087/?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🇱🇺 LU | 107.189.10.132
-vless://5f065092-549f-4632-9e8b-55a86aa809bc@Kyv.love-speed.sbs:903?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=/#🇱🇺 LU | 45.80.209.171
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&type=tcp&headerType=http&host=iranserver.com&security=none#🇱🇺 LU | 107.189.10.132
+vless://70ee5f06-28ea-4739-9e08-f92a5d6d0c79@Kyv.love-speed.sbs:903?security=reality&type=tcp&headerType=&path=&host=refersion.com&sni=refersion.com&fp=firefox&pbk=DSF9EhsLMGd7Clgh7PhrY4AmCxIYtCnATRrzA2sVTis&sid=abb50e&spx=/#🇱🇺 LU | 45.80.209.171

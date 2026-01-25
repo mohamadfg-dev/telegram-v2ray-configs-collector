@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11201#🇬🇷 GR | 38.54.29.130
-trojan://8pzQCWvRF8vC8UxFma4RvutAwV7ccN@217.12.204.110:8443/?type=tcp&security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&allowInsecure=1&fp=qq#🇬🇷 GR | 217.12.204.110

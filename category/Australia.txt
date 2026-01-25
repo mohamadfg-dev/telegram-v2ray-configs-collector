@@ -1,2 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.181:443?security=tls&sni=jpk.ylks01.eu.org&type=ws&host=jpk.ylks01.eu.org&path=/juzi#🇦🇺 AU | 103.169.142.181
-vless://e53cc5db-77b5-4c14-9cd5-3d4994dda363@158.179.19.112:10232?mode=gun&security=reality&encryption=none&pbk=W6crzjAAjMQWgVagwTQ7pTl93fQ7s4QT6AyN7UF5Ixo&fp=chrome&spx=/&type=grpc&serviceName=@azadi_az_inja_migzare&sni=nobitex.ir&sid=5f3505375e#🇦🇺 AU | 158.179.19.112
+trojan://bUlYzLSY7D@130.162.197.41:21051?mode=stream-one&path=/&security=reality&pbk=eheXsI7zeEE5s5GTpP3yV75c_rx7-6wq3n6Bvh2p42o&fp=chrome&spx=/&type=xhttp&sni=nobitex.ir&sid=2f#🇦🇺 AU | 130.162.197.41
