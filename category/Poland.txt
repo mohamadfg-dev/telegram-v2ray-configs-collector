@@ -1,1 +1,1 @@
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.4.0:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇵🇱 PL | 144.31.4.0
+vless://f66aed43-7664-4997-b757-5e8effa18bac@172.64.200.2:2053?security=tls&sni=hnasgkdjvqwydgbwqkbkqwdguibdqwhuiefbkhgqwuuqw.aramislegend.com&type=ws&host=hnasgkdjvqwydgbwqkbkqwdguibdqwhuiefbkhgqwuuqw.aramislegend.com&path=/&fp=chrome#🇵🇱 PL | 172.64.200.2

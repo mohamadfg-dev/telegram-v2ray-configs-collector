@@ -1,8 +1,6 @@
-vless://7508df45-196f-436c-a0f0-d11918566456@62.60.229.31:8880/?type=ws&encryption=none&flow=&host=s-test.hyberserver.ir&path=/#🇫🇮 FI | 62.60.229.31
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://406fd0aa-d08a-4099-a7d1-1549359461de@144.31.212.41:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇫🇮 FI | 144.31.212.41
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.19.193:443?security=reality&encryption=none&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=00684d2eae2cdd16#🇫🇮 FI | 144.31.19.193
