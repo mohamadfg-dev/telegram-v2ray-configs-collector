@@ -1,5 +1,6 @@
 vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?security=none&encryption=none&host=www.downloadha.com&headerType=http&type=tcp#🇮🇷 IR | 31.41.35.29
 vmess://eyJhZGQiOiIxNzguMjM5LjE0OC4yMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjM2NjNkZjUtYjkwYi00MGQ1LWZlNDctYjkxODcwOTYwNmEyIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh67wn4e3IElSIHwgMTc4LjIzOS4xNDguMjAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
 vmess://eyJpZCI6IjQ2MzQxM2NhLWQwMmUtNDMzNy04NTc3LTQ3NTcxZjM2NDhiMiIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii90YyIsInNjeSI6ImF1dG8iLCJhZGQiOiI5MS4yMDYuMTcxLjE2OSIsInBvcnQiOiI4MDg0IiwiaG9zdCI6Im15a2V0LmlyIiwibmV0IjoidGNwIiwicHMiOiLwn4eu8J+HtyBJUiB8IDkxLjIwNi4xNzEuMTY5In0=
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
@@ -13,8 +14,10 @@ vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&e
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
-vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
+vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
+vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
+vless://161aa738-9f4a-4874-a3fd-6ba39c3662ec@fit.ari-s.sbs:8443?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#🇮🇷 IR | 91.216.71.109
 vless://2ebc8374-8e30-49c9-be13-c11533387a06@85.133.204.89:1919?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.133.204.89
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@niimb.aparat-movies-download.ir:42555?encryption=none&security=none&type=tcp&headerType=http&host=excoino.com#🇮🇷 IR | 85.133.204.137
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
@@ -28,5 +31,5 @@ vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&securit
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 78.38.53.45
 vless://5f07a164-7746-45bd-9941-faa351157a85@tttt1.hennessypro.site:4001?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.83.182.94
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=/&host=#🇮🇷 IR | 78.157.53.45
-vmess://eyJhZGQiOiJjRE4tMy5HeE5lVC5jQW0iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGU4ZTJkMTctN2JjOS00NDFjLWI5ZDctNjk3YjU0NDZiMjUxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTUxIiwicHMiOiLwn4eu8J+HtyBJUiB8IDIuMTQ0LjIuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJjRE4tMy5HeE5lVC5jQW0iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGU4ZTJkMTctN2JjOS00NDFjLWI5ZDctNjk3YjU0NDZiMjUxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDA4IiwicHMiOiLwn4eu8J+HtyBJUiB8IDIuMTQ0LjcuMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://0ebef9a3-58d0-45c7-bff2-26c28a474231@iran.raynomusic.ir:4040?path=/&security=none&encryption=none&host=turkey.raynomusic.ir&type=ws#🇮🇷 IR | 85.133.196.138
+vless://a7903f91-918b-48e7-878f-e16a2b33ef0f@213.176.120.62:8443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 213.176.120.62
