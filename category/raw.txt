@@ -1,1 +1,1 @@
-vless://669be00c-67b4-4b87-b08f-311c45abced2@213.176.19.127:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pingless.com&fp=safari&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&type=raw&headertype=none#🇷🇺 RU | 213.176.19.127
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=random&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517&type=raw&headertype=none#🇫🇮 FI | 78.153.139.68

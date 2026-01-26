@@ -1,11 +1,10 @@
 vless://6e6609bf-6867-4fa7-b4c3-d5555d67d724@146.103.100.160:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇳🇱 NL | 146.103.100.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#🇳🇱 NL | 193.29.139.132
+vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ndt.fasti.win&sid=992f3294e2336744#🇳🇱 NL | 165.231.94.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#🇳🇱 NL | 193.29.139.160
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgTkwgfCA0NS4yNTIuMTgyLjEzNyIsImFkZCI6IjQ1LjI1Mi4xODIuMTM3IiwicG9ydCI6IjIxNTAwIiwiaWQiOiJmODEyNzRlZC04NzhmLTRhOTctOTM3Mi1lMzA5OWU4ZGVhM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ndt.fasti.win&sid=992f3294e2336744#🇳🇱 NL | 165.231.94.3
 vless://28ef7769-b7a8-478f-bac7-052494312c01@ne.zerogravitypineapple.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇳🇱 NL | 45.67.35.224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#🇳🇱 NL | 193.29.139.160
-vless://9d607f98-2b62-4b1e-b5b3-519156b5c30c@51.158.147.235:443/?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇳🇱 NL | 51.158.147.235
 vless://e258977b-e413-4718-a3af-02d75492c349@154.194.0.159:443?path=/?ed=2560&security=tls&encryption=none&host=sg.aniua.qzz.io&fp=chrome&type=ws&sni=sg.aniua.qzz.io#🇳🇱 NL | 154.194.0.159
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://a6690136-c109-45e6-be13-a45f7cb9eb2a@78.40.194.14:19465?encryption=none&security=reality&sni=google.com&fp=firefox&pbk=1PWK08gamZYHIRUnMogELTmekWyhvCF58h3z6-vmxy4&sid=a3e9404ddda9&type=grpc&authority=&serviceName=arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet-arvanet&mode=gun#🇳🇱 NL | 78.40.194.14
@@ -17,11 +16,11 @@ vless://6ee350f0-84a6-40ef-80ab-99485c90fd84@88.210.10.54:8081?security=&encrypt
 vless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@connect-4.kb-1.sbs:7790?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇳🇱 NL | 5.255.121.39
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
-vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@ndt.fasti.win:443?security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ndt.fasti.win&sid=992f3294e2336744#🇳🇱 NL | 165.231.94.3
+vless://59104543-64b9-48dd-9ba9-d2a0825e8b3b@80.91.65.99:1422?security=reality&encryption=none&pbk=q-AEsvnN41Jb8KjFqGEBuSOYjFWXGGhpP9SuS9sBNXg&headerType=none&fp=chrome&spx=/example&type=tcp&sni=yahoo.com&sid=3143dc53998d9689#🇳🇱 NL | 80.91.65.99
 vless://120cedcb-c8a0-4096-8fa0-137b041d41ed@202.148.53.142:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#🇳🇱 NL | 202.148.53.142
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&spx=/&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#🇳🇱 NL | 89.23.107.188
 vless://bc1cfd52-fddf-4c94-affd-cdc9f47eafde@194.60.133.108:2095?path=/vless&security=none&encryption=none&type=ws#🇳🇱 NL | 194.60.133.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#🇳🇱 NL | 82.38.31.89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🇳🇱 NL | 82.38.31.187
 vless://6ee350f0-84a6-40ef-80ab-99485c90fd84@88.210.10.54:8081?security=&encryption=none&host=cafebazzar.ir&headerType=http&type=tcp#🇳🇱 NL | 88.210.10.54
 vless://2ad04efa-d18a-442b-875f-48d12e11d822@185.172.88.4:22231?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=u1.mizulina.top#🇳🇱 NL | 185.172.88.4
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.70.31:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sid=#🇳🇱 NL | 72.56.70.31

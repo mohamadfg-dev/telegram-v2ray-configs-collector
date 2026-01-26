@@ -1,5 +1,2 @@
-vless://59da5451-e639-40d0-fd36-9eae6474d46e@c.brimliski.com:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=acutemugforeveryoneintwondocnetger5.zhongyang-telecom.com&fp=chrome&type=ws&allowInsecure=0#🇰🇿 KZ | 194.76.18.174
 vless://a728a8db-36d3-4bf1-a8ce-870812d9007e@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
-vless://5df9dae9-c6e3-488b-94c4-36bc84fb0d7b@core-v1.headsetabad.ir:8080?path=/?ed&security=none&encryption=none&host=shop-v1.headsetabad.ir&type=httpupgrade#🇰🇿 KZ | 194.76.18.43
-vless://27132599-27db-4089-8238-4b7b94de500e@ert-7.v-sub.site:8880?path=/?ed=2080&security=none&encryption=none&host=my.v-sub.site&type=httpupgrade#🇰🇿 KZ | 194.76.18.43
-vless://045e6759-6565-4a45-a71d-342177621021@ip.abcdefiran.ir:2083?encryption=none&security=tls&sni=dl22.molf.ir&fp=chrome&allowInsecure=1&type=ws&host=dl22.molf.ir&path=/#🇰🇿 KZ | 194.76.18.43
+vless://7e056fe0-bda1-4eb3-b0b2-4eca253c9d75@ip.ali.lat:2053?path=/ws123&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=iran.ali.lat&fp=chrome&type=ws&allowInsecure=0&sni=iran.ali.lat#🇰🇿 KZ | 194.76.18.95

@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYTFRelVDbzVKdHpfOWRfRFhDMTVNbVB5VUpZeXdFOQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vless://0fcd76c0-67b2-4ba7-bc5f-d4c6dd334f8b@185.226.92.168:2082?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=OfK9t_k9u_p0BnsFsAr-GakRDdr8maTjO32PmSBsIzQ&sid=9477d87e64cf9e75&type=tcp&headerType=none#🇹🇷 TR | 185.226.92.168
+vless://25c61d75-65c2-40f3-b8ab-2183d4fb2610@ep.beluso.shop:2095?security=none&type=tcp&headerType=http&path=/path&host=#🇹🇷 TR | 45.144.214.79

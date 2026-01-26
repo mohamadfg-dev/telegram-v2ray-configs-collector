@@ -1,1 +1,2 @@
 trojan://bUlYzLSY7D@130.162.197.41:21051?mode=stream-one&path=/&security=reality&pbk=eheXsI7zeEE5s5GTpP3yV75c_rx7-6wq3n6Bvh2p42o&fp=chrome&spx=/&type=xhttp&sni=nobitex.ir&sid=2f#🇦🇺 AU | 130.162.197.41
+vless://59104543-64b9-48dd-9ba9-d2a0825e8b3b@103.6.171.91:1422?security=reality&encryption=none&pbk=q-AEsvnN41Jb8KjFqGEBuSOYjFWXGGhpP9SuS9sBNXg&headerType=none&fp=chrome&spx=/example&type=tcp&sni=yahoo.com&sid=3143dc53998d9689#🇦🇺 AU | 103.6.171.91
