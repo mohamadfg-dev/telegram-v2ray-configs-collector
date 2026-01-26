@@ -1,5 +1,4 @@
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@open.chatgpt.com:2096?path=/?ed=2560&&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#🏴‍☠️ UN | open.chatgpt.com
-vless://4c0359d6-41ae-4dd5-a37b-fdb94a7c72ce@wizardxray.systemgamingirani.ir:2053?path=/?ed=2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#🏴‍☠️ UN | wizardxray.systemgamingirani.ir
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@open.chatgpt.com:443?path=/?ed=2560&&security=tls&encryption=none&insecure=1&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.de5.net#🏴‍☠️ UN | open.chatgpt.com
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWRjZ+O4e1Z9+yhb7yBFpHPo=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBSNZ8OMlj2G89gCu26YVgGtcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313
 vless://xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc/+dcu+uMXq+5d8DUayPzcnLcAwLwXiNrcAAUIJ313/wKC1m04FUeuZkTxkDvBKxeNWTdJDR3WlCQi9wCOfvZIiI0=#🏴‍☠️ UN | xaw1YH4rtAsEfD7TJSMi5iRq5XMBaWWLxagqTQ6QxozicOrpaHgCobfAYrsVg0ZBMEBCxOVCeLT5ge5s6Mc
@@ -31,9 +30,7 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryptio
 vless://5c088217-6f41-4a1c-8163-ea1e335a64c0@[2a13:9500:3f:5::]:53966?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ UN | [2a13:9500:3f:5::]
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir:233?mode=auto&path=/moveis&security=reality&encryption=none&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&host=fuck-israel.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=210cfdf17087#🏴‍☠️ UN | fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir
 vless://198b3de2-6f17-4b75-b1cb-a5e6c300bd28@nleuroaccess.amirconfigpaanelllll.com:2126?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🏴‍☠️ UN | nleuroaccess.amirconfigpaanelllll.com
-vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IGlkLWxiLnZoYXgubmV0IiwiYWRkIjoiaWQtbGIudmhheC5uZXQiLCJwb3J0IjoiODAiLCJpZCI6IjZmZWExNjQ5LTQyNWItNDA5Mi1iZjUzLTI5NzkyMTUyYzkyNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ6b29tLnVzIiwicGF0aCI6Ii9zc2hraXQvQXJzaGFtODUyMzEvNjM0N2QwODAyMmI5MS8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
-vless://96287144-7c5f-4f0b-99da-6c159f06038c@midnightblue.qzz.io:443?path=/54.153.59.106:80&security=tls&encryption=none&host=midnightblue.qzz.io&type=ws&sni=midnightblue.qzz.io#🏴‍☠️ UN | midnightblue.qzz.io
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,
@@ -50,8 +47,7 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "scMinPostsIntervalMs" : 30,
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
-vless://c46aaf2f-f8ba-45c7-8c0e-c2cbe7709b46@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
-vless://c46aaf2f-f8ba-45c7-8c0e-c2cbe7709b46@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
+vless://de9c3f65-8de3-42cb-bad9-cb0c3baf2392@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
+vless://de9c3f65-8de3-42cb-bad9-cb0c3baf2392@0.0.0.0:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=oy7HvK2b2f44HoOwTcx-v-mIySy690bIUbbI9DnCq0k&sid=a4eed13ebbf2f9d2#🏴‍☠️ UN | 0.0.0.0
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?host=fast.com&type=tcp&security=none&encryption=none&headerType=http#🏴‍☠️ UN | dl2.kuckenpq.ir
-vless://cfc7aae1-c2fe-4672-9f19-37bd909d86de@filestack.com:80?type=xhttp&path=/ulala&host=net2speed1404.global.ssl.fastly.net&mode=auto&security=none#🏴‍☠️ UN | filestack.com

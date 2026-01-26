@@ -1,1 +1,2 @@
-vmess://eyJhZGQiOiIxMDQuMjM5Ljg3LjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1ZWYxMDg1NS1kMmNlLTQ0ZWYtYmZiNC1mOWYzODQ5YjZlNDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ4OTk2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCAxMDQuMjM5Ljg3LjEyNyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYTFRelVDbzVKdHpfOWRfRFhDMTVNbVB5VUpZeXdFOQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+vless://0fcd76c0-67b2-4ba7-bc5f-d4c6dd334f8b@185.226.92.168:2082?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=OfK9t_k9u_p0BnsFsAr-GakRDdr8maTjO32PmSBsIzQ&sid=9477d87e64cf9e75&type=tcp&headerType=none#🇹🇷 TR | 185.226.92.168
