@@ -1,3 +1,2 @@
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.177:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇨🇭 CH | 84.234.28.177
 vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@84.234.28.125:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇨🇭 CH | 84.234.28.125
-vless://2df9d13f-207d-4889-af62-c9e57fa8a8ae@query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top:443?path=/query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&security=none&encryption=none&host=query2048-deadline-rightaqata-chatgpt-digikala-kala45-torob.wrongguy.top&type=ws#🇨🇭 CH | 83.228.227.202
