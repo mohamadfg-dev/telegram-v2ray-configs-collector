@@ -1,2 +1,1 @@
 vless://b58e8508-18f5-43b0-99cf-413c894761ee@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?path=/&security=tls&encryption=none&insecure=0&host=GfV5t2331T.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&allowInsecure=0&sni=GfV5t2331T.sMaRtTeChZaAl.InFo#🇰🇿 KZ | 194.76.18.6
