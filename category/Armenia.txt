@@ -1,1 +1,1 @@
-vless://db414462-6dcd-4733-beec-1519187e8f2e@am.ipsenter.net:443?security=reality&encryption=none&pbk=x19FcTHLgg_eTYNTpwWKac46ilu-ZqarqkAxK3ahRxg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&sid=d4b58110ca302ec5#🇦🇲 AM | 85.90.207.145
+vless://05c31649-34b3-4750-a67d-b44511c31c6a@dl.am.iranfastfod.ir:5055?security=&encryption=none&host=cd.digitalvortex.ir&headerType=http&type=tcp#🇦🇲 AM | 85.90.207.18
