@@ -1,2 +1,2 @@
-vless://7718721f-2975-4d82-bdcd-ad92bd1dd779@mpc.mobayandeh.top:443?path=/?ed=2082&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=holcdn.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=holcdn.wordperessweb.ir#🇦🇪 AE | 185.225.195.51
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?path=/&security=&encryption=none&type=ws#🇦🇪 AE | 217.195.200.233

@@ -1,1 +1,1 @@
-vless://bd40d3c6-ac3d-4845-bb3a-adfd172e30a8@144.31.2.86:443?security=reality&encryption=none&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=cbdfef7f3ede2072#🇵🇱 PL | 144.31.2.86
+trojan://i3jY1bGyQYilYUsq2c82-Q@toggle.dargahco.xyz:80?security=none&type=ws&headerType=&path=/jw?c=jp&ed=500&host=skytalent.ir#🇵🇱 PL | 212.110.134.1
