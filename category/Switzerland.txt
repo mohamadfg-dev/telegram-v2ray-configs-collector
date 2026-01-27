@@ -1,3 +1,4 @@
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@ch-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇨🇭 CH | 199.68.196.108
 vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204
+vless://8bb49b8e-bbd7-4acf-bc90-9cea732f2450@84.234.31.31:1404?security=reality&encryption=none&pbk=86oeaavePK0LRZW-EfX1L1DkWUeb5BU-dYpmsvoglRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=f30c5b5390de7764#🇨🇭 CH | 84.234.31.31
+vless://4a92cbd1-39c7-4818-9236-dbbb18630c9e@83.228.227.226:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇨🇭 CH | 83.228.227.226
 vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204

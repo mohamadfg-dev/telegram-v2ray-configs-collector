@@ -1,3 +1,1 @@
-vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@172.232.159.142:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇸🇪 SE | 172.232.159.142
 vless://031363ca-f733-4ba2-a67d-05590c619d0a@Sw2.a1mshop2.ir:12000?security=none&type=ws&headerType=&path=/static/index.html&host=Excoino.com#🇸🇪 SE | 109.122.201.62
-vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39
