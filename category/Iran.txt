@@ -1,8 +1,9 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAxOTMuMTUxLjE1MS4yMTgiLCJhZGQiOiJzZXphcmxpbmsuc3Rvcm0xLmlyIiwicG9ydCI6IjgwODAiLCJpZCI6IjI2OWM4NzI4LWYxMTEtNGFiZi1iNTQzLTkyNjJmM2NkYjdhMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYm13LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://ea5406db-fe54-4c5a-b28b-21d3f4b538cd@x3.sinapp3.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 185.14.160.127
 vless://4119ccda-30f0-4db2-b0bf-0e1ea6394915@85.133.204.89:85?security=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 85.133.204.89
 vless://08bc5479-509a-45d2-9220-7ad8d529cd23@85.133.204.89:85?security=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 85.133.204.89
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🇮🇷 IR | 78.38.246.150
-vless://5bf8b197-b806-484b-bbcf-b470f887a179@5.160.35.242:7278?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 5.160.35.242
+vless://ea5406db-fe54-4c5a-b28b-21d3f4b538cd@x3.sinapp3.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 185.14.160.127
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/#🇮🇷 IR | 81.12.30.51
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@niimb.aparat-movies-download.ir:42555?encryption=none&security=none&type=tcp&headerType=http&host=excoino.com#🇮🇷 IR | 85.133.204.137
@@ -12,19 +13,14 @@ vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAxOTMuMTUxLjE1MS4yMTgiLCJhZGQiOiJzZXphcmxpbmsuc3Rvcm0xLmlyIiwicG9ydCI6IjgwODAiLCJpZCI6IjI2OWM4NzI4LWYxMTEtNGFiZi1iNTQzLTkyNjJmM2NkYjdhMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYm13LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
-vless://b2b98c1c-5768-4d2f-a32d-22a7714c0ab3@iphone-panel11.gamepiu.ir:4019?security=none&encryption=none&host=pishkooh.com&headerType=http&type=tcp#🇮🇷 IR | 78.39.51.48
 vless://d6167133-dcd6-44bf-b55a-3793c66f9026@85.133.204.89:85?security=&encryption=none&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=tcp#🇮🇷 IR | 85.133.204.89
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=none&encryption=none&host=cafebazar.com/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🇮🇷 IR | 77.237.90.158
 vmess://eyJ0eXBlIjoibm9uZSIsInBhdGgiOiIiLCJob3N0IjoiIiwicHMiOiLwn4eu8J+HtyBJUiB8IDE4NS4xNDEuMjE1LjEwMSIsImlkIjoiYzNkN2YxNGQtZDE5MC00YWYyLTk3MDEtZmM1OTBhMTM1OWU1IiwiYWRkIjoidmlwLmZpZG9uZXQuaXIiLCJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwicG9ydCI6IjI1MzUzIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCA3OS4xNzUuMTI5LjIwOCIsImFkZCI6Ijc5LjE3NS4xMjkuMjA4IiwicG9ydCI6IjQxMTg3IiwiaWQiOiI4ZjRmZWQwNi0zZDY5LTRkZjctYmIzOS0yMTgwZTlmMTM0MzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
-vless://b2b98c1c-5768-4d2f-a32d-22a7714c0ab3@iphone-panel11.gamepiu.ir:4019?security=none&encryption=none&host=pishkooh.com&headerType=http&type=tcp#🇮🇷 IR | 78.39.51.48
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?#🇮🇷 IR | 78.38.246.150
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCA1LjIwMi41LjEzOCIsImFkZCI6IjUuMjAyLjUuMTM4IiwicG9ydCI6MTAxMzEsImlkIjoiYmE5MjY4NjYtNTdmZC00ZWVjLTgwN2EtZGI1ZjRmODE1YmRmIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIn0=
 vless://ee8e4134-401b-4423-98ad-1dbea927a934@Sh.love-speed.sbs:4500?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇷 IR | 94.182.152.252
 vless://ee8e4134-401b-4423-98ad-1dbea927a934@fn.love-speed.sbs:2022?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 188.212.96.177
 vmess://eyJhZGQiOiIxODguMjEyLjk3LjY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFlZTlkODc1LTgyOGUtNGIxZC1kMDM3LTJlMGI0Y2ZmMjI5MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTY4NDciLCJwcyI6IvCfh67wn4e3IElSIHwgMTg4LjIxMi45Ny42NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 78.38.53.45
-vless://b2b98c1c-5768-4d2f-a32d-22a7714c0ab3@iphone-panel11.gamepiu.ir:4019?security=none&encryption=none&host=pishkooh.com&headerType=http&type=tcp#🇮🇷 IR | 78.39.51.48
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🇮🇷 IR | 212.33.201.222
-vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@v2.oranicvip.ir:23412?encryption=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇮🇷 IR | 193.151.136.106
