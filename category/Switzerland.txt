@@ -1,3 +1,2 @@
 vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204
-vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?encryption=none&type=ws&path=/&security=none#🇨🇭 CH | 195.15.240.204
-vless://7a55b2ba-f03e-4473-843a-15f9e5e097a2@ivar.ivarshop.ir:44521?security=none&encryption=none&headerType=http&type=tcp#🇨🇭 CH | 195.15.202.129
+vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204

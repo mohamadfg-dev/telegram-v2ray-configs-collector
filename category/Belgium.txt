@@ -1,2 +1,2 @@
-vless://a728a8db-36d3-4bf1-a8ce-870812d9007e@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUYTFRelVDbzVKdHpfOWRfRFhDMTVNbVB5VUpZeXdFOQ==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://367a099f-5f7a-4f43-865b-ea0ed736dc12@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQeWhnWkF6LTZuNVBNa1NmMG5YYVVubzZyVjRyV0dKVA==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
