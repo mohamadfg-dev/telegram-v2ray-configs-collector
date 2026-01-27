@@ -1,1 +1,1 @@
-vless://7cb466f4-7f58-4426-b84a-3e8d740b7c0a@it.locations-service.com:3037?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇮🇹 IT | 57.131.19.236
+vless://343cc844-f964-11f0-9840-00163e0951db@91.201.65.220:10004?path=/vpnjantit&security=none&encryption=none&type=ws#🇮🇹 IT | 91.201.65.220
