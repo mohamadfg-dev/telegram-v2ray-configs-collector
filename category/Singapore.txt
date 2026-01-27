@@ -1,7 +1,8 @@
+vless://50a78a3c-ce5f-4009-8d50-2c9ef9e82cd2@googleads.g.doubleclick.net.sg.golabdarreh.com:1400?security=reality&encryption=none&pbk=a1RJtC8cf-qqt08UM5rVzw06nxMtDCj07hKq_tukC08&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=c2348aa4953cfc10#🇸🇬 SG | 207.148.119.66
 vless://4c80d50d-714a-4799-caa8-2dd372f174af@47.82.0.183:22455?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 47.82.0.183
+vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#🇸🇬 SG | 124.243.132.106
 vless://4c80d50d-714a-4799-caa8-2dd372f174af@47.82.0.183:22455?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 47.82.0.183
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTRyB8IDYyLjE0Ni4yMzUuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://50a78a3c-ce5f-4009-8d50-2c9ef9e82cd2@googleads.g.doubleclick.net.sg.golabdarreh.com:1400?security=reality&encryption=none&pbk=a1RJtC8cf-qqt08UM5rVzw06nxMtDCj07hKq_tukC08&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=c2348aa4953cfc10#🇸🇬 SG | 207.148.119.66
 vless://4c80d50d-714a-4799-caa8-2dd372f174af@47.82.0.183:22455?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 47.82.0.183
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org&allowInsecure=1#🇸🇬 SG | 194.53.53.249

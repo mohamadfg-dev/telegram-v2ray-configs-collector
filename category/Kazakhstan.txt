@@ -1,5 +1,4 @@
 vless://vpn_connects@clfconnect.pishipishi.pro:8880?security=&type=ws&path=/&host=hamon.hamimelectronic.ir&encryption=none#🇰🇿 KZ | 194.76.18.95
 vless://turboo-server@dns1.turboo-server.space:8880?encryption=none&type=ws&host=turboo.turbooo-server.com&path=/turboo&security=none#🇰🇿 KZ | 194.76.18.95
 vless://turboo-server@dns1.turboo-server.space:8880?path=/turboo&security=&encryption=none&host=turboo.turbooo-server.com&type=ws#🇰🇿 KZ | 194.76.18.95
-vless://62438703-bfad-4f04-a597-428127632c72@speed.de2.orange.ns.tailung.space:2087?path=/JeiwoBjOYwhwoabA&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=afranet.aireacondicionadoalicante.eu&fp=chrome&type=ws&allowInsecure=0&sni=afranet1.aireacondicionadoalicante.eu#🇰🇿 KZ | 194.76.18.37
 vless://turboo-server@dns1.turboo-server.space:8880?path=/turboo&security=none&encryption=none&host=turboo.turbooo-server.com&type=ws#🇰🇿 KZ | 194.76.18.95

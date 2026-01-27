@@ -1,1 +1,5 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=/xxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#🇨🇷 CR | 2803:f800:50::6ca2:c0dc
+vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8
+vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8
+vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8
+vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8
+vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8

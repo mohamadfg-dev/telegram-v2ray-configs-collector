@@ -1,1 +1,1 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.146.201.251:443/?type=ws&encryption=none&flow=&host=sni.111000.cc.Cd&path=/Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN&security=tls&sni=sni.111000.cc.Cd&allowInsecure=1&fp=firefox#undefined CW | 45.146.201.251
+vless://d8207c66-4b60-4537-8f95-942eff651b08@donald.angusvpn1.sbs:2095?security=none&encryption=none&type=httpupgrade#undefined CW | 92.60.74.199
