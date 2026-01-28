@@ -1,3 +1,1 @@
 vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204
-vless://fc872856-d6fb-486e-8388-1082f7cdb469@195.15.240.204:8880?path=/&security=none&encryption=none&type=ws#🇨🇭 CH | 195.15.240.204
-vless://431dfd3c-728c-41f2-9c8f-cf0d3a75a008@03030.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇨🇭 CH | 83.228.196.3
