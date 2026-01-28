@@ -1,4 +1,2 @@
-vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@185.18.250.252:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#🇪🇸 ES | 185.18.250.252
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
-vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@185.18.250.252:443?path=/memo&security=tls&encryption=none&insecure=0&host=cdn.55994421.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn.55994421.xyz#🇪🇸 ES | 185.18.250.252
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704/?encryption=none&flow=&host=soft98.ir&type=tcp&headerType=http#🇪🇸 ES | 5.22.219.57
