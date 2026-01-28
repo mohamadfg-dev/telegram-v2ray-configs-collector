@@ -1,1 +1,1 @@
-vless://1d315e16-0c12-41cb-869e-ec47b601b44b@185.177.73.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cy.kickvpn.ru&fp=chrome&pbk=ub9J4LHE03BkRGnQBumiZvntwgFIagUk8vjsc5hLf2I&sid=9c2378562188c3cb&spx=/&type=tcp&headerType=none#🇨🇾 CY | 185.177.73.56
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🇨🇾 CY | 154.92.9.46

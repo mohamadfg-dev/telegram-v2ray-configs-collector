@@ -1,3 +1,3 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
-vless://79df85dd-cb40-4b32-828e-f38d918d85e3@irani.vidboxco.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=bgp-ip-udp.wizardxray.net#🇦🇪 AE | 94.140.0.0
+vless://73964310-f9a7-48cf-9d37-8c58149341b6@94.140.0.2:8880?path=/?ed=2048&security=none&encryption=none&host=panelmarzban.persianfly.org&type=httpupgrade#🇦🇪 AE | 94.140.0.2
 vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@iran.zone-server-irani.ir:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=apexbhao1.qzz.io&fp=chrome&type=ws&sni=apexbhao1.qzz.io#🇦🇪 AE | 94.140.0.0

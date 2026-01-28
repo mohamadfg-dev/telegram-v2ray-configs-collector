@@ -1,2 +1,4 @@
-vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪 SE | 185.146.173.58
+vless://0eb73b59-9ec7-4b84-b011-2ef1959e0da0@aws.vulltr.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&type=tcp&sni=docker.com&sid=4f2087146c1f587a#🇸🇪 SE | 13.62.113.65
+vless://0eb73b59-9ec7-4b84-b011-2ef1959e0da0@aws.vulltr.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&type=tcp&sni=docker.com&sid=4f2087146c1f587a#🇸🇪 SE | 13.61.124.84
+vless://0eb73b59-9ec7-4b84-b011-2ef1959e0da0@aws.vulltr.ir:1005?security=reality&encryption=none&pbk=aEyXUqZ4doy7Qse745h5IKGo31Jc2YEK3QOVaOuPPns&headerType=none&fp=firefox&type=tcp&sni=docker.com&sid=4f2087146c1f587a#🇸🇪 SE | 51.21.85.206
 vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@172.232.159.142:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇸🇪 SE | 172.232.159.142
