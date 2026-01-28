@@ -1,2 +1,1 @@
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@114.129.43.29:443?encryption=none&type=httpupgrade&security=tls&sni=fl-dl220-183-109-65w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@114.129.43.29:443?encryption=none&type=httpupgrade&security=tls&sni=fl-dl220-183-109-65w25110.highsmartco.com#🇳🇿 NZ | 114.129.43.29
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=binaryboots.algorithmblanket.click#🇳🇿 NZ | 45.15.140.107

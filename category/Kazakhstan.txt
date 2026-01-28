@@ -1,1 +1,2 @@
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh78gS1ogfCAzOC4xMDcuMjM0LjU3IiwiYWRkIjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicG9ydCI6IjgwIiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsInBhdGgiOiIvdm1lc3MvIn0=
 vless://2efde483-7888-452f-9c66-e2f4da971930@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
