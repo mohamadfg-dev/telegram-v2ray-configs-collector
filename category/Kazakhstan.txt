@@ -1,4 +1,1 @@
-vless://4b3a6e8e-f201-4b02-89e2-896f7d5e1e19@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
-vless://turboo-server@dns1.turboo-server.space:8880?encryption=none&type=ws&host=turboo.turbooo-server.com&path=/turboo&security=none#🇰🇿 KZ | 194.76.18.95
-vless://turboo-server@dns1.turboo-server.space:8880?path=/turboo&security=&encryption=none&host=turboo.turbooo-server.com&type=ws#🇰🇿 KZ | 194.76.18.95
-vless://turboo-server@dns1.turboo-server.space:8880?path=/turboo&security=none&encryption=none&host=turboo.turbooo-server.com&type=ws#🇰🇿 KZ | 194.76.18.95
+vless://2efde483-7888-452f-9c66-e2f4da971930@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
