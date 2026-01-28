@@ -1,1 +1,2 @@
-vless://7d8c6a23-71c0-4979-bb5b-802aecab2096@185.146.173.68:80?path=/PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM?ed=2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.ir&type=ws#🇸🇪 SE | 185.146.173.68
+vless://30c1c7d4-94c9-4473-902f-8f53d7326c60@185.146.173.58:8080?path=/servernett&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪 SE | 185.146.173.58
+vless://62ba6427-4f3b-43ac-8f65-ddd4cd23b6b9@172.232.159.142:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇸🇪 SE | 172.232.159.142
