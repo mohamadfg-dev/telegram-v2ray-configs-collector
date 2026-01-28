@@ -1,1 +1,1 @@
-ss://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446?security=none&encryption=none&headerType=none&type=tcp#🇮🇱 IL | 185.241.5.151
+vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446/?type=tcp&encryption=none&flow=#🇮🇱 IL | 185.241.5.151

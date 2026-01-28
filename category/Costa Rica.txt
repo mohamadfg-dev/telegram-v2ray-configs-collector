@@ -1,1 +1,2 @@
-vless://6c6b9050-1de6-44fc-8b33-ff121951f054@190.93.246.8:443?encryption=none&security=tls&sni=cf.3586334.xyz&alpn=h2,http/1.1&fp=chrome&type=ws&host=cf.3586334.xyz&path=/game#🇨🇷 CR | 190.93.246.8
+vless://0abd54e7-c276-49f5-b9a3-8e5068e371b1@ipo.mastermarly.ir:8880?path=/?ed=2048&security=none&encryption=none&host=NX-FAlkensh.mastermarly.IR.&type=ws#🇨🇷 CR | 190.93.244.3
+vless://ea58fbbc-7c6c-44af-b230-64d544bb4d7e@melicn.aliparvaresh.ru:443?mode=auto&path=/photo-index?type=speech&security=tls&encryption=none&insecure=0&host=melisafor.aliparvaresh.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=melisafor.aliparvaresh.ru#🇨🇷 CR | 190.93.244.3
