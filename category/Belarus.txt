@@ -1,1 +1,3 @@
-vless://36628fb7-b83f-0023-827c-462e4b8a7f78@78.140.253.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=by.quattro-tech.ru&fp=chrome&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾 BY | 78.140.253.177
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ==@144.31.131.0:9443#🇧🇾 BY | 144.31.131.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ==@144.31.131.0:9443#🇧🇾 BY | 144.31.131.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ==@144.31.131.0:9443#🇧🇾 BY | 144.31.131.0

@@ -1,2 +1,1 @@
-vless://0483e60e-8455-4776-e87e-a7e1d730799f@13.49.76.71:8880?security=none&type=ws&host=apps.kiava.xn--mgbv8cp.cdn.speedtest.net.cloud.seatech.ir&path=/?ed=2053#🇸🇪 SE | 13.49.76.71
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.71.82.245:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.cc.Cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.Cd#🇸🇪 SE | 192.71.82.245
