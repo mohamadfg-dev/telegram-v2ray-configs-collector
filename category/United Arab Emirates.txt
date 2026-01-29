@@ -1,2 +1,1 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
-vless://79df85dd-cb40-4b32-828e-f38d918d85e3@www.vidboxco.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=test2.iranvatanam.com#🇦🇪 AE | 94.140.0.1

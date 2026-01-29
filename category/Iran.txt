@@ -5,13 +5,11 @@ vless://9047127b-19ee-46b6-8670-a54692bdf4ff@95.38.242.203:8443?security=none&en
 vless://2e656916-a233-43f3-b840-b8d921549201@7.zaravds.sbs:1020?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.133.196.76
 vless://2e656916-a233-43f3-b840-b8d921549201@7.zaravds.sbs:1020?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.133.196.76
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🇮🇷 IR | 78.38.246.150
-vless://9047127b-19ee-46b6-8670-a54692bdf4ff@95.38.242.203:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇮🇷 IR | 95.38.242.203
-vless://9047127b-19ee-46b6-8670-a54692bdf4ff@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇮🇷 IR | 95.38.242.203
 vless://37bfecc8-d312-4e40-9c7b-ed693e175724@sv7.tsteamh.top:60007?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#🇮🇷 IR | 81.12.46.129
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://e9a18748-a501-4a5d-b42b-720fc8bf3c25@toni.tipstopnetwork.ir:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 188.121.110.187
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAxODUuODQuMTU4LjExIiwiYWRkIjoic2V6YXJsaW5rLnN0b3JtMS5pciIsInBvcnQiOjgwODAsImlkIjoiOGFmY2FlZTEtZGRmMi00YWY3LTkxZjEtODYyM2U4ZjVlNjQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJibXcuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTEwNy0wMSJ9
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🇮🇷 IR | 213.177.176.95
-vless://5df9dae9-c6e3-488b-94c4-36bc84fb0d7b@core-v1.headsetabad.ir:8080?path=/?ed&security=none&encryption=none&host=shop-v1.headsetabad.ir&type=httpupgrade#🇮🇷 IR | 46.38.150.212
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=/telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#🇮🇷 IR | 85.198.12.25
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
@@ -19,7 +17,6 @@ vless://1da142b0-668b-4a60-ac74-e6c3f1b4e98c@217.60.236.171:443?security=none&en
 vless://2e656916-a233-43f3-b840-b8d921549201@7.zaravds.sbs:1020?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.133.196.76
 vless://2e656916-a233-43f3-b840-b8d921549201@7.zaravds.sbs:1020?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.133.196.76
 vless://4cd9af1f-7362-4a67-a0ac-d298ea1aa1c7@195.190.144.155:3012?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 195.190.144.155
-vless://774f851c-4ad5-4241-98f6-20cd57406e6d@109.95.65.190:8013?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇷 IR | 109.95.65.190
 vless://d8bdb7a8-cfcc-4d85-8bad-0f4de4132a57@185.81.96.215:51242?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.81.96.215
 vless://6312172f-aeb7-4bae-aff4-fe861c4919fb@185.81.96.215:51242?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.81.96.215
 vless://3bf97509-bce0-46ba-b9ce-d4208e0ce136@sv4.fasdata.top:7323?security=&encryption=none&host=P30afzar.com&headerType=http&type=tcp#🇮🇷 IR | 45.11.187.85
@@ -36,9 +33,6 @@ vless://44feb20e-8950-4c10-aac4-dbf6706c24b0@black.ocean.4.lresj.com:47697/?type
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 178.239.148.235
 vless://59480731-5c54-4177-a783-cba2578f3b2c@tttt1.hennessypro.site:4001?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇮🇷 IR | 185.83.182.87
-vless://9047127b-19ee-46b6-8670-a54692bdf4ff@95.38.242.203:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇮🇷 IR | 95.38.242.203
-vless://9047127b-19ee-46b6-8670-a54692bdf4ff@cart.ankerios.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇮🇷 IR | 95.38.242.203
 vless://eac161dd-a84d-4d1c-8e35-5cc1d00971de@213.176.126.201:4085?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🇮🇷 IR | 213.176.126.201
 vless://ea5406db-fe54-4c5a-b28b-21d3f4b538cd@x3.sinapp3.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 185.14.160.127
-vless://563c07c5-d7a7-4f67-abee-ca323b5ce0ba@hn.blackhoster.com:931?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🇮🇷 IR | 85.133.197.87
-vless://ce9a5755-0300-49e2-9c2b-79305337cbeb@109.95.65.190:7060?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 109.95.65.190
+vless://f379a356-6d79-4749-962a-f5936c6253fa@user-iran.megachatio.ir:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.111.236.241
