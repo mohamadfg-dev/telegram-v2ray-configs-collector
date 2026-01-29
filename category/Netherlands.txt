@@ -1,4 +1,1 @@
-vless://2eb23120-ce3a-4257-91ba-b221eb288af6@nv3.napsternet3.com:51071?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.212
-vless://85ed6549-7fee-4295-8cd0-63e4019845b1@nv4.napsternet4.com:14014?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.213
-vless://85ed6549-7fee-4295-8cd0-63e4019845b1@nv4.napsternet4.com:14014?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.213
 vless://85ed6549-7fee-4295-8cd0-63e4019845b1@nv4.napsternet4.com:14014?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.213

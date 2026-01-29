@@ -1,1 +1,4 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=tcp&headerType=none#🇦🇪 AE | 40.172.60.168
+vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=tcp&headerType=none#🇦🇪 AE | 40.172.60.168
+vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?encryption=none&security=none&type=tcp&headerType=none#🇦🇪 AE | 40.172.60.168
