@@ -1,1 +1,3 @@
 vless://85ed6549-7fee-4295-8cd0-63e4019845b1@nv4.napsternet4.com:14014?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.213
+vless://7a151a91-02ad-ad5a-8cf0-74f02f50416b@turkey-dtc1.mlgolden.store:4020?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 88.218.16.174
+vless://de6c5615-9e31-4761-970a-6b3c60c9fc99@uae1-dtc1.mlgolden.store:6090?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 88.218.16.169
