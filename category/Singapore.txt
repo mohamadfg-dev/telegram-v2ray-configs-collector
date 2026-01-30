@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWU3MTZlM2QzZWMxZmMw@84.247.147.61:24914#🇸🇬 SG | 84.247.147.61
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTRyB8IDYyLjE0Ni4yMzUuMTkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48803#🇸🇬 SG | 194.233.73.51
 vless://7f86227e-c630-4a24-9160-b80d16bb37c8@weirdoweb.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.weirdoweb.xyz&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬 SG | 5.180.78.28
