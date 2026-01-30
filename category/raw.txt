@@ -1,1 +1,1 @@
-vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?encryption=none&security=reality&sni=www.autodesk.com&fp=chrome&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&sid=860705e716cbe6ed&type=raw&headertype=none#🇯🇵 JP | 47.245.38.111
+vless://e59083aa-d933-4952-8cf0-eec74f718705@fr.locations-service.com:3032?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=raw&headertype=none#🇫🇷 FR | 57.130.20.162
