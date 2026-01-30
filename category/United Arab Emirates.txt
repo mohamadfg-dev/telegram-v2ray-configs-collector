@@ -1,2 +1,5 @@
 vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?path=/?ed=2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#🇦🇪 AE | 94.140.0.0
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
+trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
+trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1

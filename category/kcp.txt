@@ -1,3 +1,2 @@
 vless://admib@8.218.230.193:80?security=none&seed=@rootface telegram 👑 lets hack myself.&encryption=none&headerType=none&type=kcp#undefined HK | 8.218.230.193
 vless://61daf28f-ef1b-438b-fb27-e9a56d1a5e07@104.248.167.70:14509?security=none&seed=jQiFzfWfxw&encryption=none&headerType=dtls&type=kcp#🇬🇧 GB | 104.248.167.70
-vless://admib@8.218.230.193:80?encryption=none&security=none&type=kcp&headerType=none&seed=@rootface telegram 👑 lets hack myself.#undefined HK | 8.218.230.193
