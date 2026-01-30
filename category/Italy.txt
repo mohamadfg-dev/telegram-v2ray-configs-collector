@@ -1,1 +1,1 @@
-vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&encryption=none#🇮🇹 IT | 85.235.149.184
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?security=reality&encryption=none&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=bea5eb2fcf6b183c#🇮🇹 IT | 85.235.149.184

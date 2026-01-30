@@ -1,1 +1,1 @@
-vless://580f9620-c99e-4170-a45f-674c4733a2f9@185.227.137.167:2095?encryption=none&type=xhttp&mode=auto&security=none#🇹🇷 TR | 185.227.137.167
+vless://79122ec8-6e10-44b1-9efe-84153fad0c13@185.227.137.167:23?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=firefox&spx=/&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#🇹🇷 TR | 185.227.137.167
