@@ -1,4 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#🇵🇱 PL | 51.68.146.248
-vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 PL | 45.144.51.99
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#🇵🇱 PL | 51.68.146.248
-vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇵🇱 PL | 5.157.22.11

@@ -1,3 +1,1 @@
-vless://34b9cd4c-4cc4-42c1-a006-593eccd22403@url.generalireon.com:5841?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 195.231.39.254
-vless://34b9cd4c-4cc4-42c1-a006-593eccd22403@url.generalireon.com:5841?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 195.231.39.254
-vless://34b9cd4c-4cc4-42c1-a006-593eccd22403@url.generalireon.com:5841?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 195.231.39.254
+vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?security=reality&sni=stackoverflow.com&fp=firefox&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c&type=tcp&encryption=none#🇮🇹 IT | 85.235.149.184
