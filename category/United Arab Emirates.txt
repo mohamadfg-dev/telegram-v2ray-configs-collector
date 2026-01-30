@@ -1,6 +1,2 @@
 vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?path=/?ed=2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#🇦🇪 AE | 94.140.0.0
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
-vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?path=/?ed=2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#🇦🇪 AE | 94.140.0.0
-vless://d6bf6e21-f19c-4aaf-b4a5-c3a9a18a08f2@ae2.aparat-movies-download.ir:42539?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇦🇪 AE | 109.61.18.180
-vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.0:80?path=/?ed=2052&security=none&encryption=none&host=panelmarzban.persianfly.org&type=ws#🇦🇪 AE | 94.140.0.0
-vless://7b3a08ba-b03f-41b8-ab69-0040f55eb5d0@94.140.0.2:8880?path=/?ed=2048&security=none&encryption=none&host=panelmarzban.persianfly.org&type=httpupgrade#🇦🇪 AE | 94.140.0.2
