@@ -1,2 +1,2 @@
-vless://1427904a-1cae-446a-9ed9-9fc0d9292ea8@185.146.173.58:2095?Telegram=@V2RayTz,@V2RayTz&path=/servernet&security=none&encryption=none&host=dcc10.servernet.fun.&type=ws#🇸🇪 SE | 185.146.173.58
+vless://5a9ef87c-3815-419e-8e7b-9829c5755f20@185.146.173.58:8080?Telegram=@V2RayTz,@V2RayTz&path=/servernet&security=none&encryption=none&host=dcc11.servernet.fun.&type=ws#🇸🇪 SE | 185.146.173.58
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@192.71.82.245:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.cc.Cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.Cd#🇸🇪 SE | 192.71.82.245
