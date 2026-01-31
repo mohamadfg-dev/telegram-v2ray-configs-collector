@@ -1,1 +1,2 @@
-vless://3faffd2e-8901-415a-913c-d65dca1e6ea7@31.56.117.136:443?type=tcp&security=reality&pbk=RhoGmhreM57SAkedZHIms4M7nqCJKZ8i-o-_0itirQ4&sni=yahoo.com&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&spx=/&sid=434e9b8e71a328ae&encryption=none#🇱🇻 LV | 31.56.117.136
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@lvcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn1.suio.me&allowInsecure=1#🇱🇻 LV | 85.159.228.54
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@lvcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn1.suio.me&allowInsecure=1#🇱🇻 LV | 85.159.228.54
