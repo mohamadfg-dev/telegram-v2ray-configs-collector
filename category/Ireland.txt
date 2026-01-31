@@ -1,1 +1,1 @@
-trojan://telegram-id-directvpn@54.228.102.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 54.228.102.111
+vless://a91bcc13-63f1-4dfd-a9cd-b601f9f9009b@b883ndlke.numdatrs.org:27160?encryption=none&security=none&type=ws&path=/grbhp#🇮🇪 IE | 18.201.162.168
