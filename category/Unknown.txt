@@ -31,6 +31,7 @@ vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryptio
 vless://5c088217-6f41-4a1c-8163-ea1e335a64c0@[2a13:9500:3f:5::]:53966?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🏴‍☠️ UN | [2a13:9500:3f:5::]
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir:233?mode=auto&path=/moveis&security=reality&encryption=none&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&host=fuck-israel.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=210cfdf17087#🏴‍☠️ UN | fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
+vless://96287144-7c5f-4f0b-99da-6c159f06038c@midnightblue.qzz.io:443?path=/54.153.59.106:80&security=tls&encryption=none&host=midnightblue.qzz.io&type=ws&sni=midnightblue.qzz.io#🏴‍☠️ UN | midnightblue.qzz.io
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,

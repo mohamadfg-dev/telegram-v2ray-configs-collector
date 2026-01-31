@@ -1,10 +1,7 @@
 vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@193.233.199.219:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#🇫🇮 FI | 193.233.199.219
-vless://b16e18a9-6363-4af5-9144-7fba011c1f25@65.109.219.76:19854?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.219.76
 vless://28ef7769-b7a8-478f-bac7-052494312c01@grok.zarlyt-ok3.ir:9828/?encryption=none&host=speedtest.net&type=tcp&headerType=http#🇫🇮 FI | 77.42.74.74
-vless://chanel;V2ray_fa3t@market.chepschasb.shop:2052?security=reality&encryption=none&pbk=b4HyHUSFYzPP_UjvyAYvnUPdLi6w9N8Tc97gzflsR18&headerType=none&fp=random&spx=/&type=tcp&sni=market.chepschasb.shop&sid=757a42f8358dd87d#🇫🇮 FI | 77.42.31.220
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.29.19:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇮 FI | 157.180.29.19
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://chanel;V2ray_fa3t@market.chepschasb.shop:2052?security=reality&encryption=none&pbk=b4HyHUSFYzPP_UjvyAYvnUPdLi6w9N8Tc97gzflsR18&headerType=none&fp=random&spx=/&type=tcp&sni=market.chepschasb.shop&sid=757a42f8358dd87d#🇫🇮 FI | 77.42.31.220
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=&encryption=none&type=grpc#🇫🇮 FI | 65.109.178.83
