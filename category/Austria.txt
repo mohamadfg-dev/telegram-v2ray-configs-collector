@@ -1,1 +1,3 @@
-vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?security=reality&encryption=none&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=42d7234d875308a2#🇦🇹 AT | 38.180.144.156
+vless://1c9dfae9-348c-4e94-9565-17e7b8c8b229@c.dvoman.de:8880?path=/notls&security=&encryption=none&host=ش죄송합니다fr3.l95.ir&type=ws#🇦🇹 AT | 212.183.88.30
+vless://1c9dfae9-348c-4e94-9565-17e7b8c8b229@c.dvoman.de:8880?path=/notls&security=&encryption=none&host=ش죄송합니다fr3.l95.ir&type=ws#🇦🇹 AT | 212.183.88.30
+vless://1c9dfae9-348c-4e94-9565-17e7b8c8b229@c.dvoman.de:8880?path=/notls&security=&encryption=none&host=ش죄송합니다fr3.l95.ir&type=ws#🇦🇹 AT | 212.183.88.30
