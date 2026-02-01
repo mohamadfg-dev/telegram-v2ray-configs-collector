@@ -1,3 +1,1 @@
 vless://2dd15683-8497-4280-9d9d-3b6f2152a95d@185.244.192.101:53?security=none&seed=2aQQcsRKHi&encryption=none&headerType=dns&type=kcp#🇩🇪 DE | 185.244.192.101
-vless://61daf28f-ef1b-438b-fb27-e9a56d1a5e07@104.248.167.70:14509?security=none&seed=jQiFzfWfxw&encryption=none&headerType=dtls&type=kcp#🇬🇧 GB | 104.248.167.70
-vless://2dd15683-8497-4280-9d9d-3b6f2152a95d@185.244.192.101:53?security=none&seed=2aQQcsRKHi&encryption=none&headerType=dns&type=kcp#🇩🇪 DE | 185.244.192.101
