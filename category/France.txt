@@ -2,5 +2,3 @@ vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&
 trojan://telegram-id-directvpn@13.37.74.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.74.8
 vless://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 46.226.167.138
 trojan://telegram-id-privatevpns@13.37.74.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.74.8
-trojan://telegram-id-v2rayvpnchannel@13.37.74.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.74.8
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.74.8:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.74.8
