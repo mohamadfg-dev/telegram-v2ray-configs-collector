@@ -1,1 +1,1 @@
-vless://83dd438b-357b-4060-a633-52e9714afabe@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#🇦🇱 AL | 78.159.131.5
+vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@185.177.238.131:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cl6-alb.privetnet.ru&fp=chrome&security=reality&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=89c32a29c1940178#🇦🇱 AL | 185.177.238.131
