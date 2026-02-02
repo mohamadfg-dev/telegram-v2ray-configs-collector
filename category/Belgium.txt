@@ -1,2 +1,4 @@
-vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip2-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=tamamde1.global.ssl.fastly.net&path=/?ed=2052#🇧🇪 BE | 151.101.9.80
-vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=tamamde1.global.ssl.fastly.net&path=/?ed=2052#🇧🇪 BE | 151.101.9.80
+vless://85523ebf-e27e-4c34-a2b2-b91fb785c75d@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NV9ab3JuV0c0MzRvVkVMdTRGRktaeEZfSmpmWkVSMg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80

@@ -1,13 +1,9 @@
+vless://c94e48d1-7384-4677-92f4-57fa10b7bd11@13.36.141.77:27725?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 13.36.141.77
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA1LjE5Ni4yOS4xMjMiLCJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJwb3J0IjoiMjA4MiIsImlkIjoiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii8ifQ==
-trojan://telegram-id-directvpn@15.188.226.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
-trojan://telegram-id-directvpn@13.37.23.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
-trojan://telegram-id-privatevpns@15.188.226.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
-trojan://telegram-id-privatevpns@13.37.23.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
-trojan://telegram-id-privatevpns@13.37.23.236:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 FR | 13.37.23.236
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷 FR | 88.214.24.235
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJ0eXBlIjoibm9uZSIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiQVpFUkIuTkVUIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiIxMzcuNzQuMTE5LjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhYmIzNzE5LTYzNmQtNDAzMC04NjQ5LTA0NGFiY2QwNTg3NSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImtjcCIsInBhdGgiOiIwMzVkNzNiNC1kMzVjLTQwZDUtOTdiNS1lYmRlOWY2NWU3N2IiLCJwb3J0IjoiMzAwMSIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAxMzcuNzQuMTE5LjE4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ1dHAiLCJ2IjoiMiJ9
 trojan://telegram-id-v2rayvpnchannel@15.188.226.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
 trojan://telegram-id-v2rayvpnchannel@13.37.23.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.226.98:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.23.236:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
-trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷 FR | 88.214.24.235
