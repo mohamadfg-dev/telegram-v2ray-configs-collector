@@ -1,2 +1,1 @@
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.35.77.195:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/@V2RRvip@V2RRvip@V2RRvip@V2RRvip&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=f5#🇰🇷 KR | 3.35.77.195
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.35.77.195:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/@V2RRvip@V2RRvip@V2RRvip@V2RRvip&type=tcp&flow=xtls-rprx-vision&sni=wikipedia.org&sid=f5#🇰🇷 KR | 3.35.77.195
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.20.89.207:18182?security=tls&sni=xini.ylks.link&type=ws&path=/blue#🇰🇷 KR | 59.20.89.207

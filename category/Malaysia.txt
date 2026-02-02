@@ -1,1 +1,1 @@
-trojan://378b3db2-4eb2-4f66-b567-e87769c0d334@xiaozhu1.kkieo555.cn:41275?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇲🇾 MY | 85.211.192.67
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#🇲🇾 MY | 45.89.107.200
