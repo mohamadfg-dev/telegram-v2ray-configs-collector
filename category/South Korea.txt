@@ -1,1 +1,1 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&host=api.company-target.com&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#🇰🇷 KR | 47.80.13.85
+trojan://IjeKXCOkPOrW@3.35.149.60:15364?allowInsecure=0&sni=appsvs.shop#🇰🇷 KR | 3.35.149.60

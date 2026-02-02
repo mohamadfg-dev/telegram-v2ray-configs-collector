@@ -2,4 +2,5 @@ trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@109.61.18.10:42539?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪 AE | 109.61.18.10
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1

@@ -1,2 +1,3 @@
+trojan://14f7a5c0-e8ae-40a7-884c-41555730e3b6@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&path=/#🇹🇼 TW | 220.130.58.136
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136

@@ -4,11 +4,10 @@ trojan://telegram-id-directvpn@15.188.226.98:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.37.23.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
 trojan://telegram-id-privatevpns@15.188.226.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
 trojan://telegram-id-privatevpns@13.37.23.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
-vless://c94e48d1-7384-4677-92f4-57fa10b7bd11@9z2paigw84pmunp.dlcenter.shop:27725?type=tcp&security=none#🇫🇷 FR | 13.36.141.77
-vless://c94e48d1-7384-4677-92f4-57fa10b7bd11@9z2paigw84pmunp.dlcenter.shop:27725?type=tcp&security=none#🇫🇷 FR | 13.36.141.77
+trojan://telegram-id-privatevpns@13.37.23.236:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🇫🇷 FR | 13.37.23.236
 trojan://telegram-id-v2rayvpnchannel@15.188.226.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
 trojan://telegram-id-v2rayvpnchannel@13.37.23.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.226.98:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.226.98
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.23.236:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.23.236
-vless://c94e48d1-7384-4677-92f4-57fa10b7bd11@9z2paigw84pmunp.dlcenter.shop:27725?type=tcp&security=none#🇫🇷 FR | 13.36.141.77
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
+trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷 FR | 88.214.24.235
