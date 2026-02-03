@@ -2,4 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZkVkN2hvdmVFejN3cy1naEJDSmNtVDBIb1htU3BwQw@
 vless://a23ebab9-6158-4c98-a1eb-267428894f1e@test.country-17.eu-ffast.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#🇹🇷 TR | 62.60.233.58
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://fb464b57-7cb7-4af0-bc5c-7cd1931c755b@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
-vless://a23ebab9-6158-4c98-a1eb-267428894f1e@test.country-17.eu-ffast.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#🇹🇷 TR | 62.60.233.58
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
