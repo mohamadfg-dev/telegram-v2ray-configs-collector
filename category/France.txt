@@ -1,14 +1,9 @@
 vmess://eyJhZGQiOiIxMzcuNzQuMTE5LjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvPy0tLUBBemFyYmF5amFiMV9OZXQtLS1AQXphcmJheWphYjFfTmV0LS0tQGF6YXJiYXlqYWIxX05ldC0tLUBhemFyYmF5amFiMV9OZXQtLS1AQXphcmJheWphYjFfTmV0IiwiaWQiOiI1OTBiMzRlNy1lNDMxLTQ4YWMtODc0YS0wMGZlOGNkMDU1ZjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvIiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfh6vwn4e3IEZSIHwgMTM3Ljc0LjExOS4xOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-vless://f4075640-44c6-49cc-9d78-b84bb1cf300a@mm.helg.ir:20874?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇫🇷 FR | 62.60.156.55
 trojan://telegram-id-directvpn@51.44.32.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.32.14
-trojan://telegram-id-directvpn@51.45.46.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.46.184
+trojan://telegram-id-directvpn@13.38.161.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.161.110
 trojan://telegram-id-privatevpns@51.44.32.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.32.14
-vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@fra-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#🇫🇷 FR | 94.131.9.104
-ss://2022-blake3-aes-256-gcm:cDbs4TCyxnU3rdHzM0Od4hqGM1VCoi25crxoSU1AJuY=:Rtz0xnsK9tgBQbBsa8H1uOzVGhTjU4Ht1mEwRBY7l2I=@46.226.167.138:40485#🇫🇷 FR | 46.226.167.138
-vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@fra-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#🇫🇷 FR | 94.131.9.104
+trojan://telegram-id-privatevpns@13.38.161.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.161.110
 vless://3c47ed67-d4a7-4f2b-90b7-98f4b197bb0d@137.74.119.18:8442?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 137.74.119.18
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.32.14:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.32.14
-vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#🇫🇷 FR | 162.19.10.94
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 FR | 185.231.205.155
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.161.110:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.38.161.110
