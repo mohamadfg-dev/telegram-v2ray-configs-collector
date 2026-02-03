@@ -1,12 +1,7 @@
 vless://3c47ed67-d4a7-4f2b-90b7-98f4b197bb0d@137.74.119.18:8442?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 137.74.119.18
 vmess://eyJhZGQiOiIxMzcuNzQuMTE5LjE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvPy0tLUBBemFyYmF5amFiMV9OZXQtLS1AQXphcmJheWphYjFfTmV0LS0tQGF6YXJiYXlqYWIxX05ldC0tLUBhemFyYmF5amFiMV9OZXQtLS1AQXphcmJheWphYjFfTmV0IiwiaWQiOiI1OTBiMzRlNy1lNDMxLTQ4YWMtODc0YS0wMGZlOGNkMDU1ZjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvIiwicG9ydCI6IjIwOTUiLCJwcyI6IvCfh6vwn4e3IEZSIHwgMTM3Ljc0LjExOS4xOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-trojan://telegram-id-directvpn@15.237.154.24:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.154.24
 trojan://telegram-id-directvpn@15.236.223.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.223.129
-trojan://telegram-id-privatevpns@15.237.154.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.154.24
 trojan://telegram-id-privatevpns@15.236.223.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.223.129
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.154.24:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.154.24
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.223.129:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.223.129
-vless://11c66cd1-fd59-409d-8898-a303ec94d1d0@sr100.cloud-files-uploader.com:2082?type=ws&encryption=none&host=sr100.cloud-files-uploader.com&path=/&headerType=none&quicSecurity=none&serviceName=&security=&fp=firefox#🇫🇷 FR | 51.38.30.155
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
-vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#🇫🇷 FR | 162.19.10.94

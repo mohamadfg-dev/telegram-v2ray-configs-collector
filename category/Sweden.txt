@@ -1,2 +1,1 @@
 vless://d73a9db0-24b5-4592-8ff0-4f0b5329b39f@se.locations-service.com:3039?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#🇸🇪 SE | 141.227.160.111
-vless://666250e3-362e-440a-b9e3-2b7794c02af8@84.32.49.85:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.asbndx.com&fp=qq&pbk=pU7ElcbPMVObHoWqGThioVD4i5ux_phWFwElN97aDSQ&sid=0f4dacf89993e21f&type=tcp&headerType=none#🇸🇪 SE | 84.32.49.85
