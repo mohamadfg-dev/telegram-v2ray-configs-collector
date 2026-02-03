@@ -1,1 +1,2 @@
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?encryption=none&security=tls&sni=binaryboots.algorithmblanket.click&type=raw&headertype=none#🇳🇿 NZ | 45.15.140.107
+vless://cf43566e-d258-4992-9ca3-72c06c994a7d@vkehifree.cyberghostvpn.shop:443?encryption=none&security=tls&sni=zoom.com&alpn=h2,http/1.1&fp=chrome&type=raw&headertype=none#🇸🇬 SG | 139.162.50.12
+vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InJhdyIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IvCfh7rwn4e4IFVTIHwgNDcuMjUxLjkxLjI0MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
