@@ -1,1 +1,1 @@
-vless://79122ec8-6e10-44b1-9efe-84153fad0c13@185.227.137.167:23?security=reality&encryption=none&pbk=k5ghCQjfzH-vo8dNajQbal17E9hzzn4PrcrZESd23y4&headerType=none&fp=firefox&spx=/&type=tcp&sni=refersion.com&sid=372a94d2f8009a94#🇹🇷 TR | 185.227.137.167
+vless://fa-7802655683-1770060873553089@62.3.12.197:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇹🇷 TR | 62.3.12.197
