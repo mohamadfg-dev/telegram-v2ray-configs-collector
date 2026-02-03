@@ -1,3 +1,1 @@
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#🇮🇹 IT | 147.45.51.28
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#🇮🇹 IT | 147.45.51.28
-vless://b3051b10-716d-455b-9811-aefcce3d633e@OV-Italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=srv10.outlinekeys.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&type=tcp&headerType=none#🇮🇹 IT | 147.45.51.28

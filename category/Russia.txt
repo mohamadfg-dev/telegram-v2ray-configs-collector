@@ -7,4 +7,3 @@ vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reali
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443?#🇷🇺 RU | 45.144.31.24
-vless://7a826f5a-9f69-4cd8-8dbc-c32e090eecfc@84.23.53.221:8443?security=reality&encryption=none&pbk=Ciw-HX8u2JpfTxaPoJKABi7MZZwN0HRGbgpR1MHXXxo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru#🇷🇺 RU | 84.23.53.221
