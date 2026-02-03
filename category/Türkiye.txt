@@ -1,3 +1,4 @@
-vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTkpZalhRS2FfWG8zNE54QmR2dF93@62.133.63.21:1080#🇹🇷 TR | 62.133.63.21
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
 vless://fb464b57-7cb7-4af0-bc5c-7cd1931c755b@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
