@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcGhablF3SkFTVlJlcUJ2U1h4SnRtOFh5WGpYb3U3VA==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
+vless://612fa38e-dbf2-491c-9417-a4187c25bda2@ip4-fas.tyryqyserver.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=tamamde1.global.ssl.fastly.net&path=/?ed=2052#🇧🇪 BE | 151.101.9.80

@@ -2,6 +2,5 @@ vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
 vless://fb464b57-7cb7-4af0-bc5c-7cd1931c755b@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
-vless://a3045088-95b2-4e83-8e20-486e6efb3507@game.saforia.ru:2082?security=reality&encryption=none&pbk=mD5ohvJO2IFI2sffVrTMId3yxIhNy0AG0jEqdJFXaDo&headerType=none&fp=firefox&spx=/NZspNtJ6ff6YLL6&type=tcp&sni=refersion.com&sid=76c1164c36131d99#🇹🇷 TR | 62.60.233.78
 vless://bbed94d9-1120-4b54-8a9c-72d81e411fb8@144.31.130.98:443?security=reality&encryption=none&pbk=grtFOGUrAtlH0xAPpkqkXTAnaCHALmEn7nsohxxx3iE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=729c8d42f7bb139a#🇹🇷 TR | 144.31.130.98
-vless://5380061d-f02d-41c7-b4e4-a0793cafa8c6@v2shop-tr2.bing-net.com:3039?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇹🇷 TR | 93.114.98.61
+vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
