@@ -1,3 +1,4 @@
+vless://d3502a00-833a-46dc-8b1f-d401d51f6e4a@cfcdn.zopli.ir:443?path=/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-se.lopzo.ir#🇸🇨 SC | 45.130.125.107
 vless://turboo-server@dns1.turboo-server.space:8880?encryption=none&type=ws&host=turboo.turbooo-server.com&path=/turboo&security=none#🇸🇨 SC | 45.130.125.239
+vless://065c5dfa-cb19-4eb5-89ab-53893a7672dc@45.130.125.162:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#🇸🇨 SC | 45.130.125.162
 vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/129.150.58.86:57621&security=tls&encryption=none&host=afrcloud4.c01.kr&fp=chrome&type=ws&sni=afrcloud4.c01.kr#🇸🇨 SC | 45.130.125.160
-vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#🇸🇨 SC | 45.130.125.160
