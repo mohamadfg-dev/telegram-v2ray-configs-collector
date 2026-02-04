@@ -9,8 +9,6 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
 vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=/?ed=2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#🏴‍☠️ UN | site.systemgamingirani.ir
 vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=/?ed=2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#🏴‍☠️ UN | site.systemgamingirani.ir
-vless://cbbcaaa-acab-acab-bdac-cabccbbabaca@127.0.0.1:1080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@ip2.tomk.fun:2096?security=tls&type=ws&headerType=&path=&host=GeR7.SimAnSaNat.iR.&sni=GeR7.SimAnSaNat.iR.&fp=chrome&alpn=h2#🏴‍☠️ UN | ip2.tomk.fun
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IG4xNjgyMzk2MTk3LmVkcG12Z2EuY24iLCJhZGQiOiJuMTY4MjM5NjE5Ny5lZHBtdmdhLmNuIiwicG9ydCI6NDQzLCJpZCI6IjJkNmZlYjI0LWVmYzUtNDkzMi1hMjU1LWQxNWM3OTFlOWIzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoidGxzIn0=
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ#🏴‍☠️ UN | YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg#🏴‍☠️ UN | YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDg1LjIwOC4xMDguMTg6NzAwMg
@@ -54,7 +52,6 @@ vless://3edc2346-b83c-4302-aa12-6b0fb3e4ae2a@4ir_1.oiut.ir:8443?encryption=none&
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn-s1.global.ssl.fastly.net#🏴‍☠️ UN | fsl.narton.ir
-vless://396a9f28-2286-4c9c-9866-238ffc3029b4@joinv2rayfree1.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=e1.newv2rayfree1.shop#🏴‍☠️ UN | joinv2rayfree1.ddns.net
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercfvless://99d620d4-8cb4-4129-a3e3-183939766124@fi2.vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@188.114.98.0:443?path=/?ed=2560&security=tls&encryption=none&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&sni=vless://69144c55-e1a2-4a13-8cc4-d0f984bebe70@81.12.33.6:711?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#🏴‍☠️ UN | ercfvless
 vless://3b769dec-9027-4c60-8948-bb07a6eee0a6@vipta.nonshirmal.ir:31475?security=&encryption=none&headerType=http&type=tcp#🏴‍☠️ UN | vipta.nonshirmal.ir
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
