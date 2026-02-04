@@ -48,7 +48,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://783a64f9-c724-4f3b-bca4-d6e91962d6b2@0.0.0.0:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
-vless://3edc2346-b83c-4302-aa12-6b0fb3e4ae2a@4ir_1.oiut.ir:8443?encryption=none&security=none&type=ws&path=/@vpn4ir_1/@vpn4ir_1/@vpn4ir_1#🏴‍☠️ UN | 4ir_1.oiut.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn-s1.global.ssl.fastly.net#🏴‍☠️ UN | fsl.narton.ir
