@@ -7,4 +7,4 @@ vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:51101?security=reali
 vless://8def6a24-8bd8-4e7d-82ec-938412cae499@37.139.42.234:8443?security=reality&encryption=none&pbk=a1xQOijfR3NuJRVfCNfNr4YMdcb7eqsKpvhuv-Gs9l8&headerType=none&fp=chrome&type=tcp&sni=www.vk.com&sid=6670#🇷🇺 RU | 37.139.42.234
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-vless://93100196-7f5a-496e-9b74-2d02f134b2bb@31.129.55.179:8080?security=none&allowInsecure=0&encryption=none&type=ws&path=/upload#🇷🇺 RU | 31.129.55.179
+vless://ef9502d8-2c61-5946-3a3c-b5d23b83190d@212.233.73.116:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=0ey51SM0-muvtD83XFCeeU7zzR-IvAWdWp6vhEmwekk&sid=f261f5cebd&sni=ads.x5.ru#🇷🇺 RU | 212.233.73.116
