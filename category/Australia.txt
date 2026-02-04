@@ -1,1 +1,1 @@
-vless://3bd011c9-c5ec-4024-8aaa-6d79db4e97d3@45.15.185.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=au.fasti.win&type=tcp#🇦🇺 AU | 45.15.185.45
+vless://4e5c6735-d657-4f9c-931d-52504f31aae8@fox3.wizard2shop.org:2083?path=/?ed=2560&security=tls&encryption=none&host=finii.wizard2shop.com&fp=360&type=ws&sni=finii.wizard2shop.com#🇦🇺 AU | 2.58.104.224

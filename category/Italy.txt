@@ -1,1 +1,2 @@
+vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
 vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
