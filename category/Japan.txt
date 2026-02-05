@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@104.215.58.230:443?security=tls&sni=gkkui8.azurewebsites.net&type=ws&host=gkkui8.azurewebsites.net&path=/#🇯🇵 JP | 104.215.58.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#🇯🇵 JP | 3.112.130.53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#🇯🇵 JP | 3.112.130.53

@@ -1,3 +1,4 @@
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=firefox&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#🇸🇪 SE | 46.246.98.74
+vless://939b318c-4021-411f-b28c-33f89a1a49b8@185.146.173.58:8080?security=none&type=ws&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY?ed=8080#🇸🇪 SE | 185.146.173.58
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
-vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
+vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@swe01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=86e999a2cdc2&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#🇸🇪 SE | 176.125.241.123
