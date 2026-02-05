@@ -1,2 +1,1 @@
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@lvcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn1.suio.me&allowInsecure=1#🇱🇻 LV | 85.159.228.54
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@lvcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn1.suio.me&allowInsecure=1#🇱🇻 LV | 85.159.228.54
+vless://a4bb211e-39fd-41df-8c34-3d2672b5cd8d@lv.matevps.ru:443?security=reality&encryption=none&pbk=Kt3gwKBGWIdsyQAr9LAv2AuTH5GmJ1jRtW4o9XQ9uB0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=0123456789abcdef#🇱🇻 LV | 188.253.23.67
