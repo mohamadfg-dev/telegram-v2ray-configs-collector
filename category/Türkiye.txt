@@ -1,4 +1,6 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://050bb3a0-501f-4cf6-8124-01a02ea7deed@164.138.202.80:52800?security=reality&encryption=none&pbk=ln-0H8i0REWLcuQpR9v0w3-c-z_uXKCPyyerT8w03C8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=2d#🇹🇷 TR | 164.138.202.80
-vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
 vless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#🇹🇷 TR | 194.113.226.197

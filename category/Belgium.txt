@@ -1,1 +1,2 @@
-vless://c30da8f2-29f1-4bb6-8cbb-1d23331f7033@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
+vless://c7b80baa-4ab9-49d4-885d-14d135cd39b3@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfcXFkcjFWZTY5UF9Xa1B0UjZKN3dxYXBHS2cwUzJBeg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
