@@ -1,1 +1,4 @@
-vless://68f9f5f5-35f3-4da0-a9f3-e645ecc6aa50@146.59.116.149:80?security=none&type=ws&headerType=&path=/&host=#🇵🇱 PL | 146.59.116.149
+vless://6ff4f687-bfe3-4c4b-bf45-601412eaf437@z.alpha121368.site:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=4h1whZv4kADUZm9l6U_dO1BCo57lMG2p1L-JkKyAnm4&sid=5998&type=tcp&headerType=none#🇵🇱 PL | 62.112.222.210
+vless://97e54ab1-90ff-4799-88fc-024228a2b829@z.alpha121368.site:4005?encryption=none&security=none&type=tcp&headerType=http&host=snapp.ir#🇵🇱 PL | 62.112.222.210
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#🇵🇱 PL | 54.36.174.140
+vless://34a737cf-3f67-426e-8287-da947a38e0cf@z.alpha121368.site:9091?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#🇵🇱 PL | 62.112.222.210
