@@ -1,5 +1,3 @@
 vless://022c385b-5b5d-4bcd-89e2-fc5fcd3d8211@ip2.iranvatanam.com:8880?path=/?ed=2560&security=none&encryption=none&host=gozar-dev2.amirconfigpaanelllll.com&type=httpupgrade#🇦🇪 AE | 94.140.0.1
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#🇦🇪 AE | 94.140.0.1
-vless://022c385b-5b5d-4bcd-89e2-fc5fcd3d8211@ip2.iranvatanam.com:8880?path=/?ed=2560&security=none&encryption=none&host=gozar-dev2.amirconfigpaanelllll.com&type=httpupgrade#🇦🇪 AE | 94.140.0.1
-vless://022c385b-5b5d-4bcd-89e2-fc5fcd3d8211@ip2.iranvatanam.com:8880?path=/?ed=2560&security=none&encryption=none&host=gozar-dev2.amirconfigpaanelllll.com&type=httpupgrade#🇦🇪 AE | 94.140.0.1

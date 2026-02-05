@@ -1,1 +1,1 @@
-vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@dir4.serviceali.ir:2096?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=uSxLC4bWX3waYJMa2Crw7&allowInsecure=0&sni=a3.marandcity.com#🇰🇿 KZ | 31.43.179.0
+vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@dir4.serviceali.ir:2096?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=uSxLC4bWX3waYJMa2Crw7&sni=a3.marandcity.com#🇰🇿 KZ | 31.43.179.0
