@@ -1,1 +1,1 @@
-vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
+vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#🇮🇹 IT | 95.141.36.10
