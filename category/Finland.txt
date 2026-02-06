@@ -1,5 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#🇫🇮 FI | 38.244.137.202
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://9c42819a-67a6-4742-9c6d-64900ba62160@fl-2.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇫🇮 FI | 194.180.189.230
 vless://f67ba568-cfb8-4763-8c7b-bf367e01c442@s3-d8.hmvpa.ir:2082?path=/api/stream?ed=2080&security=none&encryption=none&host=rus3-d8.hmvpa.ir&type=ws#🇫🇮 FI | 65.109.217.224

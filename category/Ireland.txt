@@ -1,1 +1,2 @@
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=34.254.224.37&allowInsecure=1&fp=chrome#🇮🇪 IE | 34.254.224.37
+trojan://telegram-id-privatevpns@63.34.160.222:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🇮🇪 IE | 63.34.160.222
+ss://YWVzLTI1Ni1nY206MzQ4NmE3ZWItMWEyNS00ZWQxLWEyNTctNTFiODI4MTRhZDIy@45.141.234.86:443#🇮🇪 IE | 45.141.234.86
