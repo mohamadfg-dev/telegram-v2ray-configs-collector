@@ -1,5 +1,5 @@
 vless://b7c343b1-53bd-0bb8-b320-d02019971263@5.188.141.144:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 RU | 5.188.141.144
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=/getWorkerUpdates&security=none&encryption=none&type=ws#🇷🇺 RU | 195.209.81.144
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=/getWorkerUpdates&security=none&encryption=none&type=ws#🇷🇺 RU | 195.209.81.182
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
 vless://0885f5e7-5a16-4f62-b3a6-cc3e7d6b077a@178.154.201.52:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=n3D2iju9CkAzG7m88Kmg5nZZgAjBC9PCgpEpFeaxMmQ&sid=a20d3ed244c76426#🇷🇺 RU | 178.154.201.52
