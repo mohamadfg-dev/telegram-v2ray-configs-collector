@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.215.34:443?path=/?ed=2560&Telegram&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇱🇻 LV | 45.130.215.34
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.215.34:443?encryption=none&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram&security=tls&sni=sni.111000.indevs.in#🇱🇻 LV | 45.130.215.34
