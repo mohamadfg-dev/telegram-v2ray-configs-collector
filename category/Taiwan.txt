@@ -1,1 +1,2 @@
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
+vless://2e82cda5-e020-4c63-8271-e58a00831447@tw2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=qq&pbk=cJc4dNsluJs9LimkkO6uVVafilOvr6H8Jx2uM9JnhEE&sid=129271&type=tcp&headerType=none#🇹🇼 TW | 36.234.181.151
