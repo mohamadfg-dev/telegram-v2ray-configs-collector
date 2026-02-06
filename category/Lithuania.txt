@@ -1,1 +1,2 @@
-vless://df62ed8f-de05-f3e8-a1db-5ff070fda3fd@ai.boostplayer.goodofwar.4b3app.com:2096?encryption=none&type=ws&path=/&security=none#🇱🇹 LT | 195.66.25.172
+vless://c580e6f8-96d5-4b81-a958-d309cda653ff@just-server.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#🇱🇹 LT | 138.124.65.99
+vless://1004c163-26ea-5662-b5b2-40df01176f8b@2.59.162.100:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=eH6HWGKJUtp4VmC9KxtdcyxtLI0O52vhAmZx1ybOtUs&sid=ffffffffff#🇱🇹 LT | 2.59.162.100
