@@ -1,13 +1,12 @@
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA5MS4xMzQuOC4xMDIiLCJhZGQiOiI5MS4xMzQuOC4xMDIiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6InNlcmthdC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmthdC5vcmcifQ==
 trojan://telegram-id-directvpn@35.181.33.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.33.57
 trojan://telegram-id-directvpn@13.37.19.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.19.80
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.255.155:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.255.155
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#🇫🇷 FR | 162.19.10.94
 trojan://telegram-id-privatevpns@35.181.33.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.33.57
 trojan://telegram-id-privatevpns@13.37.19.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.37.19.80
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.231.117:2053?path=/Telegram@V2rayAlpha/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇫🇷 FR | 146.59.231.117
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
+vless://a571b94c-a9f3-407a-a8ef-da608dab5472@46.226.167.138:46248?encryption=none&security=none&type=tcp&headerType=none#🇫🇷 FR | 46.226.167.138
 trojan://telegram-id-v2rayvpnchannel@35.181.33.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.33.57
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.33.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.33.57

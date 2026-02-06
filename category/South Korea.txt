@@ -1,1 +1,1 @@
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@0kr02.156786.xyz:709?security=tls&headerType=none&type=tcp&sni=0kr02.156786.xyz#🇰🇷 KR | 158.247.235.162
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@59.3.3.161:443?security=tls&sni=vh.ylks.link&type=ws&path=/#🇰🇷 KR | 59.3.3.161
