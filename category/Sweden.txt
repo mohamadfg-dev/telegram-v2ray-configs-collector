@@ -1,4 +1,4 @@
-trojan://telegram-id-privatevpns@13.51.180.91:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🇸🇪 SE | 13.51.180.91
-vless://5631df39-0f66-4b1b-bcf3-a7b5dd9e3b06@185.146.173.58:8080?security=none&type=ws&host=SHHproxy-shhPROXY-SHHproxy.joinTELEGRAM.net.&path=SHHPROXY?ed=8080#🇸🇪 SE | 185.146.173.58
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=firefox&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#🇸🇪 SE | 46.246.98.74
+vless://0c332321-22d1-4448-a167-c814dcf5195c@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
+vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?security=none&type=ws&path=/DSDaswd22&#🇸🇪 SE | 185.146.173.152
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
