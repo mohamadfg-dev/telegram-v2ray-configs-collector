@@ -1,2 +1,1 @@
-trojan://bpb-trojan@www.csgo.com:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇨🇾 CY | 195.85.59.95
-trojan://bpb-trojan@www.csgo.com:443?path=/tr?ed=2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🇨🇾 CY | 195.85.59.95
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.92.9.155:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🇨🇾 CY | 154.92.9.155

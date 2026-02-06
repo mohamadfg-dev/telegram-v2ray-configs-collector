@@ -1,1 +1,1 @@
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#🇮🇹 IT | 95.141.36.10
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCA0Ny4yNTMuMTk3LjI2IiwiYWRkIjoiNDcuMjUzLjE5Ny4yNiIsInBvcnQiOjEyMDU2LCJpZCI6ImRkN2JlN2YxLTM4ZmYtNDVlNi1mMWU1LWIyMGMyMTkwZjUyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJuYW1lIjoiWzg5MzQ5XSAtIFRlbGVncmFtIDogQFYyQWxsIiwidGxzIjoibm9uZSJ9
