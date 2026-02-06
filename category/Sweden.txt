@@ -1,4 +1,3 @@
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=firefox&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#🇸🇪 SE | 46.246.98.74
-vless://b09081b0-a0b9-4bab-9620-1872fe386a11@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@77.221.137.39:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn11.suio.me&allowInsecure=1#🇸🇪 SE | 77.221.137.39
