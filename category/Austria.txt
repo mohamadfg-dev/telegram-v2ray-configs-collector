@@ -1,1 +1,1 @@
-vless://e804e80a-e413-436e-8e3c-8cce9ef657b9@at.asbndx.com:443?security=reality&encryption=none&pbk=hfJagZHzXLZaHqiyy59ZwnPFytw9WUMu1RGh29o3aVE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.asbndx.com&sid=2f4dacf62222e15f#🇦🇹 AT | 152.53.44.42
+vless://6948b23d-e56b-443f-ae9c-248a02994bfd@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103

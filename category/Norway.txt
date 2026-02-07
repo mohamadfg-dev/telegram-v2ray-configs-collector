@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 NO | 185.213.23.63
+vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#🇳🇴 NO | 217.170.206.157
+vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#🇳🇴 NO | 217.170.206.157
