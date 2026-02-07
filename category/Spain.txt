@@ -1,4 +1,3 @@
 vless://31608862-5632-4985-a600-c41362380b8c@185.18.250.179:443?path=/ws?ed=2560&security=tls&encryption=none&host=cdn.graphapp.ir&type=ws&sni=cdn.graphapp.ir#🇪🇸 ES | 185.18.250.179
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://bc504fd9-bf60-4216-acfd-e306afed5f45@log-new-ace.shareip.app:22079?path=/&security=none&encryption=none&type=ws#🇪🇸 ES | 79.116.189.243
-vless://31608862-5632-4985-a600-c41362380b8c@185.18.250.197:443?path=/ws?ed=2560&security=tls&encryption=none&host=cdn.graphapp.ir&type=ws&sni=cdn.graphapp.ir#🇪🇸 ES | 185.18.250.197
