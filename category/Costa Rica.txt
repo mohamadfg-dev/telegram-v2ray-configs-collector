@@ -1,3 +1,1 @@
-vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@CLOUD104.TURKSERVER.IR:2083?path=/ws&security=tls&encryption=none&insecure=0&host=bsun-nlv2.ip-venzo.com&fp=chrome&type=ws&allowInsecure=0&sni=bsun-nlv2.ip-venzo.com#🇨🇷 CR | 190.93.245.187
-vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@CLOUD104.TURKSERVER.IR:2083?path=/ws&security=tls&encryption=none&insecure=0&host=bsun-nlv2.ip-venzo.com&fp=chrome&type=ws&allowInsecure=0&sni=bsun-nlv2.ip-venzo.com#🇨🇷 CR | 190.93.245.187
-vless://5b45c0f2-ec7d-420a-8485-5ef6e075743e@CLOUD104.TURKSERVER.IR:2083?path=/ws&security=tls&encryption=none&insecure=0&host=bsun-nlv2.ip-venzo.com&fp=chrome&type=ws&allowInsecure=0&sni=bsun-nlv2.ip-venzo.com#🇨🇷 CR | 190.93.245.187
+vless://39581fd3-5c3c-4f3a-b62a-6653f803dfd6@190.93.247.155:8443?security=tls&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome#🇨🇷 CR | 190.93.247.155
