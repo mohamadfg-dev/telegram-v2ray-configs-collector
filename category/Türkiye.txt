@@ -4,5 +4,5 @@ vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLN2RkSU00UXdZRjh0UUwzSEN3RkdM@62.133.63.21:65262#🇹🇷 TR | 62.133.63.21
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOM3lFN3A4UUw1VTkwQmh6SzBjX1dB@62.133.63.21:1080#🇹🇷 TR | 62.133.63.21
 vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOM3lFN3A4UUw1VTkwQmh6SzBjX1dB@62.133.63.21:1080#🇹🇷 TR | 62.133.63.21
