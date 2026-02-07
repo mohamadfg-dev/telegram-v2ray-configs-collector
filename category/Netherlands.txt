@@ -1,1 +1,1 @@
-vless://e929f51d-5a95-5432-b66f-cfe725ea1f61@188.253.26.39:442?security=reality&encryption=none&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6ac998b514#🇳🇱 NL | 188.253.26.39
+vless://ce5ed6ee-6ad1-4b04-8ddb-34c523836715@german4.activevps4.com:44015?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇳🇱 NL | 88.218.16.23
