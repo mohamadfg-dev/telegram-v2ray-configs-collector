@@ -1,3 +1,5 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVzM1UjVCZ2ZCU3hncFZEZVpkR214OUJ5Z01yNFRuTQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLN2RkSU00UXdZRjh0UUwzSEN3RkdM@62.133.63.21:65262#🇹🇷 TR | 62.133.63.21
+vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 TR | 77.83.245.220
