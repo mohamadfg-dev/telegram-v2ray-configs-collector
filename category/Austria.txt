@@ -1,1 +1,1 @@
-vless://6948b23d-e56b-443f-ae9c-248a02994bfd@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
+vless://e4f5077b-3628-450c-92f9-b129b8a641a7@152.53.51.199:443?security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=au.denditop.site&sid=9c2378562188c3cb#🇦🇹 AT | 152.53.51.199
