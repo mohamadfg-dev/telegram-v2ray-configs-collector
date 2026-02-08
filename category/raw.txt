@@ -1,2 +1,1 @@
-vless://a91e9db3-a3f1-43a4-84b3-316ea3600fac@178.162.242.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#🇩🇪 DE | 178.162.242.98
-vless://a91e9db3-a3f1-43a4-84b3-316ea3600fac@178.162.242.98:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=raw&headertype=none#🇩🇪 DE | 178.162.242.98
+vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&type=raw&headertype=none#🇺🇸 US | 47.253.253.238
