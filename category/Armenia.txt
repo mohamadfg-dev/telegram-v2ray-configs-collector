@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳 @WangCai2&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#🇦🇲 AM | 5.10.214.238
+vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&sni=dl98.primenet3.shop#🇦🇲 AM | 5.10.214.154
+vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.primenet3.shop#🇦🇲 AM | 5.10.214.154

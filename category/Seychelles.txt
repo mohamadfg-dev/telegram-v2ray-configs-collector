@@ -1,2 +1,4 @@
+vless://9b05e77f-e81f-4d5b-a2dc-7463a154b241@M6.FASTSPEEDS.IR:2083?path=/&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=arvan-fr2.ip-venzo.com#🇸🇨 SC | 45.130.125.160
 vless://turboo-server@dns1.turboo-server.space:8880?encryption=none&type=ws&host=turboo.turbooo-server.com&path=/turboo&security=none#🇸🇨 SC | 45.130.125.239
+vless://9b05e77f-e81f-4d5b-a2dc-7463a154b241@M6.FASTSPEEDS.IR:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=arvan-fr2.ip-venzo.com#🇸🇨 SC | 45.130.125.160
 vless://fb47c96a-c59f-4551-b687-ba9305419abc@ip.hamrahto.com:2082?path=/api/stream?ed=2080&security=&encryption=none&host=hm3.mutee.com.tr&type=ws#🇸🇨 SC | 45.130.125.160
