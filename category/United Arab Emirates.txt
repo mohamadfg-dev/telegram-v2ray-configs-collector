@@ -1,1 +1,2 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://aadd7e53-188c-4027-9325-a91643a3a9f5@94.183.164.45:3801?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇦🇪 AE | 94.183.164.45

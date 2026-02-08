@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVjF0Sl9QandzWGtUY3ZvTHNwMDN4N3k4Zk1TREFBdQ==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
