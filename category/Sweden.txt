@@ -1,3 +1,3 @@
-vless://c7364eee-20b5-413f-877a-147646994b02@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
+vless://b5394b38-85d6-4383-8b46-d41bddce9f0e@185.146.173.39:8080?security=none&type=httpupgrade&host=www.wikipedia.org.digehkhastehshodamazbasdamanehkharidam.blog.&path=/#🇸🇪 SE | 185.146.173.39
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
 vless://8cd92dad-bb82-4bcc-9f74-9398b5783b69@103.25.85.120:8880?encryption=none&type=tcp&headerType=http&host=skyroom.online#🇸🇪 SE | 103.25.85.120
