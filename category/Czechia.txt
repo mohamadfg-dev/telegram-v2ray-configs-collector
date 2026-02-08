@@ -1,1 +1,1 @@
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@czech.boot-lee.ru:8443?security=reality&encryption=none&pbk=yrB2VhJUvGCCHXLP6XOmn5QM1wcthYLvLZqvQzt2THc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#🇨🇿 CZ | 144.31.218.76
+vless://ca211363-a013-40ad-99b4-7f0515dce05f@chz.izumii.ir:2014?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇨🇿 CZ | 45.151.183.214
