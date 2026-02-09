@@ -1,1 +1,2 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://242a12b1-5954-4aab-bb24-8faa4e5fbffb@ip.onlineblog.ir:80/?type=ws&encryption=none&flow=&host=italyjji.global.ssl.fastly.net#🇦🇪 AE | 151.101.140.204

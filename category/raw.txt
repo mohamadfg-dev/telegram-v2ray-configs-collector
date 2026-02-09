@@ -1,1 +1,1 @@
-vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@us2.myyemail.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&fp=chrome&insecure=1&type=raw&headertype=none#🇺🇸 US | 47.253.253.238
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=ako.pagate.top&fp=chrome&insecure=1&type=raw&headertype=none#🇰🇷 KR | 140.238.16.246
