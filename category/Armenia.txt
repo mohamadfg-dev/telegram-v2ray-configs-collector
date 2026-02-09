@@ -1,2 +1,1 @@
 vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&sni=dl98.primenet3.shop#🇦🇲 AM | 5.10.214.154
-vless://463877de-87e1-4188-8b71-e7f5fc56df62@5.10.214.154:443?path=/ws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.primenet3.shop#🇦🇲 AM | 5.10.214.154

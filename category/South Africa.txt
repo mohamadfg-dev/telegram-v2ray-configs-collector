@@ -1,1 +1,1 @@
-vless://a81596f9-680f-4fd7-928e-767fbd6a45c5@196.13.241.241:8443?uuid=a81596f9-680f-4fd7-928e-767fbd6a45c5&tls=tls&name=%40Filter_breaker&mode=gun&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=randomized&type=grpc&serviceName=uSxLC4bWX3waYJMa2Crw7&allowInsecure=0&sni=a3.marandcity.com&host=a3.marandcity.com#🇿🇦 ZA | 196.13.241.241
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.78:443?security=tls&sni=kkg.ylks.link&type=ws&path=/blue#🇿🇦 ZA | 160.123.255.78
