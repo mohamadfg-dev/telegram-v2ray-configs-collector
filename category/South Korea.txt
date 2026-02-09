@@ -1,3 +1,3 @@
-vless://69872d60-7cc2-c421-47ea-e2733c39bab0@124.53.232.44:50001?encryption=none&security=tls&sni=afa61101.soos.bbroot.com&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=afa61101.soos.bbroot.com&path=/socks5=6226604a:9ca2df1bf22a@38.57.76.31:33375#🇰🇷 KR | 124.53.232.44
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6InNlb3VsMDMuemdqb2suY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiLwn4ew8J+HtyBLUiB8IDE1Mi43MC44OC4xNzcifQ==
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🇰🇷 KR | 154.90.63.177
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#🇰🇷 KR | 154.90.62.168
