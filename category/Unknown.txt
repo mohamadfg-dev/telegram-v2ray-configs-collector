@@ -46,7 +46,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "scMinPostsIntervalMs" : 30,
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
-vless://fc9964bf-98c7-41c7-8cca-e8f05749a194@de.berlininternetmelivizio.com:443?encryption=none&security=tls&sni=vizio.net&type=ws&host=vizio.net&path=/vizio#🏴‍☠️ UN | de.berlininternetmelivizio.com
 vless://fa1e1694-f3ce-4e6f-a43b-a321b4c6db1d@0.0.0.0:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
 vless://fa1e1694-f3ce-4e6f-a43b-a321b4c6db1d@0.0.0.0:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#🏴‍☠️ UN | 0.0.0.0
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
