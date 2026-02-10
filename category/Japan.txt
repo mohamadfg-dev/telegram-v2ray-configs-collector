@@ -1,8 +1,10 @@
+vless://193c75c1-1af1-484a-84ec-14de4828d209@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#🇯🇵 JP | 147.45.220.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#🇯🇵 JP | 3.112.130.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#🇯🇵 JP | 3.112.130.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA0Ny43NC4xLjE5MSIsImFkZCI6Im4xNzUzNTk4NDUxLjc0cXh2LnRvcCIsInBvcnQiOiI0NDMiLCJpZCI6Ijk3OTg2NzhmLTViOGMtNGZmMS1iYmRkLWI5YjVjMTUzOWRlMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibjE3NTM1OTg0NTEuNzRxeHYudG9wIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc1MzU5ODQ1MS43NHF4di50b3AiLCJpbnNlY3VyZSI6IjEifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
+vless://193c75c1-1af1-484a-84ec-14de4828d209@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#🇯🇵 JP | 147.45.220.103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#🇯🇵 JP | 3.112.130.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8319#🇯🇵 JP | 3.112.130.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
+vless://193c75c1-1af1-484a-84ec-14de4828d209@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#🇯🇵 JP | 147.45.220.103
