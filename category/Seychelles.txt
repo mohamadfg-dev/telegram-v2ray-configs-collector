@@ -1,1 +1,1 @@
-vless://bc684bbf-b046-4e94-b5fa-69b5e1dd4c72@top2.imlast2.com:443?path=/?ed=2048&security=tls&encryption=none&host=germany.imlast3.com&fp=chrome&type=ws&sni=germany.imlast3.com#🇸🇨 SC | 45.130.125.0
+vless://c24f90b9-c8e9-404d-94bf-879c52401190@H5.FASTSPEEDS.IR:2087?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&fp=chrome&type=xhttp&sni=gamehub1.mobilezahra.com#🇸🇨 SC | 45.130.125.160

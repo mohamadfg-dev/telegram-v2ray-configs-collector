@@ -1,1 +1,2 @@
 vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@xiangtianwennetddd.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.xbox.com&fp=chrome&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&type=tcp&headerType=none#🇦🇺 AU | 38.48.124.146
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.196.13:8880?path=/telegram-channel-mtmvpn---telegram-channel-mtmvpn&security=none&encryption=none&host=c.82313369.xyz&type=ws&sni=Telegram-channel-WangCai2#🇦🇺 AU | 185.207.196.13
