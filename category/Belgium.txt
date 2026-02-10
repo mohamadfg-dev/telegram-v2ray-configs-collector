@@ -1,5 +1,2 @@
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80/?type=ws&encryption=none&flow=&host=adspeedx23.global.ssl.fastly.net&path=/&ed=1049&eh=Sec-WebSocket-Protocol#🇧🇪 BE | 151.101.9.80
-vless://93608c7d-16a7-460a-9298-9e3782e278ea@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkcVdKWkF1TVh0TFJWY29HYkxDYWRSSkg3cUM3VmplMg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=#🇧🇪 BE | 151.101.9.80
 vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed=1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
