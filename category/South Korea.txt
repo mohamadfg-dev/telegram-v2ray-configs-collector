@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#🇰🇷 KR | 154.90.63.177
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#🇰🇷 KR | 154.90.62.168
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳 @WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome&encryption=none#🇰🇷 KR | 211.48.77.114
