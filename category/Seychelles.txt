@@ -1,1 +1,1 @@
-vless://turboo-server@dns1.turboo-server.space:8880?encryption=none&type=ws&host=turboo.turbooo-server.com&path=/turboo&security=none#🇸🇨 SC | 45.130.125.239
+vless://bc684bbf-b046-4e94-b5fa-69b5e1dd4c72@top2.imlast2.com:443?path=/?ed=2048&security=tls&encryption=none&host=germany.imlast3.com&fp=chrome&type=ws&sni=germany.imlast3.com#🇸🇨 SC | 45.130.125.0

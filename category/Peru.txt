@@ -1,2 +1,1 @@
-vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.56:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=t.me/entryNET&fp=firefox&alpn=http/1.1#🇵🇪 PE | 154.219.5.56
 vless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@154.219.5.129:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#🇵🇪 PE | 154.219.5.129

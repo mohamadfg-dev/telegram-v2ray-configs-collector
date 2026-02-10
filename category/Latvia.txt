@@ -1,3 +1,2 @@
-vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80?security=none&encryption=none&type=ws#🇱🇻 LV | 94.158.218.63
-vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80?security=none&encryption=none&type=ws#🇱🇻 LV | 94.158.218.63
-vless://c2b64b65-3563-4caf-ad71-26f427e6da52@94.158.218.63:80?security=none&encryption=none&type=ws#🇱🇻 LV | 94.158.218.63
+vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🇱🇻 LV | 31.56.117.18
+vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🇱🇻 LV | 31.56.117.18
