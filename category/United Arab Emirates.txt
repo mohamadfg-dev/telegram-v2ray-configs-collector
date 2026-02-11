@@ -1,1 +1,2 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
+vless://ae13cc17-d059-467f-b43e-b943f064b809@ae.srv2.stargrian.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=firefox&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg&sid=#🇦🇪 AE | 109.61.42.80

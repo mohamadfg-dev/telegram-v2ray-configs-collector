@@ -1,1 +1,1 @@
-vless://bfc103e0-67e6-4e40-8d09-05d6e9fcefc5@190.93.246.59:8080?path=/eyJqdW5rIjoiRlhhNWJjdk1XR0ZzSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?&ed=2560&security=none&encryption=none&host=billowing-fire-13d7.pakewjwqa586.workers.dev&type=ws#🇨🇷 CR | 190.93.246.59
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c32d

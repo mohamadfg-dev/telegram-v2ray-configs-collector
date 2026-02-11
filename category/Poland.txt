@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443#🇵🇱 PL | 54.36.174.140
-vless://bc0602d4-86e3-4d58-80d8-afc6c67926a2@144.31.0.65:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fastt.overload.ovh&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🇵🇱 PL | 144.31.0.65
