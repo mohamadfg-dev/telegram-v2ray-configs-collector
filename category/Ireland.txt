@@ -1,1 +1,2 @@
-vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443?security=reality&encryption=none&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#🇮🇪 IE | 85.159.229.116
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.242.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪 IE | 54.171.242.155
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.242.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪 IE | 54.171.242.155

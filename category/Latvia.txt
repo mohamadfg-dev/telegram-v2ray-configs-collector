@@ -1,3 +1,2 @@
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 LV | 45.145.163.115
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🇱🇻 LV | 31.56.117.18
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🇱🇻 LV | 31.56.117.18

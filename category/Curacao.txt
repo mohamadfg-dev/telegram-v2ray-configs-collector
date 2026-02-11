@@ -1,1 +1,1 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@88.216.67.110:2096?security=tls&sni=De14.SiMaNsAnAt.Ir.&type=ws&host=De14.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#undefined CW | 88.216.67.110
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&path=/#undefined CW | 62.72.166.138
