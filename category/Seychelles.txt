@@ -1,1 +1,4 @@
-vless://c24f90b9-c8e9-404d-94bf-879c52401190@H5.FASTSPEEDS.IR:2087?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&fp=chrome&type=xhttp&sni=gamehub1.mobilezahra.com#🇸🇨 SC | 45.130.125.160
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇸🇨 SC | 45.130.125.160
+vless://d3502a00-833a-46dc-8b1f-d401d51f6e4a@cfcdn.zopli.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=cdn-no.lopzo.ir#🇸🇨 SC | 45.130.125.107
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇸🇨 SC | 45.130.125.160
+vless://2158fe7e-fd29-4ea7-a81e-362f3591022a@45.130.125.160:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#🇸🇨 SC | 45.130.125.160
