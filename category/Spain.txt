@@ -1,3 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.114.72.67:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🇪🇸 ES | 185.114.72.67
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
-vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#🇪🇸 ES | 84.17.62.52
