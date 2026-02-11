@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#undefined CW | 62.72.166.138
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#undefined CW | 62.72.166.138
