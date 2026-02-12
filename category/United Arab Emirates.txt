@@ -1,2 +1,1 @@
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
-vless://5ca6e49d-d15e-400e-9e9e-4fddcc4d8e41@ip3.kakeroo.ir:80?path=/&security=none&encryption=none&host=kalamsi666.global.ssl.fastly.net&type=ws#🇦🇪 AE | 146.75.65.127

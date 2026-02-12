@@ -1,1 +1,1 @@
-vless://742615c9-e272-49b0-9438-e1c45eacce1b@marzban-sub.panelfreedom.com:1089?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇨🇿 CZ | 141.227.134.105
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#🇨🇿 CZ | 14.102.228.238
