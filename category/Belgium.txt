@@ -1,1 +1,1 @@
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=/?ed&security=&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.80
+vless://6fa4c714-14d4-408b-badd-50f7a23801cf@be.nerpvpn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac#🇧🇪 BE | 5.196.102.135
