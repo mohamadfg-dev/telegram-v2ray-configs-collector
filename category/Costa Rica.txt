@@ -1,1 +1,2 @@
 vless://ce9dad6b-a815-44b5-8260-ff64b4d89a59@190.93.245.77:443?encryption=none&type=ws&host=ir23.weyn.ir&path=/@Shh_Proxy-Telegram,@Shh_Proxy-Telegram,@Shh_Proxy-Telegram?ed=2086&security=tls&sni=ir23.weyn.ir&allowInsecure=true#🇨🇷 CR | 190.93.245.77
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c32d
