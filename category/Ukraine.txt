@@ -1,2 +1,1 @@
-vless://ad193e4b-4308-4c3e-9259-10ab2b622482@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
-vless://b240b23c-2762-4c8a-968f-6565983468d4@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#🇺🇦 UA | 91.218.122.10
