@@ -1,1 +1,1 @@
-vless://6fa4c714-14d4-408b-badd-50f7a23801cf@be.nerpvpn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac#🇧🇪 BE | 5.196.102.135
+vless://a54f4e68-66a9-450e-949b-c97cc46b55ae@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
