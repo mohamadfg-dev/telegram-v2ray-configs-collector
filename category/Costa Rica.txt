@@ -1,2 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.245.94
 vless://ce9dad6b-a815-44b5-8260-ff64b4d89a59@190.93.245.77:443?encryption=none&type=ws&host=ir23.weyn.ir&path=/@Shh_Proxy-Telegram,@Shh_Proxy-Telegram,@Shh_Proxy-Telegram?ed=2086&security=tls&sni=ir23.weyn.ir&allowInsecure=true#🇨🇷 CR | 190.93.245.77
