@@ -1,6 +1,7 @@
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
 vless://627af99e-6326-430d-8a77-957cb5cc803e@3.124.209.11:26197?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 DE | 3.124.209.11
 vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#🇮🇷 IR | 2.188.219.173
+vless://e35dd2de-7a4c-4af4-b671-1592e286a040@sw01.keyinvest.org:443/?type=grpc&encryption=none&flow=&sni=web.max.ru&fp=chrome&security=reality&pbk=c6RlqzTVSTJa22lCVX3u8jvZXXbWEsYGSX4kjo3ffkk&sid=#🇸🇪 SE | 178.20.211.184
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#🇺🇦 UA | 91.218.122.10
 vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=vbox1.ping-box.com#undefined HK | 27.50.48.155

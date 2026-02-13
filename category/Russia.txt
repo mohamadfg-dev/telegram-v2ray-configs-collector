@@ -6,3 +6,4 @@ vless://bfc32338-df17-43ba-8cdf-304d69705c90@147.45.154.241:17839?encryption=non
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
 vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#🇷🇺 RU | 37.139.34.145
+vless://d7eaaf8f-0fbc-4763-a8ca-c5dea5ac229d@zolinder.online:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=2566-27FWlgHXfhcbxCIZ2RTD_rqHzLhWfcvNuNpuGc&sid=baa01fe9c8c418fc#🇷🇺 RU | 195.2.76.9
