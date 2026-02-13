@@ -1,1 +1,2 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.145:443?security=tls&sni=xing.ylks.link&type=ws&path=/blue#🇦🇺 AU | 103.169.142.145
 vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@xiangtianwennetddd.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.xbox.com&fp=chrome&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&type=tcp&headerType=none#🇦🇺 AU | 38.48.124.146

@@ -1,2 +1,2 @@
-vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?encryption=none&security=reality&sni=nobitex.ir&fp=chrome&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&sid=1d64e9805b4f9ae3&type=grpc&authority=&serviceName=JNIR&mode=gun#🇸🇪 SE | 217.212.193.140
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
