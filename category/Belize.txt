@@ -1,1 +1,1 @@
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.10:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=xgzoK-82199.phoenixappdataj.uk&fp=chrome&type=ws&sni=xgzoK-82199.phoenixappdataj.uk#🇧🇿 BZ | 45.131.210.10
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.5.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🇧🇿 BZ | 45.131.5.238
