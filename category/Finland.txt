@@ -1,12 +1,4 @@
 vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.221.182
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4V3g4RmVVTkwxV0xMcXplTW1xZDZiZVUxS0RueUJrZg==@138.124.118.94:8080#🇫🇮 FI | 138.124.118.94
-vless://db8aed18-b0f5-4272-bb5b-8294b92c35c8@65.109.178.213:1515?security=reality&encryption=none&pbk=q1SCkjq0OkXhk1Sk5CzHtPhPkMq2uaDKbdJrRjoKGWE&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=c652cfc9741bf773#🇫🇮 FI | 65.109.178.213
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.221.182
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.221.182
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh64gRkkgfCA5NS4yMTYuMTgzLjExMyIsImFkZCI6Ijk1LjIxNi4xODMuMTEzIiwicG9ydCI6IjQyMTUyIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNjY0ZjkyZS05MDBiLTI0NjgtZjA3Yy05NGIxZWY0MzgzMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://25f828ef-fc93-446c-a7d5-e3fe6fe6a662@65.109.188.104:27759?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.188.104
-vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.186.96
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.221.182

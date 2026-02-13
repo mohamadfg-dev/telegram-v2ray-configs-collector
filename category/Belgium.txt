@@ -1,2 +1,9 @@
-vless://a54f4e68-66a9-450e-949b-c97cc46b55ae@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6NVJnRUx1Sm8yQUFqWU0tV0FlWjgyb1pVLXhXSk5Zaw==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+vless://2056aaf3-7e69-41fa-b43d-b658d789d2cf@cdn1.sohacase.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=italiano.vpconnec.org&type=xhttp#🇧🇪 BE | 151.101.9.80
+vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto&extra={
+  "noGRPCHeader" : false,
+  "scMaxConcurrentPosts" : 100,
+  "scMinPostsIntervalMs" : 30,
+  "scMaxEachPostBytes" : 1000000,
+  "xPaddingBytes" : "100-1000"
+}#🇧🇪 BE | 151.101.8.79
