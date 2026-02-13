@@ -1,1 +1,1 @@
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#🇱🇻 LV | 90.156.255.198
+vless://0b4a129d-cfea-485b-80ab-2632d1f4fb83@104.165.205.59:8443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=yul4r.stream-room.com&fp=edge&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326&type=tcp&headerType=none&host=057377to3a.stream-room.com&path=/#🇱🇻 LV | 104.165.205.59
