@@ -1,3 +1,1 @@
-vless://07e299c3-1e03-42d8-82a6-c47bfc79954d@83.228.230.48:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇨🇭 CH | 83.228.230.48
-vless://f6036ea2-911e-4287-93fb-d3ac2b21135b@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
-vless://07e299c3-1e03-42d8-82a6-c47bfc79954d@83.228.230.48:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇨🇭 CH | 83.228.230.48
+vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#🇨🇭 CH | 208.69.78.85
