@@ -1,6 +1,4 @@
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#🇦🇪 AE | 94.140.0.74
 vless://8d51e92a-7f6f-433c-b946-1ec411e7a759@217.195.200.233:35177?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#🇦🇪 AE | 217.195.200.233
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#🇦🇪 AE | 94.140.0.74
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#🇦🇪 AE | 94.140.0.74
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?encryption=none&type=ws&host=backup.f-sub.cfd&path=/&security=tls&fp=chrome&sni=backup.f-sub.cfd&alpn=h2,http/1.1#🇦🇪 AE | 94.140.0.74
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#🇦🇪 AE | 94.140.0.74
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#🇦🇪 AE | 94.140.0.74

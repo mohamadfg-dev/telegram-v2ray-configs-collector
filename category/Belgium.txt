@@ -1,1 +1,1 @@
-vless://59d985e1-30ef-468c-bd95-71d0f9ff443b@151.101.9.79:80?mode=auto&path=/&security=none&encryption=none&host=2Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#🇧🇪 BE | 151.101.9.79
+vless://c175eeab-3bbd-eb23-28cf-5ddcf424b261@151.101.9.80:80?mode=auto&path=/&security=none&encryption=none&extra={'headers': {}, 'xPaddingBytes': '100-1000', 'noGRPCHeader': False, 'xmux': {}}&host=lumiereproduction-cdn.global.ssl.fastly.net&type=xhttp#🇧🇪 BE | 151.101.9.80
