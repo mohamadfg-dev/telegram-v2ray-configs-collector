@@ -1,1 +1,1 @@
-trojan://telegram-id-directvpn@52.49.157.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 52.49.157.3
+vless://e4d23abf-0ffa-44b8-814a-d6db1b9be877@212.147.232.128:443?security=reality&encryption=none&pbk=EN0PFnL5V16DRZ3uJteWOd1AZCcCy25MvldTgtTAgC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=9351feaaa9#🇮🇪 IE | 212.147.232.128

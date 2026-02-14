@@ -1,1 +1,2 @@
-vless://c175eeab-3bbd-eb23-28cf-5ddcf424b261@151.101.9.80:80?mode=auto&path=/&security=none&encryption=none&extra={'headers': {}, 'xPaddingBytes': '100-1000', 'noGRPCHeader': False, 'xmux': {}}&host=lumiereproduction-cdn.global.ssl.fastly.net&type=xhttp#🇧🇪 BE | 151.101.9.80
+vless://6ccf068f-ed83-47d2-b089-e104c9a4049c@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCTWZwRXhNYmJEVzVWdGN5UXpwYUw0aGFqdFV3d1lkOQ==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
