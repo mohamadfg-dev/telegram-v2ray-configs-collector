@@ -1,2 +1,2 @@
-vless://6d673cd0-d996-4c57-b959-a70cc31c9560@87.121.105.100:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=c2a0b2d60a7fc300#🇸🇪 SE | 87.121.105.100
+vless://fa-397456379-1771064637182567@78.40.116.73:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d1d42381ba35#🇸🇪 SE | 78.40.116.73
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121

@@ -1,1 +1,2 @@
+vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=/?ed=2560&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ygfbh374hb.afghanestan.ir#🇨🇷 CR | 190.93.245.187
 vless://ce9dad6b-a815-44b5-8260-ff64b4d89a59@190.93.245.77:443?encryption=none&type=ws&host=ir23.weyn.ir&path=/@Shh_Proxy-Telegram,@Shh_Proxy-Telegram,@Shh_Proxy-Telegram?ed=2086&security=tls&sni=ir23.weyn.ir&allowInsecure=true#🇨🇷 CR | 190.93.245.77

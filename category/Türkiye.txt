@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#🇹🇷 TR | 62.60.233.226
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidW52RDF6djc4YUdWak4yc2hCeHZVbi1IS210WGpzZQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCA0NS4xNDEuMTQ4LjE0MyIsImFkZCI6IjQ1LjE0MS4xNDguMTQzIiwicG9ydCI6NTA1OSwiaWQiOiJlNzIwZDJiNi04MGRkLTQ2NjQtYjY0ZS02Y2M3ODRiY2UzMjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYm1pLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiPj5ARGFpbHlWMlJZOjpUUjo6VFI6OlRSIn0=
-vless://3dbea962-1e67-4008-8c07-c84a819b5bc8@77.83.245.173:33369?security=reality&encryption=none&pbk=szWk094FkncOx87ZSq4De5nU-1l0BLxikzvfUT5Dhms&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=3b05335afef11254#🇹🇷 TR | 77.83.245.173
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇹🇷 TR | 94.131.123.167
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#🇹🇷 TR | 62.60.233.226
