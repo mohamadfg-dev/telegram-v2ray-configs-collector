@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#🇳🇱 NL | 185.68.246.90
+vless://db2e182d-ef08-4cca-9ecb-23bbf772a31c@ge1-dtc1.mlgolden.store:6010?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 88.218.16.166
+vless://db2e182d-ef08-4cca-9ecb-23bbf772a31c@ge1-dtc1.mlgolden.store:6010?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 88.218.16.166

@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵 JP | 168.138.192.16
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.230.107.234:53780?security=tls&sni=jpc.ylks01.eu.org&type=ws&path=/#🇯🇵 JP | 150.230.107.234
