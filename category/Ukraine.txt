@@ -1,4 +1,2 @@
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@91.231.182.241:16574?security=reality&encryption=none&pbk=gO-n2qZkxjjKmCCd8e-VBH0zOIC7u8FVJN3gnySnEUc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad03f1556dfa4ed0#🇺🇦 UA | 91.231.182.241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#🇺🇦 UA | 163.171.137.76
 vless://82d20eb4-0ff5-4175-967e-a6c3370ff8dd@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
 vless://ca720437-9792-45f4-8bab-1837a17bed66@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
