@@ -1,5 +1,6 @@
 vless://25f828ef-fc93-446c-a7d5-e3fe6fe6a662@65.109.188.104:27759?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.188.104
 vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.186.96
+vless://e821a4aa-5892-4feb-bf76-a127cb3a2e56@144.31.19.3:8443?security=reality&encryption=none&pbk=luT4YDul5FI4hOdnV14CDyYTjdiYwRPRW3C149baYFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=b7816d8b#🇫🇮 FI | 144.31.19.3
 vless://32778a17-0356-c04e-2935-bc77a8b3f4b2@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
 vmess://eyJhZGQiOiJkdWRlLm5pY2FtZS5zcGFjZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MTI5NmMxNi1lMjRiLWM0ODYtY2U2OS1hOWI5MzE5NjJiZDAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExNTU5IiwicHMiOiLwn4er8J+HriBGSSB8IDk1LjIxNi4xODAuNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

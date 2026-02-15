@@ -1,5 +1,4 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇺🇦 UA | 89.116.180.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#🇺🇦 UA | 163.171.137.76
 vless://82d20eb4-0ff5-4175-967e-a6c3370ff8dd@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
 vless://ca720437-9792-45f4-8bab-1837a17bed66@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#🇺🇦 UA | 93.185.165.50
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇺🇦 UA | 89.116.180.238
