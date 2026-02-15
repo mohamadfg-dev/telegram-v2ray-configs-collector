@@ -1,1 +1,2 @@
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI#🇵🇱 PL | 144.31.3.162
+ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443#🇵🇱 PL | 54.36.174.140
+vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yandex.ru&fp=edge&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&type=tcp&headerType=none#🇵🇱 PL | 144.31.3.250
