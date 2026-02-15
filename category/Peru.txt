@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#🇵🇪 PE | 138.186.143.32
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.66:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🇵🇪 PE | 154.219.5.66
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.66:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🇵🇪 PE | 154.219.5.66

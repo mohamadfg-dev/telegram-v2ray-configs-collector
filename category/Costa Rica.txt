@@ -1,2 +1,1 @@
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#🇨🇷 CR | 190.93.245.94
 vless://ce9dad6b-a815-44b5-8260-ff64b4d89a59@190.93.245.77:443?encryption=none&type=ws&host=ir23.weyn.ir&path=/@Shh_Proxy-Telegram,@Shh_Proxy-Telegram,@Shh_Proxy-Telegram?ed=2086&security=tls&sni=ir23.weyn.ir&allowInsecure=true#🇨🇷 CR | 190.93.245.77
