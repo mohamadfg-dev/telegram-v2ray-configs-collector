@@ -1,2 +1,3 @@
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
+vless://5dc07e5e-59dd-41f2-96b1-e8a8133a0dbc@tw3.miyazono-kaori.com:38355?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=SHxJvBnoYzKJI2KphnyStiT7vJE1EXHSenPf0ZVQtD4&sid=ed0b4abd06d6&sni=www.wistron.com&servername=www.wistron.com&spx=/&fp=chrome#🇹🇼 TW | 43.212.200.29

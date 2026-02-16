@@ -1,1 +1,1 @@
-vless://a4f8e65c-4d09-424d-8a79-f823dc6fca7a@tr.aiserver.pro:23894?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 91.132.51.173
+vless://13ea7a1d-d23a-49b1-8704-31073c3a3395@Z12.prodnsspeed10.ir:443?security=tls&type=xhttp&headerType=&path=/&host=tetstd.followerarzon1.com&mode=auto&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&sni=tetstd.followerarzon1.com&fp=firefox&alpn=h2,http/1.1#🇹🇷 TR | 45.194.11.87
