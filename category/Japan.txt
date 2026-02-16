@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?sni=www.nintendogames.net&path=/#🇯🇵 JP | 160.16.132.38
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🇯🇵 JP | 153.121.65.107
+vless://81e596e2-09b2-4a5a-baac-6b3c8953bb23@tcp.ap-northeast-1.clawcloudrun.com:46665?mode=auto&path=-in&security=reality&encryption=none&pbk=RnWpr6xrNxEPQqLHtF5H1zu5wveqn7MaC9YFe3FyFWA&fp=chrome&spx=/&type=xhttp&sni=www.amazon.com&sid=2fc9554ac99cbe#🇯🇵 JP | 47.79.37.186
+vless://82376104-9411-4a00-9451-713e46ae592b@54.248.75.19:443?security=tls&sni=viuik.il.ip-ddns.com&alpn=&fp=random&type=ws&host=viuik.il.ip-ddns.com&path=/proxyip=ProxyIP.US.CMLiussss.net&fragment=1,40-60,30-50,tlshello&encryption=none#🇯🇵 JP | 54.248.75.19
