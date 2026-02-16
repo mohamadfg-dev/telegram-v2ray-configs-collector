@@ -1,2 +1,1 @@
-vless://fa-397456379-1771011336319933@193.124.254.242:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=d1d42381ba35#🇱🇻 LV | 193.124.254.242
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.194:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇱🇻 LV | 37.128.207.194
+vless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?security=reality&encryption=none&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ead461#🇱🇻 LV | 31.170.22.193
