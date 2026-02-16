@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRmUtLUIyWjE1Qm1rUDRMQ1otMTFNb3lMTERheWVkcg==@138.124.118.94:8080#🇫🇮 FI | 138.124.118.94
 vless://18f72be7-0651-4037-928b-8a309d685796@game.pineappled.org:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇫🇮 FI | 194.34.132.15
 vless://32778a17-0356-c04e-2935-bc77a8b3f4b2@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178
 vless://896f6d8c-eef2-98ba-899c-a13bbdb7a345@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.182.178

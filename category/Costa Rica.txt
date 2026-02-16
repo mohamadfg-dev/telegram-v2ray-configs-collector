@@ -1,1 +1,1 @@
-vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ServerDL-FrankM2.NetSnap.ir#🇨🇷 CR | 2803:f800:50::6ca2:c1f9
+vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:8880?path=/PHPmyADMIN?Q=/www.speedtest.net-www.speedtest.net-www.speedtest.net-chatgpt.com-chatgpt.com-chatgpt.com-www.openai.com-www.openai.com-www.openai.com?ed=443&security=none&encryption=none&host=sw-node-m2.ip-venzo.com.&type=httpupgrade#🇨🇷 CR | 2803:f800:50::6ca2:c1f9
