@@ -1,1 +1,2 @@
-vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&type=tcp &encryption=none#🇩🇪 DE | 3.79.57.168
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&type=tcp &encryption=none#🏴‍☠️ UN | s5.daneshvardost.com
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&type=tcp &encryption=none#🇮🇷 IR | 85.133.195.193
