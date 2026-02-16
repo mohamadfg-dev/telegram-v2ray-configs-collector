@@ -1,2 +1,5 @@
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#🇹🇷 TR | 77.83.245.169
+vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#🇹🇷 TR | 77.83.245.169
 vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇹🇷 TR | 94.131.123.167
 vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@155.103.70.150:1039?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 155.103.70.150
