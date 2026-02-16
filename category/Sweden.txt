@@ -1,3 +1,4 @@
 vless://fa-397456379-1771064637182567@78.40.116.73:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d1d42381ba35#🇸🇪 SE | 78.40.116.73
+vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=firefox&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#🇸🇪 SE | 90.230.214.134
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 SE | 90.230.214.134
