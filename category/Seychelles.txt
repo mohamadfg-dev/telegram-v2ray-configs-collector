@@ -4,3 +4,5 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@45.130.125.107:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=cdn-no.lopzo.ir#🇸🇨 SC | 45.130.125.107
 vless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#🇸🇨 SC | 45.130.125.160
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#🇸🇨 SC | 45.130.125.160
+vless://372634ae-d2b2-4902-a568-179cdf2b16e9@F1.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#🇸🇨 SC | 45.130.125.160
+vless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=/&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#🇸🇨 SC | 45.130.125.160
