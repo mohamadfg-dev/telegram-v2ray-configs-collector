@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443#🇵🇱 PL | 54.36.174.140
-vless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#🇵🇱 PL | 144.31.3.162
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#🇵🇱 PL | 89.223.93.176

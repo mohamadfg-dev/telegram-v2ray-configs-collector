@@ -1,5 +1,5 @@
 vmess://eyJhZGQiOiI0NS4xNDEuMTQ4LjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm1pLmlyIiwiaWQiOiJlNzIwZDJiNi04MGRkLTQ2NjQtYjY0ZS02Y2M3ODRiY2UzMjkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjUwNTkiLCJwcyI6IvCfh7nwn4e3IFRSIHwgNDUuMTQxLjE0OC4xNDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@45.144.214.133:2876?security=&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.144.214.133
+vless://8c988ec7-ebcd-4161-a3cb-dfe97333528a@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
+vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#🇹🇷 TR | 94.131.123.167
 vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@155.103.70.150:1039?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 155.103.70.150
-vless://8a6d8bbc-dc5f-4ed6-835f-f45ab3a34f7b@62.133.63.18:29327?security=reality&encryption=none&pbk=hbPAXrGZuxDxygy_GMohS8EfLTZSMtLsMS3WuAT8OEM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=4e426c414b1de074#🇹🇷 TR | 62.133.63.18

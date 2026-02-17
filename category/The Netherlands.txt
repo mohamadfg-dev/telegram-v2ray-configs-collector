@@ -1,5 +1,5 @@
-vless://54a41073-e798-488b-af16-28533e612ec1@id.fasti.win:91?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=id.fasti.win#🇳🇱 NL | 50.7.176.72
 vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?type=httpupgrade&host=www.time.ir&path=@CHANGE_IP1#🇳🇱 NL | 77.73.132.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 NL | 82.38.31.176
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.87.3.224:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇳🇱 NL | 45.87.3.224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#🇳🇱 NL | 82.38.31.61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🇳🇱 NL | 82.38.31.35
