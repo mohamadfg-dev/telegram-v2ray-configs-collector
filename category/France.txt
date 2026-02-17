@@ -1,9 +1,7 @@
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.64.105:8443?path=/?ed=2560&Telegram🇨🇳+@FooTNooD&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇫🇷 FR | 162.19.64.105
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA1LjE5Ni4yOS4xMjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://telegram-id-privatevpns@51.44.195.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.22
+trojan://telegram-id-directvpn@35.181.242.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.242.3
 trojan://telegram-id-privatevpns@35.181.242.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.242.3
 vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@maxa08.azmoonf.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🇫🇷 FR | 51.91.199.243
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.237.40.110:443#🇫🇷 FR | 15.237.40.110
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.22:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.44.195.22
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.242.3:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 35.181.242.3
+vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#🇫🇷 FR | 162.19.10.94
