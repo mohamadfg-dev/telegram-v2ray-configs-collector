@@ -1,4 +1,4 @@
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=🔒 [By EbraSha] &allowInsecure=1&type=tcp&fp=chrome#🇯🇵 JP | 18.183.109.29
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=🔒 [By EbraSha] &allowInsecure=1&type=tcp&fp=chrome#🇯🇵 JP | 18.183.109.29
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@172.105.199.111:8080#🇯🇵 JP | 172.105.199.111
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha]#🇯🇵 JP | 18.183.109.29
-vless://68e87166-bcc2-4c89-bb1b-10dc84d5df9b@sgskb.osaip.net:25055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=0&sni=#🇯🇵 JP | 195.172.138.71
