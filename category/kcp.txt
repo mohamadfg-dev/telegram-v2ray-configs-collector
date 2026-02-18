@@ -1,1 +1,1 @@
-vless://2dd15683-8497-4280-9d9d-3b6f2152a95d@185.244.192.101:53?security=none&seed=2aQQcsRKHi&encryption=none&headerType=dns&type=kcp#🇩🇪 DE | 185.244.192.101
+vless://rootface-TELEGRAM@[0:0:0:0:0:ffff:08d2:9410]:2086?security=none&seed=rootface -> @rootface telegram&encryption=none&headerType=none&type=kcp#🏴‍☠️ UN | [::ffff:8d2:9410]
