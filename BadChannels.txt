@@ -1,4 +1,3 @@
-https://t.me/s/config_fre
 https://t.me/s/AchaVPN
 https://t.me/s/Artemisvpn1
 https://t.me/s/heyatserver
@@ -6,6 +5,7 @@ https://t.me/s/heyatserver
 https://t.me/s/alfred_config
 https://t.me/s/ana_service
 https://t.me/s/apple_x1
+https://t.me/s/argo_vpn1
 https://t.me/s/asak_vpn
 https://t.me/s/awlix_ir
 https://t.me/s/azarbayjab1
@@ -13,11 +13,9 @@ https://t.me/s/bislullproxy
 https://t.me/s/bislullproxy
 https://t.me/s/black_vpn1
 https://t.me/s/configms
-https://t.me/s/configology
 https://t.me/s/configscenter
 https://t.me/s/confing_chanel
 https://t.me/s/daily_configs
-https://t.me/s/entrynet
 https://t.me/s/farstar_vpn
 https://t.me/s/fastvpnorummobile
 https://t.me/s/freeconfigsplus
@@ -106,7 +104,6 @@ https://t.me/s/v2ray_sub
 https://t.me/s/v2ray_tz
 https://t.me/s/v2rayargon
 https://t.me/s/v2rayng_fars
-https://t.me/s/v2rayng_fast
 https://t.me/s/v2rayng_matsuri
 https://t.me/s/v2rayngcloud
 https://t.me/s/v2rayngn
@@ -122,6 +119,7 @@ https://t.me/s/v2source
 https://t.me/s/v2trayproxy
 https://t.me/s/v2trayproxy
 https://t.me/s/vip_vpn_2022
+https://t.me/s/vipv2rayngnp
 https://t.me/s/vmessiran
 https://t.me/s/vmessiran
 https://t.me/s/vmessorg
