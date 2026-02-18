@@ -1,1 +1,2 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.138:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#undefined CW | 5.10.246.138
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳@wangcai2#undefined CW | 5.10.246.138

@@ -1,2 +1,1 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c15b
-vless://cb71f4a4-0194-4c10-9300-e2ce885665bb@G3.PRODNSSPEED10.IR:443?security=tls&type=xhttp&headerType=&path=/&host=&mode=auto&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&sni=SHARAF.followerarzon1.com&fp=#🇨🇷 CR | 190.93.245.187
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c15b

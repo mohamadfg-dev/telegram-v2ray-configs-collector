@@ -6,4 +6,4 @@ vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?mode=stream-up&path=
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@Rocket.silenceux.ir:2087?path=/?ed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#🇸🇨 SC | 45.130.125.26
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#🇸🇨 SC | 45.130.125.160
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=ipv4.yasharteam.com#🇸🇨 SC | 45.130.125.160
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp¬e=@FreeOnlineVPN#🇸🇨 SC | 45.130.125.160
+vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=/Net3rffws&security=tls&encryption=none&host=fi.unoix.io&fp=chrome&type=ws&sni=fi.unoix.io#🇸🇨 SC | 45.130.125.160
