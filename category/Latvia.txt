@@ -1,2 +1,1 @@
-vless://e460f6fd-44ca-43dc-b6d5-227551d80bf5@tres.get-tres.ru:62445?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI#🇱🇻 LV | 62.60.234.77
-vless://d70b85bc-b9a1-47b7-bcd1-7ae663dc6423@yul3r.stream-room.com:8443?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI#🇱🇻 LV | 104.165.205.39
+vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇱🇻 LV | 169.40.2.234

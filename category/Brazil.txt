@@ -1,2 +1,1 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#🇧🇷 BR | 45.194.53.238
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#🇧🇷 BR | 77.111.101.80
