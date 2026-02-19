@@ -1,2 +1,5 @@
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#🇸🇪 SE | 62.182.196.134
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 SE | 78.72.230.213
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=firefox&type=tcp&sni=mtalk.google.com&sid=a62d513cd709744a#🇸🇪 SE | 81.225.121.149
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 SE | 81.225.121.149
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none#🇸🇪 SE | 62.182.196.134

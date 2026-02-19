@@ -1,10 +1,9 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.223.220:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇫🇷 FR | 141.94.223.220
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.42.60.128:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳 @WangCai2#🇫🇷 FR | 193.42.60.128
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCA1LjE5Ni4yOS4xMjMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://telegram-id-directvpn@15.237.153.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.153.245
 trojan://telegram-id-directvpn@13.36.129.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.129.164
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷 FR | 51.178.114.83
+trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.129.164
 vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@maxa08.azmoonf.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#🇫🇷 FR | 51.91.199.243
-ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112:18292#🇫🇷 FR | 195.154.202.112
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.153.245:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.153.245
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.129.164:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.129.164
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#🇫🇷 FR | 162.19.10.94
