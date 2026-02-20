@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRkxHc3ZvazVXS3VZYk0wT1RhdEhr@62.133.63.21:65262#🇹🇷 TR | 62.133.63.21
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 TR | 62.133.63.167
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#🇹🇷 TR | 77.83.245.169
+vless://92aff2f0-c431-46f8-bff0-6b98acbfcba6@77.83.245.190:52221?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=9wi_VFUM6ZcAq8P2cqRpwrsejkPRjHYgYW0V3w_95So&sid=c1928700505f7bd0&spx=/&type=tcp&headerType=none#🇹🇷 TR | 77.83.245.190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#🇹🇷 TR | 94.131.123.86
 vless://15de826b-1d38-4986-9995-b6cb897c26c2@77.83.245.171:30482?security=reality&encryption=none&pbk=g_7QlKrMhvaQGQO3Z3yukNXZPQ1B67wj8TWDIUSx22I&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=25113374dc322ec0#🇹🇷 TR | 77.83.245.171
