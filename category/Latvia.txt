@@ -1,2 +1,2 @@
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@138.124.63.58:443/?type=tcp&encryption=none&flow=&security=tls&sni=lvcdn4.suio.me&allowInsecure=1#🇱🇻 LV | 138.124.63.58
-vless://fa-7055554789-1771525571155969@193.124.254.76:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=d1d42381ba35#🇱🇻 LV | 193.124.254.76
+vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇱🇻 LV | 169.40.2.234
+vless://fbc6ffba-5161-4983-88de-7c814d1b692b@169.40.2.234:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇱🇻 LV | 169.40.2.234

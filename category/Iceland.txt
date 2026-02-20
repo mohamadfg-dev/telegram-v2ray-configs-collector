@@ -1,1 +1,1 @@
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#🇮🇸 IS | 144.31.128.67
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=nlcdn12.suio.me#🇮🇸 IS | 144.31.128.67
