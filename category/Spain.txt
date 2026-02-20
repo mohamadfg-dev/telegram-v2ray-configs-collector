@@ -1,2 +1,4 @@
 vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.194:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=posit.kindling.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=posit.kindling.workers.dev#🇪🇸 ES | 185.18.250.194
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.214:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=firefox&type=ws&sni=posit.kindling.workers.dev#🇪🇸 ES | 185.18.250.214
+vless://90d41578-2041-4b68-a8eb-18f22acab21a@185.18.250.194:443?path=/ws&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=posit.kindling.workers.dev&fp=firefox&type=ws&sni=posit.kindling.workers.dev#🇪🇸 ES | 185.18.250.194
