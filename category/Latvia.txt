@@ -1,1 +1,2 @@
+vless://fa-7055554789-1771525571155969@193.124.254.76:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=d1d42381ba35#🇱🇻 LV | 193.124.254.76
 vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇱🇻 LV | 169.40.2.234
