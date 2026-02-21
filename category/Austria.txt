@@ -1,1 +1,2 @@
 vless://8b232fcd-5906-47a3-985a-7b478cd75087@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@152.53.46.3:443?security=reality&encryption=none&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=au1.scroogethebest.com&sid=9c2378562188c3cb#🇦🇹 AT | 152.53.46.3

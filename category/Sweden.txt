@@ -1,2 +1,3 @@
-vless://8b232fcd-5906-47a3-985a-7b478cd75087@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
+vless://2ab7990c-f3d4-400d-a0bd-bbdce3397f7c@185.146.173.90:8080?security=none&type=ws&host=bel.shopservices.ir.&path=/SpdNet@SpdNet@SpdNet@SpdNet@SpdNet@SpdNet?ed=2052#🇸🇪 SE | 185.146.173.90
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
+vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇸🇪 SE | 77.91.85.109
