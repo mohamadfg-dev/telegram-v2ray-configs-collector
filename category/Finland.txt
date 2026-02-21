@@ -2,5 +2,3 @@ vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none
 vless://b706a40d-fb02-4cd8-ac91-f8ecbc3f9fa8@65.109.179.195:9443?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.179.195
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.37:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#🇫🇮 FI | 45.144.53.37
 vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.156:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#🇫🇮 FI | 45.144.53.156
-vless://9b6d18ea-f2ed-4065-813d-66f9fc447718@shop2.afraserver4.top:7335?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇫🇮 FI | 37.27.86.158
-vless://9b6d18ea-f2ed-4065-813d-66f9fc447718@shop.afraserver3.top:7320?security=none&type=tcp&headerType=http&path=/&host=skyroom.online#🇫🇮 FI | 157.180.28.17

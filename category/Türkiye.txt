@@ -1,2 +1,4 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#🇹🇷 TR | 77.83.245.169
+vless://ccbb448a-5d73-4fbf-97ac-921d35a30f48@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 TR | 62.133.63.167
+vless://92aff2f0-c431-46f8-bff0-6b98acbfcba6@77.83.245.190:52221?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=9wi_VFUM6ZcAq8P2cqRpwrsejkPRjHYgYW0V3w_95So&sid=c1928700505f7bd0&spx=/&type=tcp&headerType=none#🇹🇷 TR | 77.83.245.190
