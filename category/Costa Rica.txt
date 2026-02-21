@@ -1,2 +1,1 @@
-vless://ff932085-992a-4a05-9361-6f6f9ddd56d9@190.93.244.96:2087?security=tls&sni=fb.lightningc.ir&type=ws&host=fa.lightningc.ir.&path=@mehrosaboran,@mehrosaboran&fp=chrome#🇨🇷 CR | 190.93.244.96
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c15b
