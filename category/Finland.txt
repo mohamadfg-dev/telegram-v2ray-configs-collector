@@ -1,4 +1,3 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.170.160:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@alixtso#🇫🇮 FI | 45.38.170.160
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@my.kiomars.shop:6664?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&sid=c3b6ed4da7a983c7&type=tcp&headerType=none#🇫🇮 FI | 46.62.252.187
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 157.180.28.17
-vless://18f72be7-0651-4037-928b-8a309d685796@game.pineappled.org:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇫🇮 FI | 194.34.132.15
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.91.234
