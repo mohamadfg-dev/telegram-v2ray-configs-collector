@@ -1,8 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#🇸🇪 SE | 46.246.97.140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#🇸🇪 SE | 45.80.231.75
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#🇸🇪 SE | 45.80.231.75
 vless://745d8b0e-1bf2-4921-8058-4d67dd3dbc13@91.184.240.121:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=secdn13.suio.me#🇸🇪 SE | 91.184.240.121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#🇸🇪 SE | 45.80.231.75
-vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇸🇪 SE | 77.91.85.109
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#🇸🇪 SE | 46.246.97.140
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#🇸🇪 SE | 45.80.231.75
+vmess://eyJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10YWxrLmdvb2dsZS5jb20iLCJpZCI6Ijc1MTkzYmVmLThkOGYtZTgyMy00MWUwLTJkZDA4M2RjMTM5OSIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyIsInBvcnQiOiI1MDIiLCJwcyI6IvCfh7jwn4eqIFNFIHwgOTAuMjI2LjI0LjE1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:5228?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=firefox&type=tcp&sni=mtalk.google.com&sid=a62d513cd709744a#🇸🇪 SE | 90.226.24.154
