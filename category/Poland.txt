@@ -1,1 +1,2 @@
-vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇵🇱 PL | 144.31.3.253
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.18:9043#🇵🇱 PL | 217.30.10.18
+vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
