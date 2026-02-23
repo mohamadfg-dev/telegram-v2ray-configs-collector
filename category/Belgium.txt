@@ -1,1 +1,2 @@
 vless://ed76b56c-9009-46f0-9f97-c37bf2375815@151.101.10.79:443?security=tls&encryption=none&insecure=0&host=frenchboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=frenchboijji.global.ssl.fastly.net#🇧🇪 BE | 151.101.10.79
+vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=/ws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#🇧🇪 BE | 151.101.9.67

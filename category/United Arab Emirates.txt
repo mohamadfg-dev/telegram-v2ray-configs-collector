@@ -1,1 +1,1 @@
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@144.31.128.129:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#🇦🇪 AE | 144.31.128.129
+vless://a3c624bd-3183-4f66-b1d1-35914fc9867c@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#🇦🇪 AE | 94.140.0.74
