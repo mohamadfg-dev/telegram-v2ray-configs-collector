@@ -1,1 +1,1 @@
-vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?encryption=none&security=none&type=raw&headertype=none#🇸🇬 SG | 47.82.1.12
+vless://nasnet@57.129.64.102:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-5712964102-direct.sharghdaily.co&alpn=h2,http/1.1&fp=chrome&insecure=1&type=raw&headertype=none#🇩🇪 DE | 57.129.64.102

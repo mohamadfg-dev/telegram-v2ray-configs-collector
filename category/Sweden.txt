@@ -1,1 +1,1 @@
-vless://7902dc25-ff8b-4fa4-83ff-ecef5ab3414e@se.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.connectv.net#🇸🇪 SE | 185.197.74.225
+vless://e3edc64f-b585-47b6-a8b4-6febc65a60b8@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
