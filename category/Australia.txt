@@ -1,1 +1,2 @@
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#🇦🇺 AU | 185.207.198.254
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.64:443?security=tls&sni=xint.ylks.link&type=ws&path=/blue#🇦🇺 AU | 103.169.142.64
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@cdn.zoom.us:443?path=/138.2.5.136=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇦🇺 AU | 2407:30c0:181::1

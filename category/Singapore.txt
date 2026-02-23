@@ -1,2 +1,4 @@
 vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?encryption=none&security=none&type=ws#🇸🇬 SG | 158.178.234.153
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 SG | 194.233.94.119
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.170:443?security=tls&sni=vb.ylks.link&type=ws&path=/#🇸🇬 SG | 206.238.236.170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#🇸🇬 SG | 3.1.195.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
