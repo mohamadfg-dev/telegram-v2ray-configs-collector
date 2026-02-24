@@ -1,1 +1,1 @@
-vless://a3c624bd-3183-4f66-b1d1-35914fc9867c@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#🇦🇪 AE | 94.140.0.74
+vless://dc01db14-47ea-4354-a7fb-87fd6559ac5e@fr.apikeder.ir.onvanet.com:8952?security=reality&encryption=none&pbk=R_OoHDE8DiBiroU4UrI-V5d8Dr42QgU2mlKKjpMSSBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=d3650411ff51ef76#🇦🇪 AE | 217.195.200.24

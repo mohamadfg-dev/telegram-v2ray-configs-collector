@@ -1,3 +1,1 @@
 vless://3231c3ed-fa7c-4826-9885-b335ea3aee4c@45.144.214.82:4655?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.144.214.82
-vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bce#🇹🇷 TR | 103.231.75.185
-vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
