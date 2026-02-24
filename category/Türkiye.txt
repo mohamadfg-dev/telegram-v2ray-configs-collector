@@ -1,4 +1,5 @@
-vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#🇹🇷 TR | 77.83.245.171
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bce#🇹🇷 TR | 103.231.75.185
-vless://46266db3-bd41-40d0-8975-93fa0bc48fb9@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWLUZ4d1NMalBMUjM3R21GUl81eUd0OEg1LWpEQURzWg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bce#🇹🇷 TR | 103.231.75.185
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#🇹🇷 TR | 77.83.245.171
