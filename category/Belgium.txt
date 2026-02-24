@@ -1,1 +1,3 @@
 vless://46266db3-bd41-40d0-8975-93fa0bc48fb9@113.30.152.46:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWLUZ4d1NMalBMUjM3R21GUl81eUd0OEg1LWpEQURzWg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://ed76b56c-9009-46f0-9f97-c37bf2375815@151.101.10.79:443?security=tls&encryption=none&insecure=0&host=frenchboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=frenchboijji.global.ssl.fastly.net#🇧🇪 BE | 151.101.10.79

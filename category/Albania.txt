@@ -1,1 +1,1 @@
-vless://6416708c-eaa5-4ec5-b652-a2db2feab875@78.159.131.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=f9de6b567ee0f535#🇦🇱 AL | 78.159.131.76
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱 AL | 45.15.170.237
