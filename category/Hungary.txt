@@ -1,1 +1,1 @@
-vless://bb0f3b3d-a3d1-429a-9b75-263bd9200b6f@92.61.70.38:443?security=reality&encryption=none&pbk=jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=9e0d1218f82e3630#🇭🇺 HU | 92.61.70.38
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🇭🇺 HU | 5.182.38.91
