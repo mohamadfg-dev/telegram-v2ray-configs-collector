@@ -1,4 +1,3 @@
-vless://3231c3ed-fa7c-4826-9885-b335ea3aee4c@45.144.214.82:4655?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.144.214.82
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISWlkV3dYcUI0ellMNlJtZ0tBQlVI@h110vpntr.outlinekeys.net:65262#🇹🇷 TR | 62.133.63.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷 TR | 62.133.63.167
