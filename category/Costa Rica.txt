@@ -1,1 +1,1 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?security=tls&encryption=none&type=ws&host=hetz.x-smm.com&path=/45.76.183.217=49292&sni=hetz.x-smm.com&fp=chrome#🇨🇷 CR | 2803:f800:50::6ca2:c2b0
+vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&sni=api.mtpmio.com&fp=firefox&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=api.mtpmio.com&path=/api?ed=1024#🇨🇷 CR | 2803:f800:50::6ca2:c35b
