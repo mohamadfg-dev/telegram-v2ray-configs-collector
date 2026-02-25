@@ -1,18 +1,19 @@
+vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?mode=gun&security=reality&encryption=none&authority=&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=www.google.com&sid=d239de8e#🇳🇱 NL | 194.85.249.173
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
 vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#🇮🇷 IR | 217.60.241.165
-vless://c501c66b-c6c2-456b-b604-80393b83d67f@vkcbaza.appav.online:443?type=grpc&security=reality&fp=chrome&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55&sni=eh.vk.com&mode=gun&serviceName=UpdateService&authority=#🇷🇺 RU | 95.163.182.131
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
-vless://da188aa6-f6bb-4e4e-91b7-a5dafc1d4190@web.acangame.ir:446?type=grpc&serviceName=&authority=&security=none#🏴‍☠️ UN | web.acangame.ir
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http/1.1#🏴‍☠️ UN | 154.219.5.84
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🏴‍☠️ UN | 86.38.214.52
 vless://ee3db1ee-23f7-4279-b5a2-21ff3aff7a48@tishert.motionbetter.ir:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/3lTUEFfBVvl31Gw&type=grpc&sni=www.yahoo.com&sid=4adab71b9c#🇮🇷 IR | 87.107.81.254
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#undefined HK | 45.207.156.212
-trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=/#🇬🇧 GB | 194.150.166.151
+trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=/#🏴‍☠️ UN | 194.150.166.151
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
 vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?mode=gun&security=reality&encryption=none&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&fp=chrome&type=grpc&sni=www.google.com&sid=d239de8e#🇳🇱 NL | 194.85.249.173
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
-vless://09387f07-5bf2-4486-9bb7-f49b959ed48f@5e90629662c14e89.vERtAlIsT.Ir:1310?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇩🇪 DE | 46.225.70.240
 vless://09387f07-5bf2-4486-9bb7-f49b959ed48f@safe.zdshop.ir:2053?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇸🇨 SC | 45.130.125.69
-vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#🇮🇷 IR | 62.60.214.57
+vless://09387f07-5bf2-4486-9bb7-f49b959ed48f@shield.zdshop.ir:2053?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇨🇦 CA | 198.41.215.223
+vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#🏴‍☠️ UN | 62.60.214.57
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
+vless://a41e01c3-94a3-4fd0-c1e1-e7bab798c4c0@srfremehdi-1.vahidtoni.life:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2raysrv&sni=srfremehdi-1.vahidtoni.life#🏴‍☠️ UN | srfremehdi-1.vahidtoni.life
