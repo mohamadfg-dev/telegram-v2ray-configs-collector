@@ -1,2 +1,4 @@
 vless://e42513dd-e4de-446f-a7df-2bc23db90ba1@46.8.237.61:41617?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 46.8.237.61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WUY2cHhCSG90MWt2aFkySDhudjk3LWJyTUVfeUxZZg==@138.124.118.94:8080#🇫🇮 FI | 138.124.118.94
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 157.180.28.17
