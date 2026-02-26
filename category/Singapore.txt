@@ -1,1 +1,5 @@
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 165.22.49.27
+vless://0f021ee3-772e-4e24-e0d1-415a2e4a61e1@165.22.49.27:2567?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 165.22.49.27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
+vless://53396901-1c41-4359-8581-76fdfce14219@path.xyz-my.eu.org:443/?type=grpc&encryption=none&flow=&serviceName=vless-grpc&security=tls&sni=path.xyz-my.eu.org&allowInsecure=1#🇸🇬 SG | 152.42.168.0
+vless://65e542e0-0690-4787-b7e3-a4706013097d@vps.jentago.web.id:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=/vless#🇸🇬 SG | 188.166.244.29
