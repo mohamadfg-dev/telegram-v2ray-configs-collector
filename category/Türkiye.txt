@@ -1,3 +1,2 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://ea9ba1ec-bfe7-407b-bd21-aeebc86da741@tr.tconnect.services:443?security=reality&encryption=none&pbk=C0Vzk1hw72A-hLhp6sdo61WYdsJk9g0XPxtmDHWii20&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=71e87186710e710e#🇹🇷 TR | 62.60.233.181
-vless://c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb@103.231.75.185:443?security=reality&encryption=none&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=0bce#🇹🇷 TR | 103.231.75.185
