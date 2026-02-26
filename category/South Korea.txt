@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#🇰🇷 KR | 156.244.19.94
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#🇰🇷 KR | 156.244.19.94
+vless://699fca60-533f-4436-38db-7881c2150fe2@49.238.236.13:19999?encryption=none&security=tls&sni=53e5ab44.lfree.cn.mt&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=53e5ab44.lfree.cn.mt&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719#🇰🇷 KR | 49.238.236.13

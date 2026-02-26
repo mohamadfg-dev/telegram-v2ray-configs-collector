@@ -1,2 +1,1 @@
 vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&sid=cd620180#🇱🇻 LV | 45.43.79.73
-vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?security=reality&encryption=none&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=cd620180#🇱🇻 LV | 45.43.79.73
