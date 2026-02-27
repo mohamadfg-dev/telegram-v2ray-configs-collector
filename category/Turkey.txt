@@ -1,3 +1,1 @@
 vless://93dc1ba8-475d-45ac-be97-608f16261bf2@212.64.193.14:2052?path=/&security=none&encryption=none&host=212.64.193.14&fp=firefox&type=ws#🇹🇷 TR | 212.64.193.14
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVFIgfCA0NS44OS41Mi4yMDciLCJhZGQiOiI0NS44OS41Mi4yMDciLCJwb3J0IjozOTY1MSwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwibmFtZSI6IkBjaGlsbGd1eV92cG4ifQ==
-vless://50acf092-b1ad-44d0-8121-9335e19b31d3@94.183.236.250:3310?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 94.183.236.250

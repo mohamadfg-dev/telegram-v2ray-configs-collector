@@ -1,7 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MHZ4aXlFV3pYTjJ3MGN0V2E1R1o0@77.105.141.175:9001#🇳🇱 NL | 77.105.141.175
 vless://82a76e42-309e-4866-8a58-5a652ee68966@185.124.175.130:80?security=none&type=tcp&headerType=http&path=/&host=mir-data-60.myket.ir#🇳🇱 NL | 185.124.175.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MHZ4aXlFV3pYTjJ3MGN0V2E1R1o0@77.105.141.175:9001#🇳🇱 NL | 77.105.141.175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MHZ4aXlFV3pYTjJ3MGN0V2E1R1o0@77.105.141.175:9001#🇳🇱 NL | 77.105.141.175
+vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇳🇱 NL | 185.124.175.50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#🇳🇱 NL | 82.38.31.61
-vless://Telegram🇨🇳 @WangCai2@37.153.171.28:2096?path=/sg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#🇳🇱 NL | 37.153.171.28
-vless://Telegram🇨🇳 @WangCai2@37.153.171.28:2096?path=/sg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#🇳🇱 NL | 37.153.171.28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MHZ4aXlFV3pYTjJ3MGN0V2E1R1o0@77.105.141.175:9001#🇳🇱 NL | 77.105.141.175
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#🇳🇱 NL | 82.38.31.61
