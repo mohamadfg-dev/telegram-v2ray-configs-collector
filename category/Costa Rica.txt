@@ -1,3 +1,3 @@
-vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&sni=api.mtpmio.com&fp=firefox&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=api.mtpmio.com&path=/api?ed=1024#🇨🇷 CR | 2803:f800:50::6ca2:c35b
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.245.94
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.245.94
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇨🇷 CR | 190.93.244.138
