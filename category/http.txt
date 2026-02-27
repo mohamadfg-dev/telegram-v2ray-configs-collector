@@ -1,1 +1,2 @@
-vless://726c4ac9-aaa9-4ebb-9dbf-bb7170c5fb52@70.34.202.174:12345?security=reality&sni=www.uplod.ir&type=http&fp=chrome&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&sid=8e36c7e79b74a6fa#🇸🇪 SE | 70.34.202.174
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@cvbg54.0yo.ccwu.cc:443?fp=chrome&host=cvbg54.0yo.ccwu.cc&path=/Iq3945Zsqn8vTUO56&security=tls&sni=cvbg54.0yo.ccwu.cc&type=http#🇨🇦 CA | 188.114.97.0
+vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvfgyui.0yo.ccwu.cc:443?fp=chrome&host=dcvfgyui.0yo.ccwu.cc&path=/Iq3945Zsq0HtELweVlUch&security=tls&sni=dcvfgyui.0yo.ccwu.cc&type=http#🇨🇦 CA | 188.114.97.0
