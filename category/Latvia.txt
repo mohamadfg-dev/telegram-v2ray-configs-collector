@@ -1,1 +1,1 @@
-vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&sid=cd620180#🇱🇻 LV | 45.43.79.73
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🇱🇻 LV | 31.128.34.165

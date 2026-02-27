@@ -1,1 +1,1 @@
-vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&sni=api.mtpmio.com&fp=firefox&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=api.mtpmio.com&path=/api?ed=1024#🇨🇷 CR | 2803:f800:50::6ca2:c35b
+vless://1f47ba31-eb58-4e53-ab48-77ee85a5ddbf@190.93.245.187:2083?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=gefhjb764hued.afghanestan.ir#🇨🇷 CR | 190.93.245.187
