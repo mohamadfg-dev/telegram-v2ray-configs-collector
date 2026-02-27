@@ -1,1 +1,2 @@
 vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@94.140.0.0:8080?path=/?ed=8888&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.varzesh3.svnteam-vip-fast.ip-ddns.com.&type=httpupgrade#🇦🇪 AE | 94.140.0.0
+vmess://eyJhZGQiOiJhcmlvLmpva2Vyc2hhZG93Lm9yZyIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9tYXBzL3RyYXZlbCIsIm5ldCI6InRjcCIsImhvc3QiOiJuZXNoYW4ub3JnIiwic2N5IjoiYXV0byIsImlkIjoiZTYxMDNlMmEtODM1MC00OWMyLWFjZDMtYTUwODUxODU4MmI3IiwicG9ydCI6IjYzOTM2IiwicHMiOiLwn4em8J+HqiBBRSB8IDg5LjQ0LjgwLjc5In0=
