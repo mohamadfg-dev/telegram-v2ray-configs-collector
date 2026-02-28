@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720#🇦🇺 AU | 46.250.241.55
+vless://31c3611f-7b4e-9b76-7a4a-8865d1fda463@1.1.1.1:1?security=reality&encryption=none&pbk=xkFa-UJFs3MdxYYiPjUTwDl6ZUjmEM9sB0IG7-6h-Cs&headerType=none&fp=firefox&spx=/&type=tcp&sni=telewebion.ir&sid=70d22330#🇦🇺 AU | 1.1.1.1
 vless://ece9a191-decf-4571-b9e4-8855b9bc528e@cloud1.mgolseda.ir:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=panel.tron2tron.ir&alpn=h2,http/1.1#🇦🇺 AU | 185.207.199.44
