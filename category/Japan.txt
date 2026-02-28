@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#🇯🇵 JP | 3.112.130.53
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 JP | 153.121.65.107
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=/#🇯🇵 JP | 160.16.68.250
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.17:443?security=tls&sni=zdfdf6.azurewebsites.net&type=ws&path=/#🇯🇵 JP | 20.210.64.17
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#🇯🇵 JP | 35.76.117.172
