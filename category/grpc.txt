@@ -1,11 +1,12 @@
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
 vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#🇮🇷 IR | 217.60.241.165
-vless://c5a26821-7cc2-4fcf-8e53-3ca2e6d0abfe@ip3-data.turkserver.ir:2096?security=tls&type=grpc&headerType=&serviceName=Love&authority=&mode=multi&sni=gnllmr1.turkserver.ir&fp=chrome#🏴‍☠️ UN | ip3-data.turkserver.ir
-vless://c5a26821-7cc2-4fcf-8e53-3ca2e6d0abfe@ip3-data.turkserver.ir:2096?security=tls&type=grpc&headerType=&serviceName=Love&authority=&mode=multi&sni=gukkmr1.turkserver.ir&fp=chrome#🏴‍☠️ UN | ip3-data.turkserver.ir
+vless://4bc7d558-1943-44de-bd82-56920bc9383e@144.31.234.62:444?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless&fp=chrome&sni=freede.spectrum.vu&pbk=P5eDPZNV1SGHm0DiEwpVQe4NoZMzdDdQpVxmAJpHigQ&sid=a5f8e2d1c4b9#🇩🇪 DE | 144.31.234.62
+vless://c5a26821-7cc2-4fcf-8e53-3ca2e6d0abfe@ip3-data.turkserver.ir:2096?security=tls&type=grpc&headerType=&serviceName=Love&authority=&mode=multi&sni=gnllmr1.turkserver.ir&fp=chrome#🇨🇦 CA | 172.64.152.23
+vless://c5a26821-7cc2-4fcf-8e53-3ca2e6d0abfe@ip3-data.turkserver.ir:2096?security=tls&type=grpc&headerType=&serviceName=Love&authority=&mode=multi&sni=gukkmr1.turkserver.ir&fp=chrome#🇨🇦 CA | 172.64.152.23
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@150.241.94.142:7443?security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#🇩🇪 DE | 150.241.94.142
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#🇨🇦 CA | 104.16.9.20
 vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🇮🇷 IR | 87.107.83.179
-vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🏴‍☠️ UN | 87.107.83.179
+vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🇮🇷 IR | 87.107.83.179
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880/?type=grpc&encryption=none&flow=#🇺🇸 US | 45.82.251.116
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880/?type=grpc&encryption=none&flow=#🇺🇸 US | 45.82.251.208
 trojan://2F7Pw5Jfim@91.108.248.219:23058/?type=grpc&serviceName=&authority=&security=reality&pbk=CSlw6-XDNF2ElIJNwGQZ5K6DDYSWJS87MB-3jCEcCCs&fp=chrome&sni=aws.amazon.com&sid=101827648b3b&spx=/#🇵🇱 PL | 91.108.248.219
@@ -13,11 +14,13 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&securit
 vless://V2RAXX---@V2RAXX-channel.cataba.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX/@V2RAXX#🏴‍☠️ UN | V2RAXX-channel.cataba.ir
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
+vless://b8a6083e-e41b-4aef-b85b-4b889df1d026@37.152.175.141:7720?encryption=none&security=none&type=grpc&authority=&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&mode=gun#🏴‍☠️ UN | 37.152.175.141
 vless://afbab4c1-773b-4dc3-a4e8-daddb4319679@178.17.50.239:443?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇩🇪 DE | 178.17.50.239
 vless://afbab4c1-773b-4dc3-a4e8-daddb4319679@23.26.156.104:443?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇺🇸 US | 23.26.156.104
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
-vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#🏴‍☠️ UN | grok.com
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=1&fp=chrome&type=grpc&serviceName=Love&allowInsecure=1&sni=blouck-de.gozarcloud.ir#🇨🇦 CA | 2606:4700::6812:1dea
 vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#🇮🇷 IR | 62.60.214.57
-vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🏴‍☠️ UN | 91.107.179.99
-vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🏴‍☠️ UN | 91.107.179.99
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
+vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
+vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️ UN | 40.160.6.133
+vless://407c96ce-71d0-44ea-a159-f7e47b373949@37.152.175.141:7720?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#🇮🇷 IR | 37.152.175.141
