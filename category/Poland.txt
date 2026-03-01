@@ -1,3 +1,1 @@
 trojan://2F7Pw5Jfim@91.108.248.219:23058/?type=grpc&serviceName=&authority=&security=reality&pbk=CSlw6-XDNF2ElIJNwGQZ5K6DDYSWJS87MB-3jCEcCCs&fp=chrome&sni=aws.amazon.com&sid=101827648b3b&spx=/#🇵🇱 PL | 91.108.248.219
-vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
-vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@178.17.59.41:8080?security=reality&type=tcp&headerType=&path=&host=&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&sid=#🇵🇱 PL | 178.17.59.41
