@@ -1,1 +1,1 @@
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#🇧🇿 BZ | 45.131.209.130
+vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@45.131.6.203:2096?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=finmk212.data-recive.ir&type=xhttp&allowInsecure=0&sni=finmk212.data-recive.ir#🇧🇿 BZ | 45.131.6.203

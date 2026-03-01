@@ -1,2 +1,1 @@
-vless://d68d1343-6a39-4770-9f3f-7c73c60a320c@node12.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 77.110.97.7
-vless://208fba39-203e-4bef-8a29-be88e772c3e8@185.146.173.90:80?security=none&type=ws&host=VipV2rayGod.azaronline.Org.&path=/?ed=1048#🇸🇪 SE | 185.146.173.90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#🇸🇪 SE | 45.80.231.75
