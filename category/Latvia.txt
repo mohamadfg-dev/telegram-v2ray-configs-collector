@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.34.165:2053?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#🇱🇻 LV | 31.128.34.165
+vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.229:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#🇱🇻 LV | 94.131.104.229
