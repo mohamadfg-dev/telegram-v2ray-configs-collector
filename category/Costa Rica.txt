@@ -1,2 +1,1 @@
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#🇨🇷 CR | 2803:f800:50::6ca2:c1d9
 vless://VPNCUSTOMIZE@190.93.247.155:8080?path=/?ed=2048&;security=none&;encryption=none&;host=VPNCUSTOMIZE-V2ray.列列男事的事列上赛男78.tech&;type=ws#🇨🇷 CR | 190.93.247.155
