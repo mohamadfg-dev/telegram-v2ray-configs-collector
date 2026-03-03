@@ -1,2 +1,3 @@
 vless://e5cd89aa-0f91-4ad7-81bd-3d027f17eeb5@94.183.241.159:22222?type=tcp&security=none#🇹🇷 TR | 94.183.241.159
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇹🇷 TR | 94.183.241.105
+vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 94.183.241.159
