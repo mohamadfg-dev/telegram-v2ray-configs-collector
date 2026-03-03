@@ -1,1 +1,1 @@
-vless://05a6897b-bdea-46d9-8654-89bceb208504@104.128.134.181:34816?encryption=none&security=none&type=raw&headertype=none#🏴‍☠️ UN | 104.128.134.181
+trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#🇸🇬 SG | 149.28.151.140
