@@ -1,2 +1,7 @@
 vless://ce07004d-90c5-43bd-a38e-c514a7f94ead@94.183.241.159:777?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 94.183.241.159
+vless://c9fc0f4a-183b-4cea-dc30-dd46f998a019@arshia.parvane.top:33553?type=tcp&encryption=none&path=/&headerType=http&security=none#🇹🇷 TR | 94.183.241.194
+vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#🇹🇷 TR | 94.183.241.146
+vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#🇹🇷 TR | 94.183.241.146
+vless://134df9e6-f224-4373-9439-a5ecea0fd9f7@vip.xqfire.ir:911?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.146
+vless://1af7c6b3-e35e-4a47-90e5-cb082a24e6ec@de-3-tun-single.starping1.fun:8083?security=none&allowInsecure=0&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#🇹🇷 TR | 94.183.241.43
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇹🇷 TR | 94.183.241.105
