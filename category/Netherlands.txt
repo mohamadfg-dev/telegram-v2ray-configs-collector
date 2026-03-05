@@ -1,5 +1,3 @@
-vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp#🇳🇱 NL | 212.34.142.191
-vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@146.103.102.82:80?encryption=none&path=/getWorkerUpdates&security=none&type=ws#🇳🇱 NL | 146.103.102.82
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#🇳🇱 NL | 136.244.100.113
 vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#🇳🇱 NL | 45.149.115.148
