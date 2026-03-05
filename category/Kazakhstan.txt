@@ -1,1 +1,2 @@
+vless://126e5a65-e81a-46ce-bd61-605f32f1352e@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#🇰🇿 KZ | 178.236.16.98
