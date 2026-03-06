@@ -1,1 +1,1 @@
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇦🇱 AL | 45.15.170.237
+vless://30de0562-9174-40d0-b71d-e123e6833405@45.15.170.222:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.15.170.222
