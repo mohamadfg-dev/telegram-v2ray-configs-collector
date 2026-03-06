@@ -1,1 +1,1 @@
-vless://42a7df85-0739-4760-a248-32a491abfa2a@fin01-vlr01.tcp-reset-club.net:11443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#🇦🇷 AR | 45.15.147.2
+vless://42a7df85-0739-4760-a248-32a491abfa2a@45.15.147.2:21443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🇦🇷 AR | 45.15.147.2
