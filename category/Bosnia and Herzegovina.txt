@@ -1,1 +1,2 @@
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?path=/vless/&security=none&encryption=none&type=ws#🇧🇦 BA | 45.15.178.124
+vless://53576318-dafd-4428-9ec3-d635a6521631@45.15.178.109:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇧🇦 BA | 45.15.178.109
+vless://53576318-dafd-4428-9ec3-d635a6521631@45.15.178.113:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇧🇦 BA | 45.15.178.113
