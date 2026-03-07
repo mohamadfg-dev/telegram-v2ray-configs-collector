@@ -1,2 +1,1 @@
-vless://30de0562-9174-40d0-b71d-e123e6833405@45.15.170.222:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.15.170.222
-vless://9f9f5d92-c61f-45f2-a017-babd28b91888@45.15.170.221:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.15.170.221
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5b056UTdRNnFiQzFNeDVRcEd2ZFBzSHBSc3FrdlF4aw@144.31.131.32:9443#🇦🇱 AL | 144.31.131.32
