@@ -1,2 +1,4 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#🇹🇷 TR | 203.202.232.78
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🇹🇷 TR | 185.39.204.117
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=/vpnjantit&security=none&encryption=none&type=ws#🇹🇷 TR | 185.39.204.117
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=/vpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🇹🇷 TR | 185.39.204.117
