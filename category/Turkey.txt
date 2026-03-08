@@ -1,6 +1,2 @@
-vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇹🇷 TR | 94.183.241.159
-vmess://eyJhZGQiOiJ2aWN0b3J5LmRldm1hdHQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjhmYjU5ZmMtMGVlNS00YjAxLThjMTctYmNjNDkzYjMyNGFlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7nwn4e3IFRSIHwgOTQuMTgzLjI0MS4yMzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI5NC4xODMuMjQxLjIzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNzQ5ZjI2Yy00ZDhlLTQwMGMtYjc2Ni1jNGIyZjE5ZDU5NWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HufCfh7cgVFIgfCA5NC4xODMuMjQxLjIzMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇹🇷 TR | 94.183.241.105
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.42
 vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?type=tcp&security=none#🇹🇷 TR | 94.183.241.159
