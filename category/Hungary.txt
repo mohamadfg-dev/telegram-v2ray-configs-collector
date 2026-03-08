@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#🇭🇺 HU | 141.11.203.238
+vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&sid=0a2585c3c950f29a#🇭🇺 HU | 217.13.104.112
+vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?security=reality&encryption=none&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=0a2585c3c950f29a#🇭🇺 HU | 217.13.104.112
