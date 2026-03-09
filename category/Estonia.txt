@@ -1,1 +1,1 @@
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@est.top.subtrust.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&security=reality&sid=cd11af&sni=www.apple.com&type=tcp#🇪🇪 EE | 93.123.39.218
+vless://9c7d89ae-daf3-45c2-84d6-a7447e9123f9@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇪🇪 EE | 138.124.100.216
