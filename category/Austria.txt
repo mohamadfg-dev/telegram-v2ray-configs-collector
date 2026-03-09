@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
 vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@152.53.18.126:443?encryption=none&fp=chrome&pbk=HPZgMgE84lwWqVlbLyyGXRMHPG7BxS1TFkbNsWz2nk8&security=reality&sid=d46fa6&sni=www.apple.com&type=tcp#🇦🇹 AT | 152.53.18.126
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
+vless://e04c6096-7a26-4b6b-b7b7-57818ac82a97@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103

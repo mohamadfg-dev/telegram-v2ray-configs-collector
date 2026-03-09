@@ -1,5 +1,4 @@
 vless://3f74f42d-b020-4c3b-89ff-8ec780fb8f12@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇹🇷 TR | 94.183.237.14
-vless://3f74f42d-b020-4c3b-89ff-8ec780fb8f12@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇹🇷 TR | 94.183.237.14
 vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇹🇷 TR | 94.183.241.159
 vless://d20d3881-03a0-457d-9c67-9ac480fa8d38@94.183.241.105:15254?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇹🇷 TR | 94.183.241.105
 vless://5e5d004d-b55b-4184-b3bb-7e99cd58b4da@de-1-tun-single.starping1.fun:8083?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷 TR | 94.183.241.42
