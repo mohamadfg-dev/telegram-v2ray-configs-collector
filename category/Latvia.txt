@@ -1,2 +1,1 @@
-vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@lvcdn1.suio.me:443?encryption=none&type=tcp&headerType=none&security=tls&sni=lvcdn1.suio.me#🇱🇻 LV | 144.31.129.233
-vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@lvcdn1.suio.me:443?encryption=none&type=tcp&headerType=none&security=tls&sni=lvcdn1.suio.me#🇱🇻 LV | 144.31.129.233
+vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@lvcdn1.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=lvcdn1.suio.me#🇱🇻 LV | 144.31.129.233

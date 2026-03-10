@@ -1,1 +1,1 @@
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@152.53.18.126:443?encryption=none&fp=chrome&pbk=HPZgMgE84lwWqVlbLyyGXRMHPG7BxS1TFkbNsWz2nk8&security=reality&sid=d46fa6&sni=www.apple.com&type=tcp#🇦🇹 AT | 152.53.18.126
+vless://5e8fd1a8-45d1-407a-89f2-de14d766133a@178.22.31.68:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at17.fastlanehosting.ru&type=tcp#🇦🇹 AT | 178.22.31.68
