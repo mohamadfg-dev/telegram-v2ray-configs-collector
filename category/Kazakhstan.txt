@@ -1,2 +1,1 @@
-vless://3f30096f-f421-4608-a2c3-a076b3ee1d95@185.98.7.134:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=YLbf33JM04XD1bcYNH5UApt0LRQ2sUx9abVM-oAzb2k&sid=15affa0af66dfc79&sni=yandex.kz&path=&host=#🇰🇿 KZ | 185.98.7.134
 vless://27e0d8ba-28e0-4fbd-8bfc-3ef49d6333ba@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 KZ | 91.217.10.166

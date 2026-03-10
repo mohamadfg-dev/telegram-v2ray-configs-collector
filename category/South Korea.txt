@@ -1,2 +1,2 @@
-vless://ba55ef37-c33c-4a8f-aafa-2abc85312863@146.56.100.218:25500?encryption=none&security=tls&sni=apk.arises.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=apk.arises.dynv6.net&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🇰🇷 KR | 146.56.100.218
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@116.93.199.28:21510?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#🇰🇷 KR | 116.93.199.28
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@222.110.16.126:10405?type=ws&encryption=none&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=ylnhh.cc.cd#🇰🇷 KR | 222.110.16.126
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@222.114.88.230:10769?type=ws&path=/Telegram🇨🇳@WangCai2&host=ylnhh.cc.cd&sni=ylnhh.cc.cd&fp=chrome&allowInsecure=1#🇰🇷 KR | 222.114.88.230
