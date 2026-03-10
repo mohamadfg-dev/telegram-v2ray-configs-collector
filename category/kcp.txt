@@ -1,1 +1,1 @@
-vless://5bb502b6-12f9-4dca-8ec0-c04cd5e9556e@91.107.146.86:53?security=none&seed=ilffTpPTGH&encryption=none&headerType=dns&type=kcp#🇩🇪 DE | 91.107.146.86
+vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=kcp#🇮🇷 IR | 62.60.198.57
