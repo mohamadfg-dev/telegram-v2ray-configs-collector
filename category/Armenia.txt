@@ -1,1 +1,1 @@
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e473bbc75224b9df#🇦🇲 AM | 45.15.128.75
+vless://cbe70d02-1820-43d5-aaaa-6441d0c60890@45.15.129.24:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=timeweb.cloud&type=tcp#🇦🇲 AM | 45.15.129.24
