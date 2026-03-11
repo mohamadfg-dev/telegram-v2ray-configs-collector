@@ -7,5 +7,6 @@ trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=
 trojan://telegram-id-v2rayvpnchannel@13.36.29.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.29.172
 trojan://telegram-id-v2rayvpnchannel@13.36.100.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.100.6
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.53.66:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.53.66
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#🇫🇷 FR | 51.91.173.52
 trojan://telegram-id-v2rayvpnchannel@13.36.29.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.29.172
 trojan://telegram-id-v2rayvpnchannel@13.36.100.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.100.6
