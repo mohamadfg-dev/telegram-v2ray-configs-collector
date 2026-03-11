@@ -1,67 +1,50 @@
 vless://51dfe26f-315b-4477-93a2-ec336fde111c@37.32.8.251:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=pz1.shahramv1.site#🇮🇷 IR | 37.32.8.251
-vless://f4342d93-f3e6-4e06-a94e-d79eafa8defc@meli.ertebatgoostar.ir:2096?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.139.180.140
-vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTE5MzI5YjAtNTNmNC00N2VkLThmODgtMzhjMGJiOTQ0OGNjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDEzIiwicHMiOiLwn4eu8J+HtyBJUiB8IDc5LjE3NS4xNTEuMTM0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
-vless://86a382d7-2622-4581-a455-599c70679d02@185.206.231.57:36522?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.206.231.57
-vless://ef0c3e81-5b8e-4cf8-b7d5-46932e9c9c42@37.202.248.51:3333?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.202.248.51
-vless://86a382d7-2622-4581-a455-599c70679d02@185.206.231.57:36522?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.206.231.57
-vless://6ba0d925-8a53-4f11-a7a8-03fd47b88e8c@46.38.150.10:443?security=none&encryption=none&host=aparat.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 46.38.150.10
+vless://f4342d93-f3e6-4e06-a94e-d79eafa8defc@meli.ertebatgoostar.ir:2096?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.139.180.141
+vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTE5MzI5YjAtNTNmNC00N2VkLThmODgtMzhjMGJiOTQ0OGNjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDEzIiwicHMiOiLwn4eu8J+HtyBJUiB8IDc5LjE3NS4xNTEuMTQwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.209.45
+vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇮🇷 IR | 185.26.32.251
+vless://523cece2-1be9-47e4-bcad-60def7d726d9@nothome.noeq12.site:5050?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 130.185.74.194
 vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=none&encryption=none&host=filmnet.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇮🇷 IR | 46.38.149.211
+vless://f47de597-c323-45a6-c92d-dd3b6c6f8b41@germany.digionline2.com:1003?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 95.38.54.170
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇮🇷 IR | 94.183.171.3
 vless://a80cc27a-14a6-4147-bc1b-70fcca27253d@81.12.33.175:700?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇷 IR | 81.12.33.175
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🇮🇷 IR | 78.38.246.150
 vless://3f74f42d-b020-4c3b-89ff-8ec780fb8f12@emg1.saipasamandemg1.sbs:2001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 81.12.54.163
 vless://d9183f46-83f3-4263-95e6-9cd870d77727@217.60.247.98:80?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 217.60.247.98
-vless://f099bbde-8193-46c9-b42f-392177520f02@37.32.8.38:35444?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.32.8.38
-vless://56de8b9a-6bb1-4655-badf-0497683c41ba@IR-FanAva4-AlphaOmega.AlphaOmegaVIP.IR:400/?type=tcp&headerType=none&host=www.telewebion.ir.#🇮🇷 IR | 85.133.227.218
+vless://65074e78-7974-48e1-b575-46ebf6a75646@k1.msjia8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇮🇷 IR | 213.176.6.219
+vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇮🇷 IR | 185.26.32.251
 vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.214.66
 vless://424b84b4-cd57-42eb-b1e0-5b618ffcb822@109.95.67.200:25443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇮🇷 IR | 109.95.67.200
-vless://9f4fa241-2576-40f3-ac95-8fb8400cf3ca@mail.tomandjery.eu:1001?security=reality&encryption=none&pbk=xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#🇮🇷 IR | 87.248.142.127
-vless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#🇮🇷 IR | 185.128.136.94
 vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇮🇷 IR | 37.202.232.13
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTcuMjE4LjUyLjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
+vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTcuMjE4LjUyLjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://66926652-ad9b-4fbb-9b6c-f4985c82e425@connected5.starpo5.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 185.206.92.13
 vless://6ba0d925-8a53-4f11-a7a8-03fd47b88e8c@46.38.150.10:443?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🇮🇷 IR | 46.38.150.10
-vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWJhNWVjMTktYmRlMy00ZDVlLTkwNDUtMzMzNWI3MTIxM2Q5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDE2IiwicHMiOiLwn4eu8J+HtyBJUiB8IDc5LjE3NS4xNTEuMTI2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWJhNWVjMTktYmRlMy00ZDVlLTkwNDUtMzMzNWI3MTIxM2Q5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDE2IiwicHMiOiLwn4eu8J+HtyBJUiB8IDc5LjE3NS4xNTEuMTQwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://1864aa1e-03ec-4f54-9bce-28fdd1047dd8@pm5.vhuma.com:443?encryption=none&type=tcp&headerType=http&host=bama.ir&path=/#🇮🇷 IR | 185.97.116.234
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
-vless://0275db2c-f518-43bd-ac3b-1f89bc4fbbd8@213.177.176.182:8081?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 213.177.176.182
-vless://7c7d2112-89cc-418a-8e45-d874fbc6536f@212.80.8.48:9987?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 212.80.8.48
-vless://baac1234-ad18-49db-8c5a-7c57aa0e981f@81.12.91.189:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&host=tel-@fastkanfig-tel-@fastkanfig-tel-@fastkanfig&headerType=none&fp=firefox&spx=/example&type=tcp&sni=www.git-scm.com&sid=e081d94bd1f9bd56#🇮🇷 IR | 81.12.91.189
 vless://083d769a-f913-4edd-9545-5dcdd033abf1@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇷 IR | 193.58.119.134
-vless://b583a294-4bb1-4fc2-965f-83a1c2ec1cdb@7.zaravds.cfd:22500?security=reality&encryption=none&pbk=kbMQl4k3RhWszX6EkZVPRWtbUiRZDGePfTDeNkKCBiY&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=f3e0c9#🇮🇷 IR | 85.133.196.97
-vless://bef0a890-2109-4aa1-85be-a3d8998f9de0@185.206.231.62:44744?encryption=none&type=tcp&security=none#🇮🇷 IR | 185.206.231.62
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
-vless://a5d46d5f-d79b-4258-917e-0b2abd0864fc@SuP.fideuS.EU:54444?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.134.194
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇮🇷 IR | 94.101.176.216
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.209.45
+vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇮🇷 IR | 185.26.32.251
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.148
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇷 IR | 193.58.119.134
-vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🇮🇷 IR | 193.151.155.117
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
-vless://a9dac221-fda2-44b2-8670-0fe4ee007449@viptun2.persianv2.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 5.144.132.36
-vmess://eyJhZGQiOiIxODUuMjI2LjExNi4xOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTAxNzk2ZmMtOGY1ZC00ZDFkLTkyMmUtMTEyZWMwZWVhNGUyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh67wn4e3IElSIHwgMTg1LjIyNi4xMTYuMTk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.209.45
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.209.45
 vless://3399eeda-7c5e-4251-a13c-c4a49ca00287@194.33.105.177:666?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷 IR | 194.33.105.177
 vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🇮🇷 IR | 87.107.83.179
 vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🇮🇷 IR | 87.107.83.179
+vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇮🇷 IR | 185.26.32.251
 vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@87.107.162.104:443?security=none&type=tcp&host=divarcdn.com&path=/&headerType=http#🇮🇷 IR | 87.107.162.104
-vless://1893673b-0802-445a-9b0e-7de8d9991359@khaneh.berozsho.click:443?encryption=none&type=tcp&headerType=http&host=filmnet.com&security=none#🇮🇷 IR | 212.16.86.129
-vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
-vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai,web.splus.ir,igap.net&headerType=http&type=tcp#🇮🇷 IR | 87.107.191.186
-vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 2.188.212.5
 vless://1864aa1e-03ec-4f54-9bce-28fdd1047dd8@pm5.vhuma.com:443?encryption=none&type=tcp&headerType=http&host=bama.ir&path=/#🇮🇷 IR | 37.32.12.126
 vless://bf923569-ff69-4638-b1d3-38e3348d9571@pishgaman.server11net.ir:1010?security=&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 2.189.161.222
 vless://5ac7361e-b8ba-4003-ab7e-fab74c412b92@87.107.9.98:2020?security=none&encryption=none&type=tcp#🇮🇷 IR | 87.107.9.98
-vless://a78d795d-ab77-49dd-8962-f630115f617c@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 2.188.241.144
-vless://38b816ea-4dcf-4354-8581-c8db49e73c01@sdl15.shahramv1.site:80?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.132.241
-vless://a9dac221-fda2-44b2-8670-0fe4ee007449@viptun2.persianv2.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.126.11.26
-vmess://eyJhZGQiOiIxODUuMjI2LjExNi4xOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTAxNzk2ZmMtOGY1ZC00ZDFkLTkyMmUtMTEyZWMwZWVhNGUyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh67wn4e3IElSIHwgMTg1LjIyNi4xMTYuMTk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://d3663563-d1b8-42c3-b194-f5e9ed52b4fa@st3.zlpmsa.top:21443?security=none&encryption=none&host=isna.ir&headerType=http&type=tcp#🇮🇷 IR | 85.133.195.84
-vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 94.139.180.139
+vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 95.38.209.45
+vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
 vless://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 37.32.27.97
 vmess://eyJhZGQiOiJzZXJiLnNydnRvZ28uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0OTE1ZmE4LWQyMmEtNGIxOC1iYzkzLTM1Njg2ZmVjMjYxYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiOTkwMCIsInBzIjoi8J+HrvCfh7cgSVIgfCA4MS4xMi45My4xNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&type=tcp&encryption=none&headerType=none#🇮🇷 IR | 89.44.242.222
-vless://6ba0d925-8a53-4f11-a7a8-03fd47b88e8c@46.38.150.10:443?encryption=none&security=none&type=tcp&headerType=http&host=aparat.com#🇮🇷 IR | 46.38.150.10
 vless://bb893070-c9c0-42ec-9741-3c42c2acbd5e@94.101.184.65:51302?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=pz1.shahramv1.site#🇮🇷 IR | 94.101.184.65
 vless://2947df46-35db-43cf-a3c2-b5aee2489504@g2-tun-nl.a1mshop2.xyz:22560?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🇮🇷 IR | 185.243.49.220
 vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 94.184.24.235
@@ -69,12 +52,8 @@ vless://c8c75018-26ab-4501-be3e-f7bb33ed8c57@ja3.diiginet.ir:1500?security=none&
 vless://3c942785-cd28-4751-82fc-611406da8d4d@svip-2.gopengu.ir:90?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 2.144.2.165
 vless://c299b274-101e-483d-95cb-d3fa1d9bc4e1@ns.green-gaming-company.ir:8080?security=none&type=tcp&headerType=none&path=&host=#🇮🇷 IR | 92.114.24.55
 vless://a9c9aed0-1b90-3552-8dbd-04440612e071@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 85.9.120.223
-vless://a9c9aed0-1b90-3552-8dbd-04440612e071@pro.vpsino.com:20493?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 193.151.140.145
+vless://a9c9aed0-1b90-3552-8dbd-04440612e071@pro.vpsino.com:20493?encryption=none&security=none&type=tcp&headerType=none#🇮🇷 IR | 85.9.120.223
 vless://5b1ee535-8c95-429a-846a-2214b20ba8f0@50.rexg.ir:11001?security=&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#🇮🇷 IR | 94.182.103.202
-vless://537e107f-dde5-41d4-b629-bcefa9f3cabd@h43.gettips.ir:56304?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷 IR | 185.231.113.34
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇮🇷 IR | 94.101.176.216
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🇮🇷 IR | 94.101.176.216
-vless://51dfe26f-315b-4477-93a2-ec336fde111c@37.32.8.251:443?encryption=none&security=tls&sni=pz1.shahramv1.site&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto#🇮🇷 IR | 37.32.8.251
 vless://bb893070-c9c0-42ec-9741-3c42c2acbd5e@94.101.184.65:51302?encryption=none&security=tls&sni=pz1.shahramv1.site&fp=firefox&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇮🇷 IR | 94.101.184.65
 vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 5.160.144.77
 vless://2bb5074b-8cd6-4783-b213-87078f22baaf@94.183.180.51:7777?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 94.183.180.51
@@ -84,27 +63,16 @@ vless://90826ad0-5ad0-4758-bc6f-72e029bb274d@tr.webira.net:36279?security=none&e
 vless://50c2120a-2a8a-4556-9e3b-b965dcf791cb@asan-gozar.khalilv2.com:48723?type=tcp&encryption=none&path=/&headerType=http&security=none#🇮🇷 IR | 217.198.190.120
 vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 185.226.117.160
 vless://c71575ee-4e0c-47f7-884b-2ead7fa2feaa@dl-film.digitalvortex.ir:3038?path=/&security=none&encryption=none&type=ws#🇮🇷 IR | 46.38.149.217
-vless://0d7744c1-eba9-409b-8e54-3cf8d60e2a9a@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 IR | 94.139.180.101
-vless://c61c8adb-c674-4e0c-9ccf-d0e674434efe@d1.msjia8844.site:2099?security=none&allowInsecure=0&encryption=none&type=tcp&host=cafeariel.ir&path=/&headerType=http#🇮🇷 IR | 94.101.176.216
-vless://231403ff-8615-43d5-ae2d-1935a1900709@emg5.saipasamandemg5.sbs:2005?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 109.122.251.87
-vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#🇮🇷 IR | 46.38.149.211
-vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#🇮🇷 IR | 46.38.149.211
-vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#🇮🇷 IR | 37.202.232.13
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoi8J+HrvCfh7cgSVIgfCAyMTcuMjE4LjUyLjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#🇮🇷 IR | 46.38.143.236
 vless://97fca2a8-1f53-44cd-8753-2d3d261c88ac@46.38.150.38:22560?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#🇮🇷 IR | 46.38.150.38
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🇮🇷 IR | 94.183.171.3
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=/---V2RRVIP&headerType=http&type=tcp#🇮🇷 IR | 94.183.171.3
 vless://f885a375-ddf4-4aed-b5af-3b3d6c844093@emergency5380.carpet-carpet-carped.ir:5380?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 109.122.251.89
-vless://28ddd442-f9be-43b9-a0c5-13cb6a1a3815@iran.autoinstall.ir:8069?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 109.122.240.99
+vless://28ddd442-f9be-43b9-a0c5-13cb6a1a3815@iran.autoinstall.ir:8069?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 109.122.240.102
 vless://8b3eb5a9-2f8d-435f-865d-3437b02444b6@ja1.diiginet.ir:2000?security=&encryption=none&host=reata.ir&headerType=http&type=tcp#🇮🇷 IR | 78.39.46.21
 vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&security=none&type=grpc#🇮🇷 IR | 62.60.214.57
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
 vless://b367148f-b0d1-466f-bad2-ac99fe557b85@92.114.24.9:56609?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 92.114.24.9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cgSVIgfCAxOTQuNjAuMjI4LjE5OCIsImFkZCI6InVrMS5pcmFuaXNob3BzLmNvbSIsInBvcnQiOjQ0MywiaWQiOiJiODUwN2UwZS04OWYxLTUyYjUtOWEyNC02MjYzMmNiNDBiMjgiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoibXlrZXQuaXIifQ==
-vless://c31d941d-da9a-41eb-885f-b3d3aa6ff22c@zone.no.f2zone.ir:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇮🇷 IR | 62.60.138.183
-vless://56e6bd96-4cb5-4b93-a8bc-757e02e596ab@mrtunnel1.im-mrserver110.top:59893?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇮🇷 IR | 5.160.254.237
-vless://1893673b-0802-445a-9b0e-7de8d9991359@khaneh.berozsho.click:443?encryption=none&type=tcp&headerType=http&host=filmnet.com&security=none#🇮🇷 IR | 212.16.86.129
 vless://af841f76-1d41-4d1d-9752-f5351bbd5e38@ezterar.popol.cfd:8443?path=/&security=none&encryption=none&type=ws#🇮🇷 IR | 89.42.136.166
 vless://af841f76-1d41-4d1d-9752-f5351bbd5e38@ezterar.popol.cfd:8443?encryption=none&type=ws&path=/&security=none#🇮🇷 IR | 89.42.136.166
-vless://e7ea04c6-0075-7b3f-5123-ed22c1358d9d@pro.vpsino.com:20920?security=&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.140.145
-vless://e7ea04c6-0075-7b3f-5123-ed22c1358d9d@pro.vpsino.com:20960?security=&encryption=none&host=nobitex.ir&headerType=none&type=tcp#🇮🇷 IR | 85.9.120.223
