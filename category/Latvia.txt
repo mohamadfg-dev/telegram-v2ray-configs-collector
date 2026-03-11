@@ -1,1 +1,1 @@
-vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@lvcdn1.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=lvcdn1.suio.me#🇱🇻 LV | 144.31.129.233
+vless://1401682c-0e47-4eb9-b5ab-98243655be9b@lv.telega.store:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=bX4qw2Yq0pg-gzsFtZdw5aD_oU838fH-38N6B77V8G0&sid=9affa3ac08531e68&sni=www.apple.com#🇱🇻 LV | 91.203.70.74
