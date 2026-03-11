@@ -1,1 +1,3 @@
+vless://7a9e7808-002e-4255-9a48-a7035fb8cdc4f@185.36.52.251:8585?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 185.36.52.251
+vless://7a9e7808-002e-4255-9a48-a7035fb8cdc4f@185.36.52.251:8585?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 185.36.52.251
 vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#🇮🇹 IT | 199.232.142.79
