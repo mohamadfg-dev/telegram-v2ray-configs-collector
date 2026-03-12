@@ -1,6 +1,4 @@
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&encryption=none&path=/&host=&security=none#🇹🇷 TR | 212.87.198.108
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&encryption=none&path=/&host=&security=none#🇹🇷 TR | 212.87.198.108
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=/&security=none&encryption=none&type=ws#🇹🇷 TR | 212.87.198.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@144.31.130.100:4494#🇹🇷 TR | 144.31.130.100
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&encryption=none&path=/&host=&security=none#🇹🇷 TR | 212.87.198.108

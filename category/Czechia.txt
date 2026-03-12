@@ -1,1 +1,2 @@
-vless://4a098f1e-c449-4061-8b95-70ae594d3458@46.8.113.237:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇿 CZ | 46.8.113.237
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaWtuNWdQSnROWnF1ck5CUHNwRUR6@45.12.109.198:24604#🇨🇿 CZ | 45.12.109.198
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaWtuNWdQSnROWnF1ck5CUHNwRUR6@45.12.109.198:24604#🇨🇿 CZ | 45.12.109.198
