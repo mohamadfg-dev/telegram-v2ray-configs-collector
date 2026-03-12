@@ -1,1 +1,4 @@
 vless://ece9a191-decf-4571-b9e4-8855b9bc528e@cloud1.mgolseda.ir:443?encryption=none&type=xhttp&mode=auto&path=/&security=tls&fp=chrome&sni=panel.tron2tron.ir&alpn=h2,http/1.1#🇦🇺 AU | 185.207.199.44
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=chrome#🇦🇺 AU | 103.73.65.187
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=/danfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#🇦🇺 AU | 103.73.65.187
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?security=tls&encryption=none&type=ws&host=snippet.fgfw.indevs.in&path=/danfeng&sni=snippet.fgfw.indevs.in&fp=chrome#🇦🇺 AU | 103.73.65.187
