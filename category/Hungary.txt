@@ -1,2 +1,1 @@
-vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sun6-22.userapi.com&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&sid=0a2585c3c950f29a#🇭🇺 HU | 217.13.104.112
-vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?security=reality&encryption=none&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=0a2585c3c950f29a#🇭🇺 HU | 217.13.104.112
+vless://2348232c-8e5f-472c-8861-600972d3d3d8@217.13.105.1:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=eh.vk.com&pbk=ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ&sid=0669a3e6b300d069&spx=/#🇭🇺 HU | 217.13.105.1
