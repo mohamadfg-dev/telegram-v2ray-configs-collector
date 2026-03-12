@@ -1,1 +1,1 @@
-vless://1401682c-0e47-4eb9-b5ab-98243655be9b@lv.telega.store:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=bX4qw2Yq0pg-gzsFtZdw5aD_oU838fH-38N6B77V8G0&sid=9affa3ac08531e68&sni=www.apple.com#🇱🇻 LV | 91.203.70.74
+vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.225:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#🇱🇻 LV | 94.131.104.225
