@@ -1,8 +1,9 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06c2xmUTNzVmprcVVyZ0ZQTk5mSkZtaXpCQ2ZOWGhiWVIreko4TEJlM243UT0@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
+vless://41d576fb-a9a2-4c57-bb32-73427cd3d31a@77.42.67.4:47141?type=tcp&encryption=none&security=reality&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&fp=chrome&sni=www.cloudflare.com&sid=f4fa9f410d7134ea&spx=/#🇫🇮 FI | 77.42.67.4
+trojan://Yr6a2AD8P4@95.216.238.249:35153?security=none&headerType=none&type=tcp#🇫🇮 FI | 95.216.238.249
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06c2xmUTNzVmprcVVyZ0ZQTk5mSkZtaXpCQ2ZOWGhiWVIreko4TEJlM243UT0@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06c2xmUTNzVmprcVVyZ0ZQTk5mSkZtaXpCQ2ZOWGhiWVIreko4TEJlM243UT0@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
-vless://8bdf6e35-064f-4d1d-a547-ede3769e78d4@77.42.67.4:8443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.PDuirO86TI_G0f2I0oJEFrbqYddOTMH9LnYN8RZel1Q&security=reality&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&fp=chrome&sni=www.cloudflare.com&sid=f4fa9f410d7134ea&spx=/&flow=xtls-rprx-vision#🇫🇮 FI | 77.42.67.4
+vmess://eyJhZGQiOiIxMzUuMTgxLjM1LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiMmFhYzc3ZGUtYjNlNC00MDE3LTg0NWMtY2ExMzgwZjJlOGQwIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RlbGVncmFtLWlkLUBwcml2YXRldnBucyIsInBvcnQiOiI4MCIsInBzIjoi8J+Hq/Cfh64gRkkgfCAxMzUuMTgxLjM1LjE2OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0=@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.82.68
 vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.208.248

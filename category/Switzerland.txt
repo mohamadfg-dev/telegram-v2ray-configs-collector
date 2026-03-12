@@ -1,1 +1,1 @@
-vless://27e0d8ba-28e0-4fbd-8bfc-3ef49d6333ba@213.176.18.99:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=telegavpn.com&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇨🇭 CH | 213.176.18.99
+vless://553faafb-9d5e-4986-a2ab-450ad9fc6a3f@90909.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#🇨🇭 CH | 83.228.220.126
