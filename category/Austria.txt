@@ -1,1 +1,1 @@
-vless://5e8fd1a8-45d1-407a-89f2-de14d766133a@178.22.31.68:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at17.fastlanehosting.ru&type=tcp#🇦🇹 AT | 178.22.31.68
+vless://4cf44737-3a4b-4402-9d1b-b3ead02efd73@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
