@@ -1,1 +1,1 @@
-vless://4cf44737-3a4b-4402-9d1b-b3ead02efd73@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.46.200:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=at.jojack.ru&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=8dc4fccb2bcfc99d#🇦🇹 AT | 152.53.46.200
