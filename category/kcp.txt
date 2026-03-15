@@ -1,1 +1,1 @@
-vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=kcp#🇮🇷 IR | 62.60.198.57
+vless://70696022-3905-4fb3-bdb5-c671b26ec355@185.44.114.249:443?encryption=none&type=kcp&headerType=none&security=none#🇮🇷 IR | 185.44.114.249
