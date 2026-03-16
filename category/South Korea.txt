@@ -1,1 +1,2 @@
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@210.105.224.42:10840?path=/Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#🇰🇷 KR | 210.105.224.42
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAzLjM4LjE1Mi4xMiIsImFkZCI6IjMuMzguMTUyLjEyIiwicG9ydCI6ODY4NiwiaWQiOiIxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJlbmQtZ2Z3LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiYmFpZHUuY29tIiwiYWxsb3dJbnNlY3VyZSI6MX0=
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@146.56.157.15:18788?encryption=none&security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#🇰🇷 KR | 146.56.157.15
