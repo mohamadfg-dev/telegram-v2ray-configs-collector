@@ -1,2 +1,3 @@
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@45.76.146.145:443?plugin=v2ray-plugin;mode=websocket;path=14b02e2a-8930-4afb-8412-ea4a4954ca5b/?ed=2560;mux=0;skip-cert-verify=true;host=ylnhh.us.ci;tls;sni=Telegram🇨🇳 @WangCai2#🇸🇬 SG | 45.76.146.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.76.146.145:443#🇸🇬 SG | 45.76.146.145
