@@ -1,1 +1,2 @@
-vless://70ea6634-c619-4cc5-b0ba-547544887eaf@155.212.229.166:8083?type=tcp&sni=www.apple.com&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&sid=425ba80cd1a821a8&flow=xtls-rprx-vision&allowInsecure=1#🇱🇻 LV | 155.212.229.166
+vless://cadadce7-0daa-44c1-9f7a-05fe4ebcbb30@194.36.39.134:8443?security=reality&flow=xtls-rprx-vision&sni=rbc.ru&type=tcp&fp=random&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#🇱🇻 LV | 194.36.39.134
+vless://7dc5d455-5ce5-4d6a-a9fa-ba69132133c7@155.212.229.166:8083?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&sid=425ba80cd1a821a8&sni=www.apple.com#🇱🇻 LV | 155.212.229.166
