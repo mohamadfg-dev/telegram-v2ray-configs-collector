@@ -1,1 +1,1 @@
-vless://cbe70d02-1820-43d5-aaaa-6441d0c60890@45.15.129.24:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=timeweb.cloud&type=tcp#🇦🇲 AM | 45.15.129.24
+vless://23726e09-b1a7-4e9c-b025-7260b2fb70ec@2.56.205.214:45373?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 AM | 2.56.205.214
