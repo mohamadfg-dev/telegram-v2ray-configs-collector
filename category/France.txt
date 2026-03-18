@@ -9,5 +9,3 @@ trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&secu
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlIgfCAyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJ0eXBlIjoibm9uZSIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ij9lZD0yMDQ4IiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🇫🇷 FR | 35.181.181.24
 trojan://telegram-id-v2rayvpnchannel@15.224.3.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.3.38
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.3.38:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.3.38
-trojan://telegram-id-v2rayvpnchannel@15.224.3.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.3.38
