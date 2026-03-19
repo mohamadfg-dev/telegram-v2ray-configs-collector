@@ -1,2 +1,2 @@
+vless://b439942e1c8949ce924fd0adbbaead2e@62.133.63.232:8443?encryption=none&type=xhttp&path=/x&security=reality&sni=apple.com&pbk=Gn5B-kDUFfIM5jvQ17Braem7nlJyG4QaPA1OVUCwyx0&sid=aabbccdd&fp=random#🇹🇷 TR | 62.133.63.232
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNWUtQ0Jwb2ZLR1g3YVRBbkhRS25jTWJNVkFNdmpITQ==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
