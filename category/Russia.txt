@@ -1,3 +1,4 @@
-vless://c6210586-6fd3-405a-905e-de7fb2d68d96@193.233.49.120:34046?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&security=reality&sid=de636ea175ff8ccc&sni=www.vk.com&type=tcp#🇷🇺 RU | 193.233.49.120
+vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇷🇺 RU | 194.50.169.28
+vless://22fc4701-8c86-4d4f-a858-8f5921d83977@51.250.41.20:443?security=reality&encryption=none&pbk=Wo4XW_RPWDMoOvLYVpm3xaELpl6m8-pDQKR6fIg91VQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=a6a75cbb895d3446#🇷🇺 RU | 51.250.41.20
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
