@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw==@144.31.1.106:4495#🇵🇱 PL | 144.31.1.106
-vless://d4f7c8b2-1e3a-4c9f-9b7e-8a2d4f6c1b33@193.34.213.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_n7tNMmfyWhqLNMixVa8zKyq8tEKoc7nfv-Nap2Ft0w&sid=a1b2c3d4e5f6&type=tcp#🇵🇱 PL | 193.34.213.113
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw==@144.31.1.106:4495#🇵🇱 PL | 144.31.1.106
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw==@144.31.1.106:4495#🇵🇱 PL | 144.31.1.106
 vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
