@@ -1,3 +1,2 @@
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df#🇵🇱 PL | 45.15.128.75
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@auto.poland.ray-vpn.ru:4495#🇵🇱 PL | 144.31.1.103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw@auto.poland.ray-vpn.ru:4495#🇵🇱 PL | 144.31.1.106
 vless://6e1d4809-78a9-45b3-804f-1b1b0aab8d92@tamad2.tarikhtamadonha.ir:443?mode=auto&path=/digikala.com/login/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=panel.copmacil.ir#🇵🇱 PL | 45.144.51.246
