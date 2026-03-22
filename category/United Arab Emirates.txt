@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxODguMjA4LjExMC40NSIsImFkZCI6ImNnMWMxNS53YWltYW9qZC5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQzNzhhNjdlLWQyNzctNDRiNS1hOTliLWE5NDdmZmYxZWUyMSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJob3N0IjoiY2cxYzE1LndhaW1hb2pkLmNvbSIsInRscyI6InRscyJ9
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@ae.cdn.stun.su:443?security=reality&encryption=none&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ae.cdn.stun.su&sid=41a0b29e95aaea87#🇦🇪 AE | 38.180.26.28

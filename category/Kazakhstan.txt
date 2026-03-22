@@ -1,2 +1,1 @@
-vless://0509acee-63e3-4364-95cc-21c601f059be@82.41.30.190:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=booking.com&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4#🇰🇿 KZ | 82.41.30.190
-vless://1fb78ef8-7bf0-47fe-bf74-eeffea5b0fad@82.41.30.205:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 KZ | 82.41.30.205
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=data-sm12.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-sm12.netsnap.ir#🇰🇿 KZ | 31.43.179.108
