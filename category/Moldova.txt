@@ -1,1 +1,2 @@
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@2.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#🇲🇩 MD | 144.31.131.229
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.67.229.119:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&sid=a1b2c3d4&sni=sun6-21.userapi.com#🇲🇩 MD | 45.67.229.119
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.67.229.119:2443?type=grpc&security=reality&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&sid=a1b2c3d4&sni=eh.vk.com&mode=gun&serviceName=TestChatGRPC#🇲🇩 MD | 45.67.229.119
