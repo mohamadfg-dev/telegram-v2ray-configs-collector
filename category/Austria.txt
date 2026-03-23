@@ -1,2 +1,1 @@
-vless://2e04f214-3d5c-4c85-a96b-86b522414461@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.252:2053?security=tls&type=ws&path=/danfeng&host=snippet.danfeng.gv.uy&alpn=http/1.1&sni=snippet.danfeng.gv.uy&fp=random#🇦🇹 AT | 83.138.55.252
+vless://1041e05d-ecb9-4fe1-bde2-429abff13e8f@node1.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node1.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇦🇹 AT | 85.192.42.103
