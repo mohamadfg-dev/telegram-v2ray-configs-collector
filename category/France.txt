@@ -7,3 +7,4 @@ vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@maxa08.azmoonf.ir:8080?security=rea
 trojan://pawxrlkLcJ@145.223.70.200:44056/?type=grpc&serviceName=&authority=&security=reality&pbk=asrnd4KrFBe5Ygz7LkvvsdMG-YnvChftudLamEVisk8&fp=chrome&sni=www.icloud.com&sid=8a&spx=/#🇫🇷 FR | 145.223.70.200
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🇫🇷 FR | 35.181.181.24
 trojan://telegram-id-v2rayvpnchannel@15.237.55.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.55.242
+trojan://telegram-id-v2rayvpnchannel@15.237.55.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.55.242

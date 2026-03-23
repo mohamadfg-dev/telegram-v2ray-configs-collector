@@ -1,6 +1,5 @@
-vless://52dbc2d8-00c5-0bb8-a898-22718fb85c12@31.130.135.58:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺 RU | 31.130.135.58
-vless://001a44d7-69e6-0bb8-8d11-828fe2119621@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#🇷🇺 RU | 212.193.157.118
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
+vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇷🇺 RU | 194.50.169.73
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
