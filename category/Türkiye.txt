@@ -1,4 +1,1 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-vless://b6f8fc9d-6707-46de-bae4-782bde0c3ee8@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#🇹🇷 TR | 185.39.204.27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHN0M2RGZIV3JZQVNMOE1Ld3FlV2djY0VtZld1Q3VySA==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
-vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#🇹🇷 TR | 46.31.76.3
