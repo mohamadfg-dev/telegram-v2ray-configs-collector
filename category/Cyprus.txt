@@ -1,1 +1,1 @@
-vless://8562eac5-98e9-4059-80f3-85d281634475@91.148.135.163:39178?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=wypHcbjNm6Zr2DEuTFa8c3ff2cnCtPN7kRQb7OyULig&sid=df832f6d73c61b#🇨🇾 CY | 91.148.135.163
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🇨🇾 CY | 154.92.9.46
