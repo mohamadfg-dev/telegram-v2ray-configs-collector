@@ -7,4 +7,5 @@ vless://5d0e6695-6c63-4168-b5e5-2a73ea86b1b1@maxa08.azmoonf.ir:8080?security=rea
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🇫🇷 FR | 35.181.181.24
 trojan://telegram-id-v2rayvpnchannel@52.47.75.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.75.88
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.75.88:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.75.88
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80/?type=ws&encryption=none&flow=&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=/vless/#🇫🇷 FR | 152.228.162.19
 trojan://telegram-id-v2rayvpnchannel@52.47.75.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.75.88
