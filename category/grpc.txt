@@ -1,5 +1,4 @@
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
-vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=firefox&spx=/&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#🇧🇷 BR | 104.64.32.87
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@150.241.94.142:7443?security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#🇩🇪 DE | 150.241.94.142
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#🇨🇦 CA | 104.16.9.20
 vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=/&type=grpc&sni=yahoo.com#🇮🇷 IR | 87.107.83.179
@@ -17,4 +16,3 @@ vless://ec95205b-50b4-496c-891f-5e8087089c4f@62.60.214.57:2087?encryption=none&s
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
-vless://7d40449f-92df-4256-9607-679241455d49@64.188.80.212:2053?encryption=none&fp=chrome&pbk=r2aSpm3VVvDjJbwr2l6yVdTv_pwkUzfOqxD7FQfBTkc&security=reality&sni=stats.vk-portal.net&type=grpc#🇫🇮 FI | 64.188.80.212
