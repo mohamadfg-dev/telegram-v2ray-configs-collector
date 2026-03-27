@@ -1,5 +1,3 @@
-vless://2d9df1f5-8391-4d71-92ba-71e1e3e40890@158.160.118.15:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=L1unFGAC-eFD2iw9rfrUunqfBgn0RpCqwsfR5qhn3Bw#🇷🇺 RU | 158.160.118.15
-vless://f084fc90-8a2c-4d9f-aeae-99534fe90f36@62.152.59.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=/#🇷🇺 RU | 62.152.59.211
 ss://YWVzLTI1Ni1nY206OXBQS0oybVRkWnVRNlJPSnR5bHVtZllSR1M1ZUJxNzJnbzBoTTV6SDd4Zz0=@83.222.8.148:23753#🇷🇺 RU | 83.222.8.148
 vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@109.120.188.156:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 RU | 109.120.188.156
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
