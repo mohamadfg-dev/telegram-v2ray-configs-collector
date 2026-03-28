@@ -1,2 +1,1 @@
-vless://96a1cd77-d7f8-42b6-86c1-29a2e2e85ea0@194.36.39.152:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#🇱🇻 LV | 194.36.39.152
-vless://96a1cd77-d7f8-42b6-86c1-29a2e2e85ea0@194.36.39.118:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#🇱🇻 LV | 194.36.39.118
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@195.135.255.74:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=/zh-tw/comics/go&security=tls&sni=edt2.btxst.eu.cc&type=ws#🇱🇻 LV | 195.135.255.74
