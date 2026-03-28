@@ -1,1 +1,1 @@
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@195.135.255.74:443?allowInsecure=1&encryption=none&host=edt2.btxst.eu.cc&path=/zh-tw/comics/go&security=tls&sni=edt2.btxst.eu.cc&type=ws#🇱🇻 LV | 195.135.255.74
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?Telegram🇨🇳+@WangCai2=#🇱🇻 LV | 195.135.253.47
