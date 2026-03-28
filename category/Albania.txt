@@ -1,1 +1,1 @@
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#🇦🇱 AL | 45.15.170.80
+vless://430503ce-a6f9-4a89-b4d4-3312390d599f@185.177.238.40:443?type=tcp&sni=alban.normbot.ru&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=5629431325884ff0&flow=xtls-rprx-vision&allowInsecure=1#🇦🇱 AL | 185.177.238.40
