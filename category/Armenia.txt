@@ -1,1 +1,1 @@
-vless://0c56d165-7005-4655-8b9e-4f6888b50318@178.160.229.241:443?type=tcp&sni=ipa.market.yandex.ru&fp=chrome&pbk=8PRhLGCCDYTPM68-cJj2tpTKl-fAG0Q6Px1pq0LHtXE&sid=395aaad7&flow=xtls-rprx-vision&allowInsecure=1#🇦🇲 AM | 178.160.229.241
+vless://a47fb050-8477-4d86-9332-5f687f572d94@194.156.103.213:1888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&security=reality&sid=6b&sni=www.kernel.org&type=tcp#🇦🇲 AM | 194.156.103.213
