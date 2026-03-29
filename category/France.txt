@@ -11,5 +11,6 @@ trojan://telegram-id-v2rayvpnchannel@15.236.184.73:22223?security=tls&alpn=http/
 trojan://telegram-id-v2rayvpnchannel@15.188.132.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.132.93
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.184.73:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.184.73
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.132.93:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.132.93
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.132.93:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.132.93
 trojan://telegram-id-v2rayvpnchannel@15.236.184.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.236.184.73
 trojan://telegram-id-v2rayvpnchannel@15.188.132.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.188.132.93
