@@ -24,7 +24,6 @@ vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?typ
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IGNoYW5uZWwucHJveHl2cG52aXAucHZ2aXAueHl6IiwiYWRkIjoiY2hhbm5lbC5wcm94eXZwbnZpcC5wdnZpcC54eXoiLCJwb3J0IjoiMjA4NyIsImlkIjoiQFByb3h5VlBOVmlwLUNoYW5uZWxUZWxlZ3JhbSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYXBhcmF0LmNvbSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#🏴‍☠️ UN | 172.64.152.23
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | melli.ciliko.ir
@@ -57,8 +56,6 @@ vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryptio
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
 vless://56e6bd96-4cb5-4b93-a8bc-757e02e596ab@mrtunnel1.im-mrserver110.top:59893?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🏴‍☠️ UN | mrtunnel1.im-mrserver110.top
-vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🏴‍☠️ UN | mv2.amydoodles.com
-vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | 94.182.145.78
 vless://3346a390-5b6f-49f2-94aa-46d2ad68ccc0@cx4.prodatabase.ir:1500?encryption=none&security=none&type=tcp&headerType=http#🏴‍☠️ UN | cx4.prodatabase.ir
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🏴‍☠️ UN | 1.admin.knserver.com.tr
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🏴‍☠️ UN | 1.admin.knserver.com.tr
