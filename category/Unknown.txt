@@ -20,17 +20,20 @@ vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn3.unlimiteddev.co:443?p
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn4.unlimiteddev.co:443?path=/&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#🏴‍☠️ UN | xe50-de40cdn4.unlimiteddev.co
 vless://a2b5ed44-6d39-4a41-97e1-c643508d73d9@cf.mtpmio.com:2053?encryption=none&security=tls&sni=api.mtpmio.com&fp=firefox&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=api.mtpmio.com&path=/api?ed=1024#🏴‍☠️ UN | cf.mtpmio.com
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
+vless://ef8e608b-3edc-4235-8963-b6334f44b88e@chatgpt.com:443?encryption=none&security=tls&sni=uk-03p.allhubb.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/check#🏴‍☠️ UN | chatgpt.com
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | all.yasharteam.com
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IGNoYW5uZWwucHJveHl2cG52aXAucHZ2aXAueHl6IiwiYWRkIjoiY2hhbm5lbC5wcm94eXZwbnZpcC5wdnZpcC54eXoiLCJwb3J0IjoiMjA4NyIsImlkIjoiQFByb3h5VlBOVmlwLUNoYW5uZWxUZWxlZ3JhbSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYXBhcmF0LmNvbSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
+vless://ecefb91e-48fd-4169-92ce-16c2bbb50e11@193.151.151.44:8011?mode=auto&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#🏴‍☠️ UN | 193.151.151.44
 vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir:233?mode=auto&path=/moveis&security=reality&encryption=none&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&host=fuck-israel.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=210cfdf17087#🏴‍☠️ UN | fast.superfast.awesome.amazon.com.google.com.arvancloud.ir.mci.ir.digikala.com.permiom.ir
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#🏴‍☠️ UN | f1.springpaatogh8.store
 vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCB1cy56YXJhc2l0ZS5pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#🏴‍☠️ UN | nl1.vnet500.xyz
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
 vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?type=xhttp&mode=auto&path=/8908&security=reality&fp=firefox&sni=gharar.ir&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&sid=9defe6#🏴‍☠️ UN | emergency-5580.flaptop.sbs
+trojan://telegram-id-v2rayvpnchannel@15.236.83.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🏴‍☠️ UN | 15.236.83.234
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,
@@ -48,8 +51,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🏴‍☠️ UN | a.pabloping.cloud
-vless://09e485e1-241c-4d17-82b2-0dff1be3f61e@kvm.iranhosting.mom:55003?security=none&allowInsecure=0&encryption=none&type=ws&host=rubika.ir&path=/#🏴‍☠️ UN | kvm.iranhosting.mom
-vless://7cc8cd28-0311-43b4-9b7f-223b3afb4635@snapp.ir:80?encryption=none&type=ws&host=ar.liarashop.ir&path=/&security=none#🏴‍☠️ UN | snapp.ir
 vless://e8124239-eb2f-4ad6-8f25-d4d3148485ee@ya.talon.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ya.talon.su&fp=chrome&pbk=dD8DiKmJYOuGIoHZG_DrmicCmdJpOuqbZb3I9DZekQ4&sid=c53eb7d078dd575c#🏴‍☠️ UN | ya.talon.su
 vless://d9e24a73-f04d-4439-a564-487ccd3cd097@usa.talon.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=usa.talon.su&fp=chrome&pbk=OcVe6UD5UfGlbNjQ-c_-TGE1YItXjK3_zEi54oBdADs&sid=3a79810bba9c12dc#🏴‍☠️ UN | usa.talon.su
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
@@ -59,7 +60,8 @@ vless://56e6bd96-4cb5-4b93-a8bc-757e02e596ab@mrtunnel1.im-mrserver110.top:59893?
 vless://3346a390-5b6f-49f2-94aa-46d2ad68ccc0@cx4.prodatabase.ir:1500?encryption=none&security=none&type=tcp&headerType=http#🏴‍☠️ UN | cx4.prodatabase.ir
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🏴‍☠️ UN | 1.admin.knserver.com.tr
 vless://880079b1-57d0-4af2-9331-30b24cb7b514@1.admin.knserver.com.tr:45761?type=ws&encryption=none&path=/&host=&security=tls&fp=chrome&alpn=h2,http/1.1#🏴‍☠️ UN | 1.admin.knserver.com.tr
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | gsoowjowj.toppho.ir
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#🏴‍☠️ UN | 104.16.2.90
+vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=/130.185.164.213=8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🏴‍☠️ UN | afrcloud22.mmv.kr
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
