@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 ZA | 102.37.156.224
+vless://7e3aeb73-ea03-41dd-89df-2b95286415a5@102.133.148.167:443/?type=grpc&encryption=none&serviceName=mci.ir&authority=&mode=multi&security=reality&pbk=Dfd_PmAzhFWkUtYDQSDJfVM_7wDamxKPTucmJ-IMilw&fp=firefox&sni=www.telewebion.ir&sid=0aa3&spx=/#🇿🇦 ZA | 102.133.148.167
