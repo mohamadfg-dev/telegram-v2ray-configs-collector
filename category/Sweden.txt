@@ -1,1 +1,1 @@
-vless://1457cd06-45a9-41c6-9f6e-8336bbda6376@gosuslugiru.outlinekeys.net:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node12.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇸🇪 SE | 84.22.148.188
+vless://cb9ecc84-a3a5-410d-a05b-6d38b1fdcf45@se.darknet.run:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r2F5-bF3iZM5lYkMI7ZLK-2dzplcWm5EbjQOygG66VA&security=reality&sid=a1b113d4&sni=gmail.com&type=tcp#🇸🇪 SE | 64.188.81.196
