@@ -1,2 +1,3 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
 vless://9fbedf5b-998f-4259-8248-d6a6d1d314c1@185.39.204.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun1-90.userapi.com&fp=chrome&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw#🇹🇷 TR | 185.39.204.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Vko4NDJ2ckRzb2QxdzJSSlRWWDM4WF9MQ0RSWHdFQg==@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27

@@ -1,2 +1,1 @@
-vless://9fbedf5b-998f-4259-8248-d6a6d1d314c1@113.30.152.46:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇧🇪 BE | 113.30.152.46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Vko4NDJ2ckRzb2QxdzJSSlRWWDM4WF9MQ0RSWHdFQg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
+vless://cf25f9d0-408f-1142-30aa-01ead41c420d@151.101.9.81:80?mode=auto&path=/assets/css/style.css?ed&security=none&encryption=none&host=grokgpt.ai&type=xhttp#🇧🇪 BE | 151.101.9.81
