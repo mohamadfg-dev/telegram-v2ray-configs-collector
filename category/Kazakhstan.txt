@@ -1,1 +1,2 @@
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=R8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=data-sm12.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-sm12.netsnap.ir#🇰🇿 KZ | 31.43.179.108
+trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
+trojan://vpn@45.82.14.144:2025#🇰🇿 KZ | 45.82.14.144
