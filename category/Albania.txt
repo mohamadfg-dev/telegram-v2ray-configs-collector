@@ -1,1 +1,1 @@
-vless://430503ce-a6f9-4a89-b4d4-3312390d599f@185.177.238.40:443?type=tcp&sni=alban.normbot.ru&fp=chrome&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=5629431325884ff0&flow=xtls-rprx-vision&allowInsecure=1#🇦🇱 AL | 185.177.238.40
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.15:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#🇦🇱 AL | 185.177.238.15
