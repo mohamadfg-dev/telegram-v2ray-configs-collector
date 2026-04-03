@@ -1,1 +1,3 @@
-vless://e5d866f6-f999-44c9-9ba0-e88d466ab6a2@node1.telegavpn.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node1.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 85.192.42.103
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 AT | 38.180.197.41
