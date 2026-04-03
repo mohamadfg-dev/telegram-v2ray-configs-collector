@@ -1,1 +1,2 @@
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.180.162.133:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🇨🇭 CH | 38.180.162.133
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 CH | 38.180.161.123
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 CH | 38.180.161.123
