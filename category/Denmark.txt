@@ -1,1 +1,1 @@
-vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#🇩🇰 DK | 140.248.69.255
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@193.233.253.73:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=deadbeef42&sni=www.apple.com&type=tcp#🇩🇰 DK | 193.233.253.73
