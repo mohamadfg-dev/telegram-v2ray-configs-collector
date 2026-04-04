@@ -1,1 +1,2 @@
-vless://728f877f-ed82-4608-a85c-69c7dacbf14e@node5.bronzarena.club:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rYhojKP6By_JUO0QIGZKwbYA3tbEOfGzU4wpTO_Z5no&security=reality&sid=e0dcb2c794ae7892&sni=node5.bronzarena.club&type=tcp#🇧🇪 BE | 113.30.152.62
+vless://f0aa060e-6e84-4999-8871-72c26420f757@113.30.152.46:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇧🇪 BE | 113.30.152.46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplLUUzYUYxM2RuV2dFNUpFMGdMQlROdWVGRW5US2hNZg==@113.30.152.46:8080#🇧🇪 BE | 113.30.152.46
