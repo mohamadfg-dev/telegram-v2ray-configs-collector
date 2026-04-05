@@ -1,3 +1,2 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bm5ySjlYSHp4RHFSLWJ1anVuXzRkZ3JueUpMTHFlWQ@185.39.204.27:1080#🇹🇷 TR | 185.39.204.27
 vless://ac3bf636-88d4-4ac4-9d83-693720ebae1b@185.226.93.7:38655?type=ws&encryption=none&path=/&host=new.sordo.store&security=tls&fp=chrome&alpn=h2,http/1.1&sni=new.sordo.store#🇹🇷 TR | 185.226.93.7
