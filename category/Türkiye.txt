@@ -1,1 +1,2 @@
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#🇹🇷 TR | 213.142.156.169
+vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#🇹🇷 TR | 46.31.76.3
