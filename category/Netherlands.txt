@@ -1,1 +1,1 @@
-vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@178.173.252.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=95fe9eef&sni=hls-svod.itunes.apple.com&type=tcp#🇳🇱 NL | 178.173.252.228
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1#🇳🇱 NL | 194.124.216.185
