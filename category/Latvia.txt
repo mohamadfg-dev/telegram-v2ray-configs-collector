@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇱🇻 LV | 31.128.32.98
+vless://a2b431d9-d5d3-41c8-ad5b-8f95aa5a6712@185.72.86.38:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=a1b2c3d4&sni=yastatic.net&type=tcp#🇱🇻 LV | 185.72.86.38
