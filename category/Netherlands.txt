@@ -1,1 +1,1 @@
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1#🇳🇱 NL | 194.124.216.185
+vless://1a76bf9d-e3f8-49ca-a0ca-d7388ecf452f@194.147.221.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&security=reality&sid=aabbccdd&sni=www.microsoft.com&type=tcp#🇳🇱 NL | 194.147.221.6
