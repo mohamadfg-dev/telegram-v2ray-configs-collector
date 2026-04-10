@@ -1,2 +1,1 @@
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=/websocket&security=tls&encryption=none&insecure=0&host=de02.abvpn.ru&type=ws&allowInsecure=0&sni=de02.abvpn.ru#🇺🇦 UA | 95.164.47.60
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=/websocket&security=tls&encryption=none&insecure=0&host=de02.abvpn.ru&type=ws&allowInsecure=0&sni=de02.abvpn.ru#🇺🇦 UA | 95.164.47.60
