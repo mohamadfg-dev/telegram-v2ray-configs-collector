@@ -14,7 +14,5 @@ vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱 NL | 82.38.31.199
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&spx=/&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#🇳🇱 NL | 89.23.107.188
 vless://bc1cfd52-fddf-4c94-affd-cdc9f47eafde@194.60.133.108:2095?path=/vless&security=none&encryption=none&type=ws#🇳🇱 NL | 194.60.133.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#🇳🇱 NL | 82.38.31.61
 vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?path=/ehueueuejs&security=tls&alpn=http/1.1&encryption=none&host=native.loveplus.de5.net&fp=firefox&type=ws&sni=native.loveplus.de5.net#🇳🇱 NL | 5.255.114.61
 vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#🇳🇱 NL | 5.255.120.217
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@n05.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#🇳🇱 NL | 195.123.218.246
