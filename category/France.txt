@@ -9,4 +9,3 @@ trojan://telegram-id-v2rayvpnchannel@35.180.104.104:22223?security=tls&alpn=http
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.249.232:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.249.232
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.184.253:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.39.184.253
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#🇫🇷 FR | 51.91.173.52
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.210.149.2:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇫🇷 FR | 51.210.149.2
