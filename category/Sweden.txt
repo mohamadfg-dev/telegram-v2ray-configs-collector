@@ -1,1 +1,1 @@
-vless://d9c4d8a1-f6a6-4cb8-b0b5-31d218ec3bce@185.146.173.58:8080?security=none&encryption=none&type=ws#🇸🇪 SE | 185.146.173.58
+vless://29b93b01-3089-4de5-8fee-7b2be2cc8716@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇸🇪 SE | 84.22.148.188
