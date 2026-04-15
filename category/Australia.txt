@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.167.116.241:801#🇦🇺 AU | 185.167.116.241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.167.116.241:801#🇦🇺 AU | 185.167.116.241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.167.116.241:801#🇦🇺 AU | 185.167.116.241
+vless://test@1.1.1.1:443?type=tcp&security=none&headerType=none&encryption=none#🇦🇺 AU | 1.1.1.1
