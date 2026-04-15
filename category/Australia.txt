@@ -1,4 +1,1 @@
-ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:443#🇦🇺 AU | 154.26.155.172
-ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:443#🇦🇺 AU | 154.26.155.172
-ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:443#🇦🇺 AU | 154.26.155.172
 vless://test@1.1.1.1:443?type=tcp&security=none&headerType=none&encryption=none#🇦🇺 AU | 1.1.1.1
