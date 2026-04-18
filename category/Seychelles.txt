@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2096?encryption=none&type=ws&security=tls&path=/&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1#🇸🇨 SC | 45.130.125.112
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🇸🇨 SC | 45.130.125.160
