@@ -1,2 +1,3 @@
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#🇸🇨 SC | 45.130.125.198
+trojan://bpb-trojan@srv1.khatibirepair.ir:443?security=tls&sni=vless4.vlessvless.top&type=ws&host=vless4.vlessvless.top&path=/tr?ed=2560#🇸🇨 SC | 45.130.125.18
+vless://c29d39bd-92a4-45db-bb61-56013998617c@srv1.khatibirepair.ir:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=/Telegram-XV2ry2&security=none&type=ws#🇸🇨 SC | 45.130.125.18
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🇸🇨 SC | 45.130.125.160

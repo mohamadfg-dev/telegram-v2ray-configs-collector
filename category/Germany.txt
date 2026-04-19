@@ -2,17 +2,15 @@ vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&securi
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇩🇪 DE | 82.25.101.123
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.157.102:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.122.157.102
 vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🇩🇪 DE | 91.99.97.155
-vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇩🇪 DE | 146.75.118.114
-vless://0844ceed-af3c-46cd-9d29-2295309a1701@107.148.64.154:10507?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GwBhOiy3pLa73zga-wmG07xRfiI71_A9VDi-DiHeBWk&security=reality&sid=9153&sni=img14.360buyimg.com&type=tcp#🇩🇪 DE | 107.148.64.154
+vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇩🇪 DE | 146.75.121.207
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1#🇩🇪 DE | 82.26.155.199
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=/&type=tcp&sni=digg.com&sid=99d38a68#🇩🇪 DE | 172.104.148.48
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.251.132
 vless://4bc7d558-1943-44de-bd82-56920bc9383e@150.241.94.142:7443?security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#🇩🇪 DE | 150.241.94.142
 vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none#🇩🇪 DE | 168.119.124.92
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&type=ws#🇩🇪 DE | 185.94.29.156
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪 DE | 102.177.176.213
 vless://6e961410-077d-4978-98d7-aba54e633257@91.107.254.134:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇩🇪 DE | 91.107.254.134
 ss://YWVzLTI1Ni1nY206NDZkNTEvOFFNeTQ4azU3Q0lmUzFDNXl4MklIc2pvRW5QSlliN3pYRGZBYz0=@57.129.121.229:8443#🇩🇪 DE | 57.129.121.229
-vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#🇩🇪 DE | 47.245.156.232
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&fp=firefox&sni=www.black-moai.com&sid=a862ded52ae3ea&spx=/#🇩🇪 DE | 80.240.23.101
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogREUgfCA0OS4xMy43LjE0NiIsImFkZCI6IjQ5LjEzLjcuMTQ2IiwicG9ydCI6NTYyODUsImlkIjoiODkyNGQxOGUtZDhmZi00Nzc0LWI1MTEtNzVlMGNiYWRhZGRmIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsInBhdGgiOiIvIiwidGxzIjoibm9uZSJ9
 vless://7153877e-dab2-4525-fa40-7e3f71dca814@91.107.254.105:2053?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪 DE | 91.107.254.105
