@@ -1,1 +1,1 @@
-vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#🇩🇰 DK | 140.248.69.255
+vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#🇩🇰 DK | 140.248.69.255
