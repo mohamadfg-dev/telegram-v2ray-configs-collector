@@ -1,1 +1,3 @@
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?type=tcp&security=tls&sni=sgp8.node-resource.click#🇸🇬 SG | 194.87.10.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#🇸🇬 SG | 154.26.132.38

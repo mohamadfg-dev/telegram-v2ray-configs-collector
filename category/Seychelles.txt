@@ -1,2 +1,3 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@srv1.khatibirepair.ir:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🇸🇨 SC | 45.130.125.18
+vless://26524cce-d514-4014-a426-365fb266a14d@srv1.khatibirepair.ir:443?security=tls&fp=chrome&sni=sp18nyrj9.chinav.indevs.in&type=ws&headerType=none&host=sp18nyrj9.chinav.indevs.in&path=/danfeng?ed=2560#🇸🇨 SC | 45.130.125.112
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=cd11.thisiswe.uno#🇸🇨 SC | 45.130.125.198
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🇸🇨 SC | 45.130.125.160
