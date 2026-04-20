@@ -1,1 +1,1 @@
-vless://3c3a6cdf-1cca-4549-af25-6374dcf379e3@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 193.233.128.247
+vless://d377314c-dfb9-4a4f-911f-2094721d3e6d@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 193.233.128.247
