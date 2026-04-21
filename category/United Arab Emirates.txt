@@ -1,1 +1,1 @@
-vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#🇦🇪 AE | 154.90.55.174
+vless://75851373-9166-4413-bcb4-e995135ca3ce@dlbazi1.ketakhan.sbs:8443?security=tls&encryption=none&insecure=0&host=my.d-service.sbs&type=ws&allowInsecure=0&sni=my.d-service.sbs#🇦🇪 AE | 94.140.0.0
