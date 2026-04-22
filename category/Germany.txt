@@ -1,6 +1,5 @@
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#🇩🇪 DE | 82.25.101.123
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#🇩🇪 DE | 176.96.138.17
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.157.102:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 DE | 3.122.157.102
 vless://a19f4213-fcb8-4384-9c85-cb51cae8ab8b@s1.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#🇩🇪 DE | 91.99.97.155
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#🇩🇪 DE | 176.96.138.17
