@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2=&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇻 LV | 195.123.211.204
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.128.32.98:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#🇱🇻 LV | 31.128.32.98
