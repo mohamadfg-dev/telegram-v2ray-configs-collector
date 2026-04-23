@@ -1,6 +1,5 @@
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=/-AzV2ry?ed=2056&security=none&encryption=none&host=qbank.ir&type=xhttp#🇺🇸 US | 199.232.79.229
 vless://Telegram-Parsashonam@8.6.112.6:443?path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#🇺🇸 US | 8.6.112.6
-vless://753396b5-e67c-441c-b62b-2a6c23b0b468@193.233.208.31:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE#🇺🇸 US | 193.233.208.31
 vless://8481cfbb-49a2-df3b-2af2-949631ef5848@8.6.112.0:443?encryption=none&type=xhttp&mode=packet-up&host=228f2b0691350fc6.fooeball90.com&path=/iran/ws?ed=2083&security=tls&fp=firefox&sni=228f2b0691350fc6.fooeball90.com&alpn=h3,h2,http/1.1#🇺🇸 US | 8.6.112.0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🇺🇸 US | 45.87.175.157
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
@@ -27,4 +26,5 @@ vless://f5042692-412d-43fd-9855-20f21f631be4@8.6.112.6:2053?encryption=none&secu
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#🇺🇸 US | 45.82.251.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193
