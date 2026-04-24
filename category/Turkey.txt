@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.11.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/&security=tls&sni=sni.my111000.tech&type=ws#🇹🇷 TR | 45.194.11.191
+vless://af761de1-09c3-4491-98ad-c5c5b8115b72@blue-horizon.vm.twilightparadox.com:2083?security=reality&type=tcp&headerType=&path=&host=&sni=cdn-download2.irdiscovery.site&fp=chrome&pbk=SqZCv425UEx6urzxXWWWNHKe5Az5Dh3WKBzhaFrbTHg&sid=5c52712b88fdbb42#🇹🇷 TR | 213.142.150.53
