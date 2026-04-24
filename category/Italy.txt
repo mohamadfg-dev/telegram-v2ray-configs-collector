@@ -1,1 +1,2 @@
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 IT | 204.216.216.23
+vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#🇮🇹 IT | 172.232.208.147
+vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#🇮🇹 IT | 172.232.208.147
