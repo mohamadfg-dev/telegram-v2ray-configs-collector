@@ -1,1 +1,1 @@
-vless://156dc0ca-c73d-42d5-b0ee-5f820e9110af@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇸🇪 SE | 84.22.148.188
+trojan://1234567890@194.87.77.2:443?path=/?ed&security=tls&insecure=0&host=kfm-bn0.pages.dev&type=ws&allowInsecure=0&sni=kfm-bn0.pages.dev#🇸🇪 SE | 194.87.77.2
