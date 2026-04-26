@@ -1,1 +1,3 @@
-trojan://1234567890@194.87.77.2:443?path=/?ed&security=tls&insecure=0&host=kfm-bn0.pages.dev&type=ws&allowInsecure=0&sni=kfm-bn0.pages.dev#🇸🇪 SE | 194.87.77.2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#🇸🇪 SE | 46.246.93.107
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#🇸🇪 SE | 46.246.93.107
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0T0xjaVcyc1FIVTJZQ0tQWkpQVklI@46.246.93.107:12138#🇸🇪 SE | 46.246.93.107
