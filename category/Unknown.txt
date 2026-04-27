@@ -8,7 +8,6 @@ vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=/?ed=208
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#🏴‍☠️ UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://3dd00a30-46cd-4569-8a47-c07cee3c3e60@blubank.sb24.ir:80?path=/&security=none&encryption=none&host=static.aliyanserver.ir&type=ws#🏴‍☠️ UN | blubank.sb24.ir
-vless://3ff87a9a-305d-4723-9c9e-88b8a7796d41@blubank.sb24.ir:8080?security=none&encryption=none&host=networkex.onyxshoes.ir&type=ws#🏴‍☠️ UN | blubank.sb24.ir
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | do.jadhap.ir
 vless://3412c147-a0fe-4951-8a11-9a975cc6fec8@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#🏴‍☠️ UN | vip-80.f-sub.cfd
@@ -34,8 +33,8 @@ vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/
 vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCB1cy56YXJhc2l0ZS5pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://0cac6955-f1ed-4eff-941c-bef4adbee920@nl1.vnet500.xyz:26083?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#🏴‍☠️ UN | nl1.vnet500.xyz
 vless://537e107f-dde5-41d4-b629-bcefa9f3cabd@h43.gettips.ir:56304?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | h43.gettips.ir
+vless://3ff87a9a-305d-4723-9c9e-88b8a7796d41@blubank.sb24.ir:8080?security=none&encryption=none&host=networkex.onyxshoes.ir&type=ws#🏴‍☠️ UN | blubank.sb24.ir
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
-vless://96287144-7c5f-4f0b-99da-6c159f06038c@midnightblue.qzz.io:443?path=/54.153.59.106:80&security=tls&encryption=none&host=midnightblue.qzz.io&type=ws&sni=midnightblue.qzz.io#🏴‍☠️ UN | midnightblue.qzz.io
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,
