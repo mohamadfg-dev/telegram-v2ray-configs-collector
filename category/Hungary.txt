@@ -1,1 +1,1 @@
-vless://63c8ce32-f4ba-5929-bd8d-47b92ac9766b@45.12.132.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=www.asus.com&type=tcp#🇭🇺 HU | 45.12.132.251
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🇭🇺 HU | 141.11.203.238
