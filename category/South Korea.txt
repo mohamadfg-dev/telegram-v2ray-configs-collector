@@ -1,2 +1,1 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@121.191.33.84:30303?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#🇰🇷 KR | 121.191.33.84
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@59.28.83.136:10250?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev#🇰🇷 KR | 59.28.83.136
+ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:40120#🇰🇷 KR | 203.32.26.24
