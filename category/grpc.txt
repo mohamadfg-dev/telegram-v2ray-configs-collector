@@ -16,3 +16,4 @@ vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=/&type=grpc&serviceName=&sni=greenpepper.ir&sid=a62fe261#🇩🇪 DE | 91.107.179.99
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#🇮🇷 IR | 85.133.215.188
+vless://9c37c02f-fec5-4bef-a52d-503c7f9ca5ce@hkt.xmm.maimaiyun.shop:20130?mode=multi&security=reality&encryption=none&type=grpc&pbk=KVDCOo9PD3OIDcNzBjdQDZg5VV3s4yIwdJW_KaGN-zA&sid=0716f5eb6d7ed0&sni=s0.awsstatic.com&servername=s0.awsstatic.com&spx=/&fp=edge&serviceName=GunService#undefined HK | 112.120.103.115
