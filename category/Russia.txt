@@ -1,4 +1,5 @@
 ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@176.32.39.99:40120#🇷🇺 RU | 176.32.39.99
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.240:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=cdn.trahodrom.fun&type=tcp#🇷🇺 RU | 109.248.33.240
 ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@176.32.39.99:40120#🇷🇺 RU | 176.32.39.99
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMamg0QnpaeHY1U2pxd3Y4N2JWNnlqWVc1NV93QTZxNA==@130.49.189.40:8080#🇷🇺 RU | 130.49.189.40
 vless://b64b0707-2598-484a-aafd-16df8132b2e8@193.233.230.196:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇷🇺 RU | 193.233.230.196
