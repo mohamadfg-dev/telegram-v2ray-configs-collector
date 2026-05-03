@@ -1,6 +1,5 @@
 vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=/zaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http/1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.fun#🇺🇸 US | 13.35.196.67
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=/&security=tls&encryption=none&host=qyi.fqjd663.ggff.net&type=ws&sni=qyi.fqjd663.ggff.net#🇺🇸 US | 216.24.57.1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.164.85.33:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-n5iY1LH6WNzxc6_sQg_phf04553mzBExCqQzRvoA3U&security=reality&sid=41427aa565e28984&sni=www.rakuten.co.jp&type=tcp#🇺🇸 US | 95.164.85.33
+vless://72d1d3a4-5467-41da-9a12-505907577044@api.vercel.com:443?mode=auto&path=/v1/music&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=azzro.digielipan.store&type=xhttp&allowInsecure=1&sni=api.vercel.com#🇺🇸 US | 76.76.21.112
 vless://Telegram-Parsashonam@8.6.112.6:443?path=/&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#🇺🇸 US | 8.6.112.6
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
@@ -11,7 +10,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880/?type=grpc&encry
 trojan://humanity@8.6.112.6:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🇺🇸 US | 8.6.112.6
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2053?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🇺🇸 US | 8.6.112.6
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#🇺🇸 US | 66.33.60.194
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@react.dev:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=react.dev#🇺🇸 US | 76.76.21.142
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#🇺🇸 US | 144.172.101.108
