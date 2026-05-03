@@ -1,1 +1,1 @@
-vless://79978027-ef16-4137-b18e-905f8c18f845@172.64.197.116:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=/?ed=2048#🇳🇿 NZ | 172.64.197.116
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#🇳🇿 NZ | 45.15.140.38
