@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.cc.cd&path=/?https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3=&security=tls&sni=sni.111000.cc.cd&type=ws#undefined CW | 5.10.244.43
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=/?Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2=&security=tls&sni=babayaga-6i7.pages.dev&type=ws#undefined CW | 5.10.244.231
