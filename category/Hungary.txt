@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=/&security=tls&sni=sni.jpmj.dev&type=ws#🇭🇺 HU | 141.11.203.238
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇭🇺 HU | 162.159.45.207
