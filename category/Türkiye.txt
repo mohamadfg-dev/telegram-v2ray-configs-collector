@@ -1,1 +1,1 @@
-vless://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 185.220.227.100
+vless://cea5a86c-bf57-4aba-9205-b9c7cfbe8f43@snapp.tech-notes.xyz:42293?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=aparat-stream&allowInsecure=0&sni=snapp.tech-notes.xyz#🇹🇷 TR | 212.87.199.43

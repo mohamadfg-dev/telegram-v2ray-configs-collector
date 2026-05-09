@@ -4,4 +4,3 @@ trojan://telegram-id-privatevpns@15.224.89.79:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🇫🇷 FR | 35.181.181.24
 trojan://telegram-id-v2rayvpnchannel@15.224.89.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.89.79
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.89.79:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.224.89.79
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.96.48:443?encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#🇫🇷 FR | 37.59.96.48

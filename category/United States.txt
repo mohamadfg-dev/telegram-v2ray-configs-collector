@@ -1,4 +1,3 @@
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.8:2083?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=/&security=tls&sni=kalami-eew.pages.dev&type=ws#🇺🇸 US | 8.39.125.8
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇺🇸 US | 8.6.112.0
