@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#🇷🇺 RU | 83.166.250.6
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.202:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#🇷🇺 RU | 138.124.186.202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#🇷🇺 RU | 83.166.250.6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#🇷🇺 RU | 83.166.250.6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#🇷🇺 RU | 83.166.250.6
 vless://8b1af25a-e873-4915-bc56-3ad741e82f09@130.49.189.40:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇷🇺 RU | 130.49.189.40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfcEdVWWcxN3NSOW1lRHZLUzBLekpXNEVyN25TY050bw==@130.49.189.40:8080#🇷🇺 RU | 130.49.189.40
