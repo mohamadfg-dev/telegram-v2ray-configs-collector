@@ -15,7 +15,6 @@ vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#🇺🇸 US | 8.47.69.4
 vless://b0e07703-77ab-4d07-b67f-f825eb7a569e@s3hf8j.connect343.net:34820?type=tcp&encryption=none&security=reality&pbk=846xvaKwZoNDLNHaA06RjUYfTbZg1tkkP290anPfIWw&fp=chrome&sni=www.apple.com&sid=5a096852b9&spx=/#🇺🇸 US | 172.191.161.4
 vless://tel-Channel-ViPv2rayVip@salamsalamsalam.aattaash.com:2087?type=ws&path=/&host=&security=tls&fp=chrome&alpn=http/1.1,h2&sni=finnew2.aattaash.com#🇺🇸 US | 192.0.63.113
-vless://f5042692-412d-43fd-9855-20f21f631be4@8.6.112.6:2053?encryption=none&security=tls&sni=ir.tegular.ir&fp=chrome&allowInsecure=1&type=ws&host=ir.tegular.ir&path=/iraneman/doosetdaram/?ed=2560#🇺🇸 US | 8.6.112.6
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
