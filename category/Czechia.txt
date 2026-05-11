@@ -1,1 +1,1 @@
-vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-cz-cf.barryvpn.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae&sni=images.apple.com&path=&host=#🇨🇿 CZ | 149.33.38.131
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇨🇿 CZ | 14.102.228.191
