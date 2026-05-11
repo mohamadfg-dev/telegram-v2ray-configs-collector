@@ -18,4 +18,7 @@ vless://tel-Channel-ViPv2rayVip@salamsalamsalam.aattaash.com:2087?type=ws&path=/
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
+vless://2309fcbe-b374-4dce-8695-2185c165c725@react.dev:443?mode=auto&path=/ips&security=tls&encryption=none&extra={
+  "xPaddingBytes" : "100-1000"
+}&insecure=0&host=wirex-balancc.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=react.dev#🇺🇸 US | 66.33.60.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193
