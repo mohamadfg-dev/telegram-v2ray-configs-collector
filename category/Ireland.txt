@@ -1,1 +1,2 @@
 vless://ee309de6-154b-45da-aa71-0a3a1ca97c1b@85.159.229.84:443?security=reality&encryption=none&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&headerType=&fp=random&spx=/&type=tcp&sni=www.google.com&sid=93#🇮🇪 IE | 85.159.229.84
+vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?encryption=none&type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#🇮🇪 IE | 50.7.4.106

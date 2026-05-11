@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=/?https://t.me/wangcai2#🇹🇷 TR | 86.38.214.43
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.rocks&type=ws&allowInsecure=1&sni=sni.111000.v6.rocks#🇹🇷 TR | 141.98.115.65
