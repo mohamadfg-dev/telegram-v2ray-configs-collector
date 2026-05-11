@@ -1,1 +1,1 @@
-vless://8b1af25a-e873-4915-bc56-3ad741e82f09@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇨🇭 CH | 45.140.205.215
+vless://388ad407-8f1d-4820-ab22-bf243e9acddf@45.140.205.215:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇨🇭 CH | 45.140.205.215
