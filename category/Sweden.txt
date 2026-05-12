@@ -2,4 +2,3 @@ vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&host=dbw9jfe94rh28.cloudfront.net&type=ws&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
-vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
