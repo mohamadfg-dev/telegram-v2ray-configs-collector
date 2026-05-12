@@ -2,5 +2,3 @@ vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?path=/ws&security=tl
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
-vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
-vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
