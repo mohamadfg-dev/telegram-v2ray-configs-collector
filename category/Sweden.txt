@@ -1,3 +1,1 @@
-vless://1200a61e-3254-42b9-b1f8-dd894115d95b@gosuslugiru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node12.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇸🇪 SE | 84.22.148.188
-vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#🇸🇪 SE | 13.249.2.122
