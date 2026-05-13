@@ -1,1 +1,1 @@
-vless://388ad407-8f1d-4820-ab22-bf243e9acddf@45.140.205.215:443?encryption=none&type=grpc&serviceName=xyz&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇨🇭 CH | 45.140.205.215
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#🇨🇭 CH | 84.234.16.169
