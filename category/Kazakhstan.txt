@@ -1,1 +1,2 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🇰🇿 KZ | 31.43.179.191
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🇰🇿 KZ | 94.198.220.183
