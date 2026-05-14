@@ -1,1 +1,1 @@
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=/&security=none&type=ws#🇦🇹 AT | 91.244.70.205
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.192.27.113:443?encryption=none&host=sni.111000.v6.rocks&security=tls&sni=sni.111000.v6.rocks&type=ws#🇦🇹 AT | 85.192.27.113
