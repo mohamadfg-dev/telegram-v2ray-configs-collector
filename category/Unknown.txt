@@ -29,7 +29,6 @@ vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&en
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | melli.ciliko.ir
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IHYyOS5oZWR1aWFuLmxpbmsiLCJhZGQiOiJ2MjkuaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MjksImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidjI5LmhlZHVpYW4ubGluayIsInBhdGgiOiIvb29vbyIsInRscyI6IiJ9
-vless://6c5938b3-6ff4-46e6-94b7-7836efe14a4b@yas.cdn01.ir:8227?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🏴‍☠️ UN | yas.cdn01.ir
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#🏴‍☠️ UN | f1.springpaatogh8.store
 vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCB1cy56YXJhc2l0ZS5pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir

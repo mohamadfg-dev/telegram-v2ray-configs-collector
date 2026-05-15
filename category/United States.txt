@@ -1,5 +1,4 @@
-ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443#🇺🇸 US | 94.72.127.58
-vless://e11354d8-f297-4139-9813-aeab84f1cf0c@react.dev:443?encryption=none&security=tls&sni=react.dev&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=relay-d1wbv9pi.vercel.app&path=/api&mode=auto#🇺🇸 US | 66.33.60.66
+vless://e11354d8-f297-4139-9813-aeab84f1cf0c@react.dev:443?encryption=none&security=tls&sni=react.dev&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=relay-d1wbv9pi.vercel.app&path=/api&mode=auto#🇺🇸 US | 66.33.60.129
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🇺🇸 US | 8.6.112.0
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🇺🇸 US | 8.6.112.0
@@ -21,5 +20,4 @@ vless://tel-Channel-ViPv2rayVip@salamsalamsalam.aattaash.com:2087?type=ws&path=/
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 40.160.6.133
-vless://a9d638c1-9c74-4f62-bef4-9a81e0d06727@vercel.com:443?mode=auto&path=/api&security=tls&alpn=h2&encryption=none&insecure=0&host=prowon.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=prowon.vercel.app#🇺🇸 US | 198.169.1.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193

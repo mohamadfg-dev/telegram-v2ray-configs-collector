@@ -1,2 +1,1 @@
 vless://d6ef4a50-ea08-4f35-ba27-b58a86487dd0@50.7.4.106:443?type=ws&security=tls&path=/ws&host=wro.u3er1.ir&sni=wro.u3er1.ir&fp=chrome&alpn=h2,http/1.1&encryption=none#🇮🇪 IE | 50.7.4.106
-vless://4b616b6f-6f6c-4e65-7773-db5627a06d05@50.7.5.83:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ominous-space-orbit-wvj6qj664rvf56xr-443.app.github.dev#🇮🇪 IE | 50.7.5.83
