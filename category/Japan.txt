@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFp2TkJ5TjdtMlpBbHAwQjFZVkNRZGFlaFpzZm5TTDMzaEJPWldzWkREak4wR0s@103.106.228.177:31348#🇯🇵 JP | 103.106.228.177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFp2TkJ5TjdtMlpBbHAwQjFZVkNRZGFlaFpzZm5TTDMzaEJPWldzWkREak4wR0s@103.106.228.177:31348#🇯🇵 JP | 103.106.228.177
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVFp2TkJ5TjdtMlpBbHAwQjFZVkNRZGFlaFpzZm5TTDMzaEJPWldzWkREak4wR0s@103.106.228.177:31348#🇯🇵 JP | 103.106.228.177
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=/fp=chrome&security=tls&sni=1-aym.pages.dev&type=ws#🇯🇵 JP | 103.13.19.227
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#🇯🇵 JP | 35.76.117.172

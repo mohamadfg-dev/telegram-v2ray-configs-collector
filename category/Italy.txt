@@ -1,1 +1,1 @@
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443#🇮🇹 IT | 172.232.208.147
+vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@24dc5c91924c5346.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#🇮🇹 IT | 199.232.142.79
