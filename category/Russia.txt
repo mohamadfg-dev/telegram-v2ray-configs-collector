@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg@45.140.168.54:50129#🇷🇺 RU | 45.140.168.54
 vless://1ba76cd1-6404-4dcb-b901-8036b431442d@130.49.189.40:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇷🇺 RU | 130.49.189.40
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🇷🇺 RU | 45.11.93.133
