@@ -1,1 +1,1 @@
-vless://1ba76cd1-6404-4dcb-b901-8036b431442d@45.140.205.215:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇨🇭 CH | 45.140.205.215
+vless://1b6e13a4-a6a8-4fc4-962a-9565fe849fc7@45.140.205.215:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇨🇭 CH | 45.140.205.215
