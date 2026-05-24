@@ -13,6 +13,7 @@ vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | do.jadhap.ir
 vless://3412c147-a0fe-4951-8a11-9a975cc6fec8@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#🏴‍☠️ UN | vip-80.f-sub.cfd
+vless://be0bff33-a095-4f82-9edb-9073c3ba08af@arvan1.un1ty.ir:80?encryption=none&host=&path=/jesuschrist&security=none&type=ws#🏴‍☠️ UN | arvan1.un1ty.ir
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IG4xNjgyMzk2MTk3LmVkcG12Z2EuY24iLCJhZGQiOiJuMTY4MjM5NjE5Ny5lZHBtdmdhLmNuIiwicG9ydCI6NDQzLCJpZCI6IjJkNmZlYjI0LWVmYzUtNDkzMi1hMjU1LWQxNWM3OTFlOWIzYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoidGxzIn0=
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ#🏴‍☠️ UN | YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjUyOTQ
@@ -37,9 +38,9 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IHYyOS5oZWR1aWFuLmxpbmsiLCJh
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#🏴‍☠️ UN | f1.springpaatogh8.store
 vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCB1cy56YXJhc2l0ZS5pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | out2.tehranionliine.ir
+vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=/red/&host=red.docos.tech&sni=red.docos.tech&fp=chrome#🏴‍☠️ UN | red.docos.tech
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakxDZUExTms0S0dwU2RaRVZ4V2pnN25FVGMzRkpfZ0AxODguMTIxLjEyMy4xODk6NDA1MA==
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?path=/&security=none&encryption=none&type=ws#🏴‍☠️ UN | meli.masterdadeh.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,
@@ -58,6 +59,7 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#🏴‍☠️ UN | b.pabloping.cloud
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🏴‍☠️ UN | a.pabloping.cloud
+vless://0b75e1b3-31ae-44fb-ab4b-bc1b98ea1358@arvancloud.ir:2095?encryption=none&host=api.helxj.ir&path=/IR?ed=2560&security=none&type=@vmesskhodam#🏴‍☠️ UN | arvancloud.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
