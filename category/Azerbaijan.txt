@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSS0VqZVI3dVdKMkhTYnVvTzhGNnRD@94.20.88.22:443#🇦🇿 AZ | 94.20.88.22
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.5.205.68:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇦🇿 AZ | 194.5.205.68
