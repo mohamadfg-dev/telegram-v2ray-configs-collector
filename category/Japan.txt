@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.129.8.65:30000?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇯🇵 JP | 45.129.8.65
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#🇯🇵 JP | 35.76.117.172
