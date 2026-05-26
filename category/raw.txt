@@ -1,1 +1,1 @@
-vless://b198c7e4-b6a5-4309-ac0e-0783cf8b129c@193.168.197.76:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Pyn-CZrKJEIoM7mcj__Eosc4F03CpqvwRZEqlJzqOnQ&security=reality&sid=e6df8954df22&sni=www.ya.ru&type=raw#🇸🇪 SE | 193.168.197.76
+trojan://d30ab83dbde4480082048fb315bedebd@15.204.56.75:443?encryption=none&security=tls&sni=15.204.56.75&insecure=1&type=raw&headertype=none#🇺🇸 US | 15.204.56.75

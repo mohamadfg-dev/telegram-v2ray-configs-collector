@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6RTZUcEFTalc1Ymdwd1dsN2RzVWtzQVVr@107.189.7.176:37774?type=tcp&security=none#🇱🇺 LU | 107.189.7.176
+vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#🇱🇺 LU | 104.244.73.115

@@ -1,2 +1,2 @@
-vless://d8b54a64-3e9a-4455-93c4-452202fbe440@45.130.125.160:443?mode=stream-one&path=/index&security=tls&encryption=none&insecure=0&host=www.chinns.us.ci&type=xhttp&allowInsecure=0&sni=www.chinns.us.ci#🇸🇨 SC | 45.130.125.160
+vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=/&security=tls&alpn=http/1.1&encryption=none&host=jamal.thisiswe.uno&fp=chrome&type=ws&sni=jamal.thisiswe.uno#🇸🇨 SC | 45.130.125.198
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#🇸🇨 SC | 45.130.125.160
