@@ -1,1 +1,1 @@
-vless://01c0530f-168d-4645-a74c-f2b3b015c217@104.244.73.115:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=patreon.com&sid=b85e293fa1#🇱🇺 LU | 104.244.73.115
+vmess://eyJhZGQiOiI0NS4xMjguNzIuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTIxNzBkMzktMTQwYS00N2Y5LTg1YjgtMDg0MDc4ODU2YzM2IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MSIsInBvcnQiOiI4MCIsInBzIjoi8J+HsfCfh7ogTFUgfCA0NS4xMjguNzIuNDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
