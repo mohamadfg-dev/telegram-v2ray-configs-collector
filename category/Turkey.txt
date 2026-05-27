@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?security=tls&encryption=none&insecure=1&host=sni.111000.v6.rocks&type=ws&allowInsecure=1&sni=sni.111000.v6.rocks#🇹🇷 TR | 141.98.115.65
+vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#🇹🇷 TR | 2.56.127.207

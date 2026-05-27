@@ -1,1 +1,2 @@
-vless://84149a20-1233-4d63-be9f-019bc4790af2@45.140.205.215:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇨🇭 CH | 45.140.205.215
+vless://9d3f8bbe-e038-47b3-8222-c6afb61341e2@83.228.249.188:42851?path=/&security=none&encryption=none&host=Varzesh3.com&type=ws#🇨🇭 CH | 83.228.249.188
+vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#🇨🇭 CH | 83.228.249.188
