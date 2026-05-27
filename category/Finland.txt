@@ -1,4 +1,2 @@
-vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@fi2.darknet.cv:8443?security=reality&encryption=none&pbk=r_RC1eOBZeuHULJynSuQyVQ06t6pE84IzFuLHWPIVjM&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#🇫🇮 FI | 85.192.48.113
 vless://dcc97071-3c70-4eb2-83f0-6a0b12690213@f8.lalash.click:27732?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇮 FI | 94.237.16.129
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.86.158
-vless://845d2921-2166-4267-ab73-862c893b0a89@65.109.181.111:443?security=reality&encryption=none&pbk=pQWy0L2BaJ0KiAywdMBuE0eOu9HkPvbu_6lAYnj6iFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=54a3520a0840ee81#🇫🇮 FI | 65.109.181.111
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 157.180.28.17

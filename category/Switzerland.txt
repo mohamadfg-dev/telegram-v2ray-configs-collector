@@ -1,2 +1,1 @@
-vless://9d3f8bbe-e038-47b3-8222-c6afb61341e2@83.228.249.188:42851?path=/&security=none&encryption=none&host=Varzesh3.com&type=ws#🇨🇭 CH | 83.228.249.188
-vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir&headerType=http&type=tcp#🇨🇭 CH | 83.228.249.188
+vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇨🇭 CH | 83.228.249.188
