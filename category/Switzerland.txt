@@ -1,1 +1,1 @@
-vless://72aead3f-8d51-49d0-90e8-310d6fd57aca@83.228.249.188:16603?security=none&encryption=none&host=Nobitex.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇨🇭 CH | 83.228.249.188
+vless://408e86f5-beb7-4649-85c8-d01ad3eceab5@45.140.205.215:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇨🇭 CH | 45.140.205.215
