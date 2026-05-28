@@ -1,2 +1,1 @@
-vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?mode=gun&security=reality&encryption=none&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=f5#🇨🇿 CZ | 45.15.162.178
-vless://1b536681-edf6-4d30-a908-d081ab83ec0e@45.15.162.178:33826?mode=gun&security=reality&encryption=none&pbk=mAp9MUXYFKezyoMbySDsN73_k5VHcI9McPHh0Xdmojo&type=grpc&serviceName=grpc&sni=xp.apple.com&sid=f5#🇨🇿 CZ | 45.15.162.178
+vless://e258977b-e413-4718-a3af-02d75492c349@14.102.228.76:2096?encryption=none&security=tls&sni=jp.aniua.qzz.io&insecure=1&allowInsecure=1&type=ws&host=jp.aniua.qzz.io&path=/#🇨🇿 CZ | 14.102.228.76
