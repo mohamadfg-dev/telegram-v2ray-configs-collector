@@ -2,9 +2,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?encryption=none&t
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?encryption=none&type=ws&security=tls&path=/?Telegram🇨🇳+@WangCai2=&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&allowInsecure=1#🇫🇷 FR | 51.91.248.253
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vless://7d7e7469-2e04-46b6-8675-cc7aea3624ad@62.171.188.84:443?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 62.171.188.84
-trojan://telegram-id-directvpn@15.237.158.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.158.158
-vless://cf5de790-0e9f-4b2f-99bd-e599cb872c84@gamecenter.001-lab.space:8443?mode=stream-up&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=6yG2lq4uD9vNYMVmCeYMMPinp6784zUxacnKgH_v51I&host=www.oracle.com&fp=chrome&spx=/&type=xhttp&sni=www.oracle.com&sid=0be15dcae196#🇫🇷 FR | 104.252.89.31
-trojan://telegram-id-privatevpns@15.237.158.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.158.158
 trojan://telegram-id-privatevpns@35.181.181.24:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#🇫🇷 FR | 35.181.181.24
-trojan://telegram-id-v2rayvpnchannel@15.237.158.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.158.158
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.158.158:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 15.237.158.158
