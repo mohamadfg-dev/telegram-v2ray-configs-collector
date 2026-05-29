@@ -1,4 +1,3 @@
-vless://b0e02773-5a6d-4352-839a-6b632836070e@j2e4f3b-d9r8vq.95.velvetvpn.xyz:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&spx=/&type=tcp&headerType=none#🇷🇺 RU | 109.248.33.89
 vless://73a7a937-ad24-4b68-a64f-d9d3611e2fdc@130.49.189.40:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇷🇺 RU | 130.49.189.40
 vless://73a7a937-ad24-4b68-a64f-d9d3611e2fdc@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇷🇺 RU | 130.49.189.40
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
@@ -7,4 +6,3 @@ vless://b6991657-4257-4b34-a8c3-a3290d23c05b@176.122.25.12:443?encryption=none&f
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🇷🇺 RU | 85.234.114.53

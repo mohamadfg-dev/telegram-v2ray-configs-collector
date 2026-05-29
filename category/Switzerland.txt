@@ -1,1 +1,1 @@
-vless://408e86f5-beb7-4649-85c8-d01ad3eceab5@45.140.205.215:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇨🇭 CH | 45.140.205.215
+vless://b94194df-c343-4d77-96be-ab530f1b06ec@179.237.72.235:56391?encryption=none&type=tcp&headerType=http&host=my.mci.ir&path=/&security=none#🇨🇭 CH | 179.237.72.235

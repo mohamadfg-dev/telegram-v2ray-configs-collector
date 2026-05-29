@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 EE | 38.180.216.114
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇪🇪 EE | 185.215.184.95
