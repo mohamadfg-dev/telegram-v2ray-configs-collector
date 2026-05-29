@@ -1,1 +1,1 @@
-vless://0efb1a4a-0513-471c-b762-bd66a336044c@50.7.5.83:443?encryption=none&security=tls&sni=special-space-spoon-xrw6jq7q59x4c67q-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=/#🇮🇪 IE | 50.7.5.83
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.#🇮🇪 IE | 155.94.134.215
