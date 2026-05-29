@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?path=/?telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2=&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🇰🇿 KZ | 194.59.5.238
+vless://de8b874f-0b15-440c-b257-ce68852ffad0@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=eb4e5e9e1e70a46c.hozheen.ir#🇰🇿 KZ | 31.43.179.111

@@ -1,3 +1,1 @@
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇪🇪 EE | 185.215.184.95
-vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#🇪🇪 EE | 95.85.228.146
-vless://a67e3045-626c-42c9-8cc0-a5afa6b18b05@95.85.228.146:8443?security=reality&encryption=none&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=92d0c4089b6c1da3#🇪🇪 EE | 95.85.228.146

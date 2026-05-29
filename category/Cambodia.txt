@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.4.87:990#🇰🇭 KH | 38.54.4.87
+vless://310506a7-75ad-4dd9-9667-0defa413fb1b@92.243.75.112:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=nl-gateway.easyrain.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=nl-gateway.easyrain.ir#🇰🇭 KH | 92.243.75.112
+vless://310506a7-75ad-4dd9-9667-0defa413fb1b@92.243.75.112:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=nl-gateway.easyrain.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=nl-gateway.easyrain.ir#🇰🇭 KH | 92.243.75.112
