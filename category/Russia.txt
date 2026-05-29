@@ -4,5 +4,6 @@ vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality
 vless://5c85fce0-cbb9-45b0-8bdc-c30b2f55315c@62.113.36.13:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cool.fasssst.online&fp=chrome&pbk=rRGxdvq2Jr4fi2H0mHp9Jal_S5TsM2aj53R1IPtbuXU&sid=278cb8c01b2dca&spx=/&type=tcp&headerType=none#🇷🇺 RU | 62.113.36.13
 vless://b6991657-4257-4b34-a8c3-a3290d23c05b@176.122.25.12:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=z-Ov6K0L43xnjJ6RoZHRIa02pL4A6FRsEF8tqAKMnC0&sid=1a01c00ca256f6&spx=/&type=tcp&headerType=none#🇷🇺 RU | 176.122.25.12
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
+vless://c31000d2-0c0d-4e26-ac26-d168530ffe54@95.182.82.78:80?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 RU | 95.182.82.78
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇷🇺 RU | 138.124.186.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#🇷🇺 RU | 45.139.24.24
