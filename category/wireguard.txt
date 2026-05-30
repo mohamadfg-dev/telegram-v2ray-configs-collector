@@ -1,1 +1,1 @@
-wireguard://YBDcY1kzQXMMR7hA8bGW03dQzm24RZ6MBaqZOtSqsFM=@s1.hyberserver.ir:2682?address=10.10.87.2/32&presharedkey=QhQXmaHJzBKHVsfRQgSI6U4s7bjuhqOHjr2NnOFqjnw=&reserved=0,0,0&publickey=WFPePYqwIcng116EDZ641apGbOHHWZhmXNJxqikmy2U=&mtu=1280#🇮🇷 IR | 185.4.31.23
+wireguard://mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8/Zog6ZW0c=@188.114.97.6:7281?presharedkey=&address=172.16.0.2/32&publickey=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1420#🏴‍☠️ UN | mNL2pg8LMMi2bIjoSR0fRSL6QO1BMvfsr8
