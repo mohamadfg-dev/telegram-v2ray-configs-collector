@@ -4,7 +4,6 @@ vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi#🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352#🇺🇸 US | 170.130.40.123
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#🇺🇸 US | 69.84.182.49
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:2053?path=/&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#🇺🇸 US | 160.153.0.78
-vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#🇺🇸 US | 129.6.29.253
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🇺🇸 US | 129.6.29.255
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352#🇺🇸 US | 170.130.40.123
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
@@ -12,16 +11,15 @@ vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.p
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
 vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?encryption=none&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=dl-pack.motionbetter.ir&path=/#🇺🇸 US | 8.35.211.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352#🇺🇸 US | 170.130.40.123
-vless://64dc190d-25cc-46f9-b0f5-73dffe066337@199.232.236.87:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=api.nhl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 199.232.236.87
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#🇺🇸 US | 216.38.170.155
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
-vless://64dc190d-25cc-46f9-b0f5-73dffe066337@199.232.236.87:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=api.nhl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 199.232.236.87
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#🇺🇸 US | 8.35.211.138
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#🇺🇸 US | 144.172.101.108
 trojan://mitivpn@208.103.161.33:443?type=ws&security=tls&path=/&host=ir-sub.ir&sni=ir-sub.ir&fp=chrome&allowInsecure=1#🇺🇸 US | 208.103.161.33
+vless://0da640df-a497-4ec2-8705-707c44705f47@fastly1.hamrahflow.ir:443?path=/&security=tls&encryption=none&host=Valsiin.com&type=ws&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.155.104
+vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
 vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#🇺🇸 US | 8.47.69.4
 vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@152.53.53.168:443?security=reality&encryption=none&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&headerType=none&fp=firefox&type=tcp&sni=cloudrynth.com#🇺🇸 US | 152.53.53.168
 vless://b0e07703-77ab-4d07-b67f-f825eb7a569e@s3hf8j.connect343.net:34820?type=tcp&encryption=none&security=reality&pbk=846xvaKwZoNDLNHaA06RjUYfTbZg1tkkP290anPfIWw&fp=chrome&sni=www.apple.com&sid=5a096852b9&spx=/#🇺🇸 US | 172.191.161.4
@@ -29,5 +27,5 @@ trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=/assignment&host=www
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇺🇸 US | 216.24.57.6
-vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi#🇺🇸 US | 129.6.29.255
+vless://64dc190d-25cc-46f9-b0f5-73dffe066337@199.232.236.87:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=api.nhl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 199.232.236.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193
