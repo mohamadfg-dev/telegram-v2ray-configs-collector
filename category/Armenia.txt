@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#🇦🇲 AM | 188.164.158.138
+vless://c3422602-44e0-4b53-9f23-1beb3985741e@5.10.214.53:2053?encryption=none&type=ws&security=tls&path=/&host=dashboard.ir-sub.ir&sni=dashboard.ir-sub.ir&fp=chrome&allowInsecure=1#🇦🇲 AM | 5.10.214.53
+vless://c3422602-44e0-4b53-9f23-1beb3985741e@5.10.214.53:2053?encryption=none&type=ws&security=tls&path=/&host=dashboard.ir-sub.ir&sni=dashboard.ir-sub.ir&fp=chrome&allowInsecure=1#🇦🇲 AM | 5.10.214.53
