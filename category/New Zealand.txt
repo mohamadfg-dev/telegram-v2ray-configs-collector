@@ -1,1 +1,2 @@
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&fp=chrome&host=m.udemy.com.cyylr.eu.cc&path=/id-tksi&security=tls&sni=m.udemy.com.cyylr.eu.cc&type=ws#🇳🇿 NZ | 202.37.33.81
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=/sg-melbi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#🇳🇿 NZ | 202.37.33.80
