@@ -2,7 +2,8 @@ trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insec
 trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=www.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=www.hitgram.ir#🇺🇸 US | 216.24.57.7
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#🇺🇸 US | 69.84.182.49
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:2053?path=/&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#🇺🇸 US | 160.153.0.78
-vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
+vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=/id-amz&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#🇺🇸 US | 129.6.29.253
+vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=/id-tksi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🇺🇸 US | 129.6.29.255
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCAyMy4yMjQuMTczLjk5IiwiYWRkIjoiMjMuMjI0LjE3My45OSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMifQ==
@@ -10,8 +11,6 @@ vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?encryption=none&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880/?type=grpc&encryption=none&flow=#🇺🇸 US | 45.82.251.208
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=/@Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=4c#🇺🇸 US | 147.182.183.207
 vless://dfa6f07e-84d4-4d2b-8ba1-48d47dccba60@104.194.135.175:31570?path=/&security=none&encryption=none&type=ws#🇺🇸 US | 104.194.135.175
-vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
-vless://66a83901-6f32-416f-967b-c602fe47b49b@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=neSzjzFesHab.gLobAl.ssl.FasTly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#🇺🇸 US | 216.38.170.155
 vless://0d37f3da-9328-4ee5-b3ba-143161f0f099@151.101.57.219:443?path=/wp-admin.php?ed=2052&security=tls&encryption=none&insecure=1&host=Api.nHl14.iR.&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 US | 151.101.57.219
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 US | 45.82.251.208
@@ -27,4 +26,3 @@ trojan://humanity@216.24.57.6:443?type=ws&security=tls&path=/assignment&host=www
 vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=/&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#🇺🇸 US | 8.6.112.0
 vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=/?ed=2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#🇺🇸 US | 8.6.112.0
 vless://e258977b-e413-4718-a3af-02d75492c349@216.24.57.6:443?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#🇺🇸 US | 216.24.57.6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193
