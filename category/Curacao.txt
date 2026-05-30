@@ -1,1 +1,1 @@
-vless://de8b874f-0b15-440c-b257-ce68852ffad0@45.81.58.159:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=8ddb416cd7e662d1.hozheen.ir#undefined CW | 45.81.58.159
+vless://f322debc-8e3f-4268-89d8-4708161a8e5e@45.81.58.159:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2c107fee2b79722.hozheen.ir#undefined CW | 45.81.58.159

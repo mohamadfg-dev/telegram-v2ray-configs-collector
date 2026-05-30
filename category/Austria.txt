@@ -1,1 +1,1 @@
-vless://eb625281-8908-43a6-b8a9-a604fa03b2e6@au.save-node.com:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=au.save-node.com&sid=a9c4f17e3b62d8#🇦🇹 AT | 152.53.2.151
+vless://f174f51a-a8ef-450d-97cb-d528fe71bae8@77.110.110.166:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 77.110.110.166
