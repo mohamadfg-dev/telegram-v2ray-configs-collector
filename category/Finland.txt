@@ -1,3 +1,2 @@
-vless://e32167a6-1571-45aa-8b58-c2592c4dfc48@my.ssabzlearn.ir:9443?path=/pourya&security=&encryption=none&type=ws#🇫🇮 FI | 109.120.184.150
 vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 193.233.23.121
-vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.86.158
+vless://978608ba-cac7-461e-af6a-d99d2b53155e@shop.onlineserver2.top:7320?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🇫🇮 FI | 37.27.91.234
