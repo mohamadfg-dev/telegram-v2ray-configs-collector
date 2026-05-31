@@ -1,1 +1,1 @@
-trojan://d30ab83dbde4480082048fb315bedebd@15.204.56.75:443?encryption=none&security=tls&sni=15.204.56.75&insecure=1&type=raw&headertype=none#🇺🇸 US | 15.204.56.75
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&security=tls&sni=r1.mizulina.top&type=raw#🇷🇺 RU | 85.234.114.53
