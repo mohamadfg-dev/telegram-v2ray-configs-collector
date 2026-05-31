@@ -1,1 +1,2 @@
-vless://1c291039-0845-428c-94fc-8c4623bf4ffd@static.oneset.ir:2128?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17&type=tcp&headerType=none#🇹🇷 TR | 37.221.79.77
+vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=41#🇹🇷 TR | 37.221.79.69
+vless://15115772-74b5-4c9b-9049-d7237a9c68f9@37.221.79.69:8443?mode=auto&path=/&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=kSqgT4C5AcpCMLdW1VCvFSiv5UX6UDLaF33ECFpzUgQ&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=41#🇹🇷 TR | 37.221.79.69

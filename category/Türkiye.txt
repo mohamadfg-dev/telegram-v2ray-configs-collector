@@ -1,2 +1,2 @@
-vless://1c291039-0845-428c-94fc-8c4623bf4ffd@static.oneset.ir:2128?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=m2Rd8UuC1Jazs7D-BMD1EM0vmisK06jC30yhp5ZCSlk&sid=a48c59a382c99e17&type=tcp&headerType=none#🇹🇷 TR | 185.226.95.238
+vless://e4ec0319-a924-42eb-84a5-9bff93d91d60@107.161.174.68:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=safari&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp&headerType=none#🇹🇷 TR | 107.161.174.68
 vmess://eyJwb3J0IjoiNDUyNTUiLCJuZXQiOiJ0Y3AiLCJpZCI6ImRkNWZmZDIzLWNlZjUtNDRkZC1hMTQzLTY1OGJkN2YzOTQzYSIsImhvc3QiOiJiYWxlLmFpIiwicGF0aCI6Ii8iLCJwcyI6IvCfh7nwn4e3IFRSIHwgMjEyLjg3LjE5OC43OSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoiaHR0cCIsImFkZCI6IjIxMi44Ny4xOTguNzkifQ==
