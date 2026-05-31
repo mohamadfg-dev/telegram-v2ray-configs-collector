@@ -7,10 +7,8 @@ vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#🇬🇧 GB | 152.233.28.198
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 20.90.253.201
 vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6IvCfh6zwn4enIEdCIHwgNTEuMTk1LjIzNS43MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#🇬🇧 GB | 57.129.129.247
 vless://2452c5b1-26b3-4265-a2d8-818f62685f97@25.129.199.122:2087?path=/graphql&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cloudali.sudo-network.xyz#🇬🇧 GB | 25.129.199.122
 vless://2452c5b1-26b3-4265-a2d8-818f62685f97@25.129.199.122:2087?path=/graphql&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=cloudali.sudo-network.xyz#🇬🇧 GB | 25.129.199.122
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.90.66.7:443?encryption=none&security=tls&sni=supreme-space-waddle-wvrvw6x79jx4cw9j-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=/#🇬🇧 GB | 20.90.66.7
-vless://InternetAzadRobot-AliKiller@fastly.com:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#🇬🇧 GB | 2a04:4e42:400::313
+vless://7903e1c8-13c7-4091-9a17-253bddad208e@speedtest.net:80?path=/&security=none&encryption=none&host=Asaaabi.global.ssl.fastly.net&type=ws#🇬🇧 GB | 2a04:4e42::731
