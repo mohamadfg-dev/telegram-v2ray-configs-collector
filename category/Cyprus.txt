@@ -1,4 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.cc.cd&sni=sni.111000.cc.cd&fp=chrome#🇨🇾 CY | 77.75.199.43
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#🇨🇾 CY | 77.75.199.43
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#🇨🇾 CY | 77.75.199.43
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.43:443?security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#🇨🇾 CY | 77.75.199.43
+vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@45.9.14.156:18543?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N6QQQTEXQaXI9PRxOYdlnsdviaLwu4eP4sIq9ifz5VM&security=reality&sid=fb0839b3bc1d6e&sni=www.zvuk.com&type=tcp#🇨🇾 CY | 45.9.14.156

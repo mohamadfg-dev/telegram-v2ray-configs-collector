@@ -1,1 +1,1 @@
-vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?security=reality&encryption=none&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&headerType=none&type=tcp&sni=yahoo.com&sid=bf05#🇳🇴 NO | 89.185.81.123
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?encryption=none&fp=&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&security=reality&sid=8735&sni=yahoo.com&type=tcp#🇳🇴 NO | 193.203.10.86
