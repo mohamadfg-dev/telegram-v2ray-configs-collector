@@ -1,2 +1,1 @@
-vless://753fbb44-4997-41d1-9f5c-570f87c23163@vless-hk02.yunjnet.com:50133?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=chrome&insecure=1&sni=d1.awsstatic.com#🇯🇵 JP | 35.76.149.28
-vless://753fbb44-4997-41d1-9f5c-570f87c23163@vless-hk01.yunjnet.com:50133?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=xtls-rprx-vision&fp=chrome&insecure=1&sni=d1.awsstatic.com#🇯🇵 JP | 35.76.149.28
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#🇯🇵 JP | 103.106.228.175
