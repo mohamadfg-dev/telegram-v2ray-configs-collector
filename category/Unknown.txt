@@ -24,9 +24,10 @@ vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&en
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://5c5b3529-57b9-638b-9998-a2c0e4e26981@melli.ciliko.ir:2096?security=none&encryption=none&headerType=none&type=tcp#🏴‍☠️ UN | melli.ciliko.ir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VRQDIwLjg3LjEwNy45OTo0NDM=#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTldUZUoxRWpaVTN6N0VRQDIwLjg3LjEwNy45OTo0NDM=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IHYyOS5oZWR1aWFuLmxpbmsiLCJhZGQiOiJ2MjkuaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MjksImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidjI5LmhlZHVpYW4ubGluayIsInBhdGgiOiIvb29vbyIsInRscyI6IiJ9
-vless://31bdae38-ab95-499a-8105-2fe7c45a8240@hub1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | hub1.wiziii.xyz
+vless://884137ff-040f-49e2-9719-50abc0960115@vip.subrexo.com:10888?path=/&security=&encryption=none&host=vip.subrexo.ir&type=ws#🏴‍☠️ UN | vip.subrexo.com
+vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🏴‍☠️ UN | 89.34.230.234
+vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#🏴‍☠️ UN | 144.172.101.108
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:2053?path=/?ed=2560&security=tls&encryption=none&host=chess.sorza.ir&type=ws&sni=digikala.sorza.ir#🏴‍☠️ UN | f1.springpaatogh8.store
 vmess://eyJhZGQiOiJ1cy56YXJhc2l0ZS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjJkNjBmYy01MTJkLTQ4MTEtYjUwYy0xODAxM2UzMmMxNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MzEiLCJwcyI6IvCfj7TigI3imKDvuI8gVU4gfCB1cy56YXJhc2l0ZS5pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
@@ -46,7 +47,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "scMinPostsIntervalMs" : 30,
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
-vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
 vless://1b82e854-c1df-4aa4-a6d4-57153cc0fad8@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburs.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburs.appleseraj.ir#🏴‍☠️ UN | poli.appleseraj.ir

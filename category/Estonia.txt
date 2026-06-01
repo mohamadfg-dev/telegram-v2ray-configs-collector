@@ -1,1 +1,1 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.95:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🇪🇪 EE | 185.215.184.95
+vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&security=reality&sid=5a7216aec1371894&sni=est.hatvpn.org&type=tcp#🇪🇪 EE | 95.85.228.212
