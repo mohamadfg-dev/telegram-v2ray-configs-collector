@@ -1,2 +1,1 @@
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#🇵🇱 PL | 77.239.114.176
-vless://fb9e4c3a-936f-44c7-ac89-d5d422690fcf@77.239.114.176:19105?security=reality&encryption=none&pbk=IS6TNMONlIVvcUBvo2RXQvx2Jopcv4wzPyZhxPhWqT8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e6#🇵🇱 PL | 77.239.114.176
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@poland-1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&security=reality&sid=5dd747e98058584b&sni=poland-1.bexum.fun&type=tcp#🇵🇱 PL | 144.31.4.221
