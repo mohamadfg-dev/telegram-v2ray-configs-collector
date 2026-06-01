@@ -1,3 +1,2 @@
 vless://6f9de7a7-e303-4056-b9ff-96a610ebdee9@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.neT.&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 JP | 151.101.110.219
 vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 JP | 151.101.110.219
-vless://a1bb5fa0-3b1e-4fbc-f1b6-686a3579649849@150.230.214.172:16957?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=us2.wxgqlfx.xyz&path=/TG@wxgqlfx#🇯🇵 JP | 150.230.214.172
