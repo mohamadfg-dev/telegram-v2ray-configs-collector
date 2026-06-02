@@ -1,1 +1,1 @@
-vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&type=tcp&headerType=none#🇲🇩 MD | 193.233.202.1
+vless://6e76f92f-5005-42d8-8c66-ea7ffde3168a@193.233.202.7:443?security=reality&encryption=none&pbk=rSL9RX3anDN8Un4ImlYVa94n9wDdUmHdubxoMKnaXgE&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=5a55#🇲🇩 MD | 193.233.202.7
