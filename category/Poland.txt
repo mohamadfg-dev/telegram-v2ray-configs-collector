@@ -1,1 +1,2 @@
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@poland-1.bexum.fun:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&security=reality&sid=5dd747e98058584b&sni=poland-1.bexum.fun&type=tcp#🇵🇱 PL | 144.31.4.221
+vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.118:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#🇵🇱 PL | 212.127.90.118
+vless://435954ab-38f3-40bf-b303-77e3f6576fa0@212.127.90.118:443?security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#🇵🇱 PL | 212.127.90.118
