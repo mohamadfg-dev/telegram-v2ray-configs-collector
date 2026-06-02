@@ -8,7 +8,6 @@ https://t.me/s/heyatserver
 https://t.me/s/abiidar_server
 https://t.me/s/nim_vpn_ir
 https://t.me/s/alfred_config
-https://t.me/s/alfred_config
 https://t.me/s/apple_x1
 https://t.me/s/argo_vpn1
 https://t.me/s/asak_vpn
@@ -32,11 +31,11 @@ https://t.me/s/cook_vpn
 https://t.me/s/customv2ray
 https://t.me/s/daily_configs
 https://t.me/s/dargiiriis
+https://t.me/s/entrynet
 https://t.me/s/farstar_vpn
 https://t.me/s/fastvpnorummobile
 https://t.me/s/flystoreir
 https://t.me/s/flyv2ray
-https://t.me/s/freakconfig
 https://t.me/s/freevpnatm
 https://t.me/s/freevpnatm
 https://t.me/s/g0dv2ray
@@ -132,6 +131,7 @@ https://t.me/s/v2ngfast
 https://t.me/s/v2rang_da
 https://t.me/s/v2raxx
 https://t.me/s/v2ray03
+https://t.me/s/v2ray_83
 https://t.me/s/v2ray_fd
 https://t.me/s/v2ray_melli
 https://t.me/s/v2ray_sub
@@ -146,6 +146,7 @@ https://t.me/s/v2rayfast_7
 https://t.me/s/v2rayfree
 https://t.me/s/v2rayfree_server
 https://t.me/s/v2raying
+https://t.me/s/v2rayn5
 https://t.me/s/v2rayng_1378
 https://t.me/s/v2rayng_fars
 https://t.me/s/v2rayng_matsuri
@@ -160,7 +161,6 @@ https://t.me/s/v2ryng01
 https://t.me/s/v2trayproxy
 https://t.me/s/v2trayproxy
 https://t.me/s/vip_fragment_v2ray
-https://t.me/s/vipv2rayngnp
 https://t.me/s/vmess_iran
 https://t.me/s/vmess_vless_v2rayng
 https://t.me/s/vmess_vless_v2rayng
@@ -188,6 +188,7 @@ https://t.me/s/zerov2shop
 https://t.me/s/zibanabz
 https://t.me/s/FreeNetPlus1
 https://t.me/s/FreeNetPlus1
+https://t.me/s/vpnv2r4y
 https://t.me/s/V2ConfigGB
 https://t.me/s/V2ConfigGB
 https://t.me/s/V2rayNG_Cila
