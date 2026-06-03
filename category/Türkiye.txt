@@ -1,2 +1,1 @@
-vless://e03579b1-78bf-4bc9-aff4-88495ce8337d@panel.panel.pythash.tr:8443?security=reality&encryption=none&pbk=TxNBDL4s91n_LuPrklBN0Xan6R7_f-MEOxyt_E6tBUU&headerType=none&fp=chrome&spx=/STrvU3QBdpSArYb&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=ce8f30#🇹🇷 TR | 212.87.199.28
-vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@212.87.199.28:443?security=reality&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com#🇹🇷 TR | 212.87.199.28
+vless://6a3b21e8-3d68-4f5d-8f53-5bf8f9735920@213.156.152.186:443?security=reality&encryption=none&pbk=DAV0PxuvxAz_pMRmm4BO2Vsvof2DQ-2W08cgJEebrkg&headerType=none&fp=firefox&spx=/o9m4xdYnxI9exFp&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d4d0#🇹🇷 TR | 213.156.152.186
