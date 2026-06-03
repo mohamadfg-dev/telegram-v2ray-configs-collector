@@ -1,2 +1,1 @@
-vless://49499845-88e7-4742-9770-ecdfec33b887@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=99729eeefa901990.hozheen.ir#🇰🇿 KZ | 31.43.179.111
-vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?security=reality&encryption=none&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&sid=73b4306eb38fe3d6#🇰🇿 KZ | 194.110.55.85
+vless://586db082-dcfc-4599-8b52-af4cf7da8330@wEb.sUbStEr.iR:2053?path=/&security=tls&encryption=none&insecure=0&host=nAzAnmAnO.X-uPlOaD.oRg&type=ws&allowInsecure=0&sni=nAzAnmAnO.X-uPlOaD.oRg#🇰🇿 KZ | 31.43.179.111
