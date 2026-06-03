@@ -1,1 +1,2 @@
-vless://d87234a4-2a6c-4f0c-87f0-300942338207@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=1&host=jookeji.global.ssl.fastly.neT&type=ws&allowInsecure=1&sni=speedtest.net#🇯🇵 JP | 151.101.110.219
+vless://ae5a910d-b6d0-43aa-80fb-1a70f0078ce8@151.101.110.219:443?encryption=none&type=ws&security=tls&path=/&host=nleiyajji.global.ssl.fastly.neT.&sni=speedtest.net&allowInsecure=1#🇯🇵 JP | 151.101.110.219
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E@47.79.144.115:40003#🇯🇵 JP | 47.79.144.115
