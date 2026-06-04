@@ -1,3 +1,2 @@
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇹🇼 TW | 220.130.58.136
-vless://bce38beb-a6d0-41d7-9c0a-26eed9a6634d@tw3.miyazono-kaori.com:443?security=reality&encryption=none&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdnets.asus.com&sid=473277e2#🇹🇼 TW | 43.213.222.58
