@@ -1,1 +1,1 @@
-vless://c3422602-44e0-4b53-9f23-1beb3985741e@5.10.214.53:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=1&host=dashboard.ir-sub.ir&fp=chrome&type=ws&allowInsecure=1&sni=dashboard.ir-sub.ir#🇦🇲 AM | 5.10.214.53
+trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#🇦🇲 AM | 2.56.204.246
