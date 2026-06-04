@@ -1,1 +1,2 @@
-vless://d262c258-e73a-47d2-944d-55cfc4bc8fd0@45.39.241.51:23837?encryption=none&type=ws&path=/ws&host=45.39.241.51#🇧🇬 BG | 45.39.241.51
+vless://53860602-f0ea-4bb0-bc10-852a27606b87@45.39.241.51:20607?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=45.39.241.51#🇧🇬 BG | 45.39.241.51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#🇧🇬 BG | 89.44.197.181

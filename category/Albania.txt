@@ -1,2 +1,2 @@
-vless://f03d8097-65a9-4d26-bb1c-74041426dcf2@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇦🇱 AL | 45.89.60.64
-vless://f03d8097-65a9-4d26-bb1c-74041426dcf2@45.89.60.64:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.89.60.64
+vless://5902e7cc-234d-4f88-b477-4545f7af0604@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇦🇱 AL | 45.89.60.64
+vless://5902e7cc-234d-4f88-b477-4545f7af0604@45.89.60.64:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇦🇱 AL | 45.89.60.64
