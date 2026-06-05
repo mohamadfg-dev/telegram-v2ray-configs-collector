@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@89.127.218.251:2443#🇮🇪 IE | 89.127.218.251
+vless://e83c0136-36c1-4235-8a61-8f4da14bb868@52.213.153.71:8080?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇮🇪 IE | 52.213.153.71
