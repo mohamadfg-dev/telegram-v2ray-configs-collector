@@ -1,2 +1,1 @@
-trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?security=tls&sni=vpn5.rnmcnm.com&insecure=1&allowInsecure=1&type=ws&host=vpn5.rnmcnm.com&path=/ws-79dffb8106db#🇦🇲 AM | 2.56.204.246
 trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?path=/ws-79dffb8106db&security=tls&insecure=0&host=vpn5.rnmcnm.com&type=ws&allowInsecure=0&sni=vpn5.rnmcnm.com#🇦🇲 AM | 2.56.204.246

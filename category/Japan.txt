@@ -1,3 +1,4 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCA0NS43OC41NC45MSIsImFkZCI6ImMxMnM0LmphbWphbXMzLm5ldCIsInBvcnQiOiIxMjYyMyIsInR5cGUiOiJub25lIiwiaWQiOiI4ZmY4NzhkMS1lYWY4LTRhZmQtOGNiYi02ZDY1NzU5NmFmNjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYzEyczQuamFtamFtczMubmV0IiwidGxzIjoiIn0=
 vless://5f2c8a1b-911f-422f-8a12-0d98b0d55fcb@151.101.108.223:443?path=/&security=tls&encryption=none&host=oijji.global.ssl.fastly.neT&type=ws&sni=speedtest.net#🇯🇵 JP | 151.101.108.223
-vless://8b7eaa05-6773-4007-9be4-1059ca083feb@151.101.110.219:443?encryption=none&type=ws&security=tls&path=/&host=nesfsheshab.global.ssl.fastly.net&sni=speedtest.net&allowInsecure=1#🇯🇵 JP | 151.101.110.219
+vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=fancii.global.ssl.fastly.net&path=/#🇯🇵 JP | 151.101.108.223
+trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER#🇯🇵 JP | 151.101.108.223
+trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER&host=nleiyajji.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223

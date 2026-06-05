@@ -1,5 +1,4 @@
 vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?mode=gun&security=reality&encryption=none&authority=treng.loralden.com&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&fp=firefox&spx=/&type=grpc&serviceName=grpc&sni=treng.loralden.com&sid=ed72a429f0135a3f#🇳🇱 NL | 213.176.16.179
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇳🇱 NL | 46.229.243.138
 trojan://qdcdnsaz5zsotaug@192.153.57.237:80?path=/nini&security=none&host=192.153.57.237&type=ws#🇳🇱 NL | 192.153.57.237
 vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#🇳🇱 NL | 88.218.120.60
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇳🇱 NL | 46.229.243.70
@@ -7,10 +6,8 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&en
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#🇳🇱 NL | 5.255.102.104
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#🇳🇱 NL | 136.244.100.113
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0#🇳🇱 NL | 46.229.243.136
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🇳🇱 NL | 89.34.230.234
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443/?type=tcp&encryption=none&security=tls#🇳🇱 NL | 46.229.243.76
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#🇳🇱 NL | 46.229.243.70
 trojan://qdcdnsaz5zsotaug@192.153.57.237:80?path=/nini&security=none&host=192.153.57.237&type=ws#🇳🇱 NL | 192.153.57.237
 vless://bc1cfd52-fddf-4c94-affd-cdc9f47eafde@194.60.133.108:2095?path=/vless&security=none&encryption=none&type=ws#🇳🇱 NL | 194.60.133.108
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:35565?security=reality&encryption=none&pbk=u1jJ6x_wMSPAWxBXjPgeu2oFalXKz0acV0-uXTRpsjI&headerType=none&fp=chrome&spx=/meNj39REQUsWm4c&allowinsecure=0&type=tcp&sni=aws.amazon.com&sid=b4#🇳🇱 NL | 95.179.187.188
