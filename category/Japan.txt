@@ -2,3 +2,4 @@ vless://5f2c8a1b-911f-422f-8a12-0d98b0d55fcb@151.101.108.223:443?path=/&security
 vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=fancii.global.ssl.fastly.net&path=/#🇯🇵 JP | 151.101.108.223
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER#🇯🇵 JP | 151.101.108.223
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?type=ws&security=tls&path=/TELEGRAM_NUFiLTER&host=nleiyajji.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223
+vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?path=/&security=tls&encryption=none&insecure=1&host=fancii.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇯🇵 JP | 151.101.108.223
