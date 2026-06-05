@@ -1,1 +1,1 @@
-vless://e83c0136-36c1-4235-8a61-8f4da14bb868@52.213.153.71:8080?encryption=none&type=tcp&security=tls&headerType=none&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇮🇪 IE | 52.213.153.71
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.152.86:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇮🇪 IE | 54.73.152.86
