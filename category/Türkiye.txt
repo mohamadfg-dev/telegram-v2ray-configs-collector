@@ -1,1 +1,1 @@
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 TR | 185.226.93.147
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=none&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 TR | 185.226.93.147
