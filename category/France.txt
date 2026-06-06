@@ -6,8 +6,8 @@ trojan://telegram-id-directvpn@52.47.107.29:22223?security=tls&alpn=http/1.1&hea
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🇫🇷 FR | 185.193.28.212
 vless://@free_conf_iran@51.83.22.65:20021?security=reality&encryption=none&pbk=CsbATIwH_TIGR_U0eTjxv4aLhCTTuq-Roh2Bgu75QTY&headerType=none&fp=random&spx=/ppJiKOhhrr4BQMo&type=tcp&sni=play.google.com&sid=4b1771#🇫🇷 FR | 51.83.22.65
 trojan://telegram-id-privatevpns@52.47.107.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.107.29
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 FR | 152.228.162.19
+trojan://telegram-id-v2rayvpnchannel@52.47.107.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.107.29
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.107.29:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.107.29
 vless://@free_conf_iran@51.83.22.65:52196?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 51.83.22.65
-vless://@free_conf_iran@51.83.22.65:52196?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 51.83.22.65
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?encryption=none&type=ws&security=tls&path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&host=crm.lotussec.com&sni=crm.lotussec.com&allowInsecure=0#🇫🇷 FR | 185.193.28.212
