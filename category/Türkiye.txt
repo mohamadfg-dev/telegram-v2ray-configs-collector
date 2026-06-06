@@ -1,1 +1,1 @@
-vless://6a3b21e8-3d68-4f5d-8f53-5bf8f9735920@213.156.152.186:443?security=reality&encryption=none&pbk=DAV0PxuvxAz_pMRmm4BO2Vsvof2DQ-2W08cgJEebrkg&headerType=none&fp=firefox&spx=/o9m4xdYnxI9exFp&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d4d0#🇹🇷 TR | 213.156.152.186
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 TR | 185.226.93.147

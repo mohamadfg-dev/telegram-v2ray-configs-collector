@@ -1,1 +1,1 @@
-vless://db95b766-43a8-0029-9b5d-5ca6f2735188@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=forms.sablefrost.com&sid=31181028b56c8704#🇸🇪 SE | 185.189.47.29
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🇸🇪 SE | 150.241.75.255
