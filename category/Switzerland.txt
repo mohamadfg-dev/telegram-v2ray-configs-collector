@@ -1,5 +1,3 @@
-trojan://Masir_Sefid@195.15.253.91:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇭 CH | 195.15.253.91
-trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇭 CH | 195.15.253.91
 trojan://Masir_Sefid@195.15.253.91:443?security=reality&sid=6ced01fc4aa417&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&type=tcp#🇨🇭 CH | 195.15.253.91
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&sid=84e87fdcdf2ea9e8&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&type=tcp#🇨🇭 CH | 195.15.253.91
 vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?security=reality&encryption=none&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&headerType=none&fp=chrome&spx=/6F1VS1poMaNhMSa&type=tcp&sni=store.steampowered.com&sid=723f912a60ed8b#🇨🇭 CH | 195.15.253.247

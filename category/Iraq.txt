@@ -1,1 +1,1 @@
-vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@auto.happvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#🇮🇶 IQ | 81.90.29.105
+vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#🇮🇶 IQ | 196.199.104.131
