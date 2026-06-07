@@ -1,2 +1,1 @@
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 PL | 54.38.136.47
-vless://30bbbfc5-6a24-4348-8f3b-d44331b6aab8@pl.riotvpn.eu:443?encryption=none&type=tcp&security=reality&headerType=none&sni=ads.x5.ru&fp=chrome&allowInsecure=1&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b&flow=xtls-rprx-vision#🇵🇱 PL | 83.168.91.244
