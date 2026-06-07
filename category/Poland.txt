@@ -1,3 +1,3 @@
 vless://51e1e927-0621-44f0-a212-0c7c604bdbfd@pl1.cordvpn.net:443?security=reality&encryption=none&pbk=mJF5sHq_HEZMks1-u00eLNnkd_SfnNhDEwjklfHYVxA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=pl1.cordvpn.net&sid=6f93c1a2a4e5b807#🇵🇱 PL | 89.126.229.37
 vless://06f50d6a-423e-4c89-8cd3-608bc6cc296b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#🇵🇱 PL | 54.38.136.47
-vless://dbb01f20-dc85-4f6b-a822-2bd483b4b7e2@64.176.69.152:80?type=tcp&host=a.jcdn.filimo.ir&path=/download/1942?file_id=933&headerType=http#🇵🇱 PL | 64.176.69.152
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🇵🇱 PL | 54.36.174.134

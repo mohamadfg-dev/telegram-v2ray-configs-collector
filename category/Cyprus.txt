@@ -1,1 +1,2 @@
-vless://9e586f14-ae99-4ad6-8b20-ca8965614173@104.239.72.141:443?path=/&security=tls&encryption=none&insecure=0&host=mainsub.m4network-f4c.workers.dev&fp=random&type=ws&allowInsecure=0&sni=mainsub.m4network-f4c.workers.dev#🇨🇾 CY | 104.239.72.141
+vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?path=/test&security=none&encryption=none&host=play.google.com&type=ws#🇨🇾 CY | 171.22.136.84
+vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?path=/test&security=none&encryption=none&host=play.google.com&type=ws#🇨🇾 CY | 171.22.136.84
