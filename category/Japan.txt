@@ -1,7 +1,4 @@
 vless://3f88bde3-effd-4a49-bfa2-19fa4d0e1cc5@151.101.108.223:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=fancii.global.ssl.fastly.net&path=/#🇯🇵 JP | 151.101.108.223
 trojan://ertpzfsl7w4kqvk4@151.101.108.223:443?security=tls&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1&type=ws&host=nleiyajji.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER#🇯🇵 JP | 151.101.108.223
-vless://e7c13fda-6089-41a7-8367-dcbba30ce844@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223
 vless://a73ab8fb-5838-410f-ad52-c98a69f1b3ca@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223
 vless://b2cd6eb9-2cc5-4387-9414-0c1c26936cd9@151.101.109.223:443?mode=auto&path=/&security=tls&encryption=none&insecure=1&host=gtrb.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=biography.com#🇯🇵 JP | 151.101.109.223
-vless://a73ab8fb-5838-410f-ad52-c98a69f1b3ca@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223
-vless://e7c13fda-6089-41a7-8367-dcbba30ce844@151.101.108.223:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&allowInsecure=1#🇯🇵 JP | 151.101.108.223

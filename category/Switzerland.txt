@@ -1,3 +1,1 @@
-vless://92d41509-4228-43da-aebb-70b1d8d68f04@swiss.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=swiss.janusgate.org&sid=76dc11867a5c907a#🇨🇭 CH | 45.141.119.85
 vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?security=reality&encryption=none&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&headerType=none&fp=chrome&spx=/6F1VS1poMaNhMSa&type=tcp&sni=store.steampowered.com&sid=723f912a60ed8b#🇨🇭 CH | 195.15.253.247
-vless://83b83db8-477e-47d6-86cb-749d5042d44f@sw.monedita.cl:443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇨🇭 CH | 45.59.124.139
