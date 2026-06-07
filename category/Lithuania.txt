@@ -1,1 +1,2 @@
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#🇱🇹 LT | 2.57.91.92
+vless://386c2a79-2ace-4784-8831-9189e58702f3@89.116.250.8:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=wallweb.hydradllvip.info&fp=chrome&type=ws&allowInsecure=0&sni=wallweb.hydradllvip.info#🇱🇹 LT | 89.116.250.8

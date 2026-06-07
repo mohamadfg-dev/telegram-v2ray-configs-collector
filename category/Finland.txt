@@ -1,1 +1,2 @@
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 193.233.23.196
+trojan://SoftNetConnect@46.62.201.63:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=MGsu9-MZjoV5ReYAQFYIDoDbC5m4De0QC1i0XhcpWjU&sid=f7e48a54&spx=/#🇫🇮 FI | 46.62.201.63
+trojan://SoftNetConnect@46.62.201.63:2087?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=MGsu9-MZjoV5ReYAQFYIDoDbC5m4De0QC1i0XhcpWjU&sid=f7e48a54&spx=/#🇫🇮 FI | 46.62.201.63
