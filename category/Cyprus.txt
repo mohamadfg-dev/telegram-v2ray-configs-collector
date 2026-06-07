@@ -1,2 +1,1 @@
-vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?path=/test&security=none&encryption=none&host=play.google.com&type=ws#🇨🇾 CY | 171.22.136.84
-vless://f85eafbd-feaa-412d-a1f6-79a2766ee3a9@171.22.136.84:8443?path=/test&security=none&encryption=none&host=play.google.com&type=ws#🇨🇾 CY | 171.22.136.84
+vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjgiLCJhaWQiOjAsImhvc3QiOiJvcGxnMS5jZmNkbjIueHl6IiwiaWQiOiJjNWEyZDdiOC1iZjg0LTRmOTctODU3Ny1iOWI4N2YyYmFhZjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvQVVJS044QVUiLCJwb3J0Ijo0NDMsInBzIjoi8J+HqPCfh74gQ1kgfCAyMDMuMjQuMTA4LjgiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9

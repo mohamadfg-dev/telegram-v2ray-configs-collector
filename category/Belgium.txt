@@ -1,1 +1,1 @@
-vless://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🇧🇪 BE | 151.101.10.79
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?path=/?ed=2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#🇧🇪 BE | 188.95.12.110
