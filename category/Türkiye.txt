@@ -1,1 +1,1 @@
-vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#🇹🇷 TR | 212.64.215.53
+vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=/#🇹🇷 TR | 5.188.190.94
