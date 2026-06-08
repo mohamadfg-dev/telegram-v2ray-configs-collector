@@ -1,1 +1,1 @@
-vless://b36af010-4146-478b-ac7b-d929b96b7314@77.110.110.166:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=randomized&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇦🇹 AT | 77.110.110.166
+vless://5d8fcd24-9634-4dd7-845c-3dc2d6291942@as.pink-perfect.ru:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=as.pink-perfect.ru&sid=8ffa160e608bf539#🇦🇹 AT | 77.110.110.206
