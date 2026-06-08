@@ -1,2 +1,1 @@
 vless://a78bf929-6883-48af-902d-7737793eeb17@hu02.sonicsonic.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hu02.sonicsonic.icu#🇭🇺 HU | 37.221.208.179
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@love.ns.cloudflare.com:80?path=/&security=none&encryption=none&host=sRv16.hAMiIbaR.CoM&type=ws#🇭🇺 HU | 162.159.38.119
