@@ -1,2 +1,1 @@
 vless://ed4bafcf-f822-4309-94b3-aa7be5807275@212.64.215.53:8443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=6ba85179e30d4fc2#🇹🇷 TR | 212.64.215.53
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=www.google.com&fp=random&allowInsecure=1&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=/#🇹🇷 TR | 141.98.118.70
