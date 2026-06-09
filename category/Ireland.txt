@@ -1,2 +1,1 @@
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇪 IE | 18.200.101.228
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#🇮🇪 IE | 18.200.101.228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSkhzSTdmQTN3RlVpYXJK@98.71.82.228:443?type=tcp&headerType=none#🇮🇪 IE | 98.71.82.228

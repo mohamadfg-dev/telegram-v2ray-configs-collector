@@ -1,1 +1,2 @@
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?security=reality&encryption=none&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&headerType=none&fp=chrome&spx=/tkCuXHzEiHKv9Vq&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=e13b512565#🇫🇮 FI | 188.130.206.148
+vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
