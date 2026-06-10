@@ -1,1 +1,1 @@
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇧🇪 BE | 188.95.12.110
+vless://65c705a4-0b2e-468d-bbfe-9428ccb4aa7b@188.95.12.110:8080?path=/?ed=2048&security=&encryption=none&host=wazd.bot2.ir&type=ws#🇧🇪 BE | 188.95.12.110
