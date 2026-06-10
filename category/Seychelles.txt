@@ -1,5 +1,13 @@
-vless://77e69c70-31b4-44ea-af46-4664df9a614c@45.130.125.218:8443?encryption=none&type=xhttp&mode=auto&host=app5.dr-ping.com&path=/DrPing_channel&security=tls&fp=chrome&sni=app5.dr-ping.com&alpn=h2,http/1.1#🇸🇨 SC | 45.130.125.218
-vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?encryption=none&type=xhttp&mode=auto&host=mahsa97.manhamunamkeyeruz.ir&path=/&security=tls&fp=ios&sni=mahsa97.manhamunamkeyeruz.ir&alpn=h3,h2,http/1.1#🇸🇨 SC | 45.130.125.158
+vless://5960576d-829e-4d09-8232-0e80121a6fe4@45.130.125.193:8443?mode=auto&path=/?ed&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#🇸🇨 SC | 45.130.125.193
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.193:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#🇸🇨 SC | 45.130.125.193
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#🇸🇨 SC | 45.130.125.194
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
+vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?mode=auto&path=/?ed&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🇸🇨 SC | 45.130.125.194
+vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=/?ed=2053&security=tls&encryption=none&extra={
+  "scMaxConcurrentPosts" : 100,
+  "noGRPCHeader" : false,
+  "scMinPostsIntervalMs" : 30,
+  "xPaddingBytes" : "100-1000",
+  "scMaxEachPostBytes" : 1000000
+}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🇸🇨 SC | 45.130.125.194
 vless://c6644bbe-5a62-41da-99a9-c5b78effcc6d@45.130.125.158:443?mode=auto&path=/vsAJWsN&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa67.manhamunamkeyeruz.ir&fp=ios&type=xhttp&allowInsecure=0&sni=mahsa67.manhamunamkeyeruz.ir#🇸🇨 SC | 45.130.125.158
-vless://f1238cb7-1f58-4469-9de8-cd4955592402@45.130.125.198:2087?path=/ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cardme.hapdtkod.ir&fp=firefox&type=ws&allowInsecure=0&sni=cardme.hapdtkod.ir#🇸🇨 SC | 45.130.125.198
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:443?path=/?ed=80&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#🇸🇨 SC | 45.130.125.162
