@@ -1,1 +1,2 @@
-vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?encryption=none&security=none&type=raw&headertype=none#🇯🇵 JP | 43.163.241.110
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 JP | 149.22.87.241
+vless://a5ac4482-917b-4739-b199-2602b0d685c1@3.112.4.195:26658?security=reality&encryption=none&pbk=gkC4bB22x9sMejCl1W4CtDLgC9I-4OsSnFRLIgG1Vy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=195a9d288a47ce46#🇯🇵 JP | 3.112.4.195
