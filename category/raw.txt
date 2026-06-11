@@ -1,2 +1,1 @@
-vless://da1d322b-dcf2-4a92-a9df-e831d78ebecd@vzb.piko-network.top:3306?encryption=none&security=none&type=raw&headertype=none#🇮🇷 IR | 185.208.78.201
-vless://da1d322b-dcf2-4a92-a9df-e831d78ebecd@vzb.piko-network.top:3306?encryption=none&security=none&type=raw&headertype=none#🇮🇷 IR | 185.208.78.201
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&fp=edge&type=raw&headertype=none#🇷🇺 RU | 85.234.114.53

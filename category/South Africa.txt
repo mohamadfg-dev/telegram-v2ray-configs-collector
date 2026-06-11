@@ -1,3 +1,3 @@
 vless://2aed6a64-0cf7-0003-acd5-b75774c8cfa3@192.142.12.67:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=linkvault.fyi#🇿🇦 ZA | 192.142.12.67
 vless://2aed6a64-0cf7-0003-acd5-b75774c8cfa3@192.142.12.67:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=linkvault.fyi#🇿🇦 ZA | 192.142.12.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcEdaelk4aE5kRk81R1hj@20.164.211.148:443#🇿🇦 ZA | 20.164.211.148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#🇿🇦 ZA | 20.164.45.116

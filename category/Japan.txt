@@ -1,1 +1,1 @@
-vless://b2cd6eb9-2cc5-4387-9414-0c1c26936cd9@151.101.109.223:443?mode=auto&path=/&security=tls&encryption=none&insecure=1&host=gtrb.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=biography.com#🇯🇵 JP | 151.101.109.223
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@31.76.91.38:443?security=reality&encryption=none&pbk=JrqUslsWHHlquFmXxC77DzyRcVSr_avh2FzCV674FVI&headerType=none&fp=edge&spx=/&type=tcp&flow=xtls-rprx-vision&sni=jp.cdn-global.pro&sid=39a629c6c90bd2eb#🇯🇵 JP | 31.76.91.38
