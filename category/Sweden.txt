@@ -1,4 +1,3 @@
 vless://8f35a044-b8fc-4da6-8029-ef93d3e20d51@meme-flow.duckdns.org:443?security=reality&encryption=none&pbk=SoqnpzUqJFXhA2O5fXFCl8qg_ajnTjjKLtXsL1fszBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=meme-flow.duckdns.org&sid=7e1cddf3#🇸🇪 SE | 45.91.171.247
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#🇸🇪 SE | 46.246.97.218
 vless://b8c51058-4378-46d3-b2c9-50b43b5715a0@main.saforia.ru:2086?path=/&security=none&encryption=none&host=main.saforia.ru&type=ws#🇸🇪 SE | 194.87.77.134
-vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=none&encryption=none&type=ws#🇸🇪 SE | 46.246.97.218
