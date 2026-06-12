@@ -1,2 +1,4 @@
+vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=/jVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#🇫🇮 FI | 65.109.248.144
 vless://20cbea10-7a6a-43ef-ba32-9d37b9b31d7b@204.168.193.204:443?security=reality&encryption=none&pbk=Yh9Yr5uJwErzkxoKOCrohpJCDF5KfYK81amxca9VDXw&headerType=none&fp=firefox&spx=/Uz9mpIPdqzzHoWg&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=0eb513242872714e#🇫🇮 FI | 204.168.193.204
+vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=/jVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#🇫🇮 FI | 65.109.248.144
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
