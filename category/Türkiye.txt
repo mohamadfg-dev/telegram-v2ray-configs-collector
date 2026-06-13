@@ -1,4 +1,6 @@
 vless://aa5f2a2f-4c8f-4345-9e6c-035c4f5c2412@185.226.93.34:26009?security=reality&encryption=none&pbk=kSHjtfyi1ZW-QjEKq6zvCyBe-zaRMTa4iTtjkDxWzhk&headerType=none&fp=chrome&spx=/cup3OrlCXukjYBC&type=tcp&sni=www.sony.com&sid=b69b5898#🇹🇷 TR | 185.226.93.34
 vless://aa5f2a2f-4c8f-4345-9e6c-035c4f5c2412@185.226.93.34:26009?security=reality&encryption=none&pbk=kSHjtfyi1ZW-QjEKq6zvCyBe-zaRMTa4iTtjkDxWzhk&headerType=none&fp=chrome&spx=/cup3OrlCXukjYBC&type=tcp&sni=www.sony.com&sid=b69b5898#🇹🇷 TR | 185.226.93.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
+vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:8080?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 37.140.242.53
 vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#🇹🇷 TR | 45.195.137.112
+vless://4e1d78b7-7e9c-4cc7-a390-43e95f1c711e@37.140.242.53:85?mode=auto&path=/hh&security=none&encryption=none&type=xhttp#🇹🇷 TR | 37.140.242.53
