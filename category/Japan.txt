@@ -1,2 +1,1 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#🇯🇵 JP | 31.76.91.19
-vmess://eyJhZGQiOiIxNzIuMTA1LjIxOS4xOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiLwn4ev8J+HtSBKUCB8IDE3Mi4xMDUuMjE5LjE4IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 JP | 149.22.87.204
