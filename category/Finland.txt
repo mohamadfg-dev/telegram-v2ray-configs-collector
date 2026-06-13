@@ -1,3 +1,4 @@
 vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#🇫🇮 FI | 45.195.110.104
 vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#🇫🇮 FI | 45.195.110.104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
