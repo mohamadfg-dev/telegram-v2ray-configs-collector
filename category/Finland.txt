@@ -1,1 +1,3 @@
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#🇫🇮 FI | 45.149.147.177
+vless://f4253045-7eb5-4ab1-8653-88bbb2a10202@fi.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#🇫🇮 FI | 45.149.147.171
