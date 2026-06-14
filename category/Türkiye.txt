@@ -1,6 +1,4 @@
-ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#🇹🇷 TR | 93.114.98.239
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#🇹🇷 TR | 185.181.209.211
 vless://aa5f2a2f-4c8f-4345-9e6c-035c4f5c2412@185.226.93.34:26009?security=reality&encryption=none&pbk=kSHjtfyi1ZW-QjEKq6zvCyBe-zaRMTa4iTtjkDxWzhk&headerType=none&fp=chrome&spx=/cup3OrlCXukjYBC&type=tcp&sni=www.sony.com&sid=b69b5898#🇹🇷 TR | 185.226.93.34
-ss://YWVzLTEyOC1nY206QFYyUmF5eU5HdnBu@93.114.98.239:2087#🇹🇷 TR | 93.114.98.239
 vless://aa5f2a2f-4c8f-4345-9e6c-035c4f5c2412@185.226.93.34:26009?security=reality&encryption=none&pbk=kSHjtfyi1ZW-QjEKq6zvCyBe-zaRMTa4iTtjkDxWzhk&headerType=none&fp=chrome&spx=/cup3OrlCXukjYBC&type=tcp&sni=www.sony.com&sid=b69b5898#🇹🇷 TR | 185.226.93.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇹🇷 TR | 62.133.63.169
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55#🇹🇷 TR | 45.195.137.112
