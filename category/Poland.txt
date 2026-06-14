@@ -1,5 +1,2 @@
 vless://9540f87d-2a65-4448-9d7e-77474693c4fc@mohandesss.nikator.ir:29464?security=reality&encryption=none&pbk=l6aGrXD2Mupi3NVrJCTQZOJpfZwhSni40lxSHMemwjg&headerType=none&fp=chrome&spx=/tkCuXHzEiHKv9Vq&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=e13b512565#🇵🇱 PL | 82.40.62.167
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=/&security=none&encryption=none&type=ws#🇵🇱 PL | 128.204.223.94
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?type=tcp&security=reality&sni=ads.x5.ru&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&fp=chrome&spx=/&encryption=none#🇵🇱 PL | 83.168.71.216
-vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Mstpars.mparssian.ir:80?security=reality&encryption=none&pbk=sUWfSHsUMgBzHk1Y07SfyopsKrloyNlFdtj98geLEVg&headerType=none&fp=chrome&spx=/j6hIGxg8onkh6zf&type=tcp&sni=aws.amazon.com&sid=37a9ea#🇵🇱 PL | 168.222.49.40
-vless://95c05eee-df38-4fd0-a2d5-64faa45ac2bc@Mstpars.mparssian.ir:2087?security=reality&encryption=none&pbk=Mqbn454w2vrK-7-jrNtx4jvJO2Em6zmQz-hiOqbNmHM&headerType=none&fp=chrome&spx=/EDbgBwyl3fR9Z9I&type=tcp&sni=aws.amazon.com&sid=7a7c1ee5fa19#🇵🇱 PL | 168.222.49.40
