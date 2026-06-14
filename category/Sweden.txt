@@ -1,3 +1,1 @@
 vless://b8c51058-4378-46d3-b2c9-50b43b5715a0@main.saforia.ru:2086?path=/&security=none&encryption=none&host=main.saforia.ru&type=ws#🇸🇪 SE | 194.87.77.134
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 SE | 109.120.132.142
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 SE | 109.120.132.142
