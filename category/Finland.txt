@@ -1,7 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmRDUDJEZjktUFR4X0owc1plb0htVGR2a2cwdzRLdg@85.192.49.149:51523#🇫🇮 FI | 85.192.49.149
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmRDUDJEZjktUFR4X0owc1plb0htVGR2a2cwdzRLdg@85.192.49.149:51523#🇫🇮 FI | 85.192.49.149
 vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@212.147.241.178:443?mode=auto&security=reality&encryption=none&pbk=V-xPIMBmB0PI8B1tHeOFoiCGZN9egzPmsKs2tfFx_Go&fp=firefox&type=xhttp&sni=online.1c.ru&sid=565e5c32bdcbf0b3#🇫🇮 FI | 212.147.241.178
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NHBGd3VsMXBrNXh1RnI2VDA1UzVT@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18

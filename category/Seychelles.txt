@@ -7,4 +7,3 @@ trojan://cIatXQiBDG@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&hos
 vless://77f38d51-f16f-42de-940a-05016f317d21@45.130.125.194:2083?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#🇸🇨 SC | 45.130.125.194
 trojan://humanity@45.130.125.158:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#🇸🇨 SC | 45.130.125.158
 vless://71152717-dc50-4fee-a13d-c6656b51e341@45.130.125.126:443?encryption=none&type=ws&host=cdn-pro3.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro3.postshup.ir.&alpn=h3,h2#🇸🇨 SC | 45.130.125.126
-trojan://cIatXQiBDG@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s2.aananas.ir#🇸🇨 SC | 45.130.125.158
