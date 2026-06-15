@@ -1,1 +1,1 @@
-vless://31aac68e-8e74-47e9-9217-0ea77a48d8a1@195.123.244.86:443?mode=auto&path=/&security=reality&encryption=none&pbk=0RgLpbNFUMQGoNVx8HSV4bmtIvayQFL0HfV9fdCsBks&fp=random&spx=/&type=xhttp&sni=www.google.com&sid=11#🇨🇿 CZ | 195.123.244.86
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ch-2.bexum.fun#🇨🇿 CZ | 46.8.113.142
