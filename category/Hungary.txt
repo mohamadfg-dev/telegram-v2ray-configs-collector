@@ -1,1 +1,1 @@
-vless://a78bf929-6883-48af-902d-7737793eeb17@hu02.sonicsonic.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hu02.sonicsonic.icu#🇭🇺 HU | 37.221.208.179
+vless://d91397a6-aa9c-4ce3-903e-81c50e14fdaf@45.198.87.43:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🇭🇺 HU | 45.198.87.43
