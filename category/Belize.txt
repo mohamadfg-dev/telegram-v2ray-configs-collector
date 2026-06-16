@@ -1,1 +1,2 @@
-vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#🇧🇿 BZ | 45.131.5.144
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime02.workers.dev&path=/&security=none&type=ws#🇧🇿 BZ | 45.131.7.30
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime02.workers.dev&path=/&security=none&type=ws#🇧🇿 BZ | 45.131.7.30

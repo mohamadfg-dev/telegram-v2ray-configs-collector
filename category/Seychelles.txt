@@ -2,8 +2,7 @@ vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@45.130.125.66:443?path=/cloud-vps&s
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
 vless://d3d7f255-617b-4b66-b1eb-8788ddd986b3@kamo1.parsianboton.ir:2083?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇸🇨 SC | 45.130.125.96
-trojan://7UdfQ85dsJ@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s1.aananas.ir#🇸🇨 SC | 45.130.125.158
 trojan://cIatXQiBDG@45.130.125.158:8080?type=ws&security=none&path=/?ed=2048&host=s2.aananas.ir#🇸🇨 SC | 45.130.125.158
-vless://77f38d51-f16f-42de-940a-05016f317d21@45.130.125.194:2083?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=turkey.anten.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.anten.dpdns.org#🇸🇨 SC | 45.130.125.194
 trojan://humanity@45.130.125.158:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&host=www.ignitelimit.com&fp=ios&type=ws&sni=www.ignitelimit.com#🇸🇨 SC | 45.130.125.158
 vless://71152717-dc50-4fee-a13d-c6656b51e341@45.130.125.126:443?encryption=none&type=ws&host=cdn-pro3.postshup.ir.&path=/news&security=tls&fp=chrome&sni=cdn-pro3.postshup.ir.&alpn=h3,h2#🇸🇨 SC | 45.130.125.126
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇨 SC | 45.130.125.158
