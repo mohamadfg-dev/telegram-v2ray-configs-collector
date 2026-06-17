@@ -1,3 +1,3 @@
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi1.vitok.cc:443?security=reality&sni=sberbank.ru&fp=chrome&pbk=7sRyn95DXAxnGKRapwfydC6nRmj1IgH-QQQ3ctwC5k8&sid=5e841fab&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮 FI | 46.62.129.198
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@212.147.241.178:443?mode=auto&security=reality&encryption=none&pbk=V-xPIMBmB0PI8B1tHeOFoiCGZN9egzPmsKs2tfFx_Go&fp=firefox&type=xhttp&sni=online.1c.ru&sid=565e5c32bdcbf0b3#🇫🇮 FI | 212.147.241.178
 vless://64c03b7a-f3f3-4d78-bc82-a233ced89cea@divar.ir.shakhle.ir:25000?mode=gun&security=reality&encryption=none&pbk=D9EktvCfJb5l8mBkJHx3U31BIUwIBHJKV85OzyNnDlU&type=grpc&serviceName=shakhle&sni=www.yahoo.com&sid=6ba85179e30d4fc3#🇫🇮 FI | 65.109.199.141
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18

@@ -1,1 +1,1 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@115.143.93.241:12000?path=/?proxyip&security=tls&encryption=none&type=ws&sni=xe.ylks.xyz#🇰🇷 KR | 115.143.93.241
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.67.210.234:443?security=tls&type=ws&sni=tjsp.hhxaf.cc.cd&path=/&host=tjsp.hhxaf.cc.cd#🇰🇷 KR | 152.67.210.234

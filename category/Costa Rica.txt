@@ -1,2 +1,1 @@
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws#🇨🇷 CR | 2803:f800:50::6ca2:c32d
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws#🇨🇷 CR | 2803:f800:50::6ca2:c32d
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#🇨🇷 CR | 2803:f800:50::6ca2:c277
