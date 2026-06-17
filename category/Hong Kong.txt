@@ -1,1 +1,1 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#undefined HK | 103.160.204.145
+vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?encryption=none&type=tcp&security=reality&headerType=none&sni=www.intel.com&fp=chrome&insecure=1&allowInsecure=1&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&sid=bedc231e12dd39&flow=xtls-rprx-vision#undefined HK | 64.49.44.87
