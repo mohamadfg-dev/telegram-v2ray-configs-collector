@@ -1,2 +1,3 @@
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@212.147.241.178:443?mode=auto&security=reality&encryption=none&pbk=V-xPIMBmB0PI8B1tHeOFoiCGZN9egzPmsKs2tfFx_Go&fp=firefox&type=xhttp&sni=online.1c.ru&sid=565e5c32bdcbf0b3#🇫🇮 FI | 212.147.241.178
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vmess://eyJhZGQiOiI2NS4xMDkuMjIxLjI0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZWU3ZWIyNi04MTE4LTRkMGEtYTMwMC04ZDBlZGNmZGU2ZTUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMzY2IiwicHMiOiLwn4er8J+HriBGSSB8IDY1LjEwOS4yMjEuMjQ1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 193.233.23.196
