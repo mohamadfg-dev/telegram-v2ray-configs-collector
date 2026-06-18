@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSkhzSTdmQTN3RlVpYXJK@98.71.82.228:443?type=tcp&headerType=none#🇮🇪 IE | 98.71.82.228
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@194.87.245.149:43357?security=&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇪 IE | 194.87.245.149
