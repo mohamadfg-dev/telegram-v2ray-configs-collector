@@ -1,3 +1,4 @@
 vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@212.147.241.178:443?mode=auto&security=reality&encryption=none&pbk=V-xPIMBmB0PI8B1tHeOFoiCGZN9egzPmsKs2tfFx_Go&fp=firefox&type=xhttp&sni=online.1c.ru&sid=565e5c32bdcbf0b3#🇫🇮 FI | 212.147.241.178
+ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk@77.83.247.206:18284#🇫🇮 FI | 77.83.247.206
 vless://ee443a49-47a0-445c-8e2a-c7efbc74f483@46.8.236.129:26140?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=cEKeWhExRbsgjk8qAd0KvDNnWRK4Sm9NYHH62sdVUH0&sid=fa893256a458b8a0&flow=xtls-rprx-vision#🇫🇮 FI | 46.8.236.129
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
