@@ -1,1 +1,1 @@
-vless://84539eef-b551-4d41-b85f-4b07c83db922@aut1.pandaonline.org:443?security=reality&encryption=none&pbk=u_XXbyCKtsoktrL7Fr18etd0GkXNnEI-YGKMuTywsEo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=aut1.pandaonline.org#🇦🇹 AT | 144.31.94.136
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#🇦🇹 AT | 77.73.131.154

@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#🇦🇺 AU | 3.27.212.11
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#🇦🇺 AU | 3.27.212.11
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@3.27.212.11:80#🇦🇺 AU | 3.27.212.11
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🇦🇺 AU | 103.18.49.100

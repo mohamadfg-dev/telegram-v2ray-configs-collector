@@ -1,2 +1,1 @@
-vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?security=reality&encryption=none&pbk=Dgu9RaToLbQcM1NCf_pS3ezHj6LsBQSYu50zWs5A6Qk&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ikea.com&sid=57cc65bfd5ef7465#🇸🇪 SE | 78.40.117.131
 vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.162:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪 SE | 45.159.12.162
