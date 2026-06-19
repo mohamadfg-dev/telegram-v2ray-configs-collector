@@ -1,4 +1,3 @@
-vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?path=/&security=&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 87.120.106.101
 vless://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=Oh_hH0LUAL7SHppzMjQ96NSW-qMBDvvogqU1eVxEr2Q&sid=390c3c575aa3ec48#🇹🇷 TR | 31.57.225.201
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.5
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.47
@@ -7,4 +6,3 @@ vless://ce967499-9b55-480f-9d8e-6f2d37bba843@194.116.236.222:4111?mode=gun&secur
 vless://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?encryption=none&type=grpc&mode=gun&security=none#🇹🇷 TR | 45.95.65.20
 vless://adcded8e-f148-4948-a2de-51c01d8d26f8@176.223.66.70:2003?security=reality&encryption=none&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none&fp=edge&type=tcp&sni=play.google.com&sid=2418ed47b875e923#🇹🇷 TR | 176.223.66.70
 vless://4870e8e9-1afd-45be-9050-9d2fb2c0f6e0@87.120.106.101:34634?path=/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 87.120.106.101
-vless://c77d5867-7528-4062-8370-700eaf351560@93.114.98.197:8443?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#🇹🇷 TR | 93.114.98.197

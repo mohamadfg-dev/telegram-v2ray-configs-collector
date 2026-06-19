@@ -1,1 +1,1 @@
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=/#🇦🇪 AE | 109.61.42.167
+vless://00b2c573-d37e-447b-a979-5b940be44fd4@94.140.0.100:2053?encryption=none&security=tls&type=ws&headerType=none&sni=tr.matrix-shop.ir&alpn=http/1.1#🇦🇪 AE | 94.140.0.100
