@@ -1,2 +1,5 @@
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@212.147.241.178:443?mode=auto&security=reality&encryption=none&pbk=V-xPIMBmB0PI8B1tHeOFoiCGZN9egzPmsKs2tfFx_Go&fp=firefox&type=xhttp&sni=online.1c.ru&sid=565e5c32bdcbf0b3#🇫🇮 FI | 212.147.241.178
+vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.217.246:110?security=&encryption=none&headerType=&type=tcp#🇫🇮 FI | 65.109.217.246
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@77.42.33.181:1085#🇫🇮 FI | 77.42.33.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@77.42.33.181:1085#🇫🇮 FI | 77.42.33.181
+ss://YWVzLTEyOC1nY206eTNvM3JhNmVkeTVuZmM2aHliMm4@185.103.110.68:18283#🇫🇮 FI | 185.103.110.68
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
