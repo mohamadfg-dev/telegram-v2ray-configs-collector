@@ -1,5 +1,4 @@
 vless://bb789aaa-c07a-47ae-987f-5adba035e8c7@65.109.217.246:110?security=&encryption=none&headerType=&type=tcp#🇫🇮 FI | 65.109.217.246
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbnVHRU9lNEZzTnlHc3FMYzJKaTBG@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
 ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk@77.83.247.206:18284#🇫🇮 FI | 77.83.247.206
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&type=tcp&headerType=none&security=none#🇫🇮 FI | 193.233.23.196
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18

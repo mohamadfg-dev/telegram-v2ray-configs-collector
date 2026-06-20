@@ -1,1 +1,1 @@
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#🇦🇹 AT | 77.73.131.154
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&sid=#🇦🇹 AT | 185.224.3.41
