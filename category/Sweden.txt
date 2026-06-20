@@ -1,2 +1,3 @@
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastsw.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fastsw.phantom.direct&sid=13171b0dd8985179#🇸🇪 SE | 88.216.214.160
 vless://7878a1a0-583c-4fba-841d-44ca4b1bcd47@fastsw.phantom.direct:443?security=reality&encryption=none&pbk=wW4tZPP96i1H0NB4Ql1Qvqepf2ClQ9IsNhcxVdOVWkY&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fastsw.phantom.direct&sid=773353fbea287c00#🇸🇪 SE | 88.216.214.160
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.6:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪 SE | 45.159.12.6
