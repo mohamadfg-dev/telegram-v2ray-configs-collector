@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.5.205.68:40443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#🇦🇿 AZ | 194.5.205.68
+vless://bbc81196-b0b1-4a83-b0b6-cbb3affbe198@SLX.lucypro.ir:2035?security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇦🇿 AZ | 92.223.62.63
