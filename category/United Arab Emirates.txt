@@ -1,2 +1,2 @@
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?security=reality&encryption=none&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&headerType=none&fp=chrome&spx=/qEkmsqpbLOu9tps&type=tcp&sni=www.wechat.com&sid=a7#🇦🇪 AE | 109.61.18.135
-vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?security=reality&encryption=none&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&headerType=none&fp=chrome&spx=/qEkmsqpbLOu9tps&type=tcp&sni=www.wechat.com&sid=a7#🇦🇪 AE | 109.61.18.135
+vless://78485147-82d0-4fc4-80cf-dd08c54bbaa1@94.140.0.255:443?path=/ws?ed=2048&security=tls&encryption=none&insecure=0&host=mozconfigs.mohammadaz2sub.ir&fp=chrome&ech=udp://1.1.1.1:53&type=ws&allowInsecure=0#🇦🇪 AE | 94.140.0.255
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@cd4.videobazi.com:8080?path=/&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#🇦🇪 AE | 94.140.0.100
