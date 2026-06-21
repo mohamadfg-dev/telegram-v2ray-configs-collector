@@ -1,1 +1,1 @@
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇧🇪 BE | 188.95.12.110
+vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@cd1.consolgame.ir:2087?path=/path&security=tls&encryption=none&insecure=0&host=cd-dc2.consolegamenet.ir&type=ws&allowInsecure=0&sni=cd-dc2.consolegamenet.ir#🇧🇪 BE | 188.95.12.226
