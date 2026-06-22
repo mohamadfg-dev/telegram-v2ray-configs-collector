@@ -1,1 +1,1 @@
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🇦🇺 AU | 103.18.49.100
+vless://523e4a69-8dec-4ef1-aa14-6d8026b0f617@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#🇦🇺 AU | 1.1.1.1
