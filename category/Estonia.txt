@@ -1,1 +1,3 @@
-vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#🇪🇪 EE | 45.83.182.102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#🇪🇪 EE | 45.129.96.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#🇪🇪 EE | 45.129.96.62
+vless://02dd2e7c-77c6-4384-9b16-453fd4e95a4c@217.9.12.58:443?mode=gun&security=reality&encryption=none&pbk=hLx8TLJmiERzIkXT1rpRgV8S1oN-i9cE2N5o7Wi_0TQ&type=grpc&serviceName=grpc&sni=www.microsoft.com&sid=7a3f9e2b1c8d4f6a#🇪🇪 EE | 217.9.12.58
