@@ -1,1 +1,1 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ch-2.bexum.fun#🇨🇿 CZ | 46.8.113.142
+vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇨🇿 CZ | 193.93.194.61

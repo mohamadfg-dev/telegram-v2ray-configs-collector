@@ -1,1 +1,1 @@
-vless://d91397a6-aa9c-4ce3-903e-81c50e14fdaf@45.198.87.43:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f4b4a6365558ea2e#🇭🇺 HU | 45.198.87.43
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.191:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇭🇺 HU | 45.198.87.191
