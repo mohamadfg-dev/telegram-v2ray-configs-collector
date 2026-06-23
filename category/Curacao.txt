@@ -1,1 +1,3 @@
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#undefined CW | 5.10.244.140
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#undefined CW | 5.10.244.140
 vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#undefined CW | 5.10.245.138
