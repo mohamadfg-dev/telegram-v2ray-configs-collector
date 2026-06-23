@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206MmJjNzdhM2EtMWE2YS00OWJkLTk4N2YtNTM2OGNjYTBmOTMw@96.9.211.183:8881#🇸🇬 SG | 96.9.211.183
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@52.76.97.123:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇸🇬 SG | 52.76.97.123
