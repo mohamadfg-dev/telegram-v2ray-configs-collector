@@ -1,2 +1,1 @@
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&type=xhttp&path=/pabloping&host=cdn3.goofymoofy.com&mode=auto#🇺🇦 UA | 194.152.44.21
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@194.152.44.21:2052?encryption=none&type=xhttp&path=/pabloping&host=cdn3.goofymoofy.com&mode=auto#🇺🇦 UA | 194.152.44.21
+trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇦 UA | 89.116.180.49
