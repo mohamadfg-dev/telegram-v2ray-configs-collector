@@ -1,1 +1,3 @@
 trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇦 UA | 89.116.180.49
+trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇦 UA | 89.116.180.49
+trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&host=f6r.ir&fp=chrome&type=ws&sni=f6r.ir#🇺🇦 UA | 89.116.180.49
