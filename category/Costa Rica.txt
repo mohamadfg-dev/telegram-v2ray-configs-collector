@@ -1,1 +1,2 @@
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=/jdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#🇨🇷 CR | 2803:f800:50::6ca2:c04b
+vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-76629e.maiatsbfhst.workers.dev#🇨🇷 CR | 190.93.246.126
+vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2082?path=/&security=none&encryption=none&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&sni=ez-76629e.maiatsbfhst.workers.dev#🇨🇷 CR | 190.93.246.126
