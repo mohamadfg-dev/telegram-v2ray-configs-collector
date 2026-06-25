@@ -1,1 +1,1 @@
-vless://10e4afc4-eeac-4a16-93e8-a42b70ce148b@13.51.6.239:443?mode=stream-up&path=@namedzadim&security=reality&encryption=none&extra=#🇸🇪 SE | 13.51.6.239
+vless://17c815b6-8f85-444b-8e31-dbc96527a92e@56.228.16.220:2053?security=reality&encryption=none&pbk=fxkVuna7aS4wMJ4w3fO--p3Ltp8vJ_zOApUMFx9WPhI&headerType=none&fp=chrome&spx=/v2raybazi&type=tcp&sni=www.intel.com&sid=17b0df99526856a6#🇸🇪 SE | 56.228.16.220
