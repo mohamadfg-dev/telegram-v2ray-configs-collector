@@ -4,7 +4,9 @@ trojan://telegram-id-directvpn@51.45.15.118:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@13.36.2.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.2.68
 trojan://telegram-id-privatevpns@51.45.15.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.15.118
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇫🇷 FR | 77.74.123.163
+vless://9479aaaf-3057-4bac-ad58-efa2a6abff73@137.74.119.18:8443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇫🇷 FR | 137.74.119.18
 trojan://telegram-id-v2rayvpnchannel@13.36.2.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.2.68
 trojan://telegram-id-v2rayvpnchannel@51.45.15.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.15.118
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.2.68:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 13.36.2.68
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.15.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷 FR | 51.45.15.118
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@t-panel.wasmer.app:443?path=/ws/9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&encryption=none&insecure=0&host=t-panel.wasmer.app&type=ws&allowInsecure=0&sni=t-panel.wasmer.app#🇫🇷 FR | 62.210.172.148
