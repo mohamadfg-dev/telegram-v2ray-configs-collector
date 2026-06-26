@@ -1,1 +1,1 @@
-vless://426ca3b3-3607-41b0-b93c-449b02eff9f0@190.93.246.126:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-76629e.maiatsbfhst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-76629e.maiatsbfhst.workers.dev#🇨🇷 CR | 190.93.246.126
+vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassooo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassooo.info#🇨🇷 CR | 2803:f800:50::6ca2:c32d
