@@ -1,4 +1,2 @@
-vless://Telegramm:X_RAY_VPN1@91.228.227.86:2096?security=reality&encryption=none&pbk=LBY0XERNoJ_3Rxh5dqla6JAZQQ98XuDCnO97uU5B9wY&host=play.google.com&headerType=http&fp=firefox&spx=/BsyuVKBjaJPq7oO&type=tcp&sni=play.google.com&sid=98ed#🇹🇷 TR | 91.228.227.86
-vless://Telegramm:X_RAY_VPN1@91.228.227.86:721?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 91.228.227.86
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none#🇹🇷 TR | 188.132.234.156
