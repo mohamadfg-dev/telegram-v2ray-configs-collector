@@ -19,8 +19,6 @@ vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s10.meoshop.ir:2053?mode=auto&path=
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&fp=firefox&sni=www.black-moai.com&sid=a862ded52ae3ea&spx=/#🇩🇪 DE | 80.240.23.101
 vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=global.fastly.com#🇺🇸 US | 167.82.101.210
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&fp=firefox&type=xhttp&sni=gzz.dtvialon.com#🇸🇨 SC | 45.130.125.2
-vless://838829a1-34f6-48c5-9038-d5a5852f5c7a@45.80.111.1:2083?mode=auto&path=/@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-@V2RAYNG_IP-&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=Sa.sorixset.ir&fp=firefox&type=xhttp&sni=Sa.sorixset.ir#🇩🇪 DE | 45.80.111.1
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/GaMeOpTiMiZeR?ed=2048&mode=auto&extra={
   "noGRPCHeader" : false,
   "xmux" : {

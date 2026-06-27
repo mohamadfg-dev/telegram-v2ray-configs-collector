@@ -22,7 +22,6 @@ vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IGNoYW5uZWwucHJveHl2cG52aXAucHZ2aXAueHl6IiwiYWRkIjoiY2hhbm5lbC5wcm94eXZwbnZpcC5wdnZpcC54eXoiLCJwb3J0IjoiMjA4NyIsImlkIjoiQFByb3h5VlBOVmlwLUNoYW5uZWxUZWxlZ3JhbSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYXBhcmF0LmNvbSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
-vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ UN | europeless.duckdns.org
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://2ba86dd7-efb0-45b9-928c-962e73448ae1@test.m610.ir:56527?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️ UN | test.m610.ir
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IHYyOS5oZWR1aWFuLmxpbmsiLCJhZGQiOiJ2MjkuaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MjksImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidjI5LmhlZHVpYW4ubGluayIsInBhdGgiOiIvb29vbyIsInRscyI6IiJ9
@@ -46,7 +45,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f2#🏴‍☠️ UN | cvvmtfin.fekoli.com
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
