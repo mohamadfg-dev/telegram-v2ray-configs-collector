@@ -1,5 +1,4 @@
 vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@85.192.49.4:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#🇫🇮 FI | 85.192.49.4
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@fi.janusgate.org:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fi.janusgate.org&sid=05cf93ad9f36e28e#🇫🇮 FI | 45.137.69.178
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3N0g0LUpkRlhPQjdrZWtxREl6X2pn@212.147.232.192:1080#🇫🇮 FI | 212.147.232.192
