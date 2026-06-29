@@ -9,6 +9,7 @@ vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#🏴‍☠️ UN | 103.177.136.45
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp#🏴‍☠️ UN | ad1.xiqpanelz.com
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🏴‍☠️ UN | panel-finland-1.subcenter.net
 vless://abd432ba-c9ca-4565-e787-f354d466be4e@Cr7.zx-shop.ir:8880?mode=auto&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android?ed=2048&security=&encryption=none&host=ontop.amin-1.ir&type=xhttp#🏴‍☠️ UN | Cr7.zx-shop.ir
@@ -41,6 +42,7 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http/1.1&encryption=none&insecure=1&host=/&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#🏴‍☠️ UN | nl-tx.sbrf-cdn342.ru
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none#🏴‍☠️ UN | tr.kkkl.ir
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&sid=C8EF&type=tcp&headerType=none#🏴‍☠️ UN | chefox.kkkl.ir
