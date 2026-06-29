@@ -1,1 +1,2 @@
-vless://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?path=/xiron&security=tls&encryption=none&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇭🇺 HU | 141.11.202.134
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.149:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇭🇺 HU | 45.198.87.149
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.149:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇭🇺 HU | 45.198.87.149
