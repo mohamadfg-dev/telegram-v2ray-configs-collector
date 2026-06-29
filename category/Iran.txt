@@ -9,13 +9,16 @@ vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?security=none&en
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 trojan://9ece60e3fb334ad5@700.andhasitstrafficproxiedthroughcloudflare.iranvatanam.com:700?path=/&security=tls&alpn=h3,h2,http/1.1&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=tempe.iranvatanam.com#🇮🇷 IR | 87.107.197.115
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇮🇷 IR | 2.144.21.112
 vless://91237289-9f15-42bd-bd2a-b97aee008386@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.152.185.16
 vless://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 37.32.27.97
 vless://d2b29908-d015-4be8-a305-6e6a7d5ef00f@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&host=dns.darafiq.ir&fp=chrome&type=ws&sni=dns.darafiq.ir#🇮🇷 IR | 185.143.234.122
 trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇮🇷 IR | 45.131.4.118
-trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&host=95r.ir&type=ws&sni=95r.ir#🇮🇷 IR | 45.131.4.118
+vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷 IR | 77.237.90.80
 vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.234.122
+trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&host=95r.ir&fp=firefox&type=ws&sni=95r.ir#🇮🇷 IR | 45.131.4.118
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
+trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🇮🇷 IR | 45.131.4.118
 vless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws#🇮🇷 IR | 5.202.8.10
 vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://444d8b7b-9327-42b9-851d-015b649c8790@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
