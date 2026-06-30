@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#🇧🇭 BH | 154.205.146.153
+vless://25d1a9b1-f0ab-4f5a-a678-782651529507@149.104.106.164:443?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇧🇭 BH | 149.104.106.164
+vless://25d1a9b1-f0ab-4f5a-a678-782651529507@149.104.106.164:443?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇧🇭 BH | 149.104.106.164
