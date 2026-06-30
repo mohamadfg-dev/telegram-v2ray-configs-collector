@@ -1,1 +1,1 @@
-vless://6b904a9f-e4e3-4dae-bdc5-eb0a7b1ceeb8@1.1.1.1:22936?encryption=none&security=none&type=tcp&headerType=none#🇦🇺 AU | 1.1.1.1
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🇦🇺 AU | 2407:30c0:181::6
