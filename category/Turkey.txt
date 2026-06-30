@@ -1,2 +1,1 @@
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@217.60.23.156:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FT06YL4eboMWW18rqHTicmV38Ai6uQ5i1B5qaA1Pkys&security=reality&sid=15a2bd172f1dddb4&sni=www.uva.nl&type=tcp#🇹🇷 TR | 217.60.23.156

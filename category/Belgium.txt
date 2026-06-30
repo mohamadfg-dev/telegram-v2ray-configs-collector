@@ -1,1 +1,1 @@
-vless://77fc16d2-5145-4aa3-952c-7caaf25cd921@cd1.consolgame.ir:2087?path=/path&security=tls&encryption=none&insecure=0&host=cd-dc2.consolegamenet.ir&type=ws&allowInsecure=0&sni=cd-dc2.consolegamenet.ir#🇧🇪 BE | 188.95.12.226
+vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@hello.blind-chip.store:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=08u-fNMdTjjUwYv4GPbG7VK1ep2vh4Fv-puMcmFzhz0&security=reality&sni=hello.blind-chip.store&type=tcp#🇧🇪 BE | 109.69.218.214
