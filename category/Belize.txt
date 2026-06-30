@@ -1,3 +1,2 @@
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=firefox&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🇧🇿 BZ | 45.131.6.203
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.131.7.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2🇨🇳&security=tls&sni=notls.lukongtou.eu.org&type=ws#🇧🇿 BZ | 45.131.7.123
-vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=firefox&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🇧🇿 BZ | 45.131.6.203

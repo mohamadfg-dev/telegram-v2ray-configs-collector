@@ -1,1 +1,1 @@
-vless://0dcdf1dc-efbb-4888-b794-1e6459714d4a@168.222.43.38:443?mode=auto&path=/iiwuvzja&security=reality&encryption=none&pbk=UDf07AHKufsgPPF-9kIfQgOcv4_8PloMiCodfyUZLy8&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=ffab#🇩🇰 DK | 168.222.43.38
+vless://38c555db-e464-4da4-bc70-67530ab8d33c@168.222.43.15:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.QtVN6SieJTpMzWSJnKeROmieCKH2IBeY8htIFCbPIWw&pbk=NJHHn2lOkY0ScOiK8qf5xc57YFRsT44EYjUYOrbIVUw&headerType=none&fp=chrome&spx=/r6cCu9JPvsYCPtB&type=tcp&sni=www.oracle.com&sid=b21ec2de#🇩🇰 DK | 168.222.43.15
