@@ -1,1 +1,2 @@
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇮🇩 ID | 45.196.31.143
+vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇮🇩 ID | 45.196.31.16

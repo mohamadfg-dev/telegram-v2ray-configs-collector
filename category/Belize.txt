@@ -1,1 +1,2 @@
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=firefox&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🇧🇿 BZ | 45.131.6.203
+vless://98144540-9699-42b2-bac7-e1c243310ae7@cdn.textin.ir:2053?path=/ws?ed=2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=turk1.nomac.ir&type=ws&sni=turk1.nomac.ir#🇧🇿 BZ | 45.131.6.203
