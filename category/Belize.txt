@@ -1,1 +1,1 @@
-vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🇧🇿 BZ | 45.131.6.203
+vless://1e7e0537-c23d-43c2-afd5-4d7753831278@45.131.6.203:2053?encryption=none&security=tls&sni=cache-h2.persia.my&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇧🇿 BZ | 45.131.6.203
