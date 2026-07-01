@@ -1,1 +1,2 @@
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#🇱🇺 LU | 107.189.5.203
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?encryption=none&host=play.google.com&path=/A2&security=none&type=ws#🇱🇺 LU | 107.189.5.203
