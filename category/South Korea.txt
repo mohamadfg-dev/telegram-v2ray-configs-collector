@@ -1,1 +1,1 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🇰🇷 KR | 47.80.60.254
+trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🇰🇷 KR | 43.202.46.7
