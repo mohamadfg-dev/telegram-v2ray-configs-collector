@@ -1,1 +1,1 @@
-trojan://8078dd51-d4d9-4024-89df-50e358a00a54@103.195.236.24:443?security=tls&headerType=none&fp=safari&type=tcp#🇻🇳 VN | 103.195.236.24
+trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=0#🇻🇳 VN | 38.60.252.118

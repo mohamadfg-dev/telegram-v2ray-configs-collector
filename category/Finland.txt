@@ -1,7 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MkZsaWdMblNZZDByTlE0V0UxeTd4@109.107.182.229:51544#🇫🇮 FI | 109.107.182.229
 vless://8263af0c-33a5-4ac1-96bd-164cf33ef8b1@65.109.180.151:443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=a71Il5QNfytnAI1zG0TYTcXnNEJWRkT1AazpVdU2810&fp=chrome&spx=/b6Qicf0zMtBQm21&type=xhttp&sni=shop.business.amazon.com&sid=eb83d6#🇫🇮 FI | 65.109.180.151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3b09IQkw2Tmd2SVYwblNtZGxnVXBnZmtLV0pjWjVaRg@bot.sobhanpor.ir:1080#🇫🇮 FI | 62.238.41.102
-vless://c7bade23-2630-4110-9536-1d5f7ce77c01@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🇫🇮 FI | 62.238.41.102
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://8263af0c-33a5-4ac1-96bd-164cf33ef8b1@65.109.180.151:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=chrome&sni=shop.business.amazon.com&pbk=a71Il5QNfytnAI1zG0TYTcXnNEJWRkT1AazpVdU2810&sid=eb83d6&spx=/b6Qicf0zMtBQm21#🇫🇮 FI | 65.109.180.151

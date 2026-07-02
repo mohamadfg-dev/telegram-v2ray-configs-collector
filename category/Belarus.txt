@@ -1,1 +1,1 @@
-vless://959b4df5-15bc-4eb8-8b93-95f6af50cd80@by.api-yandex.net:443?encryption=none&type=tcp&security=reality&headerType=none&sni=by.api-yandex.net&fp=firefox&allowInsecure=1&pbk=DjRqjdBkJgAG_le5Q14JXTki6m9XCsNKxgw74IB0kR4&sid=0f4dacf62211e75f&flow=xtls-rprx-vision#🇧🇾 BY | 87.252.237.164
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 BY | 185.66.68.72
