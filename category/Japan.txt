@@ -1,1 +1,2 @@
+vless://7bcb31de-f8f1-4e93-a792-0144c05c6cfa@116.206.92.49:443?security=reality&encryption=none&pbk=gRKqowCAdlhBh9gKYv1S3kQERkqtpWmCFS-NqLBKw3s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=9fc3dfda8bca19c2#🇯🇵 JP | 116.206.92.49
 trojan://u2sVknrSIFjDojeqAUjgYkCnh9szHcMQ@103.106.228.187:54603/?type=tcp&security=tls&sni=103.106.228.187&allowInsecure=1#🇯🇵 JP | 103.106.228.187
