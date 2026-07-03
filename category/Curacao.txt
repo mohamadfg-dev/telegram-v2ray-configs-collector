@@ -1,1 +1,3 @@
+trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#undefined CW | 88.216.67.230
+trojan://MiTiVPN@88.216.67.230:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http/1.1&fp=firefox&insecure=0&allowInsecure=0#undefined CW | 88.216.67.230
 vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&path=/api&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&insecure=0&host=erori3430330.cloudwanfaired.top&fp=chrome&type=xhttp&allowInsecure=0&sni=erori3430330.cloudwanfaired.top#undefined CW | 5.10.245.138
