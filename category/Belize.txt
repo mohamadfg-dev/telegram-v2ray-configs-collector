@@ -1,1 +1,2 @@
-vless://1e7e0537-c23d-43c2-afd5-4d7753831278@45.131.6.203:2053?encryption=none&security=tls&sni=cache-h2.persia.my&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇧🇿 BZ | 45.131.6.203
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=/&security=tls&encryption=none&host=vpn47.cc.cd&fp=chrome&type=ws&sni=vpn47.cc.cd#🇧🇿 BZ | 45.131.6.211
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇧🇿 BZ | 45.131.7.215

@@ -1,7 +1,4 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 31.57.62.162
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://8263af0c-33a5-4ac1-96bd-164cf33ef8b1@65.109.180.151:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=chrome&sni=shop.business.amazon.com&pbk=a71Il5QNfytnAI1zG0TYTcXnNEJWRkT1AazpVdU2810&sid=eb83d6&spx=/b6Qicf0zMtBQm21#🇫🇮 FI | 65.109.180.151
-vless://36253370-4b9d-443f-bfa9-e0e167a09876@65.109.220.190:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.220.190
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vless://681314c5-b3ee-41f1-a959-fa42841f5383@wfjip.jobwebs.ir:52077?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=firefox&type=grpc&sni=yahoo.com&sid=b42fd83af854264a#🇫🇮 FI | 65.109.217.121
