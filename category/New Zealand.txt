@@ -1,1 +1,1 @@
-vless://cff2c9e5-8403-436e-a60a-48e558453ab8@202.37.33.80:443?path=/&security=tls&encryption=none&host=de1.nagona.top&fp=chrome&type=ws&sni=de1.nagona.top#🇳🇿 NZ | 202.37.33.80
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇳🇿 NZ | 202.37.33.80
