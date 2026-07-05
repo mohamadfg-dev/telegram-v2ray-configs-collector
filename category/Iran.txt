@@ -8,6 +8,8 @@ vless://cbadda1c-8018-4823-9411-02b60b275dc0@95.38.177.154:2070?security=none&en
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.148
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#🇮🇷 IR | 45.131.4.115
+vless://211f1450-e34c-4095-a42e-883c9aad0e47@snapp.ir:8080?host=eco1.geo-store.ir&security=none&path=/?ed=8080&encryption=none&type=ws#🇮🇷 IR | 185.143.234.122
+vless://211f1450-e34c-4095-a42e-883c9aad0e47@snapp.ir:8080?host=eco1.geo-store.ir&security=none&path=/?ed=8080&encryption=none&type=ws#🇮🇷 IR | 185.143.234.122
 vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=/&security=none&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#🇮🇷 IR | 193.176.240.131
 vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇷 IR | 193.58.119.134
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
@@ -16,8 +18,7 @@ vless://991e8e3a-9c23-4855-816a-571fe3cf3856@217.144.107.202:28831?security=none
 vless://91237289-9f15-42bd-bd2a-b97aee008386@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.152.185.16
 vless://991e8e3a-9c23-4855-816a-571fe3cf3856@217.144.107.202:28831?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 217.144.107.202
 vless://a242cff5-2d44-4e83-927c-2ff37f09e66d@emergency3.layer-ziro.ir:2003?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#🇮🇷 IR | 37.32.27.97
-vless://cd8af747-115f-403f-aa72-0ad3aac3ec2e@snapp.ir:8080?path=/&security=&encryption=none&host=arvan1.snllshop.ir&type=ws#🇮🇷 IR | 185.143.234.122
-vless://9a567515-6902-44a2-f724-a48ecf723ccb@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#🇮🇷 IR | 87.107.194.226
+vless://cd8af747-115f-403f-aa72-0ad3aac3ec2e@snapp.ir:8080?path=/&security=&encryption=none&host=arvan1.snllshop.ir&type=ws#🇮🇷 IR | 185.143.233.122
 vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.234.122
 trojan://MiTiVPN@45.131.4.115:443?type=ws&security=tls&path=/MiTiVPN=N-L&host=Nl-L.App-Cloud.ir&sni=Nl-L.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇮🇷 IR | 45.131.4.115
 trojan://MiTiVPN@45.131.4.115:443?type=ws&security=tls&path=/MiTiVPN=N-L&host=Nl-L.App-Cloud.ir&sni=Nl-L.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇮🇷 IR | 45.131.4.115

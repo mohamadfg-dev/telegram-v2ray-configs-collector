@@ -1,5 +1,4 @@
 vless://dbf216de-9234-4b07-977b-e982be405874@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dutschh.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 US | 198.98.53.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 US | 216.105.168.18
 vless://AlfredConfig@199.232.237.245:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=alfred-13.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#🇺🇸 US | 199.232.237.245
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇺🇸 US | 173.199.117.62
@@ -7,13 +6,12 @@ vless://3aff2f4c-cbe7-b6f1-d1b2-86ad0a8d78c2@ansooyefilter-channel.up.railway.ap
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@66.81.247.91:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇺🇸 US | 66.81.247.91
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?path=/ws/f1f47653-d57b-5917-fa47-c80823a8b7f3&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8249.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8249.up.railway.app#🇺🇸 US | 69.46.46.116
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 US | 198.98.53.130
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws#🇺🇸 US | 141.193.213.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 US | 216.105.168.18
 vmess://eyJhZGQiOiIzOC45OS44Mi4xOTMiLCJhaWQiOjAsImhvc3QiOiJ0aWxlYmFuaS5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IvCfh7rwn4e4IFVTIHwgMzguOTkuODIuMTkzIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyJ9
 vless://41a6a386-485c-417f-971c-06167252863a@us.ipsafe2.site:40646?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=bv9-alBIp1TK5D7AVJ8HBbKXXuzWPNOL2s9wD5b6m3o&host=us.ipsafe2.site&fp=chrome&spx=/qXxdJySu8eSDsZR&type=xhttp&sni=play.google.com&sid=a5d9152796f5#🇺🇸 US | 192.241.161.212
 vless://TELEGRAM-NUFiLTER@fast.cd-tur4.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=nesfeshzksab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸 US | 140.248.185.253
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇺🇸 US | 141.193.213.21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 US | 198.98.53.130
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 US | 216.105.168.18
 vless://4de8fd70-8b0e-b5eb-4b0a-e95e08087a89@69.46.46.65:443?path=/ws/4de8fd70-8b0e-b5eb-4b0a-e95e08087a89&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-5d3a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-5d3a.up.railway.app#🇺🇸 US | 69.46.46.65
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇺🇸 US | 162.159.38.119
@@ -26,10 +24,11 @@ vless://4de8fd70-8b0e-b5eb-4b0a-e95e08087a89@69.46.46.65:443?path=/ws/4de8fd70-8
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#🇺🇸 US | 141.193.213.21
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s9.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=baba.meoshop.ir&fp=chrome&type=xhttp&sni=baba.meoshop.ir#🇺🇸 US | 205.233.181.37
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s10.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=baba.meoshop.ir&fp=chrome&type=xhttp&sni=baba.meoshop.ir#🇺🇸 US | 159.112.235.164
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws#🇺🇸 US | 141.193.213.21
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 US | 45.82.251.58
 trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=0#🇺🇸 US | 66.81.247.155
-vless://ab181813-5879-e2b9-1534-70aac9770fb7@rvg-production-0fab.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-0fab.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-0fab.up.railway.app&path=/ws/ab181813-5879-e2b9-1534-70aac9770fb7#🇺🇸 US | 69.46.46.108
 vless://53eb859c-aa0b-4ebf-e9b4-78307ed03c3f@144.172.101.108:2053?path=تلگرام=https://t.me/V2rayGodVip_bot&security=tls&encryption=none&insecure=1&host=namasha.com&type=ws&allowInsecure=1&sni=namasha.com#🇺🇸 US | 144.172.101.108
+vless://72ffdff3-610d-b6d1-9d44-8fe430fe569f@tel-timazadi-mimi.up.railway.app:443?encryption=none&security=tls&sni=tel-timazadi-mimi.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tel-timazadi-mimi.up.railway.app&path=/ws/72ffdff3-610d-b6d1-9d44-8fe430fe569f#🇺🇸 US | 69.46.46.73
 trojan://Mitivpn@151.101.56.6:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.6
 trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 US | 167.82.101.251
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@192.200.160.14:2053?path=/admins?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=9.neshaan.org&fp=chrome&type=ws&sni=9.neshaan.org#🇺🇸 US | 192.200.160.14
@@ -45,6 +44,5 @@ vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&
 vless://e840ce17-8ca1-4e4b-9120-cb829b0b50c4@fastly.videobazi.com:443?mode=auto&path=/&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=Fastspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
 vless://af2c3727-c1e7-41c1-86b5-7fb5fcc63359@64.118.155.66:44918?encryption=none&security=none&type=tcp#🇺🇸 US | 64.118.155.66
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#🇺🇸 US | 147.90.234.133
-vless://dc1209b8-f196-7bcc-87ee-661bf3be5dca@arg-production-8b86.up.railway.app:443?path=/ws/dc1209b8-f196-7bcc-87ee-661bf3be5dca&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=arg-production-8b86.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=arg-production-8b86.up.railway.app#🇺🇸 US | 69.46.46.106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇺🇸 US | 45.87.175.193
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?encryption=none&type=ws&security=tls&path=/&host=pan1.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0#🇺🇸 US | 199.232.245.208
