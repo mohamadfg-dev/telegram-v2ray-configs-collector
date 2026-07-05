@@ -9,3 +9,4 @@ vless://1ebae49b-f302-4301-b67d-d1d67f4e5666@www.speedtest.net:2095?security=non
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?path=/&security=none&encryption=none&host=cdn-nl1.akssoldier.top&type=httpupgrade#🇨🇦 CA | 104.16.0.0
 vless://60bbf4d3-915f-40ef-9b97-0696c7a6743a@104.252.111.21:36298?path=/&security=none&encryption=none&type=httpupgrade#🇫🇷 FR | 104.252.111.21
 vless://334b4652-f11d-4f0a-9d26-b5c0fff6c31f@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&host=Cdn8-pro.postshup.ir.&path=/?ed=2082&security=none#🇨🇦 CA | 104.25.189.214
+vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=/@saeedtelcom?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#🇨🇦 CA | 104.21.67.187
