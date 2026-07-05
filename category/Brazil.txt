@@ -1,2 +1,2 @@
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&sid=132b&type=tcp&headerType=none#🇧🇷 BR | 201.51.1.108
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?security=reality&encryption=none&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=132b#🇧🇷 BR | 201.51.1.108
+vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#🇧🇷 BR | 200.25.53.5
+vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#🇧🇷 BR | 200.25.53.5
