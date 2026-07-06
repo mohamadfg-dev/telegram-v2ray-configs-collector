@@ -1,1 +1,1 @@
-vless://23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b@oauth.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=oauth.figmafound.org&sid=711ad7f475c35e5e#🇸🇪 SE | 103.139.51.32
+vless://23798d8b-6bd1-4ddd-a5aa-bf1e3e1a621b@oauth.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=oauth.figmafound.org&sid=711ad7f475c35e5e#🇸🇪 SE | 103.139.51.38
