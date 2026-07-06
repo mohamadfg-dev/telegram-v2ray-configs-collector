@@ -1,6 +1,2 @@
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#🇱🇹 LT | 45.194.10.79
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#🇱🇹 LT | 45.194.10.79
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#🇱🇹 LT | 45.194.10.79
 vless://ec4a55c3-7277-4b34-957a-9b9d10fa3b94@ipv4-address.iranvatanam.com:2083?security=tls&type=ws&headerType=&path=/?ed=2048&host=&sni=email-page6.iranvatanam.com&fp=firefox&alpn=h3,h2,http/1.1#🇱🇹 LT | 89.116.250.135
 vless://1c92dee7-bbd4-41d7-9d48-d4208e01040e@ipv4-address.iranvatanam.com:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=email-page6.iranvatanam.com#🇱🇹 LT | 89.116.250.135
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=tls&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net#🇱🇹 LT | 45.194.10.79

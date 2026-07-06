@@ -5,7 +5,7 @@ vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.58:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5#🇬🇧 GB | 45.206.0.58
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 GB | 141.98.101.178
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 51.11.131.135
-vless://6fb40f20-1581-47ea-b336-62c117037dc6@cdn1.mehfa.site:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#🇬🇧 GB | 2a06:98c1:3120::
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 51.105.50.4
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇬🇧 GB | 193.46.81.151
 vless://SoonTeam@72.62.211.211:80?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇬🇧 GB | 72.62.211.211
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇬🇧 GB | 45.12.30.101
