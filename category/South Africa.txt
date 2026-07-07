@@ -1,2 +1,1 @@
-vless://eb295947-24de-0003-9b8f-85431e5fe493@192.142.12.89:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sni=qr-gen.cc&type=tcp#🇿🇦 ZA | 192.142.12.89
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#🇿🇦 ZA | 20.164.45.116

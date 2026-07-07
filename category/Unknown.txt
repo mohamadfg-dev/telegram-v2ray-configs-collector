@@ -27,6 +27,7 @@ vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyBVTiB8IGNoYW5uZWwucHJveHl2cG52aXAucHZ2aXAueHl6IiwiYWRkIjoiY2hhbm5lbC5wcm94eXZwbnZpcC5wdnZpcC54eXoiLCJwb3J0IjoiMjA4NyIsImlkIjoiQFByb3h5VlBOVmlwLUNoYW5uZWxUZWxlZ3JhbSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiYXBhcmF0LmNvbSIsInBhdGgiOiIvQFByb3h5VlBOVmlwIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
+vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🏴‍☠️ UN | europeless.duckdns.org
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTgwLjI1NS40OjQ0Mw==#🏴‍☠️ UN | YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTgwLjI1NS40OjQ0Mw==
 vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#🏴‍☠️ UN | 255.255.255.255
@@ -47,7 +48,6 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "scMinPostsIntervalMs" : 30,
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
-vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#🏴‍☠️ UN | 255.255.255.255
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
