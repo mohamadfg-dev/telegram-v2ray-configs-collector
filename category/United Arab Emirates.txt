@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.9.181:3306#🇦🇪 AE | 38.54.9.181
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@185.253.116.18:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇦🇪 AE | 185.253.116.18
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@185.253.116.18:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇦🇪 AE | 185.253.116.18

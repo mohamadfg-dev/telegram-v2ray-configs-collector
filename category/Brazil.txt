@@ -1,2 +1,2 @@
-vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#🇧🇷 BR | 200.25.53.5
-vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=/mfa&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"32-256"}&host=cdn1.mehfa.site&type=xhttp#🇧🇷 BR | 200.25.53.5
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?security=reality&encryption=none&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇧🇷 BR | 201.51.12.164
+vless://81298fa7-563d-491d-b7d9-48c93ca22756@201.51.12.164:8445?security=reality&encryption=none&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇧🇷 BR | 201.51.12.164
