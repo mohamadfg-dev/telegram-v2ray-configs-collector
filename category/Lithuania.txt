@@ -1,3 +1,2 @@
-vless://fb569f37-c7b8-4be6-bdd1-e9a5a514d8a4@89.116.250.135:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=asli.romaphone.ir&sni=asli.romaphone.ir&alpn=h3,h2,http/1.1#🇱🇹 LT | 89.116.250.135
+vless://71fdfe0d-024b-4069-8c8c-83df63d96db0@cd2.phoneshop98.ir:2053?security=tls&type=ws&headerType=&path=/ws?ed=2560&host=panel.farsdns.com&sni=panel.farsdns.com&fp=#🇱🇹 LT | 89.116.250.135
 vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇱🇹 LT | 2.57.91.92
-trojan://MITIVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&host=Ussa-Si-ieo.App-Cloud.ir&fp=chrome&type=ws&sni=ksidi-isid-d.App-Cloud.ir#🇱🇹 LT | 89.116.250.135

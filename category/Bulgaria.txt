@@ -1,1 +1,2 @@
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇧🇬 BG | 185.246.131.170
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🇧🇬 BG | 185.246.131.170
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🇧🇬 BG | 185.246.131.170
