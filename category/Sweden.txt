@@ -1,3 +1,1 @@
-vless://07a978bb-49ec-4dbe-827b-feb9243f3e63@panel.aminsec.ir:22338?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#🇸🇪 SE | 70.34.194.206
-vless://dfe2f652-f5e5-4e32-bfb2-a7e313d75317@1omekke746ec.vv22rraayy.com:22337?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇸🇪 SE | 70.34.217.167
-vless://dfe2f652-f5e5-4e32-bfb2-a7e313d75317@1omekke746ec.vv22rraayy.com:22337?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇸🇪 SE | 70.34.217.167
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
