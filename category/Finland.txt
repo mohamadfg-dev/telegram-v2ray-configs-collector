@@ -1,5 +1,5 @@
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 95.217.128.199
-vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 95.217.128.199
+vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 204.168.220.38
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇮 FI | 204.168.220.38
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
