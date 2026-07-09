@@ -1,1 +1,1 @@
-vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#🇨🇿 CZ | 14.102.228.201
+vless://1357bb15-4189-d654-d849-969db9e93a4e@95.182.90.187:38389?security=reality&type=tcp&headerType=none&encryption=none&path=&sni=www.speedtest.net&fp=chrome&pbk=6QuxfOrVDGXfdKyAo6Il9d_lHDsQsNeOQ4OAPqFMQXM&sid=763b490397d066f7&spx=/#🇨🇿 CZ | 95.182.90.187
