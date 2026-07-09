@@ -1,2 +1,1 @@
-vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?encryption=none&security=none&type=raw&headertype=none#🇯🇵 JP | 43.163.241.110
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&security=tls&type=raw&headertype=none#🇷🇺 RU | 85.234.114.53
+vless://a9debf09-259e-486e-9ecd-e496ba6b84bd@5.129.251.145:44003?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=pool-a.pools.netcenter-cdn.com&pbk=mCtDwMr9u9MdztUGzCGADj-nfHv6CQpAf_ywbyKl8ww&sid=90dd#🇷🇺 RU | 5.129.251.145

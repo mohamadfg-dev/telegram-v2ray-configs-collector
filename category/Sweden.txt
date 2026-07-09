@@ -1,1 +1,2 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 SE | 192.71.82.2
+vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&encryption=none&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e4376#🇸🇪 SE | 45.80.228.167
+vless://f0a28e92-8de2-4956-91c5-05b1a1796a38@se.rafavpn.ru:8443?security=reality&encryption=none&pbk=iqdZR5Uwz-FttCXsi-c6cb8YqYQYtEh6GMbxHW13hBE&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=fe2e4376#🇸🇪 SE | 45.80.228.167
