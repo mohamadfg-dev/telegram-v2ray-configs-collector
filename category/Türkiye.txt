@@ -4,4 +4,3 @@ vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vi
 vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:3044?encryption=none&security=reality&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48&type=tcp&headerType=none#🇹🇷 TR | 185.71.219.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#🇹🇷 TR | 77.83.245.116
 vless://320f6cbe-d73e-477d-9ab5-aa6e3b28cfb7@64.49.15.87:443?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=74a6bf9721cd1c19#🇹🇷 TR | 64.49.15.87
-vless://575c4798-ad7f-4780-b19b-97d716f6e219@dir.mamadhpbot.ir:4455?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=ios&pbk=Jd6jYg3F42JiMTACs3m4biloKCKqT5fvo934OK8kjRU&sid=a1e5ae73aa7d2e48#🇹🇷 TR | 185.71.219.56

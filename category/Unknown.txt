@@ -21,7 +21,6 @@ vless://af338e79-8259-4662-a0ff-db6df2414501@webmail.cloudstyle.ir:2083?encrypti
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn3.unlimiteddev.co:443?path=/&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#🏴‍☠️ UN | xe50-de40cdn3.unlimiteddev.co
 vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn4.unlimiteddev.co:443?path=/&security=tls&encryption=none&host=xe50-de40cdn1.unlimiteddev.co&fp=chrome&type=ws&sni=xe50-de40cdn1.unlimiteddev.co#🏴‍☠️ UN | xe50-de40cdn4.unlimiteddev.co
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🏴‍☠️ UN | narcod-ping.numallaf.shop
-vless://52d39766-022a-4874-bb64-091f33b5d24b@sv.selqora.ir:5585?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🏴‍☠️ UN | sv.selqora.ir
 vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&headerType=&fp=firefox&spx=/YtQ58V1AZ8fExyr&type=tcp&flow=xtls-rprx-vision&sni=domian&sid=83dc602558#🏴‍☠️ UN | ip
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
