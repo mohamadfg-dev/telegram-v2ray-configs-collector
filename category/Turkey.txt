@@ -1,3 +1,2 @@
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&sni=grape-ataturk-tr.yyuyy.com#🇹🇷 TR | 78.135.73.38
 vless://09bb1018-47b1-4968-964c-d9bf96bb052b@my.filpower.shop:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=m7WfiFH6HcPxlTgzNjq035kpMnkGaNG3UBo4OyS2kGA&sid=f2c5768a&spx=/0O5wckC4yVGdvL0&type=grpc#🇹🇷 TR | 188.132.174.12
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
