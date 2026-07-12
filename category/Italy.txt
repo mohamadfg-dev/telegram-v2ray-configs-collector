@@ -1,3 +1,5 @@
+vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?security=reality&encryption=none&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=3df2abe8c93418a6#🇮🇹 IT | 46.28.68.4
+vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 89.150.57.196
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 204.216.216.23
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 IT | 204.216.216.23
