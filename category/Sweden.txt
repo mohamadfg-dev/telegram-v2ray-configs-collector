@@ -1,3 +1,1 @@
 vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@104.105.106.147:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#🇸🇪 SE | 104.105.106.147
-vless://c390be4b-00b5-4583-93f2-bbc099b8e7f1@150.241.75.170:443?security=reality&encryption=none&pbk=6XyN6_u1Sy_gRvm4MQg0yQLmVw0ZDdQtrxNgNllzLGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8d10f24eef4c357a#🇸🇪 SE | 150.241.75.170
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#🇸🇪 SE | 192.71.82.2
