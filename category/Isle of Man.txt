@@ -1,1 +1,1 @@
-vless://a54eced1-17ff-49fa-aeea-2088faa26650@5.160.131.62:20310?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#undefined IM | 5.160.131.62
+vless://0c5b24a4-c88b-4499-9fdd-9dfedf87c0aa@w1.gogoli.xyz:50547?security=reality&pbk=NgR8LpKFLqxx1fWJkZFak5ZdT2srx5n6f14B2TVB3wg&fp=chrome&sni=www.yahoo.com&sid=68161faffc&spx=/&encryption=none&flow=xtls-rprx-vision&type=tcp#undefined IM | 5.160.131.75
