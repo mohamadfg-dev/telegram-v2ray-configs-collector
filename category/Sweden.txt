@@ -1,2 +1,1 @@
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#🇸🇪 SE | 104.105.106.147
-vless://abd7842d-dea3-4b56-a166-75b3f56415ad@vpn2.floweb.club:2053?security=reality&encryption=none&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=014c3d76dee82247#🇸🇪 SE | 176.126.84.109
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alese.locations-sub.com:6300?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#🇸🇪 SE | 141.227.160.73

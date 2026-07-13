@@ -1,1 +1,4 @@
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇧🇬 BG | 185.246.131.170
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 BG | 38.244.132.14
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 BG | 38.244.132.14
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🇧🇬 BG | 38.244.132.14
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?encryption=none&type=tcp&headerType=http&host=play.google.com#🇧🇬 BG | 185.246.131.170

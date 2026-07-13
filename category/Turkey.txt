@@ -1,3 +1,2 @@
 vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@ci.temas-fars.ir:2446?security=reality&sni=icloud.com&fp=chrome&pbk=wa-3A_tTCfWDjH_n_MC9fwVViet-UJr2fyBcg3oMwCM&sid=8fc8b7f82c27e0fb&type=tcp&packetEncoding=xudp&encryption=none#🇹🇷 TR | 213.238.180.99
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://2b61a792-15c7-4cc1-a385-a9af1cc9a7c3@tk1.degeristir.ir:443?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=nTQpZ24z-O7ok4J2hIU2QhFTY67h1B3uXMGEsoWts3U&sid=b175&spx=/brGewX7Tni5W6hn&type=tcp&headerType=none#🇹🇷 TR | 188.132.174.51
