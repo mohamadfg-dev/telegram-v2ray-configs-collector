@@ -17,7 +17,7 @@ vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&securit
 vless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws#🇮🇷 IR | 5.202.8.10
 vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://444d8b7b-9327-42b9-851d-015b649c8790@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
-vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=none&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.233.122
+vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=none&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://@WANCLOUDFA@5.160.128.97:44446?security=reality&encryption=none&pbk=MW5Sg0LSYkG9RYtZ5C4NSoBbSSpidSk644klNxy_HRI&headerType=none&fp=chrome&spx=/Dl78#🇮🇷 IR | 5.160.128.97
 vless://@WANCLOUDFA@5.160.128.97:44446?security=reality&encryption=none&pbk=MW5Sg0LSYkG9RYtZ5C4NSoBbSSpidSk644klNxy_HRI&headerType=none&fp=chrome&spx=/Dl78#🇮🇷 IR | 5.160.128.97
 vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#🇮🇷 IR | 78.157.54.112

@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 AT | 193.233.161.92
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 AT | 193.233.161.92
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 AT | 193.233.161.92
+vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443/?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb#🇦🇹 AT | 104.143.0.254
