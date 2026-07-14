@@ -1,215 +1,15 @@
 import { appendFile, rm } from "node:fs/promises";
 import channles from "./telegram_channels.json" assert { type: "json" };
+import countryFlags from "./countryFlags";
 //--------------------------------------------------------- Type & Interfaces
 type Result = Record<"config" | "country" | "typeConfig", string>;
 type FinalResult = Record<"protocol", string> & Result;
 
-interface IPApiResponse {
+interface ApiResponse {
   country: string;
   query: string;
   countryCode: string;
 }
-//---------------------------------------------------------- Variable
-const countGetConfigOfEveryChannel = 2;
-const countryFlagMap: { [key: string]: string } = {
-  AF: "🇦🇫",
-  AL: "🇦🇱",
-  DZ: "🇩🇿",
-  AD: "🇦🇩",
-  AO: "🇦🇴",
-  AG: "🇦🇬",
-  AR: "🇦🇷",
-  AM: "🇦🇲",
-  AU: "🇦🇺",
-  AT: "🇦🇹",
-  AZ: "🇦🇿",
-  BS: "🇧🇸",
-  BH: "🇧🇭",
-  BD: "🇧🇩",
-  BB: "🇧🇧",
-  BY: "🇧🇾",
-  BE: "🇧🇪",
-  BZ: "🇧🇿",
-  BJ: "🇧🇯",
-  BT: "🇧🇹",
-  BO: "🇧🇴",
-  BA: "🇧🇦",
-  BW: "🇧🇼",
-  BR: "🇧🇷",
-  BN: "🇧🇳",
-  BG: "🇧🇬",
-  BF: "🇧🇫",
-  BI: "🇧🇮",
-  CV: "🇨🇻",
-  KH: "🇰🇭",
-  CM: "🇨🇲",
-  CA: "🇨🇦",
-  CF: "🇨🇫",
-  TD: "🇹🇩",
-  CL: "🇨🇱",
-  CN: "🇨🇳",
-  CO: "🇨🇴",
-  KM: "🇰🇲",
-  CG: "🇨🇬",
-  CR: "🇨🇷",
-  HR: "🇭🇷",
-  CU: "🇨🇺",
-  CY: "🇨🇾",
-  CZ: "🇨🇿",
-  CD: "🇨🇩",
-  DK: "🇩🇰",
-  DJ: "🇩🇯",
-  DM: "🇩🇲",
-  DO: "🇩🇴",
-  EC: "🇪🇨",
-  EG: "🇪🇬",
-  SV: "🇸🇻",
-  GQ: "🇬🇶",
-  ER: "🇪🇷",
-  EE: "🇪🇪",
-  SZ: "🇸🇿",
-  ET: "🇪🇹",
-  FJ: "🇫🇯",
-  FI: "🇫🇮",
-  FR: "🇫🇷",
-  GA: "🇬🇦",
-  GM: "🇬🇲",
-  GE: "🇬🇪",
-  DE: "🇩🇪",
-  GH: "🇬🇭",
-  GR: "🇬🇷",
-  GD: "🇬🇩",
-  GT: "🇬🇹",
-  GN: "🇬🇳",
-  GW: "🇬🇼",
-  GY: "🇬🇾",
-  HT: "🇭🇹",
-  HN: "🇭🇳",
-  HU: "🇭🇺",
-  IS: "🇮🇸",
-  IN: "🇮🇳",
-  ID: "🇮🇩",
-  IR: "🇮🇷",
-  IQ: "🇮🇶",
-  IE: "🇮🇪",
-  IL: "🇮🇱",
-  IT: "🇮🇹",
-  JM: "🇯🇲",
-  JP: "🇯🇵",
-  JO: "🇯🇴",
-  KZ: "🇰🇿",
-  KE: "🇰🇪",
-  KI: "🇰🇮",
-  KW: "🇰🇼",
-  KG: "🇰🇬",
-  LA: "🇱🇦",
-  LV: "🇱🇻",
-  LB: "🇱🇧",
-  LS: "🇱🇸",
-  LR: "🇱🇷",
-  LY: "🇱🇾",
-  LI: "🇱🇮",
-  LT: "🇱🇹",
-  LU: "🇱🇺",
-  MG: "🇲🇬",
-  MW: "🇲🇼",
-  MY: "🇲🇾",
-  MV: "🇲🇻",
-  ML: "🇲🇱",
-  MT: "🇲🇹",
-  MH: "🇲🇭",
-  MR: "🇲🇷",
-  MU: "🇲🇺",
-  MX: "🇲🇽",
-  FM: "🇫🇲",
-  MD: "🇲🇩",
-  MC: "🇲🇨",
-  MN: "🇲🇳",
-  ME: "🇲🇪",
-  MA: "🇲🇦",
-  MZ: "🇲🇿",
-  MM: "🇲🇲",
-  NA: "🇳🇦",
-  NR: "🇳🇷",
-  NP: "🇳🇵",
-  NL: "🇳🇱",
-  NZ: "🇳🇿",
-  NI: "🇳🇮",
-  NE: "🇳🇪",
-  NG: "🇳🇬",
-  KP: "🇰🇵",
-  MK: "🇲🇰",
-  NO: "🇳🇴",
-  OM: "🇴🇲",
-  PK: "🇵🇰",
-  PW: "🇵🇼",
-  PS: "🇵🇸",
-  PA: "🇵🇦",
-  PG: "🇵🇬",
-  PY: "🇵🇾",
-  PE: "🇵🇪",
-  PH: "🇵🇭",
-  PL: "🇵🇱",
-  PT: "🇵🇹",
-  QA: "🇶🇦",
-  RO: "🇷🇴",
-  RU: "🇷🇺",
-  RW: "🇷🇼",
-  KN: "🇰🇳",
-  LC: "🇱🇨",
-  VC: "🇻🇨",
-  WS: "🇼🇸",
-  SM: "🇸🇲",
-  ST: "🇸🇹",
-  SA: "🇸🇦",
-  SN: "🇸🇳",
-  RS: "🇷🇸",
-  SC: "🇸🇨",
-  SL: "🇸🇱",
-  SG: "🇸🇬",
-  SK: "🇸🇰",
-  SI: "🇸🇮",
-  SB: "🇸🇧",
-  SO: "🇸🇴",
-  ZA: "🇿🇦",
-  KR: "🇰🇷",
-  SS: "🇸🇸",
-  ES: "🇪🇸",
-  LK: "🇱🇰",
-  SD: "🇸🇩",
-  SR: "🇸🇷",
-  SE: "🇸🇪",
-  CH: "🇨🇭",
-  SY: "🇸🇾",
-  TW: "🇹🇼",
-  TJ: "🇹🇯",
-  TZ: "🇹🇿",
-  TH: "🇹🇭",
-  TL: "🇹🇱",
-  TG: "🇹🇬",
-  TO: "🇹🇴",
-  TT: "🇹🇹",
-  TN: "🇹🇳",
-  TR: "🇹🇷",
-  TM: "🇹🇲",
-  TV: "🇹🇻",
-  UG: "🇺🇬",
-  UA: "🇺🇦",
-  AE: "🇦🇪",
-  GB: "🇬🇧",
-  US: "🇺🇸",
-  UY: "🇺🇾",
-  UZ: "🇺🇿",
-  VU: "🇻🇺",
-  VA: "🇻🇦",
-  VE: "🇻🇪",
-  VN: "🇻🇳",
-  YE: "🇾🇪",
-  ZM: "🇿🇲",
-  ZW: "🇿🇼",
-  UN: "🏴‍☠️"
-};
-
 //---------------------------------------------------------- Tools
 function decodeHtmlEntities(str: string): string {
   return decodeURIComponent(str)
@@ -236,8 +36,8 @@ async function fetchHtml(url: string): Promise<void> {
     const response = await fetch(url, { redirect: "manual" });
     if (!response.ok) {
       //    throw new Error(`HTTP error! status: ${response.status}`);
-      await appendFile(`./BadChannels.txt`, url + "\n");
-      console.log(url);
+      await appendFile(`./BadChannels.txt`,`Bad Response: ${url} \n`);
+      console.log(`Bad Response: ${url}`);
     }
     const html: string = await response.text();
 
@@ -245,7 +45,9 @@ async function fetchHtml(url: string): Promise<void> {
     const matches = html.match(regex);
 
     if (matches) {
-      const lastFiveMessages = matches.slice(-countGetConfigOfEveryChannel);
+
+      // Receive any number of configurations from any channel
+      const lastFiveMessages = matches.slice(-2);
 
       for (const element of lastFiveMessages) {
         const decodeHtml = decodeHtmlEntities(element);
@@ -253,18 +55,17 @@ async function fetchHtml(url: string): Promise<void> {
         if (!decodeHtml.includes("…")) {
           await Grouping(decodeHtml);
         } else {
-          await appendFile(`./BadChannels.txt`, url + "\n");
+          await appendFile(`./BadChannels.txt`,`Bad Configs: ${url} \n`);
         }
 
       }
     } else {
-      await appendFile(`./BadChannels.txt`, url + "\n");
-      console.log(url);
+      await appendFile(`./BadChannels.txt`,`Not Match: ${url} \n`);
+      console.log(`Not Match: ${url} \n`);
     }
   } catch (error) {
-    await appendFile(`./BadChannels.txt`, url + "\n");
-    console.log(url);
-    //  console.log("Error fetching HTML:", error);
+    await appendFile(`./BadChannels.txt`,`Other Error: ${url} \n`);
+    console.log(`Other Error: ${url} \n`);
   }
 }
 async function vmessHandle(input: string): Promise<Result> {
@@ -281,7 +82,7 @@ async function vmessHandle(input: string): Promise<Result> {
 }
 async function configChanger(urlString: string): Promise<FinalResult> {
   const protocol = urlString.split("://")[0] + "";
-  let config, country, typeConfig;
+  let config, country, typeConfig="tcp";
 
   if (protocol == "vmess") {
     const vmesconf = await vmessHandle(urlString.split("://")[1] + "");
@@ -295,8 +96,12 @@ async function configChanger(urlString: string): Promise<FinalResult> {
 
     const api = await checkIP(hostname);
 
-    typeConfig = searchParams.get("type") ?? "";
+    const typeParam = searchParams.get("type");
+    if (typeParam && ["tcp","ws","http","grpc","quic","httpupgrade"].includes(typeParam)) {
+      typeConfig = typeParam; 
+    }
     country = api.country;
+    // Change Name Config
     config = urlString.split("#")[0] + "#" + `${api.flag} ${api.countryCode} | ${api.ip}`;
   }
   return { protocol, config, country, typeConfig };
@@ -305,46 +110,37 @@ async function checkIP(ipaddress: string) {
   console.log("Check Ip ...");
   await new Promise((resolve) => setTimeout(resolve, 1000));
 
-  let data: Partial<IPApiResponse> = {};
+  let data: Partial<ApiResponse> = {};
 
   try {
     const response = await fetch(`https://www.irjh.top/py/check/ip.php?ip=${ipaddress}`);
 
     if (!response.ok) {
-      console.log(`HTTP error! status: ${response.status}`);
+      console.log(`API HTTP error! status: ${response.status}`);
     } else {
-      data = (await response.json()) as IPApiResponse;
+      data = (await response.json()) as ApiResponse;
     }
   } catch{ }
 
   const country = data.country ?? "Unknown";
   const countryCode = data.countryCode ?? "UN";
-  const flag = countryFlagMap[countryCode];
+  const flag = countryFlags[countryCode];
   const ip = data.query ?? ipaddress;
 
   return { country, flag, ip, countryCode };
 }
 async function Grouping(urls: string): Promise<void> {
-  console.log("Config :", urls + "\n");
+  console.log(`Config : ${urls} \n`);
 
   const FinalResult = await configChanger(urls);
 
   console.log("final Info :", FinalResult, "\n");
 
   if (FinalResult) {
-    await appendFile(
-      `./category/${FinalResult.protocol}.txt`,
-      FinalResult.config + "\n"
-    );
-    await appendFile(
-      `./category/${FinalResult.country}.txt`,
-      FinalResult.config + "\n"
-    );
+    await appendFile(`./category/${FinalResult.protocol}.txt`,FinalResult.config + "\n");
+    await appendFile(`./category/${FinalResult.country}.txt`,FinalResult.config + "\n");
     if (FinalResult.typeConfig) {
-      await appendFile(
-        `./category/${FinalResult.typeConfig}.txt`,
-        FinalResult.config + "\n"
-      );
+      await appendFile(`./category/${FinalResult.typeConfig}.txt`,FinalResult.config + "\n");
     }
   }
 }
