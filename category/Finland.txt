@@ -5,6 +5,8 @@ vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryptio
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@cdn-61bd6d.fim.dnsstatic.net:40443?security=reality&encryption=none&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com#🇫🇮 FI | 77.221.159.165
+vless://37847c7e-ef5e-49cc-b6ac-0b3b5a7863f2@khc.dearhossein-taktaz.ir:443?security=reality&encryption=none&pbk=A_i3XS8URva3ya7OkH05o4DRNin77O3kiJ98Ge_Qh2k&host=play.google.com&headerType=http&fp=chrome&spx=/essUirVT3Rny7nN&type=tcp&sni=www.yahoo.com&sid=a46330177b55b1#🇫🇮 FI | 65.109.217.120
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?security=&type=tcp&path=/&headerType=http&host=divercdn.com&encryption=none#🇫🇮 FI | 46.62.240.221
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@77.221.159.165:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&allowinsecure=0&type=tcp&headerType=none#🇫🇮 FI | 77.221.159.165
