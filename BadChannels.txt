@@ -5,6 +5,7 @@ Bad Response: https://t.me/s/vless_config
 Not Match: https://t.me/s/vless_config 
 Bad Response: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/heyatserver 
+Other Error: https://t.me/s/SimChin_ir 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
 Bad Configs: https://t.me/s/alfred_config 
@@ -86,6 +87,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
