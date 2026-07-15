@@ -19,12 +19,12 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
+Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/cook_vpn 
 Not Match: https://t.me/s/customv2ray 
-Not Match: https://t.me/s/dalton_ping 
 Not Match: https://t.me/s/dargiiriis 
 Bad Configs: https://t.me/s/darkfiilter 
 Not Match: https://t.me/s/drvpn_net 
@@ -52,6 +52,7 @@ Not Match: https://t.me/s/ipstatic1
 Not Match: https://t.me/s/iransoftware90 
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 

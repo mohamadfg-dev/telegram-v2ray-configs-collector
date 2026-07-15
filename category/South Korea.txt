@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@14.39.254.65:50000?path=/freecodes&security=tls&encryption=none&type=ws&sni=hd.ylks.xyz#🇰🇷 KR | 14.39.254.65
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 KR | 3.39.4.109
