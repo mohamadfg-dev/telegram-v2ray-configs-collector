@@ -9,6 +9,5 @@ vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8442?security=realit
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999/?type=tcp&encryption=none#🇫🇮 FI | 141.98.87.48
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8442?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#🇫🇮 FI | 65.109.245.160
 vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8442?security=reality&encryption=none&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#🇫🇮 FI | 65.109.245.160
-vless://665b2cec-6027-44e1-bd04-9dc2c3ca8f2e@65.109.245.160:8441?security=&encryption=none&host=10.30.89.17&headerType=http&type=tcp#🇫🇮 FI | 65.109.245.160
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://c572947f-c5b6-4bd4-bc3f-018cfe7a4f23@46.62.240.221:2081?security=&type=tcp&path=/&headerType=http&host=divercdn.com&encryption=none#🇫🇮 FI | 46.62.240.221
