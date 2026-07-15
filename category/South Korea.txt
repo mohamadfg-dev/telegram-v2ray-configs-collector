@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@119.65.118.27:16051?security=tls&sni=hd.ylks.xyz&type=ws&path=/freecodes#🇰🇷 KR | 119.65.118.27
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@14.39.254.65:50000?path=/freecodes&security=tls&encryption=none&type=ws&sni=hd.ylks.xyz#🇰🇷 KR | 14.39.254.65
