@@ -5,7 +5,6 @@ Bad Response: https://t.me/s/vless_config
 Not Match: https://t.me/s/vless_config 
 Bad Response: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/heyatserver 
-Other Error: https://t.me/s/SimChin_ir 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
 Bad Configs: https://t.me/s/alfred_config 
@@ -39,6 +38,8 @@ Not Match: https://t.me/s/freevpnatm
 Not Match: https://t.me/s/getconfigir 
 Not Match: https://t.me/s/ghalagyann 
 Not Match: https://t.me/s/ghalagyann2 
+Bad Response: https://t.me/s/ghotb_scarf 
+Not Match: https://t.me/s/ghotb_scarf 
 Not Match: https://t.me/s/green_config 
 Not Match: https://t.me/s/hacknashid 
 Not Match: https://t.me/s/hormozvpn 
@@ -70,14 +71,12 @@ Not Match: https://t.me/s/mood_tarinhaa
 Bad Response: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
-Not Match: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/netaccount 
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/nofilter_v2rayng 
 Not Match: https://t.me/s/noforcedheaven 
-Not Match: https://t.me/s/noviin_tel 
 Not Match: https://t.me/s/ntgreenplus 
 Not Match: https://t.me/s/orgempirenet 
 Not Match: https://t.me/s/outlinev2rayng 
@@ -87,7 +86,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -165,7 +163,6 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
-Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vmessorg 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
@@ -176,7 +173,6 @@ Not Match: https://t.me/s/vpn_bal0uch
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
