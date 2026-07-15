@@ -6,8 +6,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:808
 vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱 NL | 72.56.81.165
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 NL | 82.38.31.176
 vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@l4.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#🇳🇱 NL | 5.255.102.104
+vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?security=reality&encryption=none&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&host=&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=94#🇳🇱 NL | 195.63.144.164
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 NL | 82.38.31.193
+vless://c0897097-4f59-439c-aab1-ae39004375b2@5.255.106.221:8080?encryption=none&type=tcp&security=reality&headerType=none&host=play.google.com&sni=play.google.com&fp=edge&insecure=1&allowInsecure=1&pbk=wzwMT116o9V0x4QCcZFFBVGi1S722f1nRKs4FCvPPH8&sid=96960563e710ad7c#🇳🇱 NL | 5.255.106.221
+vless://c0897097-4f59-439c-aab1-ae39004375b2@5.255.106.221:8080?encryption=none&type=tcp&security=reality&headerType=none&host=play.google.com&sni=play.google.com&fp=edge&insecure=1&allowInsecure=1&pbk=wzwMT116o9V0x4QCcZFFBVGi1S722f1nRKs4FCvPPH8&sid=96960563e710ad7c#🇳🇱 NL | 5.255.106.221
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🇳🇱 NL | 89.34.230.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
@@ -17,5 +20,6 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 NL | 82.38.31.210
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 NL | 82.38.31.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 NL | 82.38.31.193
+vless://d8b42cd5-a149-4356-9e61-000000000000@85.222.198.181:2550?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 85.222.198.181
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#🇳🇱 NL | 82.38.31.32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 NL | 82.38.31.184

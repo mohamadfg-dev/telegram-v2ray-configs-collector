@@ -1,2 +1,1 @@
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=none&host=tehran-game.ir&path=/&security=none&type=ws#🇹🇷 TR | 130.185.120.48
