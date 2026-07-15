@@ -24,6 +24,7 @@ Bad Response: https://t.me/s/connect_sho
 Not Match: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/cook_vpn 
 Not Match: https://t.me/s/customv2ray 
+Not Match: https://t.me/s/dalton_ping 
 Not Match: https://t.me/s/dargiiriis 
 Bad Configs: https://t.me/s/darkfiilter 
 Not Match: https://t.me/s/drvpn_net 
@@ -143,6 +144,7 @@ Bad Configs: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
+Not Match: https://t.me/s/v2raying 
 Not Match: https://t.me/s/v2rayng_fars 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngseven 
@@ -151,6 +153,7 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
+Not Match: https://t.me/s/v2ryng01 
 Bad Configs: https://t.me/s/v2source 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
@@ -172,6 +175,7 @@ Not Match: https://t.me/s/vpn_bal0uch
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
