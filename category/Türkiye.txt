@@ -1,5 +1,2 @@
-vless://aa4db980-87c1-4f45-b967-b2510a1fe709@helixgaming.ir:80?path=/&security=&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 87.120.106.196
-vless://9075494d-a949-4b3d-8f59-9073f32cba3f@helixgaming.ir:80?path=/&security=&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 87.120.106.196
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.5
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#🇹🇷 TR | 45.195.137.48
-vless://d4adb2fd-29ee-4c82-9d16-72224b904358@ger1.fastcodz.ir:52077?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=9TjYilelwbIgUs6du2chsTvUyv_TemHoAJuVbsdYRUY&sid=c1fcab160b4c8bed&type=grpc#🇹🇷 TR | 87.120.106.222
