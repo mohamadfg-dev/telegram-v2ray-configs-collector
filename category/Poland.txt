@@ -1,1 +1,2 @@
 vless://12cb0a24-0438-4980-8617-9c93205895fa@185.193.30.94:443?encryption=none&security=tls&sni=kakoolnews.whattodowhatnottodo.workers.dev&fp=chrome&type=ws&host=kakoolnews.whattodowhatnottodo.workers.dev&path=/#🇵🇱 PL | 185.193.30.94
+vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇵🇱 PL | 152.233.43.77
