@@ -142,6 +142,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
+Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -166,6 +167,7 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
+Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vmessorg 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
@@ -176,7 +178,7 @@ Not Match: https://t.me/s/vpn_bal0uch
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
