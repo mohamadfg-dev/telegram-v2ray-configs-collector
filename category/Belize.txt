@@ -1,2 +1,1 @@
-vless://668869b1-860e-4308-b1da-386e222defce@c1.fineartsnet.org:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Ikaho.soralink.ir&fp=qq&type=xhttp&allowInsecure=0&sni=Ikaho.soralink.ir#🇧🇿 BZ | 45.131.5.161
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.208.61:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🇧🇿 BZ | 45.131.208.61
+vless://668869b1-860e-4308-b1da-386e222defce@c1.fineartsnet.org:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Ikaho.soralink.ir&fp=qq&type=xhttp&allowInsecure=0&sni=Ikaho.soralink.ir#🇧🇿 BZ | 45.131.5.14
