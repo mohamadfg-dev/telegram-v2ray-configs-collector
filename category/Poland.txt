@@ -1,5 +1,3 @@
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=/&security=&encryption=none&type=ws#🇵🇱 PL | 128.204.223.94
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇵🇱 PL | 162.249.126.47
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇵🇱 PL | 162.249.126.195
 vless://d0cb736f-4989-42eb-9530-dc9e09e85d11@82.47.63.121:1718?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 PL | 82.47.63.121
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#🇵🇱 PL | 51.77.53.200

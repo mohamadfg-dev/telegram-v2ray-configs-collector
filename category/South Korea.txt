@@ -1,1 +1,1 @@
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 KR | 3.39.4.109
+trojan://CF68213490@allowing-halibut.rooster465.autos:443?allowInsecure=0&sni=allowing-halibut.rooster465.autos#🇰🇷 KR | 3.38.213.204
