@@ -1,3 +1,1 @@
 vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=/ws&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 185.226.93.28
-vless://ee3e01fb-487b-4cbb-b381-207e3c9c4bf3@tr.irgamepanel.xyz:443?spx=/999816046fc2200&headerType=none&sni=instinct.radeon.com&encryption=none&security=reality&pbk=UGOPhhuLJNOpANV94Wl8ZP8i16QJC1aE64W5p3QJhz8&sid=1cc0c71286be4e&fp=chrome&type=tcp#🇹🇷 TR | 185.226.93.74
-vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=/ws&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 185.226.93.28

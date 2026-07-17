@@ -1,2 +1,3 @@
 vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🇦🇱 AL | 45.89.60.64
 vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#🇦🇱 AL | 45.89.60.64
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443?mode=gun&security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&type=grpc&serviceName=nexusGrpc&sni=morphbinerkkw.ru&sid=5e3ab3ab228625#🇦🇱 AL | 144.31.129.42
