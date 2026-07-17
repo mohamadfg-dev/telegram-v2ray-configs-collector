@@ -1,3 +1,4 @@
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=/&security=&encryption=none&type=ws#🇵🇱 PL | 128.204.223.94
 vless://d0cb736f-4989-42eb-9530-dc9e09e85d11@82.47.63.121:1718?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 PL | 82.47.63.121
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#🇵🇱 PL | 51.77.53.200
+vless://c8b5f6c9-83ff-0063-be9c-f997a5b2f692@185.16.36.200:43439?mode=gun&security=reality&encryption=none&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&fp=firefox&type=grpc&serviceName=ws&sni=cdn-up.perecbass.ru&sid=0df2f86d58385f90#🇵🇱 PL | 185.16.36.200
