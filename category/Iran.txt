@@ -12,10 +12,13 @@ vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&en
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 vless://91237289-9f15-42bd-bd2a-b97aee008386@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.152.185.16
 vless://2335f653-ab29-46aa-bd8a-9d8e39625d57@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#🇮🇷 IR | 78.157.54.173
-vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.234.122
+vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#🇮🇷 IR | 62.60.147.195
+vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.233.122
 vless://2335f653-ab29-46aa-bd8a-9d8e39625d57@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#🇮🇷 IR | 78.157.54.173
 vless://5050a84d-8bac-406d-adfc-b599542df1cc@212.80.10.215:8443?type=tcp&security=none#🇮🇷 IR | 212.80.10.215
+vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#🇮🇷 IR | 185.143.232.201
 vless://937dde02-4ce6-4f0d-a3be-27aef7d3ef46@s4.tehranionliine.ir:80?path=/&security=&encryption=none&type=ws#🇮🇷 IR | 5.202.8.10
+vless://7731f2b5-e212-4ae5-b30f-179319846050@93.113.238.236:13998?encryption=none&type=xhttp&mode=auto&host=filimo.com&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&extra={"xPaddingBytes":"100-1000","mode":"auto"}&security=none#🇮🇷 IR | 93.113.238.236
 vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://444d8b7b-9327-42b9-851d-015b649c8790@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=none&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.233.122
