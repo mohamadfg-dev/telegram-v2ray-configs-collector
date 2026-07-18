@@ -1,1 +1,1 @@
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?security=reality&encryption=none&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=shuviu.de&sid=affc28b1a8c32c#🇦🇹 AT | 152.53.0.209
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinjoin-video-stri.ru&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&type=tcp&headerType=none#🇦🇹 AT | 144.31.129.77
