@@ -1,1 +1,1 @@
-vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@tur.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tur.srv.anti-zapret.com&sid=17faf32cb516c9cb#🇹🇷 TR | 185.181.209.210
+vless://907772ba-dd82-40a8-8ccb-71a7cba854b6@tery.aliyostd.com:2096?pbk=r-7MEg2UtIiQrzZP16EXHjIUDqkKzzRqf7XlYxPbHB8&sid=fbb8a1c698a0f918&mode=gun&type=grpc&sni=www.icloud.com&encryption=none&fp=safari&security=reality&spx=/#🇹🇷 TR | 107.181.155.100
