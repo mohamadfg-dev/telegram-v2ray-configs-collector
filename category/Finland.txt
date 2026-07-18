@@ -3,4 +3,6 @@ vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryptio
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dVhTZ1cybTRzYmZvWWNrVGJGaUduYVZuUDF5Z0lVTGkxMkxQUXZVWk5qTT06Rk5Xekk0T3dQVE5nQUZaVVVVRmp4MTltNVlmTG8zcU5YdDA3dENRM2xadz0@65.109.219.124:18269#🇫🇮 FI | 65.109.219.124
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
+vless://fe181934-a536-44cc-98cd-d62b9c16ad74@static.41.139.168.204.clients.your-server.de:2087?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇫🇮 FI | 204.168.139.41
