@@ -1,1 +1,1 @@
-vless://87573bf7-e3ca-4439-9800-77fb5051eadf@tur.forbluewhales.dpdns.org:80?path=/ws&security=none&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 185.226.93.28
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@tur.srv.anti-zapret.com:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tur.srv.anti-zapret.com&sid=17faf32cb516c9cb#🇹🇷 TR | 185.181.209.210
