@@ -1,2 +1,2 @@
-vless://45f435e7-d09d-4412-b8a8-891c29644152@217.60.242.204:14031?security=none&type=tcp&host=ffd80269ecb50dcf.speedtest.hormoznet.net&headerType=http#🇹🇷 TR | 217.60.242.204
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
+vless://d5b25051-c06c-4af5-9cd6-b6000310177c@game.arshia-nova.ir:443?encryption=none&fp=chrome&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&security=reality&sid=ce310cc046141015&sni=blog.api.www.cloudflare.com&spx=/87f7163630d2f4c&type=tcp#🇹🇷 TR | 213.142.150.73
