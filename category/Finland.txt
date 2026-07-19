@@ -4,8 +4,6 @@ vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryptio
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
-vless://bf973a3b-b285-4369-8c01-1f1e50024a38@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.219.124
-vmess://eyJhZGQiOiI2NS4xMDkuMjE5LjEyNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjk3M2EzYi1iMjg1LTQzNjktOGMwMS0xZjFlNTAwMjRhMzgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjUyNTI1IiwicHMiOiLwn4er8J+HriBGSSB8IDY1LjEwOS4yMTkuMTI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://fe181934-a536-44cc-98cd-d62b9c16ad74@static.41.139.168.204.clients.your-server.de:2087?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls&#🇫🇮 FI | 204.168.139.41
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.219.124

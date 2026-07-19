@@ -15,6 +15,7 @@ Not Match: https://t.me/s/awlix_ir
 Bad Response: https://t.me/s/bislullproxy 
 Not Match: https://t.me/s/bislullproxy 
 Not Match: https://t.me/s/black_vpn1 
+Bad Configs: https://t.me/s/bored_vpn 
 Not Match: https://t.me/s/canfing_vpn 
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/configms 
@@ -175,10 +176,10 @@ Not Match: https://t.me/s/vpn4ir_1
 Not Match: https://t.me/s/vpn_arta 
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
+Bad Configs: https://t.me/s/vpn_kanfik 
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
