@@ -8,6 +8,7 @@ Not Match: https://t.me/s/nim_vpn_ir
 Bad Configs: https://t.me/s/alfred_config 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
+Not Match: https://t.me/s/argo_vpn1 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Not Match: https://t.me/s/awlix_ir 
@@ -38,7 +39,6 @@ Not Match: https://t.me/s/ghalagyann
 Not Match: https://t.me/s/ghalagyann2 
 Bad Response: https://t.me/s/ghotb_scarf 
 Not Match: https://t.me/s/ghotb_scarf 
-Not Match: https://t.me/s/green_config 
 Not Match: https://t.me/s/hacknashid 
 Not Match: https://t.me/s/hormozvpn 
 Not Match: https://t.me/s/imhdiyvp 
