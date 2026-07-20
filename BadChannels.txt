@@ -55,7 +55,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Bad Configs: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Bad Configs: https://t.me/s/mahanvpn 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
@@ -81,7 +81,6 @@ Not Match: https://t.me/s/ntgreenplus
 Not Match: https://t.me/s/orgempirenet 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
-Not Match: https://t.me/s/payam_nsi 
 Not Match: https://t.me/s/pistachiovpn 
 Bad Configs: https://t.me/s/proxie 
 Not Match: https://t.me/s/proxse11 
@@ -172,6 +171,7 @@ Not Match: https://t.me/s/vpn4ir_1
 Not Match: https://t.me/s/vpn_arta 
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
+Bad Configs: https://t.me/s/vpn_kanfik 
 Bad Configs: https://t.me/s/vpn_kanfik 
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
