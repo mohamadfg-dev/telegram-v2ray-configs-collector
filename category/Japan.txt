@@ -1,4 +1,1 @@
-trojan://JA96378052@52.195.11.84:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 JP | 52.195.11.84
-trojan://JA96378052@3.112.1.122:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 JP | 3.112.1.122
-trojan://JA96378052@52.195.11.84:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 JP | 52.195.11.84
-trojan://JA96378052@3.112.1.122:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=WangCai.rooster465.autos#🇯🇵 JP | 3.112.1.122
+vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJhaWQiOjAsImlkIjoiNDk0MWFhOGQtMDdkMi00MDhjLWJlMmMtMTE3ZGViZWNiYTMwIiwibmV0Ijoid3MiLCJwb3J0IjoxMjg4OSwicHMiOiLwn4ev8J+HtSBKUCB8IDE3Mi4yMDcuNzIuMjMzIiwic2VjdXJpdHkiOiJhdXRvIn0=

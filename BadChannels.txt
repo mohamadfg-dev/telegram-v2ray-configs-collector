@@ -8,7 +8,6 @@ Not Match: https://t.me/s/nim_vpn_ir
 Bad Configs: https://t.me/s/alfred_config 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
-Bad Configs: https://t.me/s/argooo_vpn 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Not Match: https://t.me/s/awlix_ir 
@@ -19,7 +18,6 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
-Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
@@ -180,7 +178,7 @@ Bad Configs: https://t.me/s/vpn_kanfik
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
