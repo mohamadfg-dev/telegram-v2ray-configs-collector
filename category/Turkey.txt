@@ -1,1 +1,2 @@
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
+vless://b5307208-92fa-4e23-be0f-c4cb1daa2361@subb.biscuitnazari.ir:59715?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=VroCt4caCT7MVhh2JCMDHhLrbX-if0R0CoK73zT7Vg0&fp=ios&spx=/06aac7f4fc6f6a5&type=xhttp&sni=www.amazon.com&sid=b2e5374510#🇹🇷 TR | 91.228.227.80
