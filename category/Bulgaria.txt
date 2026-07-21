@@ -1,1 +1,1 @@
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇧🇬 BG | 185.246.131.170
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?security=reality&sni=web.max.ru&fp=safari&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&type=grpc&serviceName=web.max.ru&packetEncoding=xudp&encryption=none#🇧🇬 BG | 93.152.205.216
