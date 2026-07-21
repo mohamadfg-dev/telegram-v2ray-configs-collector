@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAzNS43Ny45My4xMTciLCJhZGQiOiIzNS43Ny45My4xMTciLCJwb3J0IjoiNTQzMzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWIwMjhkN2YtOWUzMC00NDc1LWE1NTgtZWJiMmM0YjAyNTY2IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?encryption=none&type=ws&security=tls&path=/fp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇯🇵 JP | 156.231.113.141
