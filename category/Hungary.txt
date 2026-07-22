@@ -1,1 +1,1 @@
-vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#🇭🇺 HU | 152.233.41.30
+vless://StableInternet@de.pub.accuratenetworkchecker.ir:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#🇭🇺 HU | 74.49.215.27

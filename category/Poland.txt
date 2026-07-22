@@ -1,2 +1,2 @@
-vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@ips-----pro-----vip.nininet.xyz:1418?encryption=none&type=tcp&headerType=http&host=play.google.com#🇵🇱 PL | 82.47.63.54
-vless://d0cb736f-4989-42eb-9530-dc9e09e85d11@82.47.63.121:1718?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 PL | 82.47.63.121
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱 PL | 92.118.205.211
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱 PL | 92.118.205.211
