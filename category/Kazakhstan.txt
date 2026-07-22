@@ -1,2 +1,1 @@
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&;encryption=none&;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&;fp=chrome&;type=tcp&;sni=yahoo.com&;sid=2001#🇰🇿 KZ | 77.73.232.61
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿 KZ | 193.124.204.145
