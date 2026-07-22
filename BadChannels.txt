@@ -57,7 +57,6 @@ Not Match: https://t.me/s/lexernet
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
 Not Match: https://t.me/s/lranonline_new 
-Bad Configs: https://t.me/s/mahanvpn 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -180,6 +179,7 @@ Bad Configs: https://t.me/s/vpn_kanfik
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
