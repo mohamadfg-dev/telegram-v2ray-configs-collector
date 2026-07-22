@@ -151,6 +151,7 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
+Bad Configs: https://t.me/s/v2ry_proxy 
 Not Match: https://t.me/s/v2ryng01 
 Bad Configs: https://t.me/s/v2source 
 Bad Response: https://t.me/s/v2trayproxy 
@@ -172,6 +173,7 @@ Not Match: https://t.me/s/vpn_arta
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_meliii 
+Bad Configs: https://t.me/s/vpnfail_v2ray 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
 Bad Configs: https://t.me/s/vpnserverrr 

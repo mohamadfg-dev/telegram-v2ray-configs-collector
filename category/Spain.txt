@@ -1,2 +1,3 @@
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#🇪🇸 ES | 5.180.173.222
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇪🇸 ES | 185.18.250.252
