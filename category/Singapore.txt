@@ -1,3 +1,1 @@
-vless://d8b42cd5-a149-4356-9e61-000000000000@82.109.242.198:2553?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 SG | 82.109.242.198
-vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@s.avrilon.us:443?security=reality&sni=blog.api.www.cloudflare.com&headerType=none&flow=xtls-rprx-vision&pbk=pak_xgMOqICE2oAimyRphnruNEP7HptVJVI5p1HjGmA&type=tcp&spx=/8ea1b794b0e8d0c&sid=0f9c&encryption=mlkem768x25519plus.native.0rtt.acjHXqKWEZtVE-QeN5i1dfX8rrQHE0eGw8wctrJNMVo&fp=chrome#🇸🇬 SG | 46.250.235.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
