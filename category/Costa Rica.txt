@@ -1,1 +1,1 @@
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?path=/media53&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media53.dashboard-baby.info&fp=chrome&type=ws&allowInsecure=0&sni=media53.dashboard-baby.info#🇨🇷 CR | 2803:f800:50::6ca2:c277
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#🇨🇷 CR | 2803:f800:50::6ca2:c277

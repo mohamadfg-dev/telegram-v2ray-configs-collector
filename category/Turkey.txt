@@ -1,3 +1,4 @@
 vless://eaf28b90-7c6c-4b27-8406-7b2511ae1e13@dc0537bc5b712ba5.helexw.ir:443?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇹🇷 TR | 130.185.120.181
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@turkey1.nanaweb.ir:1080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 188.132.174.61
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
+vless://8d78e958-1ec3-41d3-828c-f24ad0e097b0@test.legendcr.ir:51403?encryption=none&fp=chrome&pbk=c-cJNHwSosNoDej0U-29whPdI6K2Ui8MCI-evN4DNlk&security=reality&sid=98&sni=www.samsung.com&spx=/YX8kz1uSYt1lUYZ&type=tcp#🇹🇷 TR | 188.132.174.220
