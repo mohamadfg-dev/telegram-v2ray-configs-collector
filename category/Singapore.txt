@@ -1,2 +1,2 @@
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws#🇸🇬 SG | 45.8.211.217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
-vless://d0e2ae3e-0be7-4dcf-9abb-dcc82aabc076@s.avrilon.us:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.fKjJG1_qT-AmknE6MsSm7t7Kb32Mn51I-EDDfvXypQk&pbk=OFTdI5QSuZjKXDYSaAGtsP6uzQe8SUMq71VG5UUkTgU&headerType=&fp=chrome&spx=/432d8cb3f2c244a&type=tcp&flow=xtls-rprx-vision&sni=youtubekids.com&sid=144dadaa39ab#🇸🇬 SG | 46.250.235.197
