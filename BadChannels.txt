@@ -108,6 +108,7 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shh_proxy 
+Bad Response: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -173,10 +174,9 @@ Not Match: https://t.me/s/vpn_arta
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_meliii 
-Bad Configs: https://t.me/s/vpnfail_v2ray 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 

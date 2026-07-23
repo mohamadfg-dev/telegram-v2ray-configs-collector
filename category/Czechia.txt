@@ -1,1 +1,3 @@
-vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none#🇨🇿 CZ | 46.8.8.223
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.165
+vless://af338e79-8259-4662-a0ff-db6df2414501@xboxgame-dl.com:433?encryption=none&security=reality&sni=xboxgame-dl.com&fp=chrome&pbk=J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E&sid=8d4981fb6742b104&type=tcp&headerType=none#🇨🇿 CZ | 46.8.8.222
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇨🇿 CZ | 95.133.245.106

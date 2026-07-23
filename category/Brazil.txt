@@ -1,1 +1,1 @@
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#🇧🇷 BR | 45.192.2.115
+vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#🇧🇷 BR | 45.192.2.115

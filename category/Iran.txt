@@ -8,12 +8,12 @@ vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🇮🇷 IR | 31.14.118.226
 vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=/&security=none&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#🇮🇷 IR | 85.198.13.64
 vless://649a9575-21d6-4887-b4c6-73019dcfb0a3@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🇮🇷 IR | 193.58.119.134
-vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.233.122
+vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=/&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#🇮🇷 IR | 185.143.234.122
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=/&host=varzesh3.com&headerType=http&security=none#🇮🇷 IR | 85.133.228.198
 ss://YWVzLTI1Ni1nY206TkRJNE1qWXdPV0ptWXpKaFpUbGlNVEZtWmpSa1pqQTNZalEzTTJKaw@37.32.10.251:9114#🇮🇷 IR | 37.32.10.251
 vless://91237289-9f15-42bd-bd2a-b97aee008386@37.152.185.16:27156?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 37.152.185.16
 vless://0a8b6d36-b4e8-4e9b-ae7d-8c513a99e4cd@direct21287.bazargani98.org:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.UK5ti376y30NHMFvVHP36DH57i2nVz-48HZpTX4MdxY&fp=chrome&host=direct21287.bazargani98.org&path=/&security=tls&sni=&type=ws#🇮🇷 IR | 185.143.233.238
-vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.234.122
+vless://8f67eced-52fc-483b-b471-681378824a60@snapp.ir:80?encryption=none&security=none&type=ws&host=tr.razmjou.com&path=/#🇮🇷 IR | 185.143.233.122
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=g18.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=g18.vcommunity.ir#🇮🇷 IR | 217.18.94.23
 ss://YWVzLTI1Ni1nY206TkRJNE1qWXdPV0ptWXpKaFpUbGlNVEZtWmpSa1pqQTNZalEzTTJKaw@37.32.10.251:9114#🇮🇷 IR | 37.32.10.251
 vless://e21db7f3-b00e-40a9-955f-28f7517c113d@217.18.94.23:2080?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=g18.vcommunity.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=g18.vcommunity.ir#🇮🇷 IR | 217.18.94.23
