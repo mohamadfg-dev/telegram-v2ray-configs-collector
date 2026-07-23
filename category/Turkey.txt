@@ -1,2 +1,2 @@
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://7b3e82c8-47bf-4f6f-ad7c-6d0a041edca2@turkey1.nanaweb.ir:1080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 188.132.174.61
+vless://69c0e64c-363f-46da-865c-88d5075a9356@ninja.monak2.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.LEJ8wckviL_EblQfulnTbSpqeUr1-DDqyghpUwWW6HE&pbk=YlDfPynfSCScT4WG0K37lusY94qBaHdoo8YCyUtCCmM&fp=chrome&spx=/Nu3ZJDoXFlAj9kU&type=grpc&serviceName=grpc&sni=www.yahoo.com&sid=6c70#🇹🇷 TR | 37.221.79.26
