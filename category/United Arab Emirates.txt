@@ -1,1 +1,1 @@
-vless://976f29eb-9938-4ea9-9a00-def067c6dbed@85.234.73.196:443?security=reality&encryption=none&pbk=WZ2vJKVZ3vLP97hKRfu8XJnUpXwPgXMPT7aK5s1Yu0g&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=56#🇦🇪 AE | 85.234.73.196
+vless://f8c3065e-4437-4561-aacb-75b32586f011@ae-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=e8f4426268c05621#🇦🇪 AE | 109.61.42.60
