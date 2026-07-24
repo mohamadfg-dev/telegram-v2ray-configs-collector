@@ -1,1 +1,1 @@
-vless://Ai@amirjam000-amirjam.hf.space:443?path=/ws/Ai&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=amirjam000-amirjam.hf.space&fp=chrome&type=ws&allowInsecure=0&sni=amirjam000-amirjam.hf.space#🇮🇪 IE | 108.132.218.33
+vless://Ai@amirjam000-amirjam.hf.space:443?path=/ws/Ai&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=amirjam000-amirjam.hf.space&fp=chrome&type=ws&allowInsecure=0&sni=amirjam000-amirjam.hf.space#🇮🇪 IE | 34.249.163.21
