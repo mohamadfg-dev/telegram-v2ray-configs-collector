@@ -46,6 +46,7 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
   "scMinPostsIntervalMs" : 30,
   "xPaddingBytes" : "100-1000"
 }#🏴‍☠️ UN | fast.farsidutch.nl
+vless://9b1d65b5-ede6-49f1-8c6e-8d15bb76da61@out.mamad-imnix.ir:3044?security=reality&encryption=none&pbk=kSR18CNj6e3pYOGXrUJWYHyYHyrc9imttzMwYus0PkU&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com:443&sid=020ec8fa5086ffc4#🏴‍☠️ UN | out.mamad-imnix.ir
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
