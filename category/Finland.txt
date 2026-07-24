@@ -2,5 +2,4 @@ vless://efe0cfec-da36-4e25-b0a8-a9b02e5d4439@a.paydar.site:443?encryption=none&t
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=w3.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYms4bWVhcDM3cGljZXRi@65.109.181.69:25026#🇫🇮 FI | 65.109.181.69
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
