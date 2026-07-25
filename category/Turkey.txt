@@ -1,1 +1,4 @@
+vless://eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc@ab.gfdcty.ir:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=graphql-grpc-t7XyZ&allowInsecure=0&sni=ab.gfdcty.ir#🇹🇷 TR | 37.221.79.216
+vless://eeb75ded-02ad-4e8f-9bb1-ccc5cd96e7cc@ab.gfdcty.ir:443?mode=auto&path=/graphql-xhttp-t7XyZ&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=ab.gfdcty.ir&type=xhttp&allowInsecure=0&sni=ab.gfdcty.ir#🇹🇷 TR | 37.221.79.216
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUGYwcXdaamV5dzd0R2pwdEh5S3hKaUcwdTY3UzVWYw==@fast.derape.ir:1080#🇹🇷 TR | 45.74.158.81
