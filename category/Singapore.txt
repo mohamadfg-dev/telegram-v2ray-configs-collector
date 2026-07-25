@@ -1,3 +1,7 @@
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws#🇸🇬 SG | 45.8.211.217
+vless://3a5c35c9-101c-4bfc-a636-9eee8a7f7d58@storybot.aigcsoft.site:443?path=/42766/nobitex.ir&security=tls&encryption=none&insecure=0&host=michal.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni2.irandoc.info#🇸🇬 SG | 43.174.247.53
+vless://dfb28501-ecb2-438a-bb3c-7ae77d320c30@storybot.aigcsoft.site:443?path=/36288/nobitex.ir&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#🇸🇬 SG | 43.174.247.53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=/rdfgtws#🇸🇬 SG | 45.8.211.217
+vless://dfb28501-ecb2-438a-bb3c-7ae77d320c30@storybot.aigcsoft.site:443?path=/36288/nobitex.ir&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=firefox&type=ws&allowInsecure=0&sni=sni.irandoc.info#🇸🇬 SG | 43.174.247.53
+vless://3a5c35c9-101c-4bfc-a636-9eee8a7f7d58@storybot.aigcsoft.site:443?path=/42766/nobitex.ir&security=tls&encryption=none&insecure=0&host=michal.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni2.irandoc.info#🇸🇬 SG | 43.174.247.53

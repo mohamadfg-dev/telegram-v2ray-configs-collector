@@ -9,6 +9,7 @@ vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#🏴‍☠️ UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
+vmess://eyJhZGQiOiIxMjcuMC4wLjEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWNiYWNhYi1hYWJjLWJhYWMtY2RhYi1hYWNjY2NiYmFiYmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6ODA4MCwicHMiOiLwn4+04oCN4pig77iPIFVOIHwgMTI3LjAuMC4xIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp#🏴‍☠️ UN | ad1.xiqpanelz.com
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🏴‍☠️ UN | panel-finland-1.subcenter.net
@@ -23,10 +24,10 @@ vless://09bb1018-47b1-4968-964c-d9bf96bb052b@my.filpower.shop:443?encryption=non
 vless://Telegram-Parsashonam@ip:443?security=reality&encryption=none&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&headerType=&fp=firefox&spx=/YtQ58V1AZ8fExyr&type=tcp&flow=xtls-rprx-vision&sni=domian&sid=83dc602558#🏴‍☠️ UN | ip
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
-vless://99680bf2-09a9-4bf8-8468-ff178c981a5a@kovirabot3.kovira2.ir:13424?path=/&security=&encryption=none&host=chatgpt.com&type=ws#🏴‍☠️ UN | kovirabot3.kovira2.ir
 vless://OjVlZWNiMzRmLWM5MDUtNGM3Ny1iN2ZiLWQ4MzBiNDUxY2QxMUAxNDEuMTMzLjE3Mi4yMjI6MjAzNDI?remarks=美国#🏴‍☠️ UN | OjVlZWNiMzRmLWM5MDUtNGM3Ny1iN2ZiLWQ4MzBiNDUxY2QxMUAxNDEuMTMzLjE3Mi4yMjI6MjAzNDI
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://a76c8ca9-4355-4a86-b09d-5471a870d1d0@kovirabest3.kovira2.ir:13424?path=/&security=none&encryption=none&host=chatgpt.com&type=ws#🏴‍☠️ UN | kovirabest3.kovira2.ir
+vless://f4b08984-797f-a3f3-95e1-38acc2748a19@loriex1.ojcenter.com:28144?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🏴‍☠️ UN | loriex1.ojcenter.com
 vless://f4b08984-797f-a3f3-95e1-38acc2748a19@loriex1.ojcenter.com:28144?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🏴‍☠️ UN | loriex1.ojcenter.com
 vless://c1ea5250-43d6-4f91-8d0f-64ed231cc559@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
 vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&type=ws#🏴‍☠️ UN | simonil.zarghamportal.ir
