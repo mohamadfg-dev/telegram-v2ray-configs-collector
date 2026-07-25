@@ -1,5 +1,6 @@
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
-vless://401164a7-e027-4fe9-be93-5b477a06f9c4@cz.sv.temas-bor.ir:22005?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#🇫🇮 FI | 46.62.142.16
+vless://401164a7-e027-4fe9-be93-5b477a06f9c4@cz.sv.temas-bor.ir:22005?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#🇫🇮 FI | 77.42.125.134
+vless://99680bf2-09a9-4bf8-8468-ff178c981a5a@kovirabot3.kovira2.ir:13424?path=/&security=&encryption=none&host=chatgpt.com&type=ws#🇫🇮 FI | 65.109.189.49
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
