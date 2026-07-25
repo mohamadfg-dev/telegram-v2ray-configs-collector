@@ -1,2 +1,2 @@
-vless://93b99881-df03-4597-9146-0c11e46387f7@121.200.112.143:13521?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=random#🇰🇷 KR | 121.200.112.143
-vless://93b99881-df03-4597-9146-0c11e46387f7@132.226.22.106:34237?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=random#🇰🇷 KR | 132.226.22.106
+vless://93b99881-df03-4597-9146-0c11e46387f7@223.222.178.157:10696?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=random#🇰🇷 KR | 223.222.178.157
+vless://93b99881-df03-4597-9146-0c11e46387f7@223.222.178.157:10696?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=/?ed&fp=random#🇰🇷 KR | 223.222.178.157
