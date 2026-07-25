@@ -2,6 +2,5 @@ vless://b90bc52c-d95b-49d2-8061-598ddb44e288@s1.esantion.info:24206?encryption=n
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
-vless://99680bf2-09a9-4bf8-8468-ff178c981a5a@kovirabot3.kovira2.ir:13424?path=/&security=&encryption=none&host=chatgpt.com&type=ws#🇫🇮 FI | 65.109.189.49
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@45.144.53.99:443?security=reality&encryption=none&pbk=p8VariNOxqulB45KBqfYb2_zNGfGtKHxCF8BwDbgNQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gitea.voidmoor.com&sid=58a08ac3a078cab0#🇫🇮 FI | 45.144.53.99
