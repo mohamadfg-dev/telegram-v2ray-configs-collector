@@ -1,1 +1,1 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵 JP | 156.231.113.141
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇯🇵 JP | 3.114.220.22
