@@ -1,2 +1,4 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇵🇱 PL | 162.249.126.200
 vless://f6a2cd4a-b755-4b9f-b854-40101e28e217@144.31.113.56:58427/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ymail.com&security=reality&pbk=NCqZzVFlyDITdXB28eEHBgHVqlqpllm1BoJ4wImYHl4&sid=6a58#🇵🇱 PL | 144.31.113.56
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇵🇱 PL | 162.249.126.79
 vless://ea3e24c1-6bc1-4a7a-9711-88f937f08bbb@namasha.broute.online:2053?security=reality&encryption=none&pbk=h6tCZV3ayNpiX72wvOSJhk-ggk8jqqcfQtVy04OBAE8&headerType=none&fp=chrome&spx=/0ccc410eea68aeb&type=tcp&sni=ap-author.led.samsung.com&sid=73#🇵🇱 PL | 168.222.49.20
