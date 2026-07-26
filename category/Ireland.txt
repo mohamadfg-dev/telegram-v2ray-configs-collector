@@ -5,3 +5,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSENjc1hLMnJFY3M5bFJp@20.107.187.192:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSENjc1hLMnJFY3M5bFJp@20.107.187.192:443#🇮🇪 IE | 20.107.187.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2V2NpbVVTaVQxcmZWTTF2@20.107.187.192:443#🇮🇪 IE | 20.107.187.192
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2V2NpbVVTaVQxcmZWTTF2@20.107.187.192:443#🇮🇪 IE | 20.107.187.192
+vless://ac5313ae-803b-4104-a047-94c97ecb621e@85.159.229.77:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ie.orpheous.ru&sid=9e4eced6e98ed4d4#🇮🇪 IE | 85.159.229.77
