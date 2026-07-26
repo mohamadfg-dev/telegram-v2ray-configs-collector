@@ -25,6 +25,7 @@ Not Match: https://t.me/s/connect_sho
 Not Match: https://t.me/s/customv2ray 
 Not Match: https://t.me/s/dargiiriis 
 Bad Configs: https://t.me/s/darkfiilter 
+Not Match: https://t.me/s/deamnet_proxy 
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/farstar_vpn 
