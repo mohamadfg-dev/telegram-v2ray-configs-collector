@@ -4,8 +4,7 @@ vless://d2f17c84-cb34-4150-b2e6-2d6703c3e290@dark1.kovira2.ir:443?encryption=non
 vless://b90bc52c-d95b-49d2-8061-598ddb44e288@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇮 FI | 62.238.48.23
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
 vless://daa63137-0b76-4752-8041-0ba177eea1bb@ip6-free.shakhle.ir:52525?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#🇫🇮 FI | 2a01:4f9:c010:4531::1
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&host=/?BIA_TELEGRAM@mehrosaboran_mehrosaboran_mehrosaboran_mehrosaboran&headerType=http&type=tcp#🇫🇮 FI | 45.38.170.28
 vless://MIMITDL@65.109.212.53:80?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 FI | 65.109.212.53
 vless://Telegram-@Cooonfig@65.109.189.216:43093?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#🇫🇮 FI | 65.109.189.216
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vless://b6749f13-cd63-4bc4-b165-5d120b7a1ff4@65.109.211.253:5039?security=reality&encryption=none&pbk=fv-InxuZSzLlHc83OANs4U2windIUSwPilOpJkMgtW0&headerType=none&fp=safari&type=tcp&sni=www.yahoo.com&sid=2e8424a2696cb606#🇫🇮 FI | 65.109.211.253
-vless://d2f17c84-cb34-4150-b2e6-2d6703c3e290@dark3.kovira2.ir:13424?encryption=none&type=ws&path=/&host=chatgpt.com#🇫🇮 FI | 65.109.189.49
