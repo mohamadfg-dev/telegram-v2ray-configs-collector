@@ -48,6 +48,7 @@ Not Match: https://t.me/s/info_2it_channel
 Bad Response: https://t.me/s/ip_cf_config 
 Not Match: https://t.me/s/ip_cf_config 
 Not Match: https://t.me/s/ipstatic1 
+Not Match: https://t.me/s/iranmedicalvpn 
 Not Match: https://t.me/s/iransoftware90 
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/key_outline 
@@ -116,6 +117,7 @@ Bad Response: https://t.me/s/tawanaclub
 Not Match: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
+Not Match: https://t.me/s/ultrasurf_12 
 Not Match: https://t.me/s/uvpn_org 
 Not Match: https://t.me/s/v222ray 
 Not Match: https://t.me/s/v2aryng_vpn 

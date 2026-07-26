@@ -13,5 +13,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.160.141
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.79.88
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.160.141:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.160.141
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22223?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 13.39.65.159
-trojan://telegram-id-directvpn@52.47.101.121:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 52.47.101.121
