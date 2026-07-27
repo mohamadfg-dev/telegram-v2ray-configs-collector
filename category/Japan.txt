@@ -1,1 +1,2 @@
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🇯🇵 JP | 43.163.241.110
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?encryption=none&type=ws&security=tls&path=/fp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇯🇵 JP | 156.231.113.141
