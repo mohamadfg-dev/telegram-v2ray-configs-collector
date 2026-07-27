@@ -70,6 +70,7 @@ Bad Response: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
 Not Match: https://t.me/s/mt_proxy 
+Not Match: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nim_vpn_ir 
@@ -92,7 +93,6 @@ Bad Response: https://t.me/s/proxyandvpnofficial1
 Not Match: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxycrone 
 Not Match: https://t.me/s/proxygodratmand 
-Bad Configs: https://t.me/s/proxyvpnvip 
 Not Match: https://t.me/s/prroxyng 
 Not Match: https://t.me/s/pydriclub 
 Bad Response: https://t.me/s/qafor_1 
@@ -155,6 +155,7 @@ Bad Configs: https://t.me/s/v2source
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
+Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Not Match: https://t.me/s/vipv2rayngnp 
 Not Match: https://t.me/s/vmess_iran 
