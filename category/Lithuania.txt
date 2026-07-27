@@ -1,4 +1,2 @@
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇱🇹 LT | 89.116.250.135
 vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇱🇹 LT | 2.57.91.92
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🇱🇹 LT | 89.116.250.135
-vless://7481c11c-40b3-4b5b-912f-efab8cd8e067@89.116.250.135:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=h.sadfsadfasqwedwqsjdnasdfasdopasopppaajk.ir#🇱🇹 LT | 89.116.250.135

@@ -1,1 +1,1 @@
-vless://f8c3065e-4437-4561-aacb-75b32586f011@ae-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=e8f4426268c05621#🇦🇪 AE | 109.61.42.60
+vless://f4faf67e-c5cf-4307-a0e5-a3c3940a6931@81.85.93.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5lL4swHKHg_KiM1mjrQ5imwilSx7qgtiza_BwypXX0M&security=reality&sid=3149e7e043&sni=biosmod.partners.nvidia.com&spx=/3e063ff67abadad&type=tcp#🇦🇪 AE | 81.85.93.67
