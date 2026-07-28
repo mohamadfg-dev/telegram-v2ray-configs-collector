@@ -52,6 +52,7 @@ Not Match: https://t.me/s/iranmedicalvpn
 Not Match: https://t.me/s/iransoftware90 
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -144,7 +145,6 @@ Not Match: https://t.me/s/v2rayfast_7
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
 Not Match: https://t.me/s/v2rayng_fars 
-Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngte 
@@ -158,7 +158,6 @@ Not Match: https://t.me/s/v2trayproxy
 Not Match: https://t.me/s/vip_fragment_v2ray 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
-Not Match: https://t.me/s/vipv2rayngnp 
 Not Match: https://t.me/s/vmess_iran 
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
