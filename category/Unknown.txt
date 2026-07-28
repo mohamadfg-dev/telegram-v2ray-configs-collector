@@ -11,6 +11,7 @@ vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://0a268813-7200-4d23-9851-74568928fc82@xn--racket-2t54efdj548b.lucypro.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🏴‍☠️ UN | xn--racket-2t54efdj548b.lucypro.ir
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
+vless://910c8f86-451c-48ad-96c7-bec1ed779c9e@best.kovira2.ir:13424?path=/&security=&encryption=none&host=chatgpt.com&type=ws#🏴‍☠️ UN | best.kovira2.ir
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
 vless://ecb790d4-36ca-4dfc-a142-b3a395d1c50d@ad1.xiqpanelz.com:40200?security=&encryption=none&host=ir31.uploadboy.com&headerType=http&type=tcp#🏴‍☠️ UN | ad1.xiqpanelz.com
 vless://b9549151-b98e-41b2-b73f-28097ed85ec1@panel-finland-1.subcenter.net:2001?type=tcp&path=/&host=zula.ir&headerType=http#🏴‍☠️ UN | panel-finland-1.subcenter.net
@@ -48,11 +49,11 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547#🏴‍☠️ UN | eb78e1f0-d921-4ca9-a889-261fcc5a0547
+vless://4e47cb1f-c04e-435f-afc4-66bdcb6704af@cn1.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#🏴‍☠️ UN | cn1.k44lawm.ir
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none#🏴‍☠️ UN | tr.kkkl.ir
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&sid=C8EF&type=tcp&headerType=none#🏴‍☠️ UN | chefox.kkkl.ir
-vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f2#🏴‍☠️ UN | cvvmtfin.fekoli.com
-vless://ItsLegendaryking@pub2.legendaryking.link:443?security=reality&sni=fortune.com&fp=chrome&pbk=8UMZ6q74yjStq0Gad3QhEVYUZW3traIgWx9QWHpYLBI&sid=e1ac93f1&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#🏴‍☠️ UN | pub2.legendaryking.link
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
