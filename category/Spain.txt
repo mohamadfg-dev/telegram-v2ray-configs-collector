@@ -2,4 +2,3 @@ vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#🇪🇸 ES | 5.180.173.248
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
 vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#🇪🇸 ES | 5.180.173.248
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#🇪🇸 ES | 5.180.173.248
