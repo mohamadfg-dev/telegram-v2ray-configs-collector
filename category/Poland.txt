@@ -1,3 +1,4 @@
 vless://d200c8f0-070b-4c1c-bbf9-1d4663d379ca@152.233.43.85:16923/?type=grpc&encryption=none&serviceName=neurex&sni=api-maps.yandex.ru&fp=safari&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇵🇱 PL | 152.233.43.85
 vless://d200c8f0-070b-4c1c-bbf9-1d4663d379ca@152.233.43.84:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🇵🇱 PL | 152.233.43.84
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇵🇱 PL | 162.249.126.80
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.56.188.145:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇵🇱 PL | 31.56.188.145
