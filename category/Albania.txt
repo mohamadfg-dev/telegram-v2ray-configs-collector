@@ -1,1 +1,1 @@
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?security=reality&sni=morphbinerkkw.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&type=grpc&serviceName=nexusGrpc&packetEncoding=xudp&encryption=none#🇦🇱 AL | 144.31.129.42
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443?encryption=none&type=grpc&security=reality&serviceName=nexusGrpc&mode=gun&sni=morphbinerkkw.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#🇦🇱 AL | 144.31.129.42

@@ -1,1 +1,1 @@
-vless://97b11ee6-a62a-4e60-839c-de974a155089@104.239.72.153:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=/hajmi?ed=2560&alpn=http/1.1#🇨🇾 CY | 104.239.72.153
+vless://bb83cd54-e6c0-441d-823a-71443ff34686@203.28.8.85:2052?path=/&security=none&encryption=none&host=tau.configs.sbs&type=ws#🇨🇾 CY | 203.28.8.85

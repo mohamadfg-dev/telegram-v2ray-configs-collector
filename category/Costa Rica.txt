@@ -1,1 +1,1 @@
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea#🇨🇷 CR | 2803:f800:50::6ca2:c277
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@190.93.246.202:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇨🇷 CR | 190.93.246.202
