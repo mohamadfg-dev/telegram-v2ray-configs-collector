@@ -1,1 +1,1 @@
-vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?security=reality&encryption=none&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=qwins-mirrorconv.ru&sid=0bc73dd1f045#🇧🇾 BY | 144.31.129.9
+vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@212.60.4.188:26146?encryption=none&security=reality&sni=www.vk.ru&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=d4f2a3a536b962&spx=/UQmrtcbSPy1IqFX#🇧🇾 BY | 212.60.4.188

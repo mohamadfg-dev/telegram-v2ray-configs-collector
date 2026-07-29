@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.106.94.132:1080#🇦🇹 AT | 185.106.94.132
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.198:443?security=tls&sni=jpi.ylks01.eu.org&type=ws&path=/?proxyip#🇦🇹 AT | 212.183.88.198

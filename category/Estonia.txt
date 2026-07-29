@@ -1,1 +1,1 @@
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇪🇪 EE | 95.85.224.3
+vless://cabf30b3-d2a3-4d67-b52b-829297ca9a33@188.214.32.218:443?security=reality&encryption=none&pbk=ye0UyX7fJU0dLkDdXR1V2yHbMU4nTywIqWnADA7PWGQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=weather.com&sid=5cb14c83aab91d29#🇪🇪 EE | 188.214.32.218
