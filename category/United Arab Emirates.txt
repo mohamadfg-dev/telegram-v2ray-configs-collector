@@ -1,1 +1,1 @@
-vless://f4faf67e-c5cf-4307-a0e5-a3c3940a6931@81.85.93.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5lL4swHKHg_KiM1mjrQ5imwilSx7qgtiza_BwypXX0M&security=reality&sid=3149e7e043&sni=biosmod.partners.nvidia.com&spx=/3e063ff67abadad&type=tcp#🇦🇪 AE | 81.85.93.67
+vless://092b1805-1cfc-4aa1-86e9-83047ec465e2@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={#🇦🇪 AE | 188.72.103.3
