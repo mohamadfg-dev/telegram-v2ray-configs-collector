@@ -1,1 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?path=tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🇰🇿 KZ | 185.176.26.216
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿 KZ | 193.124.204.145
