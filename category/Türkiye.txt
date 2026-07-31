@@ -1,2 +1,1 @@
 vless://855f8f52-d22a-4278-84ad-1dc968677626@93.114.98.129:443?path=/hostiranrespina&security=none&encryption=none&host=iranshomalhostserver.ir&type=httpupgrade#🇹🇷 TR | 93.114.98.129
-vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#🇹🇷 TR | 46.31.76.3
