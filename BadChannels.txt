@@ -127,7 +127,6 @@ Bad Response: https://t.me/s/v2rang_da
 Not Match: https://t.me/s/v2rang_da 
 Not Match: https://t.me/s/v2raxx 
 Not Match: https://t.me/s/v2ray_83 
-Not Match: https://t.me/s/v2ray_cartel 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
 Bad Response: https://t.me/s/v2ray_sub 
@@ -137,7 +136,6 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
-Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
