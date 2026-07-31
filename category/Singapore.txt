@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#🇸🇬 SG | 138.2.75.33
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.219.174.142:443?security=tls&sni=Vh.yLkS.Xyz&type=ws&path=/pai6buclahf9cxx3?ed#🇸🇬 SG | 8.219.174.142
 vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?encryption=none&type=tcp#🇸🇬 SG | 78.154.108.200
 vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?encryption=none&type=tcp#🇸🇬 SG | 78.154.108.200
 vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?encryption=none&type=tcp#🇸🇬 SG | 78.154.108.200
