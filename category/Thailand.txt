@@ -1,1 +1,2 @@
 vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?security=reality&encryption=none&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&headerType=none&fp=chrome&spx=/926d66b01e29824&type=tcp&sni=www.amazon.com&sid=e3b9f430320df1#🇹🇭 TH | 165.154.247.187
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh60gVEggfCAxNzMuODIuMjI2LjI3IiwiYWRkIjoiMTczLjgyLjIyNi4yNyIsInBvcnQiOiIyMzY2MiIsInR5cGUiOiJub25lIiwiaWQiOiJlZmEyYWI3Ni01MzlkLTRiNmEtOTU3Mi0yNGJhNzA5ZmI4MWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
