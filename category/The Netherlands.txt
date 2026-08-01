@@ -2,7 +2,6 @@ vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&
 vless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.120.140:2053?type=ws&security=tls&path=/&allowInsecure=0&encryption=none&fp=chrome&host=forfreeuse.sub-flow.online&sni=forfreeuse.sub-flow.online&insecure=0#🇳🇱 NL | 89.110.120.140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#🇳🇱 NL | 82.38.31.207
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#🇳🇱 NL | 82.38.31.3
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one&extra={"noGRPCHeader":true,"xmux":{"maxConcurrency":"6","hKeepAlivePeriod":12},"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"}}#🇳🇱 NL | 206.71.158.40
 vless://486fe30a-18d8-4913-b0ba-a301d9b7d505@176.120.17.94:16427?type=tcp&encryption=none&security=reality&pbk=cIPzdA0vCMszJwDwNf3WrJvxoegoLHq0-zmoJ7iMHCE&fp=chrome&sni=yahoo.com&sid=c8144f81&spx=/#🇳🇱 NL | 176.120.17.94
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#🇳🇱 NL | 109.104.154.163
 vless://966adf7f-4dee-4a0a-a374-c8075aeccabb@107.189.22.49:2083?security=reality&encryption=none&pbk=QT-_de0DVvcCL-9go2gdkwibkyJaRb_81sYQ3vD_aSs&headerType=none&fp=chrome&spx=/qeOlpIYGXskLADh&type=tcp&sni=www.sony.com&sid=698a42#🇳🇱 NL | 107.189.22.49
@@ -15,15 +14,12 @@ vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?security=none&e
 vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#🇳🇱 NL | 144.124.246.55
 vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=icloud.com#🇳🇱 NL | 103.215.239.67
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇳🇱 NL | 77.74.123.163
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱 NL | 108.181.126.122
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn3-87.vk-cdnvideo.com#🇳🇱 NL | 46.229.243.93
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#🇳🇱 NL | 82.38.31.212
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🇳🇱 NL | 89.34.230.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#🇳🇱 NL | 72.56.81.165
-vless://8ba5361f-2d12-40fe-9f33-eca6847f1475@net1.wizardx1.com:2045?mode=gun&security=reality&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=icloud.com#🇳🇱 NL | 103.215.239.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#🇳🇱 NL | 82.38.31.32
 vless://6b63bd24-09b7-4b7d-81e0-d994a67f17a9@62.84.99.42:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 NL | 62.84.99.42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 NL | 82.38.31.184
-vless://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#🇳🇱 NL | 84.32.101.93
