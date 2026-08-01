@@ -1,1 +1,2 @@
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?security=tls&alpn=h2&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ddc-chr2.astralweb.tech#🇱🇹 LT | 93.115.25.139
 vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=/@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot@v2pediabot?ed=2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#🇱🇹 LT | 2.57.91.92
