@@ -1,1 +1,1 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@141.11.139.80:18666?security=tls&sni=dns68.putata.eu.org&type=ws&path=/#🇯🇵 JP | 141.11.139.80
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@156.231.113.141:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#🇯🇵 JP | 156.231.113.141
