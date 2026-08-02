@@ -4,7 +4,7 @@ Not Match: https://t.me/s/vless_config
 Bad Response: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
-Not Match: https://t.me/s/nim_vpn_ir 
+Bad Configs: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/asak_vpn 
@@ -71,7 +71,7 @@ Not Match: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
-Not Match: https://t.me/s/nim_vpn_ir 
+Bad Configs: https://t.me/s/nim_vpn_ir 
 Bad Configs: https://t.me/s/nofilter_v2rayng 
 Not Match: https://t.me/s/noforcedheaven 
 Not Match: https://t.me/s/ntgreenplus 
@@ -117,7 +117,6 @@ Other Error: https://t.me/s/tehranargo
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
-Not Match: https://t.me/s/uvpn_org 
 Not Match: https://t.me/s/v222ray 
 Not Match: https://t.me/s/v2aryng_vpn 
 Not Match: https://t.me/s/v2box_free 
@@ -170,6 +169,7 @@ Not Match: https://t.me/s/vpn_arta
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_meliii 
+Bad Configs: https://t.me/s/vpnfail_v2ray 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
 Not Match: https://t.me/s/vpnstable 
