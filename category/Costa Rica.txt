@@ -1,1 +1,1 @@
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&fp=firefox&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#🇨🇷 CR | 2803:f800:50::6ca2:c277
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&encryption=none&insecure=0&host=xrbpc.redpixelway-tobi.sbs&type=ws&allowInsecure=0&sni=xrbpc.redpixelway-tobi.sbs#🇨🇷 CR | 2803:f800:50::6ca2:c277

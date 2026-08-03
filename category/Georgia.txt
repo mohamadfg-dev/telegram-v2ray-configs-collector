@@ -1,1 +1,1 @@
-vless://c3e83166-af2a-4dcd-ac4a-b00886dc2296@217.11.164.92:37194?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇬🇪 GE | 217.11.164.92
+vless://14957d5b-523a-44ad-928d-166eaa5fc90d@217.11.164.92:37194?headerType=http&host=play.google.com&path=/&security=none&type=tcp#🇬🇪 GE | 217.11.164.92
