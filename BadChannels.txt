@@ -74,6 +74,7 @@ Not Match: https://t.me/s/nationalproxytelegram
 Bad Configs: https://t.me/s/nim_vpn_ir 
 Bad Configs: https://t.me/s/nofilter_v2rayng 
 Not Match: https://t.me/s/noforcedheaven 
+Not Match: https://t.me/s/noviin_tel 
 Not Match: https://t.me/s/ntgreenplus 
 Not Match: https://t.me/s/ohvpn 
 Not Match: https://t.me/s/orgempirenet 
@@ -137,7 +138,6 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Other Error: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 

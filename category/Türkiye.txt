@@ -1,1 +1,2 @@
+vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&security=none&fm={"tcp":[{"settings":{"clients":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]],"servers":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]]},"type":"header-custom"}]}&type=tcp&headerType=http&host=play.google.com#🇹🇷 TR | 64.49.13.89
 vless://855f8f52-d22a-4278-84ad-1dc968677626@93.114.98.129:443?path=/hostiranrespina&security=none&encryption=none&host=iranshomalhostserver.ir&type=httpupgrade#🇹🇷 TR | 93.114.98.129

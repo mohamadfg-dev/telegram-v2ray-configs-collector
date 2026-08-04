@@ -1,1 +1,1 @@
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🇦🇿 AZ | 31.43.191.39
+vless://07ee1745-9248-41f8-9706-6168527c4b2e@azw.fizikade.ir:2828?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=safari&pbk=F55jhBaCQSw6Bt4jVCL8Kd2X7nJTbkqapwAfFpi7R1U&sid=00ba9a50c9f6e46d#🇦🇿 AZ | 180.149.44.158
