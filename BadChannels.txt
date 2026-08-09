@@ -18,6 +18,7 @@ Not Match: https://t.me/s/black_vpn1
 Not Match: https://t.me/s/canfing_vpn 
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
@@ -111,6 +112,7 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
+Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
