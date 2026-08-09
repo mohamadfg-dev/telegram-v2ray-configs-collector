@@ -152,7 +152,6 @@ Not Match: https://t.me/s/v2rayngcloud
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
-Other Error: https://t.me/s/v2rayprotocol 
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
@@ -169,7 +168,6 @@ Not Match: https://t.me/s/vmess_vless_v2rayng
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessorg 
-Other Error: https://t.me/s/vmessprotocol 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
 Not Match: https://t.me/s/vpn4ir_1 
