@@ -1,4 +1,3 @@
-Not Match: https://t.me/s/config_fre 
 Not Match: https://t.me/s/AchaVPN 
 Not Match: https://t.me/s/Artemisvpn1 
 Bad Response: https://t.me/s/vless_config 
@@ -147,7 +146,7 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
-Other Error: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2rayargon 
 Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
