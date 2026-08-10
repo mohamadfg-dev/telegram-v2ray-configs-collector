@@ -75,6 +75,7 @@ Not Match: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
+Not Match: https://t.me/s/netaccount 
 Bad Configs: https://t.me/s/nim_vpn_ir 
 Bad Configs: https://t.me/s/nofilter_v2rayng 
 Not Match: https://t.me/s/noforcedheaven 
@@ -149,7 +150,6 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
-Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
