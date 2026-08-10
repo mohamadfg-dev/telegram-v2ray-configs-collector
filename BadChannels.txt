@@ -59,7 +59,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
+Other Error: https://t.me/s/lranonline_new 
 Bad Configs: https://t.me/s/mahanvpn 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
@@ -123,6 +123,7 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
+Other Error: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
