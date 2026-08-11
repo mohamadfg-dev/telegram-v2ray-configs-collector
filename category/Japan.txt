@@ -1,1 +1,1 @@
-vless://12e35bfe-1e79-4cf1-8a8e-22a242e97408@64.176.62.54:443?security=reality&sni=www.amazon.com&fp=chrome&pbk=d1LjsQHtTCj7kHx2LHFisVDPc_xOtKnugy5YRFKXqUs&sid=39&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇯🇵 JP | 64.176.62.54
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#🇯🇵 JP | 45.32.16.53
