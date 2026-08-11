@@ -1,1 +1,1 @@
-vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=none&encryption=none&headerType=none&type=tcp#🇩🇰 DK | 194.77.220.41
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=/&security=none&encryption=none&host=play.google.com&type=ws#🇩🇰 DK | 194.77.220.111

@@ -1,1 +1,1 @@
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.131.215.61:52315?path=/&security=none&encryption=none&type=ws#🇦🇹 AT | 45.131.215.61
+trojan://kVmEUiVKrN@95.163.176.238:35744?security=reality&sni=www.amazon.com&fp=chrome&pbk=zMYHhLDVUjXI6J095dZIeVcnT58mpSgPEb2i9MkAbFI&sid=92ecf5e583&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#🇦🇹 AT | 95.163.176.238

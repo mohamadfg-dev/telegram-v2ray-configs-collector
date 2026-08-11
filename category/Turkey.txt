@@ -1,6 +1,2 @@
-trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com&type=ws&path=/%2Fassignment&host=www.ignitelimit.com#🇹🇷 TR | 86.38.214.205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🇹🇷 TR | 188.41.249.20
-trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com&type=ws&path=/%2Fassignment&host=www.ignitelimit.com#🇹🇷 TR | 86.38.214.205
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@nl-bl-nl.karmatel.ir:20828?path=/&security=none&encryption=none&host=nl-bl-nl.karmatel.ir&type=ws#🇹🇷 TR | 45.74.178.48
-vless://ee5d8a75-ea9b-4917-bd4b-0cef5bbd5d49@Tuntr.capigodserv.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇹🇷 TR | 45.74.158.17

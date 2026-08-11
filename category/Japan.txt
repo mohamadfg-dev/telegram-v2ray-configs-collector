@@ -1,1 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 JP | 149.22.87.204
+vless://12e35bfe-1e79-4cf1-8a8e-22a242e97408@64.176.62.54:443?security=reality&sni=www.amazon.com&fp=chrome&pbk=d1LjsQHtTCj7kHx2LHFisVDPc_xOtKnugy5YRFKXqUs&sid=39&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇯🇵 JP | 64.176.62.54
