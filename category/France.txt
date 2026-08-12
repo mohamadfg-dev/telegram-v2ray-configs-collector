@@ -1,20 +1,16 @@
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.149.16:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.149.16
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.25.66
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇷 FR | 188.130.207.202
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@88.218.196.52:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇫🇷 FR | 88.218.196.52
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191099-direct.mbghalibaf.com#🇫🇷 FR | 162.19.10.99
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.149.16:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.149.16
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.25.66
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?encryption=none&security=reality&sni=status.play.google.com&fp=ios&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&sid=49bcf0de6392f0&spx=/&type=xhttp&host=status.play.google.com&path=/&mode=auto&extra={"scMaxEachPostBytes":"4194304-8388608","uplinkHTTPMethod":"POST","seqPlacement":"query","uplinkChunkSize":"32768-65536"}#🇫🇷 FR | 31.220.86.213
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?encryption=none&security=reality&sni=status.play.google.com&fp=ios&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&sid=49bcf0de6392f0&spx=/&type=xhttp&host=status.play.google.com&path=/&mode=auto&extra={"scMaxEachPostBytes":"4194304-8388608","uplinkHTTPMethod":"POST","seqPlacement":"query","uplinkChunkSize":"32768-65536"}#🇫🇷 FR | 31.220.86.213
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇫🇷 FR | 45.196.201.131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷 FR | 38.180.92.242
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.181.4.41:443#🇫🇷 FR | 35.181.4.41
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.149.16:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.149.16
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.25.66
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.149.16:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.149.16
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.25.66:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.25.66
 vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&extra={
   "scMaxEachPostBytes" : "4194304-8388608",
