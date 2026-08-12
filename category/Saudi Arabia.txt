@@ -1,1 +1,1 @@
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#🇸🇦 SA | 149.104.104.58
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@sau.musichubmel.ir:44030?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#🇸🇦 SA | 185.253.118.3

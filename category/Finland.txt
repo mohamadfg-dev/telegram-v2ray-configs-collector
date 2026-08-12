@@ -1,6 +1,6 @@
 vless://e1ae4929-d17b-4cea-bd48-c89ef103d2cc@fenochka.xanka.best:228?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fenochka.xanka.best&pbk=aObndFPcV24WCp5k_njPhUovgVgjw3EvSsLZu3eO-Es&sid=cfe56c9d&fp=firefox&alpn=http/1.1#🇫🇮 FI | 78.17.85.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460#🇫🇮 FI | 93.123.13.7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@93.123.13.7:25783#🇫🇮 FI | 93.123.13.7
+vless://c8d2ebd5-d3cb-445e-923a-84f952a71917@93.123.13.7:10079?encryption=none&security=none&type=tcp&headerType=none#🇫🇮 FI | 93.123.13.7
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@65.109.188.209:3389/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=firefox&security=reality&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=c6cbc90da6316b21#🇫🇮 FI | 65.109.188.209
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@166493121fea0c25.nimaghaffarzadeh.ir:3389/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=27ad6099b30f7619#🇫🇮 FI | 65.109.188.209
 vless://e1ae4929-d17b-4cea-bd48-c89ef103d2cc@fenochka.xanka.best:228?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fenochka.xanka.best&pbk=aObndFPcV24WCp5k_njPhUovgVgjw3EvSsLZu3eO-Es&sid=cfe56c9d&fp=firefox&alpn=http/1.1#🇫🇮 FI | 78.17.85.17
@@ -11,3 +11,4 @@ vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&e
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.165.45:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#🇫🇮 FI | 95.216.165.45
 vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.161.19:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#🇫🇮 FI | 95.216.161.19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#🇫🇮 FI | 31.76.30.79
+vless://22199ed8-5f22-4906-9917-67e3609d8776@95.216.161.19:443?security=reality&encryption=none&pbk=XS_4X8Ti1WuBEYbWCFuN2gEc-YG0EwN3cNPRV4dAvCg&headerType=none&fp=firefox&spx=/&type=tcp&sni=www.cloudflare.com&sid=29fd3dc0210c#🇫🇮 FI | 95.216.161.19
