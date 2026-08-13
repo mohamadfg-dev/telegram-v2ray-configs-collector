@@ -10,7 +10,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.74.17:22222?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.147.47:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.147.47
 trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 FR | 15.237.137.197
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇫🇷 FR | 45.196.201.131
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr05.skorostnet.space&sid=fdda9806fe5d8584#🇫🇷 FR | 78.17.208.22
+trojan://QV31589740@51.44.160.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=great-krill.rooster465.autos#🇫🇷 FR | 51.44.160.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#🇫🇷 FR | 38.180.92.242
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@40.66.33.31:2041?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 40.66.33.31
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.181.4.41:443#🇫🇷 FR | 35.181.4.41
@@ -26,6 +26,5 @@ vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&
   "uplinkHTTPMethod" : "POST"
 }&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#🇫🇷 FR | 31.220.86.213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@51.77.225.200:8388#🇫🇷 FR | 51.77.225.200
-vless://bf58f3cd-7c8c-4650-bd7a-028df18b3ba0@master.appcodes.ir:2019?security=reality&encryption=none&pbk=484wYbkS2hs2WSdXmk2-bOeKZkdBbzdD7uZ1WmRIEj8&headerType=none&fp=chrome&type=tcp&sni=booking.com&sid=ca930e5d4a603c6a#🇫🇷 FR | 88.218.196.52
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.147.47:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.147.47
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.50:443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&flow=xtls-rprx-vision#🇫🇷 FR | 45.196.201.50

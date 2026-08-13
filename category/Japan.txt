@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@35.77.188.151:8319#🇯🇵 JP | 35.77.188.151
-trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#🇯🇵 JP | 3.112.238.99
+vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.188.11:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&sid=09f696119a54ea3c&sni=deepl.com#🇯🇵 JP | 88.216.188.11

@@ -1,5 +1,4 @@
 vless://8033102198@95.85.253.134:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#🇵🇱 PL | 95.85.253.134
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇵🇱 PL | 194.61.121.93
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@201.3.225.13:443?security=reality&encryption=none&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uwu.spectrumproxy.shop&sid=143627f1#🇵🇱 PL | 201.3.225.13
 vless://8033102198@95.85.253.134:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl5.fast-connect-service.site&type=tcp#🇵🇱 PL | 95.85.253.134
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0=@185.126.64.86:10536#🇵🇱 PL | 185.126.64.86
@@ -11,3 +10,4 @@ vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyMGU4NDBhOS1iM2Q2LTQ5NDEtYWIxZi1kMzdjZDk1OGIwYjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4e18J+HsSBQTCB8IDE2OC4yMjIuNDkuMTg4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNTVkZTQwZC1jNWQwLTQwNjQtYjEyNC05NDliYTI4NGMzYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4e18J+HsSBQTCB8IDE2OC4yMjIuNDkuMTg4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@31.56.188.145:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇵🇱 PL | 31.56.188.145
+vless://96955608-9bb7-4f1a-8500-a5d0ee4925a2@82.40.62.209:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇵🇱 PL | 82.40.62.209
