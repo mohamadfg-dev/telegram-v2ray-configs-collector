@@ -1,6 +1,4 @@
 vless://8d8c8511-27fd-42ef-b696-4bee4a3af4e5@204.168.198.37:443?security=reality&encryption=none&pbk=GgemrFBdxJoLnJhP8z6FgzqBh9jk5dbglNkwpBfL8RE&headerType=none&fp=edge&type=tcp&sni=play.googleapis.com&sid=ad9cc6b4befea81e#🇫🇮 FI | 204.168.198.37
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?type=xhttp&security=reality&encryption=none&sni=www.amd.com&path=/&fp=firefox&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d&mode=auto&extra={"mode":"auto"}&spx=/y52f8gp4rv1il6u#🇫🇮 FI | 31.76.80.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460#🇫🇮 FI | 93.123.13.7
-vless://8d8c8511-27fd-42ef-b696-4bee4a3af4e5@204.168.198.37:443?security=reality&encryption=none&pbk=GgemrFBdxJoLnJhP8z6FgzqBh9jk5dbglNkwpBfL8RE&headerType=none&fp=edge&type=tcp&sni=play.googleapis.com&sid=ad9cc6b4befea81e#🇫🇮 FI | 204.168.198.37
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 93.123.13.7
+vless://0435db04-5b38-45bc-8d46-b7c0d94f69bb@r5.teamspeak-service.ru:443?security=reality&encryption=none&pbk=6nJG7yiDEfrOCLGD_UfVfYhQ8AOh0w_86HOAPl_0TWQ&headerType=none&fp=random&spx=/&type=tcp&flow=xtls-rprx-vision&sni=r5.teamspeak-service.ru&sid=62521d7ac8fc9119#🇫🇮 FI | 144.31.18.184
