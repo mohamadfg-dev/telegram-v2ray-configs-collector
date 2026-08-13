@@ -33,6 +33,7 @@ Not Match: https://t.me/s/farstar_vpn
 Not Match: https://t.me/s/fastvpnorummobile 
 Not Match: https://t.me/s/flystoreir 
 Other Error: https://t.me/s/free_vpn02 
+Not Match: https://t.me/s/freevirgoolnet 
 Bad Response: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/g0dv2ray 
@@ -161,6 +162,7 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
+Bad Configs: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
