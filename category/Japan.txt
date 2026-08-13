@@ -1,1 +1,1 @@
-vless://641baa2f-6f74-4ecf-b948-032d19ba0142@88.216.188.11:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I&sid=09f696119a54ea3c&sni=deepl.com#🇯🇵 JP | 88.216.188.11
+trojan://ND91608427@better-molly.rooster465.autos:443?allowInsecure=1&sni=better-molly.rooster465.autos#🇯🇵 JP | 13.231.232.184
