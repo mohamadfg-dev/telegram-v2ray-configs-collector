@@ -1,1 +1,1 @@
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#🇪🇪 EE | 185.155.97.58
+vless://a5eddeef-737a-4126-8d1e-527f85d7ed18@2.26.130.117:443?security=reality&encryption=none&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&headerType=none&fp=qq&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nora.mycdn-me.ru&sid=2f6a8c3e90b2d574#🇪🇪 EE | 2.26.130.117

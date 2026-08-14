@@ -1,1 +1,1 @@
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=loctc.goldcitynode-tobi.sbs&type=ws&allowInsecure=0&sni=loctc.goldcitynode-tobi.sbs#🇨🇷 CR | 2803:f800:50::6ca2:c277
+vless://e40f6768-45e9-45a3-9f65-07258d41058c@190.93.245.187:2083?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=Rabir.iraniranshopdashnoard.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Rabir.iraniranshopdashnoard.ir#🇨🇷 CR | 190.93.245.187
