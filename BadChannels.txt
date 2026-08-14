@@ -84,6 +84,7 @@ Not Match: https://t.me/s/noforcedheaven
 Not Match: https://t.me/s/noviin_tel 
 Not Match: https://t.me/s/npvv2rayfilter 
 Not Match: https://t.me/s/ntgreenplus 
+Not Match: https://t.me/s/nufilter 
 Not Match: https://t.me/s/ohvpn 
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
@@ -162,7 +163,6 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Bad Configs: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
@@ -188,3 +188,4 @@ Not Match: https://t.me/s/vpnhouse_official
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
+Other Error: https://t.me/s/vpnv2r4y 
