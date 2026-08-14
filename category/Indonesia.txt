@@ -1,1 +1,1 @@
-vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc#🇮🇩 ID | 45.198.96.153
+vmess://eyJhZGQiOiIyMDIuNDcuODkuMTMzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNhMDM2MTNiLWJiYWMtNGEyMi1iZWU2LTJjOWE3NTFhMjc2MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ka2ZqaDIyMiIsInBvcnQiOiI1MzU0OCIsInBzIjoi8J+HrvCfh6kgSUQgfCAyMDIuNDcuODkuMTMzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
