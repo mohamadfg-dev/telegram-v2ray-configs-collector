@@ -1,2 +1,1 @@
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&security=none&type=ws&host=www.icloud.com&path=/#🇦🇹 AT | 185.126.236.181
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#🇦🇹 AT | 152.53.114.186
