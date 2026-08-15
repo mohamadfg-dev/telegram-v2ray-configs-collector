@@ -21,5 +21,11 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22223?encryption=none
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.191.103
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.192.124
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&extra={
+  "scMaxEachPostBytes" : "4194304-8388608",
+  "seqPlacement" : "query",
+  "uplinkChunkSize" : "32768-65536",
+  "uplinkHTTPMethod" : "POST"
+}&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#🇫🇷 FR | 31.220.86.213
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.192.124
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.50:443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&flow=xtls-rprx-vision#🇫🇷 FR | 45.196.201.50
