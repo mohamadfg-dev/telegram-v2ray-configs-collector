@@ -1,2 +1,4 @@
+trojan://AE62539071@108.130.137.102:443?sni=worthy-labrador.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 108.130.137.102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🇮🇪 IE | 20.223.136.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#🇮🇪 IE | 4.210.66.171
+trojan://AE62539071@108.130.137.102:443?sni=worthy-labrador.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 108.130.137.102
