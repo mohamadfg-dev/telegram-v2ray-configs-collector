@@ -1,4 +1,1 @@
-trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#undefined HK | 91.199.84.120
-vless://424fa201-3f94-479e-b533-d5257cf9a207@104.129.167.4:80?encryption=none&security=none&type=ws&host=floral-thunder-10d3.82-67d.workers.dev&path=/pyip=telegram🇨🇳+@azadweb#undefined HK | 104.129.167.4
-trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&type=tcp&fp=chrome#undefined HK | 91.199.84.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#undefined HK | 45.87.175.193
