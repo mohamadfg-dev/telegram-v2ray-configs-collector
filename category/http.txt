@@ -1,3 +1,1 @@
-vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
 vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&type=http&path=/#🇳🇱 NL | 176.120.17.90
-vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
