@@ -1,6 +1,6 @@
 vless://c099de6a-0805-0002-b959-fd4ab4fc209e@46.8.210.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&security=reality&sid=0f4daaf87f9dff&sni=smartcaptcha.yandexcloud.net&type=raw#🇷🇺 RU | 46.8.210.166
-vless://cd60668d-28d0-4070-8179-47ad0d151dd5@82.202.247.181:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru#🇷🇺 RU | 82.202.247.181
 vless://e974639e-951d-4284-903d-c0712b11c8fe@80.76.60.120:445?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 RU | 80.76.60.120
+vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU | 5.129.194.34
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
 vless://3aabd489-04af-42fb-87e2-363d1b83d335@193.233.244.15:8443/?type=grpc&encryption=none&flow=&serviceName=your-custom-path&sni=maps.apple.com&fp=qq&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7#🇷🇺 RU | 193.233.244.15
 ss://YWVzLTI1Ni1nY206c3NfMTc4Njc5NTU1NQ@80.76.60.120:1080#🇷🇺 RU | 80.76.60.120
