@@ -1,7 +1,3 @@
 vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSlAgfCAyMDcuNTYuMjI5LjIwMiIsImFkZCI6IjIwNy41Ni4yMjkuMjAyIiwicG9ydCI6MjA1MiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiOWJiODFhMjgtMDBkMC00ZGNjLWJmODEtMzY5NzIxZDIwOGM5IiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsInBhdGgiOiI5YmI4MWEyOC0wMGQwLTRkY2MtYmY4MS0zNjk3MjFkMjA4Yzktdm0iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#🇯🇵 JP | 176.97.73.215
 vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
-trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 JP | 54.248.67.10
-trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#🇯🇵 JP | 3.112.69.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@43.207.148.120:8316#🇯🇵 JP | 43.207.148.120

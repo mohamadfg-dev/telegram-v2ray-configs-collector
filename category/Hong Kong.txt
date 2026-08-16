@@ -1,4 +1,2 @@
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#undefined HK | 18.162.120.218
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#undefined HK | 18.162.120.218
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp&headerType=none#undefined HK | 18.162.120.218
+vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTAuMTg5LjE1OCIsImFkZCI6IjJiOWh3eThvY3g3cTc0bm0udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IjJiOWh3WThvQ3g3UTc0Tk0udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#undefined HK | 45.87.175.193
