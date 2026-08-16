@@ -1,1 +1,1 @@
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#🇪🇪 EE | 188.255.236.213
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇪🇪 EE | 109.206.241.10
