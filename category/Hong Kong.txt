@@ -2,5 +2,5 @@ ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.46:10910#undefined HK | 2
 trojan://AE62539071@novel-mouse.rooster465.autos:443?type=tcp#undefined HK | 185.14.47.234
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn06.somethingstranges.com:8231?plugin=obfs-local;obfs=http;obfs-host=43309-nIao34iu.download.microsoft.com#undefined HK | 82.38.46.81
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn01.somethingstranges.com:8103?plugin=obfs-local;obfs=http;obfs-host=43309-nIao34iu.download.microsoft.com#undefined HK | 82.38.46.24
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.46:10910#undefined HK | 212.192.15.46
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#undefined HK | 182.16.61.2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#undefined HK | 45.87.175.193
