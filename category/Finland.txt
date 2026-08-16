@@ -2,7 +2,7 @@ vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🇫🇮 FI | 31.76.80.69
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🇫🇮 FI | 31.76.80.69
 trojan://57gndgmtw3c7ok39@65.109.191.184:32488?security=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.191.184
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd#🇫🇮 FI | 31.76.31.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460#🇫🇮 FI | 93.123.13.7
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🇫🇮 FI | 31.76.80.69
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vless://55e612d3-1a0e-4290-b880-a9ae48868515@65.109.186.63:55764?encryption=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#🇫🇮 FI | 65.109.186.63
