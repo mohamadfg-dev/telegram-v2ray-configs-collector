@@ -1,1 +1,1 @@
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.140:2083?encryption=none&type=tcp&security=reality&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&sni=www.booking.com&fp=firefox&flow=xtls-rprx-vision#🇦🇪 AE | 144.31.128.140
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 AE | 84.235.244.108
