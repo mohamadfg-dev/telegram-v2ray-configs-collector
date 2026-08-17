@@ -1,4 +1,2 @@
-trojan://FH72359861@modern-bedbug.rooster465.autos:443?security=tls&path=/#undefined HK | 91.199.84.155
-trojan://FH72359861@modern-bedbug.rooster465.autos:443?security=tls&path=/#undefined HK | 91.199.84.155
-vmess://eyJhZGQiOiJtaDdyNWFyZGwwejVqdGd5LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6Im1oN1I1QXJkTDB6NWpUR1kudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjctYzFmOS00MzczLTg3NmMtMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoidW5kZWZpbmVkIEhLIHwgOC4yMTguMzUuNTIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@27.50.48.69:2083?path=/&security=tls&encryption=none&insecure=0&host=kjgdksgghre466.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=kjgdksgghre466.pages.dev#undefined HK | 27.50.48.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#undefined HK | 45.87.175.193

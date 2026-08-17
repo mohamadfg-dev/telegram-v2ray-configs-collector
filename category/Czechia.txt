@@ -1,1 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.170
+vless://670decfe-68cc-499e-8cb1-22b39c20acbb@cz.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cz.helper-internet.com&sid=ff776ff77be48b88#🇨🇿 CZ | 5.39.202.65
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@ch1.murhost.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch1.murhost.network&fp=chrome&security=reality&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6#🇨🇿 CZ | 103.119.18.115
