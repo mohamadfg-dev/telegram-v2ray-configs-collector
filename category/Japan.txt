@@ -1,3 +1,1 @@
-vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
-vless://8f6435e1-e241-436c-8b50-a0fcc7d32822@195.78.48.167:8453?encryption=none&type=http&security=reality&sni=yastatic.net&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&sid=dc&fp=chrome&host=yastatic.net&path=/s3/home-static/_/nova/&mode=auto#🇯🇵 JP | 195.78.48.167
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@43.207.148.120:8316#🇯🇵 JP | 43.207.148.120
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 JP | 149.22.87.240
