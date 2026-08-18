@@ -1,4 +1,2 @@
-trojan://FH72359861@13.158.129.134:443?sni=grateful-leech.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP | 13.158.129.134
-trojan://FH72359861@13.158.129.134:443?sni=grateful-leech.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 JP | 13.158.129.134
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇯🇵 JP | 45.192.200.133
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.133:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&type=ws&host=rubifen.adaspoloandco.com&path=/GOrbEh#🇯🇵 JP | 45.192.200.133
