@@ -19,6 +19,7 @@ Not Match: https://t.me/s/change_ip1
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
+Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
@@ -49,7 +50,6 @@ Not Match: https://t.me/s/info_2it_channel
 Bad Response: https://t.me/s/ip_cf_config 
 Not Match: https://t.me/s/ip_cf_config 
 Not Match: https://t.me/s/ipstatic1 
-Not Match: https://t.me/s/iranmedicalvpn 
 Not Match: https://t.me/s/iransoftware90 
 Other Error: https://t.me/s/irv2rey 
 Not Match: https://t.me/s/iseqaro 
@@ -148,6 +148,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Other Error: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -158,8 +159,6 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Bad Configs: https://t.me/s/v2ry_proxy 
-Bad Configs: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
