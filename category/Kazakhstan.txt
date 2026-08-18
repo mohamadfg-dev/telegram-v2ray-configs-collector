@@ -1,1 +1,1 @@
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&encryption=none&headerType=none&type=tcp#🇰🇿 KZ | 193.124.204.145
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@194.32.141.11:443?security=reality&encryption=none&pbk=_-iZt_zsuSnYKNldfwXQlnH6SqbLJILP4qApHbaKax0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.kz&sid=3e70d5cbb01bddfd#🇰🇿 KZ | 194.32.141.11
