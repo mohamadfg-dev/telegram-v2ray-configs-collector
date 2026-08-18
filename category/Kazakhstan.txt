@@ -1,1 +1,1 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@194.32.141.11:443?security=reality&encryption=none&pbk=_-iZt_zsuSnYKNldfwXQlnH6SqbLJILP4qApHbaKax0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=savesafe.kz&sid=3e70d5cbb01bddfd#🇰🇿 KZ | 194.32.141.11
+vless://afd63042-1c62-472f-9b56-5904d71e44d1@kh.trxlnsnet.ir:443?security=reality&encryption=none&pbk=SaMFOixEvpRj18sFAi-knccGo5_1KT2x6EwUMeGx00c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=aaea1528e22abe1a#🇰🇿 KZ | 91.224.74.185
