@@ -1,2 +1,1 @@
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇪🇪 EE | 95.85.224.3
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?fp=edge&security=tls&type=tcp#🇪🇪 EE | 94.183.170.135
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#🇪🇪 EE | 109.206.241.10
