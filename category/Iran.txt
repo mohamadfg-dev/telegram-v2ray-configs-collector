@@ -1,4 +1,4 @@
-vless://08491b3d-0479-4d51-8076-a5e91a6c1937@it1.speedit.ir:2095?encryption=none&security=none&type=tcp#🇮🇷 IR | 93.113.230.141
+vless://08491b3d-0479-4d51-8076-a5e91a6c1937@it1.speedit.ir:2095?encryption=none&security=none&type=tcp#🇮🇷 IR | 77.237.90.96
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 62.60.147.73
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=ws&security=tls&path=/----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&host=vip.sinavm.ir&sni=vip.sinavm.ir&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#🇮🇷 IR | 85.133.205.47
@@ -23,7 +23,6 @@ vless://7731f2b5-e212-4ae5-b30f-179319846050@93.113.238.236:13998?encryption=non
 vless://1fd2c353-68ff-4098-b497-b5cc5f6510c4@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://444d8b7b-9327-42b9-851d-015b649c8790@91.192.160.5:38916?type=ws&encryption=none&path=/&host=&security=none#🇮🇷 IR | 91.192.160.5
 vless://6407ef7c-bd83-4212-b467-fb138baeb8e3@snapp.ir:80?path=/&security=none&encryption=none&host=vpi.mgshoponline.ir&type=ws#🇮🇷 IR | 185.143.234.122
-vless://@WANCLOUDFA@5.160.128.97:44446?security=reality&encryption=none&pbk=MW5Sg0LSYkG9RYtZ5C4NSoBbSSpidSk644klNxy_HRI&headerType=none&fp=chrome&spx=/Dl78#🇮🇷 IR | 5.160.128.97
 vmess://eyJoZWFkZXJUeXBlIjoibm9uZSIsImZwIjoiIiwiYWRkIjoiMTg1LjExLjg5LjM4IiwiYWlkIjoiMCIsInBhdGgiOiIiLCJtb2RlIjoiIiwicHMiOiLwn4eu8J+HtyBJUiB8IDE4NS4xMS44OS4zOCIsInBvcnQiOiIxMjgwOSIsIm5ldCI6InRjcCIsInNuaSI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsInNlZWQiOiIiLCJ0eXBlIjoibm9uZSIsImFscG4iOiIiLCJkZXZpY2VJRCI6IiIsImhvc3QiOiIiLCJ2IjoiMiIsInRscyI6Im5vbmUiLCJmcmFnbWVudCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiZXh0cmEiOiIifQ==
 vless://1e743166-b244-469b-9213-75978d9f492d@ir3.cdnk1.cfd:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ir3.cdnk1.cfd&path=/time&fp=chrome#🇮🇷 IR | 185.231.183.80
 vless://257c313c-36fa-4d99-ba06-bb4a02aae70d@adgof.mgodping12.xyz:2086?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1,h3&type=grpc#🇮🇷 IR | 193.151.141.5
