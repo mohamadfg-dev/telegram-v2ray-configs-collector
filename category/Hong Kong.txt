@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@212.192.15.46:10910#undefined HK | 212.192.15.46
+trojan://ND91608427@185.244.208.210:443?sni=upright-hamster.rooster465.autos&type=tcp#undefined HK | 185.244.208.210
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#undefined HK | 182.16.61.2
 vmess://eyJhZGQiOiI0Ny4yNDMuMzkuMjUxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ3NTA2NzEzLTUwOGUtNDQxYS1iYjAyLTU2ZWI2NzliNGRjOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzI5MTMiLCJwcyI6InVuZGVmaW5lZCBISyB8IDQ3LjI0My4zOS4yNTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#undefined HK | 45.87.175.193
