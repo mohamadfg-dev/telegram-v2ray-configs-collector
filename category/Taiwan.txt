@@ -1,1 +1,1 @@
-vless://ce3d89da-f418-4c38-a1f3-ef243be06044@sw.sinner.website:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇹🇼 TW | 82.115.8.160
+vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&sid=f713561d#🇹🇼 TW | 207.56.137.51
