@@ -1,4 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.84.43:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.84.43
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇫🇷 FR | 51.44.160.58
 vmess://eyJhZGQiOiIyMTIuNDcuMjUwLjc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImEzYWFiYmVkLTc2MzYtNDFhNi04MjYzLWM2YWFkZDcyM2QyOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiOTE5IiwicHMiOiLwn4er8J+HtyBGUiB8IDIxMi40Ny4yNTAuNzciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
@@ -19,4 +18,5 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&securi
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.25.194:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.25.194
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.84.43:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.84.43
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷 FR | 15.188.75.92
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.137.10:22222?security=&encryption=none&headerType=none&type=tcp#🇫🇷 FR | 51.44.137.10
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.84.43:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.84.43
