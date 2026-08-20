@@ -1,6 +1,4 @@
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#🇹🇷 TR | 193.111.78.106
 vless://9f82e95c-b9b5-44c8-aba6-c28eb89d0b18@158.94.216.232:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=qq&type=tcp&sni=www.python.org&sid=5e06032a9c448538#🇹🇷 TR | 158.94.216.232
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🇹🇷 TR | 188.41.249.20
-vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 45.74.159.200
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 45.74.178.41
