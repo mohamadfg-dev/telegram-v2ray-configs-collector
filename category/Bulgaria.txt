@@ -1,1 +1,1 @@
-vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=/vless&fp=edge#🇧🇬 BG | 195.123.226.21
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?flow=xtls-rprx-vision&fp=chrome&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&security=reality&sid=720148f2fea16d0f&sni=www.cloudflare.com&type=tcp#🇧🇬 BG | 82.118.18.202
