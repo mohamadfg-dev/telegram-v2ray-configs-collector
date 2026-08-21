@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#🇰🇷 KR | 211.178.105.134
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.144.32:11202?type=ws&encryption=none&host=dns68.putata.eu.org&path=/?ed=2048&security=tls&sni=dns68.putata.eu.org#🇰🇷 KR | 146.56.144.32
