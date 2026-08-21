@@ -3,7 +3,6 @@ vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&
 trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇫🇷 FR | 51.44.160.58
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.217.128
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.181.226
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#🇫🇷 FR | 51.255.13.232
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇷 FR | 172.239.26.184
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇷 FR | 188.130.207.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#🇫🇷 FR | 51.77.225.200
@@ -21,4 +20,3 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&securi
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.217.128:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.180.217.128
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.181.226
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇫🇷 FR | 15.188.75.92
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.226:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.181.226
