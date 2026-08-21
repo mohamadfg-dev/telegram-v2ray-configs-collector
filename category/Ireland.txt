@@ -1,3 +1,7 @@
+trojan://EQ30679154@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 54.217.133.71
+trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 54.74.185.175
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🇮🇪 IE | 20.223.136.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#🇮🇪 IE | 4.210.66.171
+trojan://EQ30679154@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 54.217.133.71
+trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&fp=chrome#🇮🇪 IE | 54.74.185.175
 trojan://FH72359861@54.216.139.140:443?sni=cunning-grub.rooster465.autos&path=/#🇮🇪 IE | 54.216.139.140

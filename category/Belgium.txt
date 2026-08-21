@@ -1,1 +1,1 @@
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.216:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bold-kestrel.cdn.cachefleet.com#🇧🇪 BE | 109.69.218.216
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@cdn2.portalcode.ir:2095?path=/&security=&encryption=none&host=usv4.monopolitass.ir&type=httpupgrade#🇧🇪 BE | 188.95.12.226
