@@ -58,7 +58,6 @@ Not Match: https://t.me/s/lexernet
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
 Not Match: https://t.me/s/lranonline_new 
-Bad Configs: https://t.me/s/mahanvpn 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -70,6 +69,7 @@ Not Match: https://t.me/s/mood_tarinhaa
 Bad Response: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
+Not Match: https://t.me/s/mt_proxy 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Bad Configs: https://t.me/s/nim_vpn_ir 
@@ -90,6 +90,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -114,6 +115,7 @@ Not Match: https://t.me/s/seven_ping
 Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/shh_proxy 
+Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -158,7 +160,6 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Bad Configs: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
