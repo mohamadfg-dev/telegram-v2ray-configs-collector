@@ -1,4 +1,6 @@
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 JP | 31.76.91.138
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 134.122.202.244
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 JP | 84.247.155.196
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 134.122.202.244
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.176
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.176

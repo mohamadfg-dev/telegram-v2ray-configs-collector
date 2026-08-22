@@ -1,1 +1,1 @@
-vless://e206f673-8945-42b6-a1a4-8d9bdc6adb7c@ae-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=delivery.mp.microsoft.com&sid=070a23aed243#🇦🇪 AE | 109.61.42.60
+vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?encryption=none&fp=&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#🇦🇪 AE | 89.47.55.7
