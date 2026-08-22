@@ -1,1 +1,1 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?security=reality&type=tcp&allowInsecure=1&sni=eu-central.cendora.ru&fp=edge&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#🇩🇰 DK | 144.31.242.1
+vless://cde8e374-bf71-4a1f-9386-db050bc46190@81.27.110.79:8080?security=none&encryption=none&headerType=none&type=tcp#🇩🇰 DK | 81.27.110.79

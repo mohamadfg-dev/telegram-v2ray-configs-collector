@@ -6,3 +6,4 @@ vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?host=rzd.ru&path=
 vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.82:8443?security=reality&sni=ads.x5.ru&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&type=grpc&serviceName=grpc-yandex&packetEncoding=xudp&encryption=none#🇷🇺 RU | 193.233.246.82
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 RU | 201.24.117.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVTROVUp1TWU0WGxaM05DUV8xS2lR@robon.mashhad1market.ir:1080#🇷🇺 RU | 147.45.211.243
