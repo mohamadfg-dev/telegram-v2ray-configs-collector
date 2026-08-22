@@ -12,6 +12,8 @@ vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@de.edge-9d7c.com:443?security=reality&encryption=none&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=de.edge-9d7c.com&sid=9d84de9d9f7b85e9#🏴‍☠️ UN | de.edge-9d7c.com
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@v942892.hosted-by-vdsina.com:443?security=reality&encryption=none&pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=v942892.hosted-by-vdsina.com&sid=1e623c6d7f4d01eb#🏴‍☠️ UN | v942892.hosted-by-vdsina.com
+vless://bcaabca-abac-baac-dcba-aaabccacbbcb@127.0.0.1:2080?security=tls&type=tcp#🏴‍☠️ UN | 127.0.0.1
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
 ss://YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==?plugin=obfs;obfs=http;obfs-host=2fce243671.download.windowsupdate.com#🏴‍☠️ UN | YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==
 ss://YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==?plugin=obfs;obfs=http;obfs-host=2fce243671.download.windowsupdate.com#🏴‍☠️ UN | YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==
@@ -30,6 +32,7 @@ wireguard://uH/N/yTrMRMv7FlZAXOK4oxOmpiYgqrvMx4aEt2yYWk=@8.6.112.116:2408?wnoise
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://2df971d8-b585-4d2b-9f15-da857fe92a9d@abr185.bazargani98.org:443?encryption=mlkem768x25519plus.native.0rtt.T8K4fuGNwD27U03-uRG6xxiRMmV5jHdlvSV5ERD9NnQ&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=abr185.bazargani98.org&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🏴‍☠️ UN | abr185.bazargani98.org
 ss://YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==?plugin=obfs;obfs=http;obfs-host=2fce243671.download.windowsupdate.com#🏴‍☠️ UN | YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==
+trojan://AE62539071@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&type=tcp&path=/#🏴‍☠️ UN | tough-hermit.rooster465.autos
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🏴‍☠️ UN | sca16.myfymain.com
 vless://5a90f6da-b7fb-40ab-9e45-2cc8d8b0655d@[2a01:4f8:1c1b:1afc::1]:443?encryption=none&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🏴‍☠️ UN | [2a01:4f8:1c1b:1afc::1]
 vless://653b1300-b8b2-44bc-be6f-8c04b87bca43@[2a01:4f8:1c1b:1afc::1]:443?encryption=none&type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,#🏴‍☠️ UN | [2a01:4f8:1c1b:1afc::1]
@@ -52,12 +55,12 @@ vless://1602a406-a38e-4211-bbdc-3f75c890303d@fast.farsidutch.nl:80?security=none
 }#🏴‍☠️ UN | fast.farsidutch.nl
 vless://19ceb6c1-09df-479f-9d96-fcf92db6f5ca@de.play98.ir:1993?type=ws&encryption=none&path=/&host=&security=none#🏴‍☠️ UN | de.play98.ir
 vless://7bbd9383-9b76-4b2f-8d01-a2a0ce1ff3a8@cv.rxteam.xyz:28020?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=firefox&type=ws#🏴‍☠️ UN | cv.rxteam.xyz
+vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#🏴‍☠️ UN | 7nXKCe_VLESS
 vless://81f57d7b-727a-4499-a29c-9229310db7fe@tttt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | tttt1.hennessypro.site
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@tr.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.samsungcloud.com&fp=chrome&pbk=41qm1VGkyODbyc7LvIyXhcG4XUKmTaomF9jDAMEaW3c&sid=03e223bc474c6f1d&type=tcp&headerType=none#🏴‍☠️ UN | tr.kkkl.ir
 vless://5d2062a4-e636-58af-b488-d6bdbea719bf@chefox.kkkl.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=random&pbk=7DQXReCCCModVwZEU9j4QFsWtzEbGNtrRHwMCk2NUD8&sid=C8EF&type=tcp&headerType=none#🏴‍☠️ UN | chefox.kkkl.ir
 vless://1b82e854-c1df-4aa4-a6d4-57153cc0fad8@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburs.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburs.appleseraj.ir#🏴‍☠️ UN | poli.appleseraj.ir
 vless://1b82e854-c1df-4aa4-a6d4-57153cc0fad8@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=holand.appleseraj.ir&type=ws&allowInsecure=0&sni=holand.appleseraj.ir#🏴‍☠️ UN | poli.appleseraj.ir
 vless://b1a9c885-e53b-4b19-b4c7-b259cba543e7@ipo.mastermarly.ir:443?path=/path&security=tls&encryption=none&insecure=0&host=nur-xn.mastermarly.ir&type=ws&allowInsecure=0&sni=nur-xn.mastermarly.ir#🏴‍☠️ UN | ipo.mastermarly.ir
-vless://1e743166-b244-469b-9213-75978d9f492d@ir3.cdnk1.cfd:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ir3.cdnk1.cfd&path=/time&fp=chrome#🏴‍☠️ UN | ir3.cdnk1.cfd
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com
 vless://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=mehrosaboran?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=6nwf5rauksz8126xm.zjde5.de5.net#🏴‍☠️ UN | ipbaz.ping-box.com

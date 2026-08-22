@@ -1,4 +1,5 @@
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=firefox&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 JP | 31.76.91.138
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 JP | 84.247.155.196
-trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#🇯🇵 JP | 13.158.135.118
-vless://93cc16ff-60bd-4a48-8b4b-0ca1ce5f22ba@14.137.244.44:18233/?type=tcp&encryption=none&flow=#🇯🇵 JP | 14.137.244.44
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.206
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.176
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.176

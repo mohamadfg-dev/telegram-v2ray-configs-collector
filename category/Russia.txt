@@ -1,5 +1,7 @@
 vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@31.177.83.201:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🇷🇺 RU | 31.177.83.201
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=9e4eced6e98ed4d4#🇷🇺 RU | 185.147.26.175
+vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#🇷🇺 RU | 201.24.117.62
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:10808#🇷🇺 RU | 45.140.169.123
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?host=rzd.ru&path=/v1&security=none&type=ws#🇷🇺 RU | 45.90.32.132
 vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.82:8443?security=reality&sni=ads.x5.ru&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&type=grpc&serviceName=grpc-yandex&packetEncoding=xudp&encryption=none#🇷🇺 RU | 193.233.246.82

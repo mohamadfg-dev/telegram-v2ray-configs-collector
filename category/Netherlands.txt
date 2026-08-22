@@ -1,2 +1,1 @@
-vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd1.sobu.ir:5060?security=none&encryption=none&headerType=http&type=tcp#🇳🇱 NL | 5.180.180.207
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#🇳🇱 NL | 150.241.102.202
