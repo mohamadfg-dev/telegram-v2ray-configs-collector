@@ -4,3 +4,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:
 vless://0b596551-26c0-4d8d-8a4a-231b54418c28@212.64.193.42:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bg.cloudtechone.org&sid=f93c9d5127e622e4#🇹🇷 TR | 212.64.193.42
 vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?encryption=none&security=none&type=tcp&headerType=none#🇹🇷 TR | 130.185.123.32
 vless://turboo-server@37.221.79.82:8443?security=reality&encryption=none&pbk=uR_F-q8uKlvbupF9UyJBi-p5afcqzKM7OrBfNAwFtU0&host=www.samsung.com&headerType=none&fp=random&spx=/&type=tcp&sni=www.samsung.com&sid=f7c096#🇹🇷 TR | 37.221.79.82
+vless://7e4ef00b-d53d-4922-a16b-c1ac93488834@cdn-pasargad45.gelvexa.ir:21570?encryption=none&security=tls&sni=cdn-pasargad45.gelvexa.ir&type=ws&host=cdn-pasargad45.gelvexa.ir&path=/#🇹🇷 TR | 45.74.178.81
