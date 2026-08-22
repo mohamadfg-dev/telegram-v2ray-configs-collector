@@ -1,4 +1,3 @@
-Not Match: https://t.me/s/config_fre 
 Not Match: https://t.me/s/AchaVPN 
 Bad Response: https://t.me/s/vless_config 
 Not Match: https://t.me/s/vless_config 
@@ -58,7 +57,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
+Bad Configs: https://t.me/s/lranonline_new 
 Bad Configs: https://t.me/s/mahanvpn 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
@@ -136,6 +135,7 @@ Not Match: https://t.me/s/v2rang_da
 Not Match: https://t.me/s/v2raxx 
 Not Match: https://t.me/s/v2ray03 
 Not Match: https://t.me/s/v2ray_83 
+Not Match: https://t.me/s/v2ray_cartel 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
 Bad Response: https://t.me/s/v2ray_sub 
