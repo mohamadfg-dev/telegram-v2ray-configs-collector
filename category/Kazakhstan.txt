@@ -1,2 +1,2 @@
-trojan://vpn@45.82.14.144:2025?type=ws&host=dns.google.com&path=/#🇰🇿 KZ | 45.82.14.144
-vless://afd63042-1c62-472f-9b56-5904d71e44d1@kh.trxlnsnet.ir:443?security=reality&encryption=none&pbk=SaMFOixEvpRj18sFAi-knccGo5_1KT2x6EwUMeGx00c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=aaea1528e22abe1a#🇰🇿 KZ | 91.224.74.185
+vless://Telegram🇨🇳@WangCai2@185.176.26.2:443?encryption=none&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&security=tls&sni=support.zoom.us.yxls.eu.cc#🇰🇿 KZ | 185.176.26.2
+vless://Telegram🇨🇳@WangCai2@185.176.26.2:443?encryption=none&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&security=tls&sni=support.zoom.us.yxls.eu.cc#🇰🇿 KZ | 185.176.26.2
