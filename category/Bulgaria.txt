@@ -1,1 +1,1 @@
-vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?flow=xtls-rprx-vision&fp=chrome&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&security=reality&sid=720148f2fea16d0f&sni=www.cloudflare.com&type=tcp#🇧🇬 BG | 82.118.18.202
+vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=/#🇧🇬 BG | 91.227.77.126

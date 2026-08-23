@@ -1,2 +1,1 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?security=reality&encryption=none&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=america.cendora.ru&sid=065cf4f1c7d83e79#🇳🇱 NL | 150.241.102.202
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.158.147:62145?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 134.98.158.147
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bVNzRHlsRVdFVnM0Ukp1ZGNrNE8wU2NIaGV6WEI5UlpzOU43MGw1ZXNxTT0@134.98.144.146:45819#🇳🇱 NL | 134.98.144.146

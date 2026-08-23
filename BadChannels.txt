@@ -22,7 +22,6 @@ Not Match: https://t.me/s/confing_chanel
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/customv2ray 
-Bad Configs: https://t.me/s/daily_configs 
 Not Match: https://t.me/s/dargiiriis 
 Bad Configs: https://t.me/s/darkfiilter 
 Not Match: https://t.me/s/drvpn_net 
@@ -52,6 +51,7 @@ Not Match: https://t.me/s/irv2rey
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -85,11 +85,13 @@ Not Match: https://t.me/s/oonfig
 Not Match: https://t.me/s/orgempirenet 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
+Not Match: https://t.me/s/parsashonam 
 Not Match: https://t.me/s/pistachiovpn 
 Bad Configs: https://t.me/s/proxie 
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -147,7 +149,6 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
-Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
