@@ -1,4 +1,6 @@
-trojan://FH72359861@many-pangolin.rooster465.autos:443?sni=many-pangolin.rooster465.autos&type=tcp&fp=chrome#🇯🇵 JP | 52.195.225.156
+vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443?security=reality&encryption=none&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b2f4518cf979889d#🇯🇵 JP | 43.165.177.82
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 134.122.202.244
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 134.122.202.244
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 JP | 84.247.155.196
 vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 134.122.202.244
 trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇯🇵 JP | 95.85.94.176
