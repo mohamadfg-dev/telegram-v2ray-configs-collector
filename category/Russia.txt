@@ -2,7 +2,6 @@ ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@route.pcjxq.digital:20991#🇷🇺 R
 vless://626c0789-16d1-4815-be8b-bd03959d7d12@185.207.66.243:443?mode=gun&security=reality&encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇷🇺 RU | 185.207.66.243
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@193.233.217.22:4100?encryption=none&security=none&type=ws&path=/v1#🇷🇺 RU | 193.233.217.22
 vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?security=reality&encryption=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=9e4eced6e98ed4d4#🇷🇺 RU | 185.147.26.175
-ss://YWVzLTEyOC1nY206TVZSSlFuSkRRMUozUjFKYVMxTlhOWEk1VkZCM2VreHFRMGR4UkRkdVpVWkRXblIxZG5OcWVFaFZTMXBoVmxaeVdHNDJRbmM1TkdWMllXUlVhRkZyVGc9PQ@37.77.106.46:26140#🇷🇺 RU | 37.77.106.46
 vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@158.160.250.45:443?security=reality&encryption=none&pbk=mDtiIWLFPJoPVrDLOCvKn6lvlS8r0TdRO9MxmmdIDmo&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=917fd5a45e8840#🇷🇺 RU | 158.160.250.45
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@45.90.32.132:2200?host=rzd.ru&path=/v1&security=none&type=ws#🇷🇺 RU | 45.90.32.132
 vless://626c0789-16d1-4815-be8b-bd03959d7d12@185.207.66.243:443?mode=gun&security=reality&encryption=none&pbk=eNvO4-6_VFngHHC6D5AhcCpCpOdi5gY7-Srimhh-6Xw&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#🇷🇺 RU | 185.207.66.243
