@@ -1,1 +1,1 @@
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=/&ed=2560&eh=Sec-WebSocket-Protocol#🇳🇴 NO | 151.101.236.11
+vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=fd55b698ee8c3629#🇳🇴 NO | 194.110.207.48

@@ -14,5 +14,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.203.218:22223?encryption=none
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.160.167:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.160.167
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.203.218:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.203.218
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.160.167:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.160.167
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.203.218:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.37.203.218
