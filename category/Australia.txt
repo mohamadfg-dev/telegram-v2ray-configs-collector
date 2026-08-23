@@ -1,1 +1,1 @@
-trojan://AE62539071@87.121.33.238:443?sni=wanted-marmoset.rooster465.autos&fp=chrome&type=tcp&path=/#🇦🇺 AU | 87.121.33.238
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?&security=tls&fp=chrome&sni=zero.csmaster.ggff.net&type=ws&headerType=none&host=zero.csmaster.ggff.net&path=/#🇦🇺 AU | 16.176.42.97
