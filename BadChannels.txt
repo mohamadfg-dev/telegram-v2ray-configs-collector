@@ -17,7 +17,6 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
-Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
@@ -58,7 +57,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Bad Configs: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -172,6 +171,7 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
+Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
 Not Match: https://t.me/s/vpn4ir_1 
