@@ -1,4 +1,2 @@
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@200.165.232.160:443?encryption=none&fp=firefox&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇸🇨 SC | 200.165.232.160
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@200.165.232.160:443?encryption=none&fp=firefox&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#🇸🇨 SC | 200.165.232.160

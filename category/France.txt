@@ -3,6 +3,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.163.13:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.44.5
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇷 FR | 172.239.26.184
 vless://_id_telegram_MimiTdi@188.130.207.202:443?path=/?ed=1024&security=none&encryption=none&host=play.google.com&type=ws#🇫🇷 FR | 188.130.207.202
+vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?mode=auto&path=/G3EEoH63&security=reality&encryption=none&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&fp=firefox&type=xhttp&sni=www.amazon.com&sid=f57d8f26#🇫🇷 FR | 62.210.24.143
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.163.13:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.163.13
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.44.5
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#🇫🇷 FR | 45.196.201.131
@@ -12,4 +13,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22223?encryption=none&se
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.163.13:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.38.163.13
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.44.5
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.44.5:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.45.44.5
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?security=reality&encryption=none&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.nihaovpn.ru&sid=d9622c6fea10c1#🇫🇷 FR | 150.241.93.96

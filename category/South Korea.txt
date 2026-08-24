@@ -1,1 +1,1 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@146.56.144.32:11202?type=ws&encryption=none&host=dns68.putata.eu.org&path=/?ed=2048&security=tls&sni=dns68.putata.eu.org#🇰🇷 KR | 146.56.144.32
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=bnnm.azurewebsites.net&type=ws&path=/#🇰🇷 KR | 52.231.38.95

@@ -1,1 +1,2 @@
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&security=tls&sni=be2.wba-pn.ru&type=ws&path=/#🇧🇪 BE | 113.30.152.6
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&security=tls&sni=be2.wba-pn.ru&type=ws&path=/#🇧🇪 BE | 113.30.152.6
