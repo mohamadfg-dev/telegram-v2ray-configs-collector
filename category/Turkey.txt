@@ -1,3 +1,2 @@
 vless://bd73cb46-5d86-42ca-ac4e-e702825a221a@193.111.78.106:61134?path=/&security=none&encryption=mlkem768x25519plus.native.0rtt.fifrfSw33WQdkPjmBmNvrLDaYE_6hmHOH-dcI_rRblA&host=node.badrangteb.ir&type=ws#🇹🇷 TR | 193.111.78.106
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://c390c8ba-c8cf-46f8-8c55-71966b36be1d@trdr.whooisthebest.ir:22216?security=reality&encryption=none&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0f4412d42129f080#🇹🇷 TR | 153.52.92.64
