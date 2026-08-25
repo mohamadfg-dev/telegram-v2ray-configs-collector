@@ -29,6 +29,7 @@ vless://4285f327-20c6-483c-ab28-5ed6d28837bc@xe50-de40cdn4.unlimiteddev.co:443?p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUyQDE0NC4zMS4yNDMuMjoxNjAxNQ==#🏴‍☠️ UN | Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMUludVU2UVJUNUpPaDFtUWZralUyQDE0NC4zMS4yNDMuMjoxNjAxNQ==
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@mariz.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | mariz.kuckenpq.ir
 vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@dlarm.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🏴‍☠️ UN | dlarm.kuckenpq.ir
+vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=android.com&pbk=7JDEwF5DtVN9ym8x_tHcdA5-L5hH_JlYNf-ZXUYqu18&sid=3f958af268&spx=/sinavm_sinavm_SiNAVM_SiNAVM#🏴‍☠️ UN | vip.sinavm.ir
 vless://651a858c-2975-4b96-96b7#🏴‍☠️ UN | 651a858c-2975-4b96-96b7
 vless://2df971d8-b585-4d2b-9f15-da857fe92a9d@abr185.bazargani98.org:443?encryption=mlkem768x25519plus.native.0rtt.T8K4fuGNwD27U03-uRG6xxiRMmV5jHdlvSV5ERD9NnQ&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=abr185.bazargani98.org&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🏴‍☠️ UN | abr185.bazargani98.org
 ss://YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==?plugin=obfs;obfs=http;obfs-host=2fce243671.download.windowsupdate.com#🏴‍☠️ UN | YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==
