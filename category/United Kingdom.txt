@@ -3,10 +3,11 @@ vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&path=/-Arfilter@Arfilt
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&fp=qq&type=ws&sni=gb1.wba-pn.ru#🇬🇧 GB | 45.150.66.31
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@46.8.41.42:443?security=reality&encryption=none&pbk=L5qLDM9pWlBV6gU9yCT4_yc7jz982FiLi2CZWLo3Ki0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uk1.panel11.ru&sid=dcbf3f13ce2dbe37#🇬🇧 GB | 46.8.41.42
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@94.247.142.137:2096?security=tls&sni=GeR7.SimAnSaNat.iR.&type=ws&host=GeR7.SimAnSaNat.iR.&fp=chrome&alpn=h2#🇬🇧 GB | 94.247.142.137
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?fp=firefox&security=tls&host=129.121.95.159&encryption=none&sni=129.121.95.159&allowInsecure=0&type=ws&insecure=0&path=/connect#🇬🇧 GB | 129.121.95.159
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.135.73.177:443#🇬🇧 GB | 13.135.73.177
 vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇬🇧 GB | 45.150.66.31
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🇬🇧 GB | 51.104.246.137
@@ -14,7 +15,4 @@ vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=realit
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇬🇧 GB | 193.46.81.151
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🇬🇧 GB | 217.217.222.230
 vless://be3960db-f339-0065-be7b-c1a130601141@213.193.255.206:443?security=reality&encryption=none&pbk=fYAeaCv2jMnzpu7WzQmx38eBRW43kEfpUqj_RwnVnEA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#🇬🇧 GB | 213.193.255.206
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@gb1.wba-pn.ru:443?path=/&security=tls&encryption=none&insecure=0&host=gb1.wba-pn.ru&fp=qq&type=ws&allowInsecure=0&sni=gb1.wba-pn.ru#🇬🇧 GB | 45.150.66.31
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇬🇧 GB | 45.12.30.101
-vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#🇬🇧 GB | 109.169.84.94
 vless://3bcb31ef-840e-415d-abb3-28628add98d0@109.169.84.94:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#🇬🇧 GB | 109.169.84.94
