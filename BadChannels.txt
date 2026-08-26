@@ -163,7 +163,7 @@ Not Match: https://t.me/s/v2trayproxy
 Not Match: https://t.me/s/vip_fragment_v2ray 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
-Not Match: https://t.me/s/vipv2rayngnp 
+Bad Configs: https://t.me/s/vipv2rayngnp 
 Not Match: https://t.me/s/vmess_iran 
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
