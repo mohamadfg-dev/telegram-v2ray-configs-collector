@@ -8,6 +8,7 @@ Bad Configs: https://t.me/s/nim_vpn_ir
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/argo_vpn1 
+Bad Configs: https://t.me/s/argooo_vpn 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Bad Response: https://t.me/s/bislullproxy 
@@ -73,7 +74,7 @@ Not Match: https://t.me/s/mt_proxy
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Bad Configs: https://t.me/s/nim_vpn_ir 
-Bad Configs: https://t.me/s/nofilter_v2rayng 
+Not Match: https://t.me/s/nofilter_v2rayng 
 Not Match: https://t.me/s/noforcedheaven 
 Other Error: https://t.me/s/noviin_tel 
 Not Match: https://t.me/s/npvv2rayfilter 
