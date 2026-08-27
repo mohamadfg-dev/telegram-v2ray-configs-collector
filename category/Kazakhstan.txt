@@ -1,1 +1,1 @@
-vless://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=d03298146e8e2fe6.hozheen.ir#🇰🇿 KZ | 31.43.179.111
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#🇰🇿 KZ | 5.180.42.103

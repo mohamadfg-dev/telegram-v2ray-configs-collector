@@ -8,7 +8,6 @@ Bad Configs: https://t.me/s/nim_vpn_ir
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/argo_vpn1 
-Bad Configs: https://t.me/s/argooo_vpn 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Bad Response: https://t.me/s/bislullproxy 
@@ -152,9 +151,12 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Other Error: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
+Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
+Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Bad Configs: https://t.me/s/v2rayngrit 
@@ -189,3 +191,4 @@ Not Match: https://t.me/s/vpnstable
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
 Not Match: https://t.me/s/wancloudfa 
+Other Error: https://t.me/s/vpnv2r4y 

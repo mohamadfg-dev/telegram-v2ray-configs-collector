@@ -1,3 +1,4 @@
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@153.52.117.170:2096?encryption=none&type=xhttp&mode=auto&path=/xh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#🇫🇮 FI | 153.52.117.170
 vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244?security=reality&encryption=none&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=axisvpn.ru&sid=6ba85179e30d4fc2#🇫🇮 FI | 72.35.246.31
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#🇫🇮 FI | 45.136.126.70
