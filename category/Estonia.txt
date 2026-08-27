@@ -1,1 +1,1 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org&path=/#🇪🇪 EE | 109.206.241.10
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=estproxy4.lockdwn.com#🇪🇪 EE | 94.183.170.135

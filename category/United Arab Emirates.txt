@@ -1,2 +1,1 @@
-vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇦🇪 AE | 89.47.55.7
-vless://28a53b24-f7cc-c55d-75d6-86dfff4e3a4c@89.47.55.7:8443?mode=gun&security=reality&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&type=grpc&serviceName=TunService&sni=download.nvidia.com#🇦🇪 AE | 89.47.55.7
+vless://b0313ca9-5d08-420d-9ab5-19de7430d3e6@D.XORFUNO.IR:16952?security=&encryption=mlkem768x25519plus.native.0rtt.jdxx1JmrclRCS73c0zpwFkoaTztqM0y49VwD2D_JIlE&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇦🇪 AE | 181.215.205.168
