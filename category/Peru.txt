@@ -1,1 +1,2 @@
-vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.183:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=http/1.1#🇵🇪 PE | 154.219.5.183
+vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.111:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=/Proxy-MTM?ed=2056&fp=chrome&alpn=h2,http/1.1#🇵🇪 PE | 154.219.5.111
+vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.111:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=/Proxy-MTM?ed=2056&fp=chrome&alpn=h2,http/1.1#🇵🇪 PE | 154.219.5.111
