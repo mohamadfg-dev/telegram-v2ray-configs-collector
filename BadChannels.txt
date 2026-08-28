@@ -18,6 +18,7 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
@@ -86,6 +87,7 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
+Other Error: https://t.me/s/outline_vpn 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
@@ -94,7 +96,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -117,8 +118,6 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
-Not Match: https://t.me/s/shh_proxy 
-Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -154,6 +153,8 @@ Other Error: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
+Bad Configs: https://t.me/s/v2rayng_matsuri 
+Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngte 
@@ -166,7 +167,6 @@ Not Match: https://t.me/s/v2trayproxy
 Not Match: https://t.me/s/vip_fragment_v2ray 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
-Not Match: https://t.me/s/vipv2rayngnp 
 Not Match: https://t.me/s/vmess_iran 
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
