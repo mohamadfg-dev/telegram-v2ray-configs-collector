@@ -85,7 +85,6 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
-Other Error: https://t.me/s/outline_vpn 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
@@ -148,10 +147,10 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
-Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngte 
@@ -184,4 +183,3 @@ Not Match: https://t.me/s/vpnstable
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
 Not Match: https://t.me/s/wancloudfa 
-Other Error: https://t.me/s/vpnv2r4y 
