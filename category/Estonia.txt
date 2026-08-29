@@ -1,1 +1,1 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪 EE | 109.206.241.10
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&type=ws&path=/&security=none#🇪🇪 EE | 94.183.170.231
