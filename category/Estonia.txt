@@ -1,1 +1,1 @@
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&type=ws&path=/&security=none#🇪🇪 EE | 94.183.170.231
+vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#🇪🇪 EE | 5.45.117.125
