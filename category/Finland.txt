@@ -1,6 +1,5 @@
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@153.52.117.170:2096?encryption=none&type=xhttp&mode=auto&path=/xh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#🇫🇮 FI | 153.52.117.170
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#🇫🇮 FI | 185.79.138.71
+vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=2a2ce9e42980#🇫🇮 FI | 107.181.151.39
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&encryption=none&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.foxsports.com&sid=91af08b1ce1f#🇫🇮 FI | 87.239.249.137
-vless://de5b01f7-0697-49ec-aeb1-6ef0361344fb@65.109.215.50:39633?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.215.50
 vless://de5b01f7-0697-49ec-aeb1-6ef0361344fb@65.109.215.50:39633?security=none&encryption=none&headerType=none&type=tcp#🇫🇮 FI | 65.109.215.50
