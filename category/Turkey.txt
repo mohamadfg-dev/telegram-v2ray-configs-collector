@@ -1,2 +1,1 @@
-vless://2c73ed0a-3712-4a67-96b9-022d3bf1b672@istan.hostingdayam.com.tr:8444?security=reality&encryption=none&pbk=4_-SYNUa6FNFe4yKiomBiyW9UqUZwlJfA8LnXZ0QRXA&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#🇹🇷 TR | 153.52.92.77
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
