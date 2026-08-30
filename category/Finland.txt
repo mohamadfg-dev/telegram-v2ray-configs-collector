@@ -1,5 +1,5 @@
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#🇫🇮 FI | 31.76.80.69
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#🇫🇮 FI | 45.136.126.70
+vless://68454e16-432d-4562-ba83-00b0da3ebb86@95.216.142.36:7443?encryption=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&security=none#🇫🇮 FI | 95.216.142.36
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@153.52.117.170:2096?encryption=none&type=xhttp&mode=auto&path=/xh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#🇫🇮 FI | 153.52.117.170
 vless://d84c13b2-c2b9-4a7c-838f-05ac09ee422e@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=2a2ce9e42980#🇫🇮 FI | 107.181.151.39
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18

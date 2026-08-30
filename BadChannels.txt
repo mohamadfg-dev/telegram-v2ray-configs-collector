@@ -16,6 +16,7 @@ Not Match: https://t.me/s/black_vpn1
 Not Match: https://t.me/s/canfing_vpn 
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
+Other Error: https://t.me/s/configfa 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/configx2ray 
@@ -93,7 +94,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -116,7 +116,6 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
-Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -152,6 +151,7 @@ Bad Configs: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
+Bad Configs: https://t.me/s/v2raymelliii 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngte 
@@ -180,7 +180,6 @@ Bad Configs: https://t.me/s/vpn_kade01
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
