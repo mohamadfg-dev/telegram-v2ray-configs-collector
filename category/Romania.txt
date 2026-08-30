@@ -1,1 +1,1 @@
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@82.152.132.14:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173#🇷🇴 RO | 82.152.132.14
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🇷🇴 RO | 185.202.92.113

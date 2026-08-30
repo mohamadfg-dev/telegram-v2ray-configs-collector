@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#🇮🇹 IT | 194.87.47.204
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 vless://ed6efa6e-4159-485f-b465-de2d7c9d2e84@ita1.plasdomain.ir:32855?security=reality&encryption=none&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=deb7a9e5a6e1d41a#🇮🇹 IT | 66.245.207.124
 vless://ba80f1c6-1ac3-4ae1-a50d-b29491e087e9@it2.milkabebar.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#🇮🇹 IT | 104.105.78.231
