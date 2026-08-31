@@ -62,7 +62,6 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -97,6 +96,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -118,6 +118,7 @@ Not Match: https://t.me/s/server_nekobox
 Not Match: https://t.me/s/serverii 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
+Bad Configs: https://t.me/s/singbox1 
 Bad Configs: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -141,6 +142,7 @@ Not Match: https://t.me/s/v2rang_da
 Not Match: https://t.me/s/v2raxx 
 Not Match: https://t.me/s/v2ray03 
 Not Match: https://t.me/s/v2ray_83 
+Not Match: https://t.me/s/v2ray_cartel 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
 Bad Response: https://t.me/s/v2ray_sub 
@@ -182,6 +184,7 @@ Bad Configs: https://t.me/s/vpn_kade01
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
+Bad Configs: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
