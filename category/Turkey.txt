@@ -1,2 +1,1 @@
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 91.228.227.172

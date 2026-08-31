@@ -1,1 +1,1 @@
-vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#🇦🇹 AT | 152.53.64.139
+vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=at.quattro-tech.ru&type=tcp#🇦🇹 AT | 152.53.1.40

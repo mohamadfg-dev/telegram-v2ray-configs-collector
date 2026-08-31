@@ -1,1 +1,3 @@
-vless://14957d5b-523a-44ad-928d-166eaa5fc90d@217.11.164.92:37194?headerType=http&host=play.google.com&path=/&security=none&type=tcp#🇬🇪 GE | 217.11.164.92
+vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=ios&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#🇬🇪 GE | 217.11.164.92
+vless://d20be48f-6317-4350-858b-d00929bdefc1@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#🇬🇪 GE | 217.11.164.92
+vless://6ccb83ae-b765-4c43-9c48-fd4886056a69@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#🇬🇪 GE | 217.11.164.92
