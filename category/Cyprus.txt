@@ -1,1 +1,1 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.75.199.42:2096?security=tls&sni=De13.SiMaNsAnAt.Ir.&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#🇨🇾 CY | 77.75.199.42
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@194.55.164.154:8443?path=/api/v1/irc&security=tls&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#🇨🇾 CY | 194.55.164.154
