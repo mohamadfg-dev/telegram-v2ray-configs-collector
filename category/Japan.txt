@@ -1,2 +1,1 @@
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 43.163.241.110
-vless://a8be5b28-7b6b-4682-896e-bf8b7569db41@dcvbdb3bh4s76yfh.89dc3f43.e.yuetong.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.westerndigital.com&fp=chrome&pbk=IIYRxWpNMlMUosNL887OF2QhpQZywVApJyrfUMzFMTU&sid=50458d1d&type=tcp&headerType=none#🇯🇵 JP | 210.197.161.147

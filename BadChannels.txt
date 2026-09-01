@@ -32,6 +32,7 @@ Not Match: https://t.me/s/entrynet
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
 Not Match: https://t.me/s/flyv2ray 
+Other Error: https://t.me/s/free1_vpn 
 Not Match: https://t.me/s/free_vpn02 
 Not Match: https://t.me/s/freevirgoolnet 
 Bad Response: https://t.me/s/freevpnatm 
@@ -55,6 +56,7 @@ Not Match: https://t.me/s/irv2rey
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -95,6 +97,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -118,6 +121,7 @@ Not Match: https://t.me/s/serversiran11
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
 Other Error: https://t.me/s/shadowsockskeys 
+Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -139,6 +143,7 @@ Bad Response: https://t.me/s/v2rang_da
 Not Match: https://t.me/s/v2rang_da 
 Not Match: https://t.me/s/v2raxx 
 Not Match: https://t.me/s/v2ray03 
+Other Error: https://t.me/s/v2ray1_ng 
 Not Match: https://t.me/s/v2ray_83 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
@@ -150,7 +155,6 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -183,7 +187,7 @@ Bad Configs: https://t.me/s/vpn_kade01
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
-Bad Configs: https://t.me/s/vpnserverrr 
+Not Match: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 

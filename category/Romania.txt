@@ -1,1 +1,1 @@
-vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🇷🇴 RO | 185.202.92.113
+vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?security=reality&encryption=none&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rm2.magazinnarubeva.ru&sid=8718c58d3d51db59#🇷🇴 RO | 196.245.156.30
