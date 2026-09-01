@@ -1,6 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV00xWQ==@138.124.15.120:8388#🇫🇮 FI | 138.124.15.120
 vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#🇫🇮 FI | 45.136.126.70
-vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5gYvnzEnIBByr3VdAeEYMNgQ3XoUKYpHKRl09spFWU&sid=5dea88&spx=/naranv2ray&type=tcp&headerType=none#🇫🇮 FI | 87.58.153.39
 vless://65329316-aca9-4825-8118-f85786865f0f@31.77.140.186:443?security=reality&encryption=none&pbk=LnqXh7T2HqjVkKahlPGiHyCMwkZeK1ox56K9GZTdyAc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇫🇮 FI | 31.77.140.186
-vless://785923c4-0b40-43b4-8506-523e31578d21@87.58.153.39:8443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=safari&pbk=v5gYvnzEnIBByr3VdAeEYMNgQ3XoUKYpHKRl09spFWU&sid=5dea88&spx=/naranv2ray&type=tcp&headerType=none#🇫🇮 FI | 87.58.153.39
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://b94a01b6-8974-4609-bc72-ae72e526a312@95.216.142.36:443?path=/we&security=none&encryption=none&host=amp-api-edge.apps.apple.com&type=ws#🇫🇮 FI | 95.216.142.36

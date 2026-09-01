@@ -17,6 +17,7 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
@@ -139,7 +140,6 @@ Not Match: https://t.me/s/v2rang_da
 Not Match: https://t.me/s/v2raxx 
 Not Match: https://t.me/s/v2ray03 
 Not Match: https://t.me/s/v2ray_83 
-Not Match: https://t.me/s/v2ray_cartel 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
 Bad Response: https://t.me/s/v2ray_sub 
@@ -153,9 +153,9 @@ Bad Configs: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
-Bad Configs: https://t.me/s/v2raymelliii 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
+Bad Configs: https://t.me/s/v2rayngrit 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
 Not Match: https://t.me/s/v2rayvpn2 
