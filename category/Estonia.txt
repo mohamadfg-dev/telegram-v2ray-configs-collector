@@ -1,1 +1,2 @@
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?encryption=none&security=tls&type=tcp#🇪🇪 EE | 94.183.170.135
 vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#🇪🇪 EE | 5.45.117.125
