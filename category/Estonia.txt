@@ -1,1 +1,1 @@
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@132.243.65.170:443?security=reality&encryption=none&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=magazin5.mervi.icu&sid=07818960cc7c3581#🇪🇪 EE | 132.243.65.170
+vless://c7e9c591-2764-423a-afca-efbd010fd396@5.45.117.125:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=freeuse.firta.ru&fp=chrome&type=ws&allowInsecure=0&sni=freeuse.firta.ru#🇪🇪 EE | 5.45.117.125
