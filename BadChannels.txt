@@ -55,6 +55,7 @@ Not Match: https://t.me/s/irv2rey
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -94,6 +95,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -109,15 +111,13 @@ Not Match: https://t.me/s/rockettunnel
 Not Match: https://t.me/s/rojproxy 
 Not Match: https://t.me/s/satellitenewspersian 
 Not Match: https://t.me/s/savagenet 
-Not Match: https://t.me/s/server444 
 Bad Response: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/serverii 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
-Bad Configs: https://t.me/s/skivpn 
-Bad Configs: https://t.me/s/skivpn 
+Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -153,7 +153,6 @@ Bad Configs: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
-Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Bad Configs: https://t.me/s/v2rayngrit 
