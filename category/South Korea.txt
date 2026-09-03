@@ -1,1 +1,1 @@
-vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&encryption=none&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 KR | 43.202.46.25
+vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1&packetEncoding=xudp#🇰🇷 KR | 130.94.30.252
