@@ -1,1 +1,1 @@
-vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?security=reality&encryption=none&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=://microsoft.com&sid=183d612c#🇮🇱 IL | 37.142.205.77
+vless://2b9581e5-dc45-4ed6-90b2-6ec817f7dab5@i---s---r---a.cd2-ger1.ir:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇮🇱 IL | 92.118.124.45

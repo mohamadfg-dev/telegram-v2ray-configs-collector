@@ -1,7 +1,13 @@
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=passport.yandex.ru&alpn=http/1.1&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&headertype=none#🇫🇷 FR | 161.97.160.224
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇷 FR | 172.239.26.184
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2083?fp=ios&security=tls&serviceName=grpc&type=grpc#🇫🇷 FR | 45.144.28.39
+vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&encryption=none&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo&host=status.play.google.com&headerType=none&fp=chrome&spx=/&type=tcp&sni=status.play.google.com&sid=5030#🇫🇷 FR | 213.136.92.67
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=/&security=reality&encryption=none&extra={
+  "scMaxEachPostBytes" : "4194304-8388608",
+  "seqPlacement" : "query",
+  "uplinkChunkSize" : "32768-65536",
+  "uplinkHTTPMethod" : "POST"
+}&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=/&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#🇫🇷 FR | 31.220.86.213
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.181.4.41:443#🇫🇷 FR | 35.181.4.41
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://5b3fa84b-376e-400d-8a97-34e557b0d89c@fr3.green-tg.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.lovelace.com&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&sid=abd0f00f85f814a1#🇫🇷 FR | 83.136.208.168

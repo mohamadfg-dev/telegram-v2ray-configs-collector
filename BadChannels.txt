@@ -90,7 +90,6 @@ Not Match: https://t.me/s/orgempirenet
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
-Not Match: https://t.me/s/payam_nsi 
 Not Match: https://t.me/s/pistachiovpn 
 Bad Configs: https://t.me/s/proxie 
 Not Match: https://t.me/s/proxse11 
@@ -120,6 +119,8 @@ Not Match: https://t.me/s/serversiran11
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
 Bad Configs: https://t.me/s/singbox1 
+Bad Configs: https://t.me/s/skivpn 
+Bad Configs: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
