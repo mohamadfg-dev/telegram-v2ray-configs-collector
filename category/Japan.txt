@@ -1,1 +1,2 @@
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&type=raw&security=none&headertype=none#🇯🇵 JP | 152.69.195.67
 vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@43.163.241.110:24477?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 JP | 43.163.241.110

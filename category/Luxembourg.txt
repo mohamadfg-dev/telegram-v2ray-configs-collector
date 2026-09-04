@@ -1,1 +1,1 @@
-vless://e21043ee-1d6b-4ea8-8781-203e6babae68@107.189.7.176:443?type=tcp&encryption=none&security=#🇱🇺 LU | 107.189.7.176
+vless://1d38d2b2-342f-4a01-93df-f24fb0277c70@193.239.179.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.asia&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#🇱🇺 LU | 193.239.179.15

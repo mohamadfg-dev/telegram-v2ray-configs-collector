@@ -1,4 +1,4 @@
 vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 91.228.227.172
 vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 TR | 91.228.227.172
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://d2edc028-3452-46b5-8098-c22690cd4549@istan.zavqeron.ir:8444?security=reality&encryption=none&pbk=4_-SYNUa6FNFe4yKiomBiyW9UqUZwlJfA8LnXZ0QRXA&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=68d2d5f8#🇹🇷 TR | 153.52.92.77
+vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=www.zelnora.ir&fp=edge&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#🇹🇷 TR | 153.52.92.160
