@@ -1,2 +1,1 @@
 vless://66824c94-7ba9-4113-908e-bd793f296852@45.195.111.108:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🇭🇺 HU | 45.195.111.108
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇭🇺 HU | 46.29.142.57
