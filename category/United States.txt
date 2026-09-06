@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlpsTg@138.124.68.88:8388#🇺🇸 US | 138.124.68.88
 vless://5cb1dfeb-4d93-4a96-89ca-47cf1699f813@sakura.proxy.rlwy.net:43756?path=/&security=none&encryption=none&type=ws#🇺🇸 US | 66.33.22.221
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸 US | 45.207.207.25
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇺🇸 US | 45.207.207.25
 vless://XpnTeam-66@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 vless://b6606cb0-e15d-4813-94af-985028c4b9f3@138.124.123.127:2086?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 US | 138.124.123.127
@@ -12,7 +11,6 @@ vless://d8b3f1c4-94c7-423e-a03a-bfa7f6af0ea1@151.101.56.9:80?encryption=none&typ
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9MZXZpa29Db25maWciLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVUyB8IDE2NS4xNDAuMjE2LjE0MiIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzEzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://b813cbc9-dc15-4348-9765-b99dc76d4422@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸 US | 199.232.78.159
 vless://7b682205-0633-a497-df55-9504e7f91d58@69.46.46.109:443?mode=stream-up&path=/xhttp-siz10/stream-up/7b682205-0633-a497-df55-9504e7f91d58&security=tls&alpn=h2&encryption=none&host=hidden-reef-e3ed-production.up.railway.app&fp=ios&type=xhttp&sni=hidden-reef-e3ed-production.up.railway.app#🇺🇸 US | 69.46.46.109
-vless://XpnTeam-66@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 vless://XpnTeam-68@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 199.232.78.160
 trojan://MiTiVPN@151.101.56.7:443?path=/---TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 US | 151.101.56.7
 vless://6bd94ee9-3c63-43d2-8f19-31570cfbef25@narcod-ping.numallaf.shop:58978?type=tcp&path=/&host=zula.ir&headerType=http&security=none#🇺🇸 US | 103.224.182.216

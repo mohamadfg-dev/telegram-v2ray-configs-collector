@@ -1,6 +1,6 @@
-vless://30980395-1884-483f-95d1-2b7c26928e3c@Fi.horlutr.ir:11437?security=reality&encryption=none&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=7de83d0e31eb75ef#🇫🇮 FI | 193.233.136.157
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&security=tls&sni=132-243-223-227.sslip.io&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=fi-grpc-test&mode=gun#🇫🇮 FI | 132.243.223.227
 vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?path=/websocket?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=31.76.21.44.fwqfw783rg2dad.website#🇫🇮 FI | 31.76.21.44
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@45.136.126.70:8443?security=reality&encryption=none&pbk=6f8KzwYy7MVdBKzDM_Wt_SiKEjZyg1dl1zdR_MoUM3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=67933d8be5b42f78#🇫🇮 FI | 45.136.126.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUNkljVXBjVngwWTg1RHhTVGdYZTRB@86.38.182.226:97#🇫🇮 FI | 86.38.182.226
 vless://91a32c70-7a90-42ca-94d5-cd44b98cd262@www.e.mobilenarges.ir:7333?security=reality&alpn=http/1.1&encryption=none&pbk=isO0qF2Xg6UI1GKARgfg9UHZSrrUBcOazkz04mTl-kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=0f62cf6250eb31c0#🇫🇮 FI | 65.109.211.133
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18

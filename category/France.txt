@@ -15,6 +15,4 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&securi
 vless://5b3fa84b-376e-400d-8a97-34e557b0d89c@fr3.green-tg.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.lovelace.com&pbk=qQ4l40OckukEo2OoCTIpLrxBHKRa277XXhUAf3SYEhM&sid=abd0f00f85f814a1#🇫🇷 FR | 83.136.208.168
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.129.194:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.129.194
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.74.87
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.126.219:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.126.219
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.74.87
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.74.87:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.74.87
