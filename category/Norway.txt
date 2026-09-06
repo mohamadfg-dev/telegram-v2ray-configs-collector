@@ -1,3 +1,3 @@
 vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#🇳🇴 NO | 194.110.207.59
-vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#🇳🇴 NO | 194.110.207.59
+vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?security=reality&encryption=none&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&headerType=none&fp=qq&type=tcp&sni=deepl.com&sid=f7b2#🇳🇴 NO | 46.29.238.88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇳🇴 NO | 45.87.175.193
