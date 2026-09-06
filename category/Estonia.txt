@@ -1,1 +1,1 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?security=tls&encryption=none&sni=estproxy4.lockdwn.com&alpn=h2,http/1.1&fp=edge#🇪🇪 EE | 94.183.170.135
+vless://d9d0f208-d582-41d5-bb7b-742671402810@138.124.183.18:443?security=reality&encryption=none&pbk=2yLrSZNVyK-n2NSJuVnkokYlFS4q07OT_CfGrDiTRhY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eu-east-es-1.hanvpn.biz&sid=25b5a7681806bc97#🇪🇪 EE | 138.124.183.18

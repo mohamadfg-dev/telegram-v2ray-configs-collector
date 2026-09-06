@@ -1,4 +1,5 @@
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&security=tls&sni=132-243-223-227.sslip.io&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=fi-grpc-test&mode=gun#🇫🇮 FI | 132.243.223.227
 vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443?security=reality&encryption=none&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&sid=3fa234ea9feaa048#🇫🇮 FI | 185.246.191.243
+vless://451e66db-b18f-4e29-a670-1431353f9b28@gcfme16k8pt1tk14vm5g.novexgroup.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&sid=03290875973f3e16&type=tcp&headerType=none#🇫🇮 FI | 212.147.234.0
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#🇫🇮 FI | 31.76.88.10
