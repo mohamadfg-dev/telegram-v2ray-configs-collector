@@ -1,1 +1,14 @@
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs13.mcufa.pro:443?encryption=none&security=tls&sni=xs13.mcufa.pro&fp=firefox&type=xhttp&host=xs13.mcufa.pro&path=/api/v1/minecraft178/sync/&mode=packet-up&extra={"scMaxEachPostBytes":1000000,"uplinkDataPlacement":"body","uplinkHTTPMethod":"GET","xmux":{"cMaxLifetimeMs":0,"cMaxReuseTimes":"36-96","hMaxRequestTimes":"320-640","hMaxReusableSecs":"720-1800","maxConcurrency":"8-32","maxConnections":0}}#🇦🇪 AE | 188.72.103.4
+vless://0764541b-3e57-4b47-954b-51e996fae5fc@xs14.mcufa.pro:443?sni=xs14.mcufa.pro&insecure=0&path=/api/v1/minecraft178/sync/&encryption=none&security=tls&fp=firefox&mode=packet-up&extra={
+  "scMaxEachPostBytes" : 1000000,
+  "uplinkDataPlacement" : "body",
+  "uplinkHTTPMethod" : "GET",
+  "xmux" : {
+    "cMaxLifetimeMs" : 0,
+    "cMaxReuseTimes" : "36-96",
+    "hMaxRequestTimes" : "320-640",
+    "hMaxReusableSecs" : "720-1800",
+    "maxConcurrency" : "8-32",
+    "maxConnections" : 0
+  }
+}&type=xhttp&host=xs14.mcufa.pro&allowInsecure=0#🇦🇪 AE | 188.72.103.4
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxMDkuNjEuMTguMTg4IiwiYWRkIjoiMTA5LjYxLjE4LjE4OCIsInBvcnQiOiI4MCIsImlkIjoiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9

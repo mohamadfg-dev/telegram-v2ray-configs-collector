@@ -11,7 +11,6 @@ vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode
 vless://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=/?ed=2052&security=none&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#🏴‍☠️ UN | main.systemgamingirani.ir
 vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#🏴‍☠️ UN | mtn.venzo.com.tr
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=none&encryption=none&type=ws&path=/#🏴‍☠️ UN | light-presence.oneeat.co
-vless://0d76128c-0525-439f-9737-bd2dcb315a6d@Ipv6.acangame.ir:446?type=grpc&serviceName=&authority=&security=none#🏴‍☠️ UN | Ipv6.acangame.ir
 vless://47a508c1-2a1f-4af9-8462-b30ec9d188e6@amir.itur.store:48213?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🏴‍☠️ UN | amir.itur.store
 ss://YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==?plugin=obfs;obfs=http;obfs-host=2fce243671.download.windowsupdate.com#🏴‍☠️ UN | YWVzLTEyOC1nY206UUhQeTJ1QDI2MDMyMy4xLjAubDMudW5jbGVtYW5jby5jb206OTAyMg==
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&security=tls&sni=de.catxstar.com#🏴‍☠️ UN | hkdcrtc-e.catcat321.com

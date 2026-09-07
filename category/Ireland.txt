@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYa1kxc1VFY0hHNkIzalR3@52.236.93.60:443#🇮🇪 IE | 52.236.93.60
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🇮🇪 IE | 20.223.136.145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnTXZ1T0oyQmh0aldtampY@52.236.93.60:443#🇮🇪 IE | 52.236.93.60
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.242.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇮🇪 IE | 54.171.242.155
