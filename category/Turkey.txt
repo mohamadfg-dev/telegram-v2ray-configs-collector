@@ -1,5 +1,3 @@
 vless://2ec96eda-403b-46ba-9c75-753f01290af2@212.115.103.189:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=WwW.uNScRamBLeReR.cOM.&headerType=http&type=tcp#🇹🇷 TR | 212.115.103.189
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
-vless://a27c7e29-9120-40c1-9cd5-3e6ac4d60577@158.94.216.175:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca41ef1263c02279#🇹🇷 TR | 158.94.216.175
-vless://a9169cac-0e9b-4e6b-a5f1-861d29df9cda@turkii.parsclad.ir:22491?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g4YeImudDPGxprH2bSiQkh3UjBRzfl1rjRf-kV1g5U4&sid=b5bb955bbc&spx=/037108cf7ff5611&type=xhttp&path=/&mode=auto&extra=#🇹🇷 TR | 45.74.159.28
