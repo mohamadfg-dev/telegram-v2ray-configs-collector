@@ -1,1 +1,2 @@
-vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1&packetEncoding=xudp#🇰🇷 KR | 130.94.30.252
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.141.168:47590?security=tls&sni=a.ssll.gay&type=ws&path=/#🇰🇷 KR | 146.56.141.168
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.141.168:47590?security=tls&sni=a.ssll.gay&type=ws&path=/#🇰🇷 KR | 146.56.141.168
