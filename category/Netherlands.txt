@@ -1,2 +1,1 @@
 vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@neth9.lunariai.ru:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇳🇱 NL | 192.145.31.5
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@150.241.68.208:443?encryption=none&allowInsecure=0&type=ws&path=/cdn/v3/live&host=cf13.rumedia-cdn.com&alpn=http/1.1&insecure=0&fp=firefox&sni=cf13.rumedia-cdn.com&security=tls#🇳🇱 NL | 150.241.68.208
