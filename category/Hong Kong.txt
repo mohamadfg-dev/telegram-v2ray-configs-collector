@@ -1,3 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgMTU2LjI0NS4yMzIuMjM5IiwiYWRkIjoiMTU2LjI0NS4yMzIuMjM5IiwicG9ydCI6IjM1MDQzIiwiaWQiOiJiMTVlNDgxZC0xN2U0LTQxYTgtODRjMi0yM2Q0ZjA1MTRkOWEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiMTU2LjI0NS4yMzIuMjM5IiwicGF0aCI6Ii8ifQ==
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.214.139:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#undefined HK | 47.76.214.139
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#undefined HK | 130.12.102.132
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#undefined HK | 130.12.102.131
