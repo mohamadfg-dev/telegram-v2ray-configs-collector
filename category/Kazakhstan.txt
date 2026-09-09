@@ -1,1 +1,1 @@
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@kz.alertyagency.com:443?security=reality&encryption=none&pbk=vsDwubDjDjfLpWAHRNFGVfmC8hLiXDablO1iOOXdUhQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=01e4de88#🇰🇿 KZ | 5.180.42.103
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#🇰🇿 KZ | 178.236.17.86
