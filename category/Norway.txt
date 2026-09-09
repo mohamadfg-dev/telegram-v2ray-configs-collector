@@ -1,3 +1,2 @@
-vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443?security=reality&encryption=none&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kibi-institut.de&sid=f576da5e05a1d4d2#🇳🇴 NO | 194.110.207.59
-vless://202e15ee-7e79-40ad-979f-700e100c21c5@194.110.207.70:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#🇳🇴 NO | 194.110.207.70
+vless://14eb2c19-89ba-4a10-bd52-cbf6a5f5cae0@194.110.207.48:443?fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sni=kibi-institut.de&security=reality&sid=fd55b698ee8c3629&headerType=none&flow=xtls-rprx-vision&type=tcp&encryption=none#🇳🇴 NO | 194.110.207.48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#🇳🇴 NO | 45.87.175.193
