@@ -1,1 +1,5 @@
-vless://6ecee37e-5ba6-4416-8bfc-7c680edd2202@gy.paydar.site:443?security=none&encryption=none&host=mio.foltmeingop.co.uk&headerType=http&type=tcp#🇷🇴 RO | 82.152.132.35
+vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=/assets/v2/pkg&security=reality&encryption=none&extra={
+  "xmux": {
+    "maxConcurrency": "16-32"
+  }
+}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#🇷🇴 RO | 37.46.196.85
