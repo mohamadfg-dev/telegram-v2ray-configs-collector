@@ -1,1 +1,1 @@
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=security.debian.org#🇬🇷 GR | 185.126.238.87
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=none&encryption=none&authority=/TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1,TELEGRAM_AZARBAYJAB1&type=grpc&serviceName=security.debian.org#🇬🇷 GR | 185.126.238.87
