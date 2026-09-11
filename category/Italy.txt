@@ -1,4 +1,4 @@
-vless://7aeb58b8-7817-45af-ba26-e27583bc9a8e@31.76.113.202:8443?security=reality&encryption=none&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.sciencedirect.com&sid=a1b2c4d4a1b2c5d5#🇮🇹 IT | 31.76.113.202
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
+ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ@132.243.255.3:30111#🇮🇹 IT | 132.243.255.3
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 IT | 57.131.32.191

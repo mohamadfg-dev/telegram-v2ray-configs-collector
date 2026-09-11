@@ -1,2 +1,1 @@
-vless://231e9d63-d944-4f9a-b704-4ca88e24a32c@5.8.35.177:8443?path=/hndr&security=reality&encryption=none&pbk=nA75KL8M3eReHaouQpRtrx9OSobZpQHtNIGQPjv6PE0&fp=chrome&type=xhttp&sni=www.wikipedia.org&sid=0e10fa8d77a925cf#🇮🇳 IN | 5.8.35.177
 vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@179.61.227.145:2083?security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets.pleiades.codes&sid=d3124debabf1456c#🇮🇳 IN | 179.61.227.145

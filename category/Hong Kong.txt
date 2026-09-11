@@ -1,1 +1,3 @@
+vmess://eyJ2IjoiMiIsInBzIjoidW5kZWZpbmVkIEhLIHwgMTAzLjI0MC4xOTcuMTEyIiwiYWRkIjoiMTAzLjI0MC4xOTcuMTEyIiwicG9ydCI6IjU1MzE0IiwiaWQiOiJiZGI2ODYyOS0xYzZhLTRlZWQtODA4My03ZDQzNzlhMmRkNTIiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Imh0dHAifQ==
+vless://b28936a7-c11a-4147-8806-b66efd1658a8@45.144.137.129:41923?security=reality&encryption=none&pbk=7YfjX8TsT3HL0ZzvovjEDOLCM142j3bFcorv-Gs-m2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#undefined HK | 45.144.137.129
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#undefined HK | 130.12.102.143
