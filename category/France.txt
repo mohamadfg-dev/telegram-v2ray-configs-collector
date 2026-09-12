@@ -1,4 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.252.3:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.252.3
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.129:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 35.181.146.129
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.183.186:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.188.183.186

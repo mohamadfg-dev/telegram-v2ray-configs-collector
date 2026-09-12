@@ -1,1 +1,2 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.113
 vless://8666ab45-8e3d-4988-841b-2561d91e32d5@103.119.18.30:443?path=/proxyip=154.3.33.43&security=tls&encryption=none&host=mianfei-73q.pages.dev&type=ws&sni=mianfei-73q.pages.dev#🇨🇿 CZ | 103.119.18.30
