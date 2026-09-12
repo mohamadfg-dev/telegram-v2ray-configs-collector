@@ -9,6 +9,7 @@ Bad Configs: https://t.me/s/nim_vpn_ir
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/asak_vpn 
+Not Match: https://t.me/s/avaalvpn 
 Bad Response: https://t.me/s/bislullproxy 
 Not Match: https://t.me/s/bislullproxy 
 Not Match: https://t.me/s/black_vpn1 
@@ -16,7 +17,6 @@ Not Match: https://t.me/s/canfing_vpn
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
-Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
@@ -42,6 +42,7 @@ Not Match: https://t.me/s/ghalagyann
 Not Match: https://t.me/s/ghalagyann2 
 Bad Response: https://t.me/s/ghotb_scarf 
 Not Match: https://t.me/s/ghotb_scarf 
+Not Match: https://t.me/s/hacknashid 
 Not Match: https://t.me/s/hormozvpn 
 Not Match: https://t.me/s/imhdiyvp 
 Bad Response: https://t.me/s/info_2it_channel 
@@ -146,6 +147,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
