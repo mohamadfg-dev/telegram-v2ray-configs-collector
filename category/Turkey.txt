@@ -1,3 +1,4 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.178
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@188.132.174.236:1080#🇹🇷 TR | 188.132.174.236
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
+vless://19765095-98d7-47de-8172-599cf7668a7e@158.94.216.134:53341?security=reality&encryption=mlkem768x25519plus.native.0rtt.C01N560fAWEkiQCWh4qPi7rnKJ-wCiCGT7h3NnBRb3w&pbk=eSSad_b1os9tgoQHJD2qjRfD873Md_c0iaWSVBqM9DI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9dc0c499daa85792#🇹🇷 TR | 158.94.216.134
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
