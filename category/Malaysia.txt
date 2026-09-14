@@ -1,1 +1,1 @@
-vless://7caf75cd-43e2-4d90-9df1-de2396875b3f@43.217.131.214:34581?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.sony.com&fp=firefox&pbk=DzJipJKxpMfjwDmcs2YxsQ56EAwp0PgmYjdqwlMgDBQ&sid=b7e1be34c9975c6e&allowinsecure=0&type=tcp&headerType=none#🇲🇾 MY | 43.217.131.214
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTVkgfCA0Ny4yNTAuNDUuMjM0IiwiYWRkIjoiNDcuMjUwLjQ1LjIzNCIsInBvcnQiOiI0MzA2MyIsImlkIjoiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgifQ==
