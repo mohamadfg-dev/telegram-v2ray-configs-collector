@@ -1,1 +1,1 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&fp=firefox&sni=estproxy4.lockdwn.com#🇪🇪 EE | 94.183.170.135
+vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@185.252.177.180:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ee1.hat.onl&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894#🇪🇪 EE | 185.252.177.180
