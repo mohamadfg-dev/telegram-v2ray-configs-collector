@@ -1,1 +1,2 @@
 vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?security=reality&sni=github.com&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇯🇵 JP | 156.246.88.125
+vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#🇯🇵 JP | 31.76.91.72
