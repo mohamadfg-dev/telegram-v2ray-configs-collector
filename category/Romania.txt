@@ -1,1 +1,1 @@
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@85.90.196.203:443?security=reality&encryption=none&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ro1.hat.onl&sid=76132b3b39704c44#🇷🇴 RO | 85.90.196.203
+vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#🇷🇴 RO | 46.28.67.55
