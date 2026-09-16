@@ -1,4 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.180
-vmess://eyJhZGQiOiI5MS4yMjguMjI3LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5Mjk4N2FiOC0wYTUzLTRhMTYtOGQ2Yy0yOTVkNWRmODY0MDQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIzOTU3IiwicHMiOiLwn4e58J+HtyBUUiB8IDkxLjIyOC4yMjcuMjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209

@@ -61,7 +61,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Other Error: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -87,7 +87,6 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
-Other Error: https://t.me/s/outline_ir 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
@@ -96,7 +95,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -119,8 +117,7 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
-Other Error: https://t.me/s/shadowsockskeys 
-Bad Configs: https://t.me/s/singbox1 
+Not Match: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -128,6 +125,7 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
+Bad Configs: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
@@ -164,14 +162,12 @@ Not Match: https://t.me/s/v2rayngvpn
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Other Error: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Not Match: https://t.me/s/vipv2rayngnp 
-Other Error: https://t.me/s/vmess_ir 
 Not Match: https://t.me/s/vmess_iran 
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 

@@ -1,1 +1,1 @@
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?mode=gun&security=&encryption=none&fm=https://t.me/ShadowFlux2&type=grpc&serviceName=security.debian.org#🇬🇷 GR | 185.126.238.87
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083?encryption=none&security=none&type=grpc&authority=&serviceName=security.debian.org&mode=gun#🇬🇷 GR | 185.126.238.87
