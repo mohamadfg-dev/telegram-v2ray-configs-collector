@@ -1,1 +1,1 @@
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#🇷🇴 RO | 46.28.67.55
+vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=/&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#🇷🇴 RO | 87.58.205.88

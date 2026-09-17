@@ -1,1 +1,2 @@
-vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?path=/pyip=Telegram🇨🇳 @WangCai2&security=none&encryption=none&host=floral-thunder-10d3.82-67d.workers.dev&type=ws#🇧🇿 BZ | 45.131.208.4
+vless://b2593749-691c-428c-9481-14979cba3446@nl4.zuoai.cf:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip=us.xiabibi.cf#🇧🇿 BZ | 45.131.6.205
+vless://b2593749-691c-428c-9481-14979cba3446@nl4.zuoai.cf:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip=us.xiabibi.cf#🇧🇿 BZ | 45.131.7.162

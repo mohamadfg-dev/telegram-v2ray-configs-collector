@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:3#🇲🇰 MK | 185.203.4.204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTZFZng4eWlDU0REcHZ2cHhYTDhR@185.203.4.204:1#🇲🇰 MK | 185.203.4.204
+vless://e3ec2866-96cd-4cc3-86c9-e7336ea2fbc2@185.203.4.218:443?mode=auto&path=/xh&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ger-04.hello-there.ru&fp=firefox&type=xhttp&allowInsecure=0&sni=ger-04.hello-there.ru#🇲🇰 MK | 185.203.4.218
