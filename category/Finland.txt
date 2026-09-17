@@ -5,6 +5,6 @@ vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?
 vless://56831930-677b-4fdc-aa9a-46c9a77f9f7d@nbsowowujejrir.vipneninet.ir:56231?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇫🇮 FI | 65.109.193.197
 vless://Tlegram:Nap_v2ray@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.193.102
 vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.193.102
-vless://Teelegram:V2rayng_Fast@65.109.193.102:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.193.102
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
+vless://d65a82af-a403-405e-8b7b-27a68b830511@freeman.cvbesty.ir:10210/?type=grpc&encryption=none&flow=&sni=play-apps-features.googleusercontent.com&fp=chrome&security=reality&pbk=twRm8a1BBdz2Q5jTuNbXxA7ZdtDPAyQNEycDYkW9DFc&sid=13121b7150ad7fc6#🇫🇮 FI | 95.217.237.195
 vless://Tel:archivd_android@65.109.193.102:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇫🇮 FI | 65.109.193.102

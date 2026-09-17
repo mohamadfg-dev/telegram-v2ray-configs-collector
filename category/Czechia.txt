@@ -1,1 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.105
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.109
+vmess://eyJhZGQiOiJzZy12LnNzaG1heC54eXoiLCJhaWQiOjAsImhvc3QiOiJzZy12LnNzaG1heC54eXoiLCJpZCI6IjBiYWFmMDE0LWFmMDQtNDAyOC1iZTUzLWY1Yzc1YmIyNzZhZSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IvCfh6jwn4e/IENaIHwgNDYuOC44LjIyOCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
