@@ -1,2 +1,1 @@
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.218:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🇮🇳 IN | 5.253.28.218
-vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@179.61.227.145:2083?security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets.pleiades.codes&sid=d3124debabf1456c#🇮🇳 IN | 179.61.227.145
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇮🇳 IN | 5.253.42.164
