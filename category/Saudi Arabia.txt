@@ -1,1 +1,4 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=/?ed=2048&security=none&encryption=none&host=CHANNEL---ELiV2RAY-ELiV2RAY.IR&type=ws#🇸🇦 SA | 199.232.123.12
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.229:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&fp=chrome#🇸🇦 SA | 91.209.253.229
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.68:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&fp=chrome#🇸🇦 SA | 91.209.253.68
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.229:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&fp=chrome#🇸🇦 SA | 91.209.253.229
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@91.209.253.68:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&fp=chrome#🇸🇦 SA | 91.209.253.68
