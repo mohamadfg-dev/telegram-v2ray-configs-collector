@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovUUZ5Y2IwMmQ4N2NCeUM5KzVaUlN5Z0kxYXZIaVBYa2dZRzJ5YytUbkdBPQ@130.49.189.158:43558#🇦🇱 AL | 130.49.189.158
+vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@144.31.131.38:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=prod.pl-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🇦🇱 AL | 144.31.131.38
