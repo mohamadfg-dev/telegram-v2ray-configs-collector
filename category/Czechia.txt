@@ -1,1 +1,2 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.163
+vless://f6b58665-c524-4c60-a939-d8f27123e079@cz-1.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b.cz-1.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&authority=&serviceName=grpc&mode=gun#🇨🇿 CZ | 46.8.113.65
+vless://f6b58665-c524-4c60-a939-d8f27123e079@cz-1.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b.cz-1.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&authority=&serviceName=grpc&mode=gun#🇨🇿 CZ | 46.8.113.65
