@@ -1,1 +1,1 @@
-vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.quattro-tech.ru&sid=43dcff53849b81e6#🇦🇹 AT | 152.53.1.40
+vless://950beaff-a665-4b36-baad-2251ba6bbd6a@152.53.102.127:443?security=reality&encryption=none&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lstu.ru&sid=848b53fea10a561e#🇦🇹 AT | 152.53.102.127
