@@ -1,1 +1,1 @@
-vless://950beaff-a665-4b36-baad-2251ba6bbd6a@152.53.102.127:443?security=reality&encryption=none&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lstu.ru&sid=848b53fea10a561e#🇦🇹 AT | 152.53.102.127
+vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?fp=firefox&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&flow=xtls-rprx-vision&type=tcp&sni=filesconvert.org&encryption=none&security=reality&sid=10debbdf94767541#🇦🇹 AT | 67.159.17.62
