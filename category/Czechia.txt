@@ -1,1 +1,3 @@
-vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#🇨🇿 CZ | 153.76.185.84
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.111:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&allowInsecure=1#🇨🇿 CZ | 195.85.23.111
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.112
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@195.85.23.111:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf&allowInsecure=1#🇨🇿 CZ | 195.85.23.111

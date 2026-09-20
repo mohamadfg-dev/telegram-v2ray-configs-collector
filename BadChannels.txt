@@ -6,6 +6,7 @@ Bad Response: https://t.me/s/heyatserver
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
+Bad Configs: https://t.me/s/keysOutline 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/asak_vpn 
@@ -85,6 +86,7 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
+Bad Configs: https://t.me/s/outlineopenkey 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
