@@ -1,2 +1,1 @@
-vless://f6b58665-c524-4c60-a939-d8f27123e079@cz-1.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b.cz-1.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&authority=&serviceName=grpc&mode=gun#🇨🇿 CZ | 46.8.113.65
-vless://f6b58665-c524-4c60-a939-d8f27123e079@cz-1.bnc-gt.co.uk:443?encryption=none&security=tls&sni=b.cz-1.bnc-gt.co.uk&fp=qq&alpn=h2&type=grpc&authority=&serviceName=grpc&mode=gun#🇨🇿 CZ | 46.8.113.65
+vless://995b4d19-8c0d-4f81-a199-35a4f1d7744e@153.76.185.84:3090?type=grpc&serviceName=vless&mode=multi&fp=chrome&encryption=none#🇨🇿 CZ | 153.76.185.84
