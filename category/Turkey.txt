@@ -1,8 +1,4 @@
 vmess://eyJhZGQiOiI5MS4yMjguMjI3LjIxMSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5Mjk4N2FiOC0wYTUzLTRhMTYtOGQ2Yy0yOTVkNWRmODY0MDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzOTU3IiwicHMiOiLwn4e58J+HtyBUUiB8IDkxLjIyOC4yMjcuMjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://3e5a79ea-657f-454c-9c5c-3ee6e7159e40@trc.athforce.ir:34733?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=/#🇹🇷 TR | 153.56.184.232
-vless://3e5a79ea-657f-454c-9c5c-3ee6e7159e40@trc.athforce.ir:34733?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=/#🇹🇷 TR | 153.56.184.232
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?encryption=none&host=2.naxm.ir&path=/&security=none&type=wsoliver#🇹🇷 TR | 130.185.120.239
-vless://3e5a79ea-657f-454c-9c5c-3ee6e7159e40@trc.athforce.ir:34733?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com&path=/#🇹🇷 TR | 153.56.184.232
-vless://206a4c50-2eb6-4b7f-b7a5-15c6ab7b3f4c@31.210.52.149:443?security=reality&encryption=none&pbk=HabIMykoF6jIw0rAgi_t3xm_hdWTLFKIpODwNJFjznE&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr-ist-5.blook.network&sid=625a948aab4f#🇹🇷 TR | 31.210.52.149
+vless://20cba9d0-e235-4205-943a-7e6f0b390ec5@zolla2580.karmatel.ir:55519?path=/&security=none&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#🇹🇷 TR | 45.74.178.48

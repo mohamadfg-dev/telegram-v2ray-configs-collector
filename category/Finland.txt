@@ -1,4 +1,6 @@
+vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.217:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip=us.xiabibi.cf#🇫🇮 FI | 212.104.128.217
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&security=tls&sni=132-243-223-227.sslip.io&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=fi-grpc-test&mode=gun#🇫🇮 FI | 132.243.223.227
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇮 FI | 65.109.187.82
-vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?path=/&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#🇫🇮 FI | 212.104.128.27
+vless://b2593749-691c-428c-9481-14979cba3446@fi1.zuoai.cf:443?path=/&security=tls&encryption=none&insecure=0&host=xi.tbv.ccwu.cc&type=ws&allowInsecure=0&sni=xi.tbv.ccwu.cc#🇫🇮 FI | 212.104.128.152
+vless://b2593749-691c-428c-9481-14979cba3446@212.104.128.217:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&path=/proxyip=us.xiabibi.cf#🇫🇮 FI | 212.104.128.217
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
