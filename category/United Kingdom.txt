@@ -1,15 +1,5 @@
 vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=cdn-alman5.arfilter2.blog&type=xhttp#🇬🇧 GB | 25.129.197.233
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.51.174:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 52.56.51.174
-vless://61c71f2f-33dc-43aa-84af-85c8a4232278@104.194.144.237:9990?path=/&security=none&encryption=none&host=104.194.144.237&type=httpupgrade#🇬🇧 GB | 104.194.144.237
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.51.174:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 52.56.51.174
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.74.47:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.132.74.47
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 GB | 94.156.250.148
 vless://b5cb98c1-a6cd-440a-a326-2aaa1885d04b@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇬🇧 GB | 193.46.81.151
-vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&alpn=@.networld_vpn-&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#🇬🇧 GB | 209.127.228.114
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.51.174:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 52.56.51.174
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.51.174:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 52.56.51.174
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.74.47:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.132.74.47
-vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6IvCfh6zwn4enIEdCIHwgNjYuMTYzLjExNy41OCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.51.174:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 52.56.51.174
+vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@chatgpt.com:2082?encryption=none&type=httpupgrade&host=www.chatgpt.com.2.hiphonemobile.top&path=/tfufdfute5wydh&security=none#🇬🇧 GB | 2a06:98c1:3101::6812:202f
