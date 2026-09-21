@@ -1,4 +1,7 @@
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.182
 vmess://eyJhZGQiOiI5MS4yMjguMjI3LjIxMSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5Mjk4N2FiOC0wYTUzLTRhMTYtOGQ2Yy0yOTVkNWRmODY0MDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzOTU3IiwicHMiOiLwn4e58J+HtyBUUiB8IDkxLjIyOC4yMjcuMjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://10cb2689-72fc-418d-8d21-cf625e558bec@212.64.210.109:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr.responsiblecare.uk&sid=c324fdcf18f3390e#🇹🇷 TR | 212.64.210.109
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://c4a36c29-39db-4782-b7cb-6e391461a999@93.190.9.9:3090?encryption=none&type=grpc&mode=multi&fm=AhmadV2ray&security=none&serviceName=vless#🇹🇷 TR | 93.190.9.9
+vless://10cb2689-72fc-418d-8d21-cf625e558bec@212.64.210.109:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tr.responsiblecare.uk&sid=c324fdcf18f3390e#🇹🇷 TR | 212.64.210.109
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
+vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🇹🇷 TR | 93.190.9.58
