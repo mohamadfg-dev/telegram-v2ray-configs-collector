@@ -1,3 +1,2 @@
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?path=%2Farchive%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cdn8848.776676.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn8848.776676.xyz#🇦🇹 AT | 132.243.203.243
-vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=10debbdf94767541&type=tcp&headerType=none#🇦🇹 AT | 67.159.17.62
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇹 AT | 212.183.88.136
+vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#🇦🇹 AT | 67.159.17.62
