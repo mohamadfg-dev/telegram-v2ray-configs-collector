@@ -1,1 +1,4 @@
-vmess://eyJhZGQiOiIyMDMuMzAuMTg5LjE5MCIsImFpZCI6MCwiaG9zdCI6IjIwMy4zMC4xODkuMTkwIiwiaWQiOiI1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNVFOUk9TUlYiLCJwb3J0Ijo0NDMsInBzIjoi8J+Hp/Cfh78gQlogfCAyMDMuMzAuMTg5LjE5MCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vless://b2593749-691c-428c-9481-14979cba3446@nl4.zuoai.cf:443?sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cffp=chrome&security=tls#🇧🇿 BZ | 45.131.5.80
+vless://b2593749-691c-428c-9481-14979cba3446@45.131.5.80:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/#🇧🇿 BZ | 45.131.5.80
+vless://b2593749-691c-428c-9481-14979cba3446@45.131.5.80:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/#🇧🇿 BZ | 45.131.5.80
+vless://b2593749-691c-428c-9481-14979cba3446@45.131.6.205:443?security=tls&sni=xi.tbv.ccwu.cc&type=ws&host=xi.tbv.ccwu.cc&path=/proxyip=us.xiabibi.cf#🇧🇿 BZ | 45.131.6.205
