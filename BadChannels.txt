@@ -27,6 +27,7 @@ Not Match: https://t.me/s/cook_vpn
 Not Match: https://t.me/s/customv2ray 
 Not Match: https://t.me/s/dargiiriis 
 Bad Configs: https://t.me/s/darkfiilter 
+Not Match: https://t.me/s/deamnet_proxy 
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/farstar_vpn 
@@ -73,6 +74,7 @@ Bad Response: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
 Not Match: https://t.me/s/mt_proxy 
+Other Error: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/netaccount 
@@ -94,11 +96,14 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxycrone 
 Not Match: https://t.me/s/proxygodratmand 
+Bad Response: https://t.me/s/prrofile_purple 
+Not Match: https://t.me/s/prrofile_purple 
 Not Match: https://t.me/s/prroxyng 
 Not Match: https://t.me/s/pydriclub 
 Bad Response: https://t.me/s/qafor_1 
@@ -113,6 +118,7 @@ Bad Response: https://t.me/s/server_nekobox
 Not Match: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
+Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -147,7 +153,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
+Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
