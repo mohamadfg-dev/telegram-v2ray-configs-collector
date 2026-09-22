@@ -8,6 +8,7 @@ Not Match: https://t.me/s/abiidar_server
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
+Not Match: https://t.me/s/argo_vpn1 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Bad Response: https://t.me/s/bislullproxy 
@@ -35,6 +36,7 @@ Bad Response: https://t.me/s/freevpnatm
 Not Match: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/g0dv2ray 
 Not Match: https://t.me/s/getconfigir 
+Other Error: https://t.me/s/gh_v2rayng 
 Not Match: https://t.me/s/ghalagyann 
 Not Match: https://t.me/s/ghalagyann2 
 Bad Response: https://t.me/s/ghotb_scarf 
@@ -58,7 +60,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Bad Configs: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -92,9 +94,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
-Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxycrone 
@@ -111,7 +111,6 @@ Not Match: https://t.me/s/savagenet
 Not Match: https://t.me/s/server444 
 Bad Response: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/server_nekobox 
-Not Match: https://t.me/s/serverii 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/skivpn 
@@ -148,6 +147,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -161,7 +161,7 @@ Other Error: https://t.me/s/v2rayprotocol
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Not Match: https://t.me/s/v2ryng01 
+Bad Configs: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 
