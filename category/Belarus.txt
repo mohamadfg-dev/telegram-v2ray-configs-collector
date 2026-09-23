@@ -1,1 +1,1 @@
-vless://91eb52ec-e3f5-4ab9-90da-43104995aef7@144.31.129.2:443?security=reality&encryption=none&pbk=y3EIsxDGDJrBGk3j4YmjI5R_8jiCsEDRDMeL4bv5TTI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=by1.un1.pro&sid=6ba85179e30d4fc2#🇧🇾 BY | 144.31.129.2
+vless://e950cb84-4d46-44f8-ba9a-e6064e7ec2a4@144.31.129.19:443?security=reality&encryption=none&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=media-crown.ru&sid=d9662905#🇧🇾 BY | 144.31.129.19
