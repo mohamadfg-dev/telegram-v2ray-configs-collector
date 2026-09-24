@@ -74,6 +74,7 @@ Bad Response: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
 Not Match: https://t.me/s/mt_proxy 
+Other Error: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/netaccount 
@@ -90,12 +91,10 @@ Not Match: https://t.me/s/orgempirenet
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
-Not Match: https://t.me/s/pistachiovpn 
 Bad Configs: https://t.me/s/proxie 
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
@@ -115,7 +114,6 @@ Bad Response: https://t.me/s/server_nekobox
 Not Match: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
-Not Match: https://t.me/s/shadowproxy66 
 Bad Configs: https://t.me/s/shh_proxy 
 Not Match: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
@@ -141,7 +139,6 @@ Not Match: https://t.me/s/v2raxx
 Not Match: https://t.me/s/v2ray03 
 Not Match: https://t.me/s/v2ray_83 
 Not Match: https://t.me/s/v2ray_cartel 
-Other Error: https://t.me/s/v2ray_collector 
 Not Match: https://t.me/s/v2ray_fd 
 Not Match: https://t.me/s/v2ray_melli 
 Bad Response: https://t.me/s/v2ray_sub 
@@ -152,7 +149,6 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
