@@ -19,6 +19,7 @@ Not Match: https://t.me/s/change_ip1
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
+Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
@@ -74,7 +75,6 @@ Bad Response: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
 Not Match: https://t.me/s/mt_proxy 
-Other Error: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/netaccount 
@@ -114,7 +114,6 @@ Bad Response: https://t.me/s/server_nekobox
 Not Match: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
-Bad Configs: https://t.me/s/shh_proxy 
 Not Match: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -173,7 +172,6 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
-Other Error: https://t.me/s/vmesskhodam 
 Other Error: https://t.me/s/vmessprotocol 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
