@@ -1,3 +1,2 @@
 vless://mahanvpn-mahanvpn@2.56.127.137:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#🇹🇷 TR | 2.56.127.137
-vless://e2b20d7c-8e3e-4122-a997-523f3d6af119@93.190.9.17:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇹🇷 TR | 93.190.9.17
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
