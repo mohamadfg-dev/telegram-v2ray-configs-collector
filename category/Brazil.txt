@@ -1,1 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.36:443?security=tls&sni=kkd.ylks.link&type=ws&path=/#🇧🇷 BR | 185.133.35.36
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.241:8443?mode=auto&path=/&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=firefox&type=xhttp&sni=wikihow.com#🇧🇷 BR | 147.45.116.241
