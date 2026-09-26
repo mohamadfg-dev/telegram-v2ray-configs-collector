@@ -1,2 +1,3 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.181
+vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=&encryption=none&host=play.google.com&type=ws#🇹🇷 TR | 45.74.178.41
+vless://510ffb52-423b-4999-ad81-2d1a9ba8d23b@a6.mobilleali.ir:443?security=reality&encryption=none&pbk=xowcUByfPBL8pmR1K5AG8rrXn0jXDlItm4crVsa2umA&headerType=none&fp=random&spx=/&type=tcp&sni=docs.ansible.com&sid=769a48342f8404f9#🇹🇷 TR | 78.135.77.36
 vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
