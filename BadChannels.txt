@@ -6,6 +6,7 @@ Bad Response: https://t.me/s/heyatserver
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
+Not Match: https://t.me/s/alfred_config 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/asak_vpn 
@@ -164,7 +165,6 @@ Not Match: https://t.me/s/v2rayvlp
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
-Other Error: https://t.me/s/v2ryng01 
 Bad Response: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/v2trayproxy 
 Not Match: https://t.me/s/vip_fragment_v2ray 

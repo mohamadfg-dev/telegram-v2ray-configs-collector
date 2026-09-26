@@ -1,1 +1,2 @@
 vless://d7c94b82-657a-4bb7-9b24-2ae566669835@moldova.cdn-europe.org:4443?security=reality&sni=moldova.cdn-europe.org&fp=random&pbk=cYwrRCz_hKgT_JE8WywuLE3XOkAEqCTuBiUvXAaEjn8&sid=694ee64512cfcbef&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇲🇩 MD | 185.103.167.223
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=/t.me/V2rayBaaz&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#🇲🇩 MD | 89.35.14.30
