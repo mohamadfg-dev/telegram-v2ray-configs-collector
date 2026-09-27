@@ -1,1 +1,2 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.200.0:62145?security=none&encryption=none&headerType=none&type=tcp#🇳🇱 NL | 92.5.200.0
+vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality&encryption=none&pbk=RmsCt_VXBwBC8WF3TqprhXMbu7xZl18dVDwq0kDfqzE&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9d3372aebdef5228#🇳🇱 NL | 5.149.248.227
+vless://bf8c34f4-3c93-4428-8042-8834662d75e6@5.149.248.227:443?security=reality&encryption=none&pbk=RmsCt_VXBwBC8WF3TqprhXMbu7xZl18dVDwq0kDfqzE&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9d3372aebdef5228#🇳🇱 NL | 5.149.248.227
