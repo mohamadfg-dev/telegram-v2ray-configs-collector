@@ -1,1 +1,1 @@
-vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.230
+vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#🇺🇦 UA | 179.254.109.54
