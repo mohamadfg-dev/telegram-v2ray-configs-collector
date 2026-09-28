@@ -1,2 +1,2 @@
 vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@lithuana.hype-serv.xyz:443?security=none&encryption=none&headerType=none&type=tcp#🇱🇹 LT | 84.32.248.118
-vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#🇱🇹 LT | 88.216.127.165
+vless://94877739-3af6-4fbb-85b6-ca6fe86c7696@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#🇱🇹 LT | 88.216.127.171
