@@ -4,4 +4,3 @@ vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&s
 vless://06f86f1b-1fa0-437e-9e5d-8f8cf27bdf96@45.92.219.204:8088?security=reality&encryption=none&pbk=6m_clJWpXHndi176bB428JqroczCuJVMyhfMGuI9wRI&headerType=none&fp=ios&spx=/da033db9ffa4104&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=11e9#🇹🇷 TR | 45.92.219.204
 vless://720814fb-e38e-4570-97a7-c5df60352d37@185.87.24.173:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🇹🇷 TR | 185.87.24.173
 vless://162ff214-21c8-4963-a80a-6200cbad787e@206.1.103.65:6008?encryption=mlkem768x25519plus.native.0rtt.fYKwblQFFkxn9tc6wurCqLsGzGlwuyBQi7d1k283fGI&type=tcp&headerType=none#🇹🇷 TR | 206.1.103.65
-vless://9081f4d6-7271-49ba-bb9e-b4bb6dc0bb1e@87.120.106.125:443?security=tls&encryption=none&headerType=&type=tcp&sni=qbbnomkb5d6c.libreone.com#🇹🇷 TR | 87.120.106.125

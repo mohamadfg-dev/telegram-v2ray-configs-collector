@@ -1,1 +1,2 @@
 vless://37615d66-5467-44a3-bc23-f2c3bef7f761@high-speed-test-01.linkpc.net:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=/a6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#🇯🇵 JP | 13.231.162.235
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645#🇯🇵 JP | 3.114.220.22
