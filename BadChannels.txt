@@ -8,7 +8,6 @@ Not Match: https://t.me/s/abiidar_server
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
-Not Match: https://t.me/s/argo_vpn1 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
 Bad Response: https://t.me/s/bislullproxy 
@@ -55,6 +54,7 @@ Not Match: https://t.me/s/iransoftware90
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Other Error: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 

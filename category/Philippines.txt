@@ -1,1 +1,2 @@
-vless://Channel:telegram:TurboConfigs@61.245.11.28:9090?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇵🇭 PH | 61.245.11.28
+vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh/?@MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=firefox&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#🇵🇭 PH | 45.130.254.193
+vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh/?@MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=firefox&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#🇵🇭 PH | 45.130.254.193
