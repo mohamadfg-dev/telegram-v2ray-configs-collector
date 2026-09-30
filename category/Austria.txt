@@ -1,1 +1,3 @@
-vless://bc221702-dd43-4642-a203-24d8d6a81165@159.195.253.15:8443?path=/au1&security=tls&encryption=none&insecure=0&host=au1.pad-service.com&fp=safari&type=ws&allowInsecure=0&sni=au1.pad-sservice.lat#🇦🇹 AT | 159.195.253.15
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ad-dedic-3.failspace.top:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.28
+vless://dbe7df9a-c846-4305-9bbf-771c1b2f0520@159.195.112.171:443?security=reality&encryption=none&pbk=auZrfyobgU8l8-4_WKsupJVeZMxRJPkXT6ams3na6l0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stream.jugoslavija.uk&sid=a0f54666d5e6fb80#🇦🇹 AT | 159.195.112.171
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ad-dedic-3.failspace.top:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.28

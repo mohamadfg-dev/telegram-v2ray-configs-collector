@@ -1,1 +1,2 @@
-vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@Dashboard-tr-gameservice.iramnew4.ir:32306?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🇹🇷 TR | 45.74.178.209
+vless://5f716928-b19e-4c8d-a70b-6bee4995d7f1@93.190.8.22:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#🇹🇷 TR | 93.190.8.22
+vless://64777aa1-39e7-4133-a682-8c2dc67c0a93@93.190.8.143:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇹🇷 TR | 93.190.8.143
