@@ -1,1 +1,1 @@
-vless://0f99c20f-9c1d-4652-ba22-663b92d0451c@89.125.13.5:443?security=reality&encryption=none&pbk=fq0-crQ05gI8k_y5IefqjXLlLcZy_E9nwbeS0ccSqxs&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=slytherines.novax-ltc.com#🇪🇪 EE | 89.125.13.5
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?encryption=none&security=tls&sni=estproxy4.lockdwn.com&fp=firefox&type=tcp&headerType=none#🇪🇪 EE | 94.183.170.135

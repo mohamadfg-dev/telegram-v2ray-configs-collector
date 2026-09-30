@@ -1,2 +1,1 @@
-vless://5f716928-b19e-4c8d-a70b-6bee4995d7f1@93.190.8.22:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#🇹🇷 TR | 93.190.8.22
-vless://64777aa1-39e7-4133-a682-8c2dc67c0a93@93.190.8.143:3090?encryption=none&type=grpc&serviceName=vless&packetEncoding=xudp#🇹🇷 TR | 93.190.8.143
+vless://dc2fa672-c063-4c0d-b995-483d45db7349@176.96.131.251:1280?path=/&security=none&encryption=none&type=ws#🇹🇷 TR | 176.96.131.251

@@ -1,3 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.29
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ekb.eg&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.29
-vless://bc221702-dd43-4642-a203-24d8d6a81165@159.195.253.15:8443?path=/au1#🇦🇹 AT | 159.195.253.15
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.30
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.30
