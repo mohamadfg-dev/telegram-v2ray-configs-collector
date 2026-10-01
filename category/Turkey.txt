@@ -1,1 +1,2 @@
-vless://dc2fa672-c063-4c0d-b995-483d45db7349@176.96.131.251:1280?path=/&security=none&encryption=none&type=ws#🇹🇷 TR | 176.96.131.251
+vless://3721913e-0ab1-4ee5-a05d-c9e85c72311c@176.96.131.251:1280?path=/&security=none&encryption=none&type=ws#🇹🇷 TR | 176.96.131.251
+vless://6f032731-f429-40e6-85d2-ab30d32ef9ac@93.180.134.171:2044?security=none&encryption=mlkem768x25519plus.native.0rtt.WR4Hx27GjcPW2fcWE-SQK4Qzi69POnKN2BrhzfkiEzg&host=play.google.com&headerType=http&type=tcp#🇹🇷 TR | 93.180.134.171

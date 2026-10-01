@@ -32,7 +32,6 @@ Not Match: https://t.me/s/drvpn_net
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
-Other Error: https://t.me/s/freakconfig 
 Other Error: https://t.me/s/free1_vpn 
 Not Match: https://t.me/s/freevirgoolnet 
 Bad Response: https://t.me/s/freevpnatm 
@@ -149,7 +148,7 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Bad Configs: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
+Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -176,6 +175,7 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
+Not Match: https://t.me/s/vmessorg 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
 Not Match: https://t.me/s/vpn4ir_1 
