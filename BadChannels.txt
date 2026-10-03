@@ -146,6 +146,7 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -156,7 +157,6 @@ Not Match: https://t.me/s/v2rayngn
 Other Error: https://t.me/s/v2rayngseven 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
-Other Error: https://t.me/s/v2rayprotocol 
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
