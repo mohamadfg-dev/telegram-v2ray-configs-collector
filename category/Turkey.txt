@@ -1,1 +1,2 @@
+vless://abc393e1-ff8b-4a4d-bebc-674c231ace97@tr.koomeh.net:80?encryption=none&security=none&type=xhttp&path=/?ed=2048&mode=stream-one#🇹🇷 TR | 62.204.58.8
 vless://5f6dd489-e29a-4238-a731-b82a440ec780@tr.koomeh.net:80?mode=stream-one&path=/?ed=2048&security=&encryption=none&type=xhttp#🇹🇷 TR | 62.204.58.8
