@@ -1,1 +1,1 @@
-vless://1d38d2b2-342f-4a01-93df-f24fb0277c70@193.239.179.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=worldoftanks.asia&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&type=tcp&headerType=none#🇱🇺 LU | 193.239.179.15
+vless://8325bd97-b77c-4917-acaa-2446e9e8cc03@193.57.88.7:443?security=reality&encryption=none&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&fp=random&type=grpc&serviceName=haknewhpjmv&sni=vk.com&sid=79651ae525860543#🇱🇺 LU | 193.57.88.7
