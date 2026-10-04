@@ -1,2 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.30
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ekb.eg&type=tcp&allowInsecure=1&insecure=1#🇦🇹 AT | 50.7.36.30
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-tati.failspace.top:443?type=tcp&security=tls&sni=at-tati.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇦🇹 AT | 66.90.106.195
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-tati.failspace.top:443?type=tcp&security=tls&sni=at-tati.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇦🇹 AT | 66.90.106.195

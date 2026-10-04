@@ -1,1 +1,1 @@
-vless://05214830-5d65-4ee1-a3d4-68f36cbea637@190.93.245.100:443?encryption=none&security=tls&sni=api5.htve.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=api5.htve.ir&path=/#🇨🇷 CR | 190.93.245.100
+vmess://eyJhZGQiOiIxOTAuOTMuMjQ1LjE3MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6IvCfh6jwn4e3IENSIHwgMTkwLjkzLjI0NS4xNzAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
