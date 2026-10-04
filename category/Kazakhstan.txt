@@ -1,1 +1,1 @@
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@93.183.87.85:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=chrome&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#🇰🇿 KZ | 93.183.87.85
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=d03298146e8e2fe6.hozheen.ir#🇰🇿 KZ | 31.43.179.111

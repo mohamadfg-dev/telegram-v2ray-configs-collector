@@ -53,7 +53,7 @@ Not Match: https://t.me/s/iransoftware90
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
-Other Error: https://t.me/s/kingofilter 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -93,7 +93,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
@@ -148,7 +147,6 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Bad Configs: https://t.me/s/v2rayargon 
-Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -190,4 +188,3 @@ Not Match: https://t.me/s/vpnstable
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
 Not Match: https://t.me/s/wancloudfa 
-Other Error: https://t.me/s/vpnv2r4y 
