@@ -14,4 +14,3 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&securi
 vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:8443?mode=gun&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#🇫🇷 FR | 130.49.77.8
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.185.204:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.224.185.204
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.25.113:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.25.113
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.25.113:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 15.236.25.113
