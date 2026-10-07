@@ -1,1 +1,1 @@
-vless://8ee2927b-1be9-404d-9b96-61dcc51bbd37@185.90.61.12:443?mode=stream-one&path=/api/v1/292b54c0&security=reality&encryption=none&pbk=PlP5L4lWEh_9h53_U-5kqwzl4C-eCrJoA6BF74cdfk8&host=vk.com&fp=safari&spx=/&type=xhttp&sni=sberbank.ru&sid=4164bb3d830b817f#🇳🇴 NO | 185.90.61.12
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@c5fl8w.api-gate.org:443?security=reality&encryption=none&pbk=B1g2P-3yW3cQW0WZweSPKUP3lZSQ5pgr8doCYvA0cRg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca9.eu-cdn294.com&sid=df3dc12b0b9b0c93#🇳🇴 NO | 185.90.61.55

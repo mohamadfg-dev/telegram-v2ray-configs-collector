@@ -1,4 +1,3 @@
-Not Match: https://t.me/s/config_fre 
 Not Match: https://t.me/s/AchaVPN 
 Not Match: https://t.me/s/Artemisvpn1 
 Bad Response: https://t.me/s/vless_config 
@@ -19,7 +18,6 @@ Not Match: https://t.me/s/change_ip1
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
-Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
@@ -59,7 +57,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
+Bad Configs: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -121,6 +119,7 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
+Bad Configs: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
