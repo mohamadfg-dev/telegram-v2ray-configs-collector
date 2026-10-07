@@ -1,3 +1,4 @@
+vless://c1c95983-50a7-44b1-99ac-a062284939d0@2.26.171.40:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kelvra.pro&sid=44103f58#🇹🇷 TR | 2.26.171.40
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇹🇷 TR | 107.181.155.189
 vless://40084e01-3ab8-4b02-aee2-bcc5088af729@198.105.123.153:2044?security=&encryption=none&headerType=http&type=tcp#🇹🇷 TR | 198.105.123.153
 vless://dabbaad9-5ce7-4a02-b24d-0da91a49ea2a@64.49.13.89:38531?encryption=none&security=none&fm={"tcp":[{"settings":{"clients":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]],"servers":[[{"delay":0,"rand":0,"randRange":"0-255","type":"array"}]]},"type":"header-custom"}]}&type=tcp&headerType=http&host=play.google.com#🇹🇷 TR | 64.49.13.89

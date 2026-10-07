@@ -1,1 +1,2 @@
-vless://d20be48f-6317-4350-858b-d00929bdefc1@217.11.164.92:37430?security=reality&encryption=none&pbk=RxTaQwnqqU8vxMMvD6AeUTFadLVvwzUplghzVAilAEg&headerType=none&fp=ios&spx=/&type=tcp&sni=amp-api-edge.apps.apple.com#🇬🇪 GE | 217.11.164.92
+vless://c1c95983-50a7-44b1-99ac-a062284939d0@pubsub.m2ip-video.cloud:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=peplow-labs.info&sid=44103f58#🇬🇪 GE | 132.243.229.229
+vless://c1c95983-50a7-44b1-99ac-a062284939d0@dns.m2ip-video.cloud:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=peplow-labs.info&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&type=tcp&headerType=none#🇬🇪 GE | 132.243.229.40

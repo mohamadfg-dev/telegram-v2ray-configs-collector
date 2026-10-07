@@ -1,2 +1,1 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-tati.failspace.top:443?type=tcp&security=tls&sni=at-tati.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇦🇹 AT | 66.90.106.195
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-tati.failspace.top:443?type=tcp&security=tls&sni=at-tati.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇦🇹 AT | 66.90.106.195
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@193.233.232.96:443?security=reality&encryption=none&pbk=uC4W93YTVI5kbpN5ih2WZfQjikpNBn61-AhljO8ExFg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=fa764ccf#🇦🇹 AT | 193.233.232.96

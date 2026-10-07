@@ -1,3 +1,4 @@
+Not Match: https://t.me/s/config_fre 
 Not Match: https://t.me/s/AchaVPN 
 Not Match: https://t.me/s/Artemisvpn1 
 Bad Response: https://t.me/s/vless_config 
@@ -71,7 +72,6 @@ Bad Response: https://t.me/s/msv2flyng
 Not Match: https://t.me/s/msv2flyng 
 Not Match: https://t.me/s/msv2ray 
 Not Match: https://t.me/s/mt_proxy 
-Other Error: https://t.me/s/mtproxy22_v2ray 
 Bad Response: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/nationalproxytelegram 
 Not Match: https://t.me/s/netaccount 
