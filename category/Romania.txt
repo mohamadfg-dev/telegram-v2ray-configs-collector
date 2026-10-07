@@ -1,1 +1,2 @@
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&encryption=none&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-ro.cloud-cdn.xyz&sid=87709fed663228e5#🇷🇴 RO | 109.104.106.149
+vless://0a1497e6-0570-40a2-84ce-e522eda1c6a4@46.28.67.118:443?encryption=none&security=reality&sni=www.olx.ro&fp=safari&pbk=9xwvSAOWL36GC2_oNuy0APzirpqSYzd8vKPmGINnzjA&type=xhttp&mode=auto&path=/assets#🇷🇴 RO | 46.28.67.118
