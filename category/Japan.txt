@@ -1,1 +1,1 @@
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#🇯🇵 JP | 54.250.237.143
+vless://5ac3e263-ca47-4eb2-a180-01e8dd443611@64.176.52.5:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#🇯🇵 JP | 64.176.52.5
