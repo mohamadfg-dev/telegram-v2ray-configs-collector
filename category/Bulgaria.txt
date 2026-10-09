@@ -1,1 +1,1 @@
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=firefox&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#🇧🇬 BG | 45.9.156.27
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@213.183.63.60:9061#🇧🇬 BG | 213.183.63.60
