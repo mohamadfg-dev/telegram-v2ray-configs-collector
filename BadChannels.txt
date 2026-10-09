@@ -113,6 +113,7 @@ Not Match: https://t.me/s/serversiran11
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/sharecentrepro 
+Bad Response: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -151,6 +152,7 @@ Other Error: https://t.me/s/v2rayfree
 Not Match: https://t.me/s/v2rayfree_server 
 Bad Response: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayn5 
+Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Other Error: https://t.me/s/v2rayngseven 
@@ -171,7 +173,6 @@ Bad Response: https://t.me/s/vmess_vless_v2rayng
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Bad Response: https://t.me/s/vmessiran 
 Not Match: https://t.me/s/vmessiran 
-Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
 Not Match: https://t.me/s/vpn4ir_1 
