@@ -1,1 +1,1 @@
-vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@165.231.177.114:443?mode=stream-one&path=/&security=tls&alpn=h2&encryption=none&extra={"xmux":{"maxConnections":"1","maxReuseTimes":0}}&insecure=0&host=ice.noooo.win&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6ac48f09.ferrin.uk#🇪🇪 EE | 165.231.177.114
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=estproxy4.lockdwn.com&mode=multi#🇪🇪 EE | 94.183.170.135
