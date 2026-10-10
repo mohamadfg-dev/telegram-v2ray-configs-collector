@@ -1,1 +1,1 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?encryption=none&host=platform106.halalkhor.info&path=/platform106&security=none&type=ws#🇲🇾 MY | 155.254.60.222
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80/?type=ws&encryption=none&flow=&host=['platform109.halalkhor.info']&path=/platform109#🇲🇾 MY | 23.27.200.125
