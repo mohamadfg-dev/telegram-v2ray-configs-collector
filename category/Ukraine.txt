@@ -1,2 +1,1 @@
-vless://48b88ee0-938d-4fcb-951a-66070a3310f4@104.143.223.79:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 UA | 104.143.223.79
-vless://48b88ee0-938d-4fcb-951a-66070a3310f4@104.143.223.79:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 UA | 104.143.223.79
+vless://48b88ee0-938d-4fcb-951a-66070a3310f4@104.143.223.79:2085?mode=multi&security=none&encryption=none&authority=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.79
