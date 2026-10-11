@@ -19,7 +19,6 @@ Not Match: https://t.me/s/change_ip1
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
 Not Match: https://t.me/s/configscenter 
-Not Match: https://t.me/s/configx2ray 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
 Not Match: https://t.me/s/connect_sho 
@@ -37,6 +36,7 @@ Bad Response: https://t.me/s/freevpnatm
 Not Match: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/g0dv2ray 
 Not Match: https://t.me/s/getconfigir 
+Other Error: https://t.me/s/gh_v2rayng 
 Not Match: https://t.me/s/ghalagyann 
 Not Match: https://t.me/s/ghalagyann2 
 Bad Response: https://t.me/s/ghotb_scarf 
@@ -51,9 +51,11 @@ Not Match: https://t.me/s/ip_cf_config
 Not Match: https://t.me/s/ipstatic1 
 Not Match: https://t.me/s/iranmedicalvpn 
 Not Match: https://t.me/s/iransoftware90 
+Other Error: https://t.me/s/irv2rey 
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Other Error: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
@@ -125,6 +127,7 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
+Bad Configs: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
@@ -155,6 +158,7 @@ Other Error: https://t.me/s/v2rayfree
 Not Match: https://t.me/s/v2rayfree_server 
 Bad Response: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayn5 
+Bad Configs: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Other Error: https://t.me/s/v2rayngseven 
