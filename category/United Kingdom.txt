@@ -1,7 +1,4 @@
 vless://telegram-id-ArV2ray@25.129.197.233:2052?mode=auto&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@ArFilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80&security=none&encryption=none&host=cdn-alman5.arfilter2.blog&type=xhttp#🇬🇧 GB | 25.129.197.233
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.77:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.128.77
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.77:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.128.77
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.77:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.128.77
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.77:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.42.128.77
+vmess://eyJhZGQiOiJvdmhwb2suZ29hbGlyLmNvLnVrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmNDUzNjI3LTVlN2ItNDk0My04Mjc5LWZjNWYzNGJkMzkyNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoi8J+HrPCfh6cgR0IgfCA4Ni41NC40Mi4xMzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
