@@ -1,1 +1,2 @@
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#🇪🇪 EE | 77.72.85.247
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?host=estproxy4.lockdwn.com&security=none&type=ws#🇪🇪 EE | 94.183.170.135
+vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.252.177.216:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&security=reality&sid=9ea74b83f4993ca9&sni=est-1.ardesnode.ru&type=tcp#🇪🇪 EE | 185.252.177.216
