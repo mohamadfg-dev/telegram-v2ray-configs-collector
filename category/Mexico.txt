@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#🇲🇽 MX | 190.103.179.23
+vless://e5e4baed-c67a-489c-9550-289cc168bd13@64.177.93.234:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#🇲🇽 MX | 64.177.93.234
+vless://2f1eba14-f021-4559-a80a-5bb91b436cc8@64.177.88.179:443?path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#🇲🇽 MX | 64.177.88.179
