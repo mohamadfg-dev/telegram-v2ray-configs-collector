@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxOTAuOTMuMjQ1LjE3MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6IvCfh6jwn4e3IENSIHwgMTkwLjkzLjI0NS4xNzAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇷 CR | 190.93.245.148

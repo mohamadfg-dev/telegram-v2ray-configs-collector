@@ -1,8 +1,8 @@
-vless://tyxyrytyro@tyxyrytyro-51255165170-direct.araghchy.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=tyxyrytyro-51255165170-direct.araghchy.com#🇫🇷 FR | 51.255.165.170
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&encryption=none&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&headerType=http&fp=chrome&spx=/&type=tcp&sni=ftp.debian.org&sid=b5ecd44d#🇫🇷 FR | 172.232.33.18
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=www.icloud.com&fp=chrome&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&headertype=none#🇫🇷 FR | 137.74.16.237
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.180.233:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.180.233
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.157.249:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.157.249
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.158.26:22223?encryption=none&security=none&type=tcp#🇫🇷 FR | 13.36.158.26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 FR | 51.255.13.232
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.180.233:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.180.233
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.157.249:22222?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.157.249
@@ -17,4 +17,3 @@ vless://f0e0d780-a43b-98ef-d7fe-f628cfb1a606@130.49.77.8:8443?mode=gun&security=
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.180.233:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.180.233
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.157.249:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 52.47.157.249
 vless://593bf46b-8316-5050-9357-d8a41e4db78b@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#🇫🇷 FR | 51.255.166.202
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?security=reality&encryption=none&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl3.nztvpn.com&sid=0da7e14db353e7d0#🇫🇷 FR | 195.133.80.152

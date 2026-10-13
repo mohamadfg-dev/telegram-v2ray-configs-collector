@@ -30,6 +30,7 @@ Not Match: https://t.me/s/dargiiriis
 Bad Configs: https://t.me/s/darkfiilter 
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
+Bad Configs: https://t.me/s/farahvpn 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
 Not Match: https://t.me/s/freevirgoolnet 
@@ -96,6 +97,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
@@ -119,6 +121,7 @@ Not Match: https://t.me/s/shadowproxy66
 Not Match: https://t.me/s/sharecentrepro 
 Bad Response: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sinavm 
+Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -192,3 +195,4 @@ Not Match: https://t.me/s/vpnstable
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
 Not Match: https://t.me/s/wancloudfa 
+Other Error: https://t.me/s/vpnv2r4y 
