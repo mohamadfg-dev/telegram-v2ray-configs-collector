@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#🇺🇦 UA | 45.134.173.247
+vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?encryption=none&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.230
+vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?encryption=none&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.230

@@ -1,1 +1,1 @@
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?encryption=none&type=grpc&security=reality&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&serviceName=app.v1.PushService&mode=gun#🇲🇩 MD | 89.35.14.34
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?encryption=none&type=grpc&security=reality&sni=md4.univesalsrv.com&fp=firefox&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&serviceName=hub.v1.ApiService&mode=gun#🇲🇩 MD | 89.35.14.33
