@@ -1,1 +1,1 @@
-vless://8d790ba0-5407-441b-b545-8ab369c591ce@13.143.239.125:443?security=reality&encryption=none&pbk=XW-uVSKkZJB14OFKOePhEE4UnrAOI4VfuAQQZ_gI3E0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=g1.coconutsvpn.com&sid=848eb46fd7a0e43d#🇪🇪 EE | 13.143.239.125
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@77.72.85.247:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&type=ws&allowInsecure=0&sni=fdghyt.com#🇪🇪 EE | 77.72.85.247
