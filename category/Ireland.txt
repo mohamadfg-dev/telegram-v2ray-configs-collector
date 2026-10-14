@@ -1,3 +1,4 @@
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=firefox&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#🇮🇪 IE | 185.18.221.188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUnJCZzlTOWtvc1NvM3RH@20.223.136.145:443?type=tcp#🇮🇪 IE | 20.223.136.145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#🇮🇪 IE | 20.234.97.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443#🇮🇪 IE | 20.123.1.55

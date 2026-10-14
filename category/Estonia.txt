@@ -1,1 +1,1 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?path=/&security=tls&sni=estproxy4.lockdwn.com#🇪🇪 EE | 94.183.170.135
+vless://8d790ba0-5407-441b-b545-8ab369c591ce@13.143.239.125:443?security=reality&encryption=none&pbk=XW-uVSKkZJB14OFKOePhEE4UnrAOI4VfuAQQZ_gI3E0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=g1.coconutsvpn.com&sid=848eb46fd7a0e43d#🇪🇪 EE | 13.143.239.125
