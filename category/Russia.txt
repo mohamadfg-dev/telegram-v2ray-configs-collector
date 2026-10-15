@@ -1,5 +1,5 @@
 vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@193.233.230.64:24443?mode=gun&security=reality&encryption=none&pbk=UMibHia_DnLd07hISnmp-_LZgY6ltCsgc3rXJ6xK8zA&fp=random&type=grpc&serviceName=grpc&sni=img.suzuki.lol#🇷🇺 RU | 193.233.230.64
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇷🇺 RU | 104.171.133.209
-ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@45.140.168.141:20111#🇷🇺 RU | 45.140.168.141
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=none&encryption=none&headerType=none&type=tcp#🇷🇺 RU | 104.171.133.209
+vless://c3db7657-88ce-42a6-b998-1e0364b277ac@cdn-ixr.whitenw.net:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#🇷🇺 RU | 87.242.127.176

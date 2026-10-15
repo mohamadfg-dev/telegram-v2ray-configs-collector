@@ -1,2 +1,1 @@
 vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?encryption=none&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.230
-vless://b0b27f3e-bc4c-4030-879c-b45d19ae2623@104.143.223.230:2085?encryption=none&type=grpc&serviceName=vless#🇺🇦 UA | 104.143.223.230
