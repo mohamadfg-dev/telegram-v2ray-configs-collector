@@ -5,4 +5,3 @@ vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=none&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#🇫🇮 FI | 78.17.176.174
 vless://43034217-fbfd-4ddf-9c5b-b00fedb25c54@31.77.105.201:443?security=reality&encryption=none&type=tcp&sni=conv-fi2.unit-digital.com&sid=3a&headerType=none&fp=safari&spx=/GbXAcAkyZvFm9zg&pbk=yfQMWDUFaQVYkdeLaj6W5OlJL4VhC2bCUWdgovCUKUc&flow=xtls-rprx-vision#🇫🇮 FI | 31.77.105.201
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?path=/&security=none&encryption=none&host=65.109.203.5&type=ws#🇫🇮 FI | 65.109.203.5
