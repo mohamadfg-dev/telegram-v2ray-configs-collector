@@ -7,7 +7,6 @@ Not Match: https://t.me/s/abiidar_server
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
-Not Match: https://t.me/s/argooo_vpn 
 Not Match: https://t.me/s/arv2ray 
 Not Match: https://t.me/s/asak_vpn 
 Not Match: https://t.me/s/avaalvpn 
@@ -31,6 +30,7 @@ Not Match: https://t.me/s/drvpn_net
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
+Not Match: https://t.me/s/free_outline_keys 
 Not Match: https://t.me/s/freevirgoolnet 
 Bad Response: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/freevpnatm 
@@ -93,6 +93,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
@@ -111,8 +112,10 @@ Bad Response: https://t.me/s/server_nekobox
 Not Match: https://t.me/s/server_nekobox 
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
+Other Error: https://t.me/s/shadowsockskeys 
 Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/sinavm 
+Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -183,4 +186,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Bad Configs: https://t.me/s/rxv2ray 
