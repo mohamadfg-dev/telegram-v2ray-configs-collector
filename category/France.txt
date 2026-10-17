@@ -17,3 +17,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22223?encryption=none
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 FR | 149.202.58.99
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.122.146
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22224?encryption=none&security=none&type=tcp#🇫🇷 FR | 51.44.122.146
+vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#🇫🇷 FR | 149.202.57.89
