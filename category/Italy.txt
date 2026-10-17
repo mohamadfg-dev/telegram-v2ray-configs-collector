@@ -1,2 +1,4 @@
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇮🇹 IT | 57.131.16.197
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
+vless://b6976482-05d7-470a-9f1e-143207895daa@italy1.node-web3.com:11105?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=edge&pbk=CTukLxnFb6svaGtd6KFJudLToFdH8G71fJLqfktaREQ&sid=6ba8a14f705eeef9#🇮🇹 IT | 2001:41d0:2005:100::1d15
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#🇮🇹 IT | 195.231.37.150
