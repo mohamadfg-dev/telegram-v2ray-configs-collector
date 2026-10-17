@@ -1,1 +1,1 @@
-vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#🇭🇺 HU | 31.76.249.87
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&encryption=none&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hu1.aiage.work&sid=f8379ce795f2e5ed#🇭🇺 HU | 85.155.242.38

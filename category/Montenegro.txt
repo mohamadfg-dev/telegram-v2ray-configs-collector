@@ -1,2 +1,1 @@
 trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇲🇪 ME | 31.57.190.34
-trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇲🇪 ME | 31.57.190.34
