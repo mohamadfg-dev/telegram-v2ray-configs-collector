@@ -1,16 +1,3 @@
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.11.104.202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.33.165:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.135.33.165
-vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?allowInsecure=0&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fpsecurity=tls#🇬🇧 GB | 159.65.51.189
-vless://122b8a33-d923-48a6-8f1b-e721cf842864@chatgpt.com:2052?path=/?ed=2560&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.www.speedtest.net.chatgpt.com.icloud.com.fiNeArTSnEt.COm.persianclouding.ir.&type=httpupgrade#🇬🇧 GB | 2a06:98c1:3101::6812:202f
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.11.104.202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.33.165:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.135.33.165
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-ss://YWVzLTEyOC1nY206MTc2MTllODZkY2ZiZjY5NmE2Mjc0YjFmNGE3MTQ0MTk@89.238.165.94:12023#🇬🇧 GB | 89.238.165.94
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.11.104.202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.33.165:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.135.33.165
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.11.104.202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.33.165:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.135.33.165
 vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xNjQuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.33.165:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.135.33.165
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.104.202:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.11.104.202
