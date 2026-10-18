@@ -18,6 +18,7 @@ Not Match: https://t.me/s/chanel_v2ray_2
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
@@ -28,9 +29,11 @@ Not Match: https://t.me/s/customv2ray
 Not Match: https://t.me/s/dargiiriis 
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
+Not Match: https://t.me/s/evay_vpn 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
 Not Match: https://t.me/s/free_outline_keys 
+Not Match: https://t.me/s/free_vpn02 
 Not Match: https://t.me/s/freevirgoolnet 
 Bad Response: https://t.me/s/freevpnatm 
 Not Match: https://t.me/s/freevpnatm 
@@ -93,8 +96,8 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Bad Configs: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
+Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxycrone 
@@ -115,7 +118,6 @@ Not Match: https://t.me/s/seven_ping
 Other Error: https://t.me/s/shadowsockskeys 
 Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/sinavm 
-Bad Configs: https://t.me/s/singbox1 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
@@ -186,3 +188,4 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
+Bad Configs: https://t.me/s/rxv2ray 
