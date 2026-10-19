@@ -1,1 +1,2 @@
-vless://556e306b-e0a1-4832-80e5-575696c27f88@dearv.moon-night.ir:443?security=reality&encryption=none&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e64e9f5eefbffc15#🇹🇷 TR | 194.5.193.226
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.181
+vless://75ea0f06-c69f-41ed-8376-7382d0f2634f@asp.aloamin99.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=0te-XmVHa15mVZb5pKCbSiKzhpuh8-viQQGygJPVZDU&sid=da4b0f71d84859a1#🇹🇷 TR | 130.185.120.57
