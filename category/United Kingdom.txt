@@ -1,11 +1,4 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.18.254:22224?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 18.135.18.254
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.117.36
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 51.24.54.202
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.117.36
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 51.24.54.202
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.117.36
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 51.24.54.202
-vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xNjQuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@chatgpt.com:2082?encryption=none&type=httpupgrade&host=www.chatgpt.com.2.hiphonemobile.top&path=/tfufdfute5wydh&security=none#🇬🇧 GB | 2a06:98c1:3101::6812:202f
 vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xNjQuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=

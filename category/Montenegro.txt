@@ -1,1 +1,4 @@
-vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?&security=tls&fp=unsafe&alpn=http/1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132#🇲🇪 ME | 31.57.190.49
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=/fp=chrome&headers={
+  "Host": "ccc.010304.xyz"
+}#🇲🇪 ME | 31.57.190.15
+vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇲🇪 ME | 31.57.190.15

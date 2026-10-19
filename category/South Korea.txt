@@ -1,1 +1,1 @@
-trojan://UX82473651@3.35.168.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=noted-cougar.rooster465.autos#🇰🇷 KR | 3.35.168.225
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAxMzIuMTQ1LjgwLjIzMCIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
