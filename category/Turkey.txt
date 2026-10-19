@@ -1,2 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇹🇷 TR | 77.74.123.181
-vless://75ea0f06-c69f-41ed-8376-7382d0f2634f@asp.aloamin99.ir:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=0te-XmVHa15mVZb5pKCbSiKzhpuh8-viQQGygJPVZDU&sid=da4b0f71d84859a1#🇹🇷 TR | 130.185.120.57
+vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?encryption=none&host=2.naxm.ir&path=/&security=none&type=wsoliver#🇹🇷 TR | 130.185.120.239
