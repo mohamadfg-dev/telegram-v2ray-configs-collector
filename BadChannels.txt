@@ -168,7 +168,7 @@ Not Match: https://t.me/s/vip_fragment_v2ray
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Bad Configs: https://t.me/s/vip_vpn_2022 
 Not Match: https://t.me/s/vipv2rayngnp 
-Other Error: https://t.me/s/vmess_iran 
+Not Match: https://t.me/s/vmess_iran 
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmessiran 
@@ -186,4 +186,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Other Error: https://t.me/s/vpnv2r4y 
