@@ -1,1 +1,1 @@
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=/id-pusat&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🇦🇺 AU | 103.18.49.100
+vless://17c125c4-32cf-4962-bc00-64501a965e56@3.24.240.43:8080?security=reality&encryption=none&pbk=aNDybVWg8W1Qsb9axMedBFNakasmttOLEjg2vU1XjRM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.australia.gov.au&sid=bfedcdcbaade3176#🇦🇺 AU | 3.24.240.43
