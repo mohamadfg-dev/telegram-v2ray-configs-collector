@@ -1,1 +1,1 @@
-trojan://humanity@213.182.199.137:443?security=tls&type=ws&sni=www.pleadcourt.org&path=/assignment&host=www.pleadcourt.org#🇭🇷 HR | 213.182.199.137
+vless://8179d7cc-82bc-4eae-a97f-5d30c6c2a812@2.56.175.179:9443?encryption=none&type=grpc&mode=multi&serviceName=grpc&security=reality&fp=chrome&sni=itunes.apple.com&pbk=8bhS-nnIN67a292RpJsCPzXQy4CzpzOVLTPn5CiAFyg&sid=6ba7b810#🇭🇷 HR | 2.56.175.179
