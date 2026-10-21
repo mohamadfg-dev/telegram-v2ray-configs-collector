@@ -1,1 +1,1 @@
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#🇸🇪 SE | 5.178.109.174
+vless://4a57bd75-867b-4565-b7c0-8b1745582d9c@aws.k2.sync-bridge.ir:108?security=reality&encryption=none&pbk=O6Gc11tW75kMjQziGXMGpgs3ftpHG7Y8tgkxPV_ELgQ&headerType=none&fp=chrome&spx=/85f5320c5f53e71&type=tcp&sni=aws.amazon.com&sid=b392a8fb#🇸🇪 SE | 13.62.4.24
