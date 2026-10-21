@@ -1,12 +1,7 @@
+vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@178.107.58.46:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=en2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#🇬🇧 GB | 178.107.58.46
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22223?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 GB | 18.134.224.162
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 51.24.54.202
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@98.98.142.161:8080#🇬🇧 GB | 98.98.142.161
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp#🇬🇧 GB | 212.74.39.236
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@chatgpt.com:2082?encryption=none&type=httpupgrade&host=www.chatgpt.com.2.hiphonemobile.top&path=/tfufdfute5wydh&security=none#🇬🇧 GB | 2a06:98c1:3101::6812:202f
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#🇬🇧 GB | 212.74.39.236
 vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xNjQuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&headerType=none&type=tcp#🇬🇧 GB | 212.74.39.236
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇬🇧 GB | 45.12.30.101
-vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053?security=reality&encryption=none&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=d051f678212f9d54#🇬🇧 GB | 51.89.194.151
+vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.176.16.196:443?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#🇬🇧 GB | 35.176.16.196
 vless://7060231d-b9ba-495f-a218-bf427940cf3e@35.176.16.196:443?security=none&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#🇬🇧 GB | 35.176.16.196

@@ -1,2 +1,1 @@
-vless://30f15328-6e8d-4fc3-8e43-19cd27f616ce@iraclud.falnexa.ir:16258?security=none&encryption=mlkem768x25519plus.native.0rtt.mL5_sn3nyXt1fw7lSD8kfmM6tsWuvdZhodyrTm0nRDg&headerType=none&type=tcp#🇹🇷 TR | 130.185.120.244
 vless://6ce10080-ac6b-4dc3-b1fb-6fab93f8ad56@iran.vokral.ir:8082?security=none&encryption=mlkem768x25519plus.native.0rtt.XOW07Zip2CFDOtfx32TYqy6VsLT10XB-_xVnXxdwfxA&headerType=none&type=tcp#🇹🇷 TR | 194.5.193.46
