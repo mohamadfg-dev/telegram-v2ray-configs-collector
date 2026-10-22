@@ -1,4 +1,6 @@
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#🇮🇹 IT | 57.131.16.197
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🇮🇹 IT | 31.76.113.51
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#🇮🇹 IT | 202.50.253.18
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?type=tcp&headerType=none#🇮🇹 IT | 202.50.253.45
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#🇮🇹 IT | 202.50.253.45
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#🇮🇹 IT | 202.50.253.45
