@@ -1,1 +1,1 @@
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@158.247.241.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81#🇰🇷 KR | 158.247.241.102
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgS1IgfCAxODMuMTA5LjEzMS43NSIsImFkZCI6IjE4My4xMDkuMTMxLjc1IiwicG9ydCI6IjIwMDg2IiwiaWQiOiJiMjZjNDgwMy0wYmNhLTQ2N2MtYTI0NS1jOWE4MGJkZDcyZWMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
