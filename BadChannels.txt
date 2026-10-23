@@ -5,7 +5,6 @@ Bad Response: https://t.me/s/heyatserver
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
-Other Error: https://t.me/s/keysOutline 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/argo_vpn1 
@@ -94,7 +93,6 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
-Other Error: https://t.me/s/outlineopenkey 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
@@ -102,6 +100,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Other Error: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -126,10 +125,12 @@ Not Match: https://t.me/s/shadowproxy66
 Not Match: https://t.me/s/sharecentrepro 
 Bad Response: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sinavm 
+Other Error: https://t.me/s/singbox1 
 Not Match: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
+Not Match: https://t.me/s/sstpvpn 
 Not Match: https://t.me/s/summertimeus 
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
@@ -170,6 +171,7 @@ Not Match: https://t.me/s/v2rayngn
 Not Match: https://t.me/s/v2rayngseven 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
+Not Match: https://t.me/s/v2rayopen 
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
@@ -197,4 +199,5 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
+Other Error: https://t.me/s/vpnv2r4y 
 Bad Configs: https://t.me/s/rxv2ray 
