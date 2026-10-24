@@ -1,4 +1,3 @@
-Not Match: https://t.me/s/config_fre 
 Not Match: https://t.me/s/AchaVPN 
 Bad Response: https://t.me/s/vless_config 
 Not Match: https://t.me/s/vless_config 
@@ -33,6 +32,7 @@ Not Match: https://t.me/s/dargiiriis
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/evay_vpn 
+Bad Configs: https://t.me/s/farahvpn 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
 Not Match: https://t.me/s/flyv2ray 
@@ -65,7 +65,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Bad Configs: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -193,7 +193,6 @@ Not Match: https://t.me/s/vpn_meliii
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
 Not Match: https://t.me/s/vpnplusee_free 
-Bad Configs: https://t.me/s/vpnserverrr 
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
