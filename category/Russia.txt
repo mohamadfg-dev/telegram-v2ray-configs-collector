@@ -1,14 +1,5 @@
-vless://34851fc1-c4bb-4b17-a815-bc17c09e11a0@82.202.157.123:5002?path=media.playback.v1.SessionGateway&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=br1.centermass.net#🇷🇺 RU | 82.202.157.123
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none&security=tls&sni=wstg.datasynctrue.online&type=ws&host=wstg.datasynctrue.online&path=/api/connect&headers={
-  "Host": "wstg.datasynctrue.online"
-}#🇷🇺 RU | 200.165.231.209
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇷🇺 RU | 104.171.133.209
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#🇷🇺 RU | 195.133.5.194
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443#🇷🇺 RU | 195.133.5.194
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@104.171.133.209:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#🇷🇺 RU | 104.171.133.209
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#🇷🇺 RU | 147.45.47.83
-vless://1ef7d97f-3aa5-0001-8521-84cf4794bf7a@92.53.119.212:40849?security=reality&encryption=none&pbk=jkVcZ_b3iWs2FcSjC8Mb1NoRuwPgCH9HpeOOYAXBSU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-hub10.lovely.my#🇷🇺 RU | 92.53.119.212
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#🇷🇺 RU | 147.45.47.83
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#🇷🇺 RU | 147.45.47.83
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@5.129.222.115:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ad7.vkusnews.com#🇷🇺 RU | 5.129.222.115

@@ -1,7 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 NL | 82.38.31.184
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇳🇱 NL | 46.229.243.97
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#🇳🇱 NL | 82.38.31.9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#🇳🇱 NL | 193.29.139.197
-vless://eec2f6a7-c10f-43b0-b133-61f9bf9bbc27@45.150.33.33:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amazon.de&fp=ios&insecure=1&allowInsecure=1&pbk=G8SING6Ibc_igZ5vI5578fXCT_mBMRuq_o8_Ymnj2SQ&sid=eba1498e012ef580&flow=xtls-rprx-vision#🇳🇱 NL | 45.150.33.33
 vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443#🇳🇱 NL | 86.54.28.75
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#🇳🇱 NL | 193.29.139.188
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&sid=80ba&allowinsecure=0&type=tcp&headerType=none#🇳🇱 NL | 147.45.136.213
 vmess://eyJhZGQiOiIxNTQuNDcuMjEuNTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4MDk5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6IvCfh7Pwn4exIE5MIHwgMTU0LjQ3LjIxLjU0In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#🇳🇱 NL | 193.29.139.225
