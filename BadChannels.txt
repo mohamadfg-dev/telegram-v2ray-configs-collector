@@ -5,6 +5,7 @@ Bad Response: https://t.me/s/heyatserver
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
+Other Error: https://t.me/s/keysOutline 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/argo_vpn1 
@@ -32,7 +33,6 @@ Not Match: https://t.me/s/dargiiriis
 Not Match: https://t.me/s/drvpn_net 
 Not Match: https://t.me/s/entrynet 
 Not Match: https://t.me/s/evay_vpn 
-Bad Configs: https://t.me/s/farahvpn 
 Not Match: https://t.me/s/farstar_vpn 
 Not Match: https://t.me/s/flystoreir 
 Not Match: https://t.me/s/flyv2ray 
@@ -100,7 +100,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -135,7 +134,6 @@ Bad Response: https://t.me/s/tawanaclub
 Not Match: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
-Not Match: https://t.me/s/ultrasurf_12 
 Not Match: https://t.me/s/uvpn_org 
 Not Match: https://t.me/s/v222ray 
 Not Match: https://t.me/s/v2aryng_vpn 
@@ -196,4 +194,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Bad Configs: https://t.me/s/rxv2ray 
