@@ -1,2 +1,1 @@
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@50.7.43.117:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pt3.magazinnarubeva.ru&sid=8718c58d3d51db59#🇵🇹 PT | 50.7.43.117
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@50.7.43.117:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pt3.magazinnarubeva.ru&sid=8718c58d3d51db59#🇵🇹 PT | 50.7.43.117
+vless://7K8ckQ9Odjv5ya@185.138.89.162:443?security=reality&encryption=none&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de&sid=8a2a4eb0#🇵🇹 PT | 185.138.89.162
