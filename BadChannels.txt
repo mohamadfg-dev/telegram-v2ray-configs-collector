@@ -19,6 +19,7 @@ Not Match: https://t.me/s/chanel_v2ray_2
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
@@ -26,6 +27,7 @@ Not Match: https://t.me/s/connect_sho
 Bad Response: https://t.me/s/cook_vpn 
 Not Match: https://t.me/s/cook_vpn 
 Not Match: https://t.me/s/customv2ray 
+Bad Configs: https://t.me/s/daily_configs 
 Bad Response: https://t.me/s/dalton_ping 
 Not Match: https://t.me/s/dalton_ping 
 Not Match: https://t.me/s/dargiiriis 
@@ -95,6 +97,7 @@ Not Match: https://t.me/s/orgempirenet
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
+Not Match: https://t.me/s/payam_nsi 
 Bad Configs: https://t.me/s/proxie 
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
@@ -193,5 +196,4 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Other Error: https://t.me/s/vpnv2r4y 
 Bad Configs: https://t.me/s/rxv2ray 
