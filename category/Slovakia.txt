@@ -1,0 +1,2 @@
+vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇸🇰 SK | 80.243.228.84
+vless://a7c66f66-76b7-42ea-8d2b-890a37239368@80.243.228.84:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇸🇰 SK | 80.243.228.84
