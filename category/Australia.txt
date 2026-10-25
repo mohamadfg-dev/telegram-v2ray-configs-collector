@@ -1,1 +1,1 @@
-vless://17c125c4-32cf-4962-bc00-64501a965e56@3.24.240.43:8080?security=reality&encryption=none&pbk=aNDybVWg8W1Qsb9axMedBFNakasmttOLEjg2vU1XjRM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.australia.gov.au&sid=bfedcdcbaade3176#🇦🇺 AU | 3.24.240.43
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#🇦🇺 AU | 51.161.204.242
