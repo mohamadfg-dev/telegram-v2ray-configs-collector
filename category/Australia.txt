@@ -1,1 +1,2 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.30:8880?security=none&type=ws&path=/&host=vms.lifetime37.workers.dev&packetEncoding=xudp&encryption=none#🇦🇺 AU | 192.65.217.30
 vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&encryption=none&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d15c17cef9b2e456#🇦🇺 AU | 51.161.204.242

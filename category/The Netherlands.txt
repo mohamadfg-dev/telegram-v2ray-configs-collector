@@ -9,7 +9,6 @@ vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@144.124.231.88:8443?flow=xtls-rprx-
 vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security=tls&sni=europeless.duckdns.org&fp=random&type=ws&path=/getupdates&host=europeless.duckdns.org&encryption=none#🇳🇱 NL | 64.188.97.173
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🇳🇱 NL | 89.34.230.234
 vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#🇳🇱 NL | 77.90.61.135
-vless://2ddcb519-ac96-48fe-8f91-4af4254c7d90@213.152.165.201:2094?security=reality&encryption=none&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=55986a94e2228791#🇳🇱 NL | 213.152.165.201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?type=xhttp&path=/&host=&mode=auto&security=reality&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&sni=black-moai.com&sid=1ac2a2dde288&spx=/#🇳🇱 NL | 199.247.28.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#🇳🇱 NL | 82.38.31.169
@@ -22,4 +21,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 NL | 82.38.31.184
 vless://telegram-id-ArV2ray@84.32.102.152:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#🇳🇱 NL | 84.32.102.152
 vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.179:2053?mode=auto&path=/api/v1/upload&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=randomquaint.net&fp=firefox&type=xhttp&allowInsecure=0&sni=randomquaint.net#🇳🇱 NL | 78.159.246.179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#🇳🇱 NL | 82.38.31.178
