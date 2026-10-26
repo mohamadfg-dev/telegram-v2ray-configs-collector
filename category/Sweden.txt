@@ -1,1 +1,1 @@
-vless://b0852273-160d-4a35-a365-13e5d4772201@vpn2.floweb.club:2083?security=reality&encryption=none&pbk=zvRguC1cm7gKkQpNarOCaAUAvcSXUWH10-pUEfneYSI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=014c3d76dee82247#🇸🇪 SE | 167.104.105.130
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?security=tls&sni=st33614.rumedia-cdn.com&fp=firefox&type=ws&path=/cdn/v3/live&host=st33614.rumedia-cdn.com#🇸🇪 SE | 191.44.114.179

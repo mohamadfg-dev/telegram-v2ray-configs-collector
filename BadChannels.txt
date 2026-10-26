@@ -98,6 +98,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -121,18 +122,17 @@ Not Match: https://t.me/s/seven_ping
 Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/sharecentrepro 
 Bad Configs: https://t.me/s/shh_proxy 
+Bad Response: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sinavm 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
 Not Match: https://t.me/s/srcvpn 
-Not Match: https://t.me/s/sstpvpn 
 Not Match: https://t.me/s/summertimeus 
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
-Not Match: https://t.me/s/ultrasurf_12 
 Not Match: https://t.me/s/uvpn_org 
 Not Match: https://t.me/s/v222ray 
 Not Match: https://t.me/s/v2aryng_vpn 
@@ -160,12 +160,12 @@ Other Error: https://t.me/s/v2rayfree
 Not Match: https://t.me/s/v2rayfree_server 
 Bad Response: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayn5 
+Other Error: https://t.me/s/v2rayng_matsuri 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
 Not Match: https://t.me/s/v2rayngseven 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
-Not Match: https://t.me/s/v2rayopen 
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
@@ -179,7 +179,6 @@ Not Match: https://t.me/s/vmess_iran
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmessiran 
-Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vmessorg 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
@@ -196,4 +195,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Bad Configs: https://t.me/s/rxv2ray 

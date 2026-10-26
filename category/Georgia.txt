@@ -1,1 +1,2 @@
-vless://3ed41dfc-0d38-4379-a470-c815673dc504@pubsub.m2ip-video.cloud:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=peplow-labs.info&sid=44103f58#🇬🇪 GE | 132.243.229.229
+vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 GE | 93.190.9.138
+vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 GE | 93.190.9.138
