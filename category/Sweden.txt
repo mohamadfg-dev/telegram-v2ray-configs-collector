@@ -1,1 +1,1 @@
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@191.44.114.179:2096?security=tls&sni=st33614.rumedia-cdn.com&fp=firefox&type=ws&path=/cdn/v3/live&host=st33614.rumedia-cdn.com#🇸🇪 SE | 191.44.114.179
+vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#🇸🇪 SE | 13.143.180.50

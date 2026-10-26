@@ -1,3 +1,2 @@
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?encryption=none&security=tls&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048#🇦🇹 AT | 89.58.20.210
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?encryption=none&security=tls&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048#🇦🇹 AT | 89.58.20.210
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?path=/AU5W?ed#🇦🇹 AT | 62.83.19.127

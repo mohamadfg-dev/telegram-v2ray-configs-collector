@@ -1,3 +1,2 @@
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@45.130.125.96:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#🇸🇨 SC | 45.130.125.96
 vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🇸🇨 SC | 45.130.125.76
-vless://536d0d54-53a5-455a-ad7c-a525d8ff629f@45.130.125.160:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=tesdt.arvanabr.xyz&fp=chrome&type=ws&allowInsecure=1&sni=tesdt.arvanabr.xyz#🇸🇨 SC | 45.130.125.160
