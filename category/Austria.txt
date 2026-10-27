@@ -1,4 +1,4 @@
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=/AU7W&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=au7.pad-sservice.lat&fp=firefox&type=ws&allowInsecure=0&sni=au7.pad-sservice.lat#🇦🇹 AT | 62.83.19.186
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?encryption=none&security=tls&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/?DailyConfigs--DailyConfigs--DailyConfigs?ed=2048#🇦🇹 AT | 89.58.20.210
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=/AU7W&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=au7.pad-sservice.lat&fp=firefox&type=ws&allowInsecure=0&sni=au7.pad-sservice.lat#🇦🇹 AT | 62.83.19.186
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=/AU7W&security=tls&alpn=http/1.1&encryption=none&host=au7.pad-sservice.lat&fp=firefox&type=ws&sni=au7.pad-sservice.lat#🇦🇹 AT | 62.83.19.186
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?path=/AU5W?ed#🇦🇹 AT | 62.83.19.127
