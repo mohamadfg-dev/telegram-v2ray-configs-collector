@@ -1,1 +1,1 @@
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#🇸🇪 SE | 13.143.180.50
+vless://4b1be712-774c-4b65-8491-a3339e124a70@se1-cl3.vless-fiberstasis.top:443?fp=firefox&pbk=qJja_3vaCxm3As6alnqjpIIThwGm4e4m_MOluQBNFgo&security=reality&serviceName=grpc-se-3&sid=11d37dd92940329e&sni=se1-cl3.vless-fiberstasis.top&type=grpc#🇸🇪 SE | 136.148.211.243
