@@ -1,1 +1,1 @@
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?security=reality&type=xhttp&packetEncoding=xudp&sni=player.vimeo.com&fp=chrome&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&mode=auto&encryption=none#🇪🇪 EE | 132.243.65.82
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp#🇪🇪 EE | 146.19.143.218

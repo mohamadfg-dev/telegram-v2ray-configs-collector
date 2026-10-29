@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 JP | 149.22.87.240
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 JP | 149.22.87.204
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇯🇵 JP | 3.114.220.22
