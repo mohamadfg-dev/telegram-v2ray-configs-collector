@@ -1,1 +1,1 @@
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s12.bsh-net.ru&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&type=tcp&headerType=none#🇸🇪 SE | 13.143.180.104
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed=#🇸🇪 SE | 192.71.82.2
