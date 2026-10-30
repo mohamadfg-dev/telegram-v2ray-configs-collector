@@ -1,4 +1,1 @@
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&type=xhttp&sni=mirror.timeweb.ru#🇸🇪 SE | 13.143.180.50
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&type=xhttp&sni=mirror.timeweb.ru#🇸🇪 SE | 13.143.180.50
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?path=/vless&security=&encryption=none&host=5.178.109.174&type=ws#🇸🇪 SE | 5.178.109.174
-vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=/ubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#🇸🇪 SE | 13.143.180.50
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@13.143.180.104:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s12.bsh-net.ru&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&type=tcp&headerType=none#🇸🇪 SE | 13.143.180.104
