@@ -8,7 +8,6 @@ Not Match: https://t.me/s/abiidar_server
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
-Not Match: https://t.me/s/argo_vpn1 
 Not Match: https://t.me/s/armodvpn 
 Not Match: https://t.me/s/arv2ray 
 Not Match: https://t.me/s/asak_vpn 
@@ -64,6 +63,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
+Bad Configs: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -97,6 +97,7 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
+Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Not Match: https://t.me/s/proxy_v2box 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
@@ -152,7 +153,7 @@ Not Match: https://t.me/s/v2ray_tz
 Bad Response: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
-Bad Configs: https://t.me/s/v2raych 
+Other Error: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -160,6 +161,7 @@ Bad Response: https://t.me/s/v2rayn5
 Not Match: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
+Bad Configs: https://t.me/s/v2rayngraisi 
 Not Match: https://t.me/s/v2rayngseven 
 Not Match: https://t.me/s/v2rayngte 
 Not Match: https://t.me/s/v2rayngvpn 
