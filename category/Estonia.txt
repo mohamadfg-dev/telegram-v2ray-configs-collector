@@ -1,2 +1,1 @@
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&encryption=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823#🇪🇪 EE | 132.243.66.170
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@13.143.176.83:443?type=grpc&security=tls&fp=firefox&sni=a.es-1.bnc-gt-r1.co.uk&serviceName=grpc#🇪🇪 EE | 13.143.176.83
+vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@31.77.68.36:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=qq&pbk=Daj7jHuHFEC_LV-Fv1fBSaTSQRM9vfgf_DtjMn9svl0&sid=64e4efa1&type=tcp&headerType=none#🇪🇪 EE | 31.77.68.36
