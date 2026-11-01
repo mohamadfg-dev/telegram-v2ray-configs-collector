@@ -64,7 +64,7 @@ Not Match: https://t.me/s/kurdistan_vpn_perfectt
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
+Bad Configs: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -154,6 +154,7 @@ Bad Response: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_v_vpn 
 Not Match: https://t.me/s/v2ray_vmes 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -161,11 +162,9 @@ Bad Response: https://t.me/s/v2rayn5
 Not Match: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayngcloud 
 Not Match: https://t.me/s/v2rayngn 
-Bad Configs: https://t.me/s/v2rayngraisi 
 Not Match: https://t.me/s/v2rayngseven 
 Not Match: https://t.me/s/v2rayngte 
-Not Match: https://t.me/s/v2rayngvpn 
-Other Error: https://t.me/s/v2rayvlp 
+Other Error: https://t.me/s/v2rayngvpn 
 Not Match: https://t.me/s/v2rayvpn2 
 Not Match: https://t.me/s/v2reay 
 Not Match: https://t.me/s/v2ret 
@@ -180,7 +179,6 @@ Not Match: https://t.me/s/vmess_iran
 Bad Response: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmess_vless_v2rayng 
 Not Match: https://t.me/s/vmessiran 
-Other Error: https://t.me/s/vmesskhodam 
 Not Match: https://t.me/s/vmessorg 
 Not Match: https://t.me/s/vp_n1 
 Not Match: https://t.me/s/vpn451 
@@ -196,4 +194,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Bad Configs: https://t.me/s/rxv2ray 
