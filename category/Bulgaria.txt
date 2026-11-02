@@ -1,1 +1,2 @@
+vless://dfb070bf-0b53-43eb-be2b-4b34f7e1644d@areal3.greewebservices.ir:4445?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#🇧🇬 BG | 131.123.40.30
 vless://8be3e9b2-54e6-490c-ad5f-5a372765ffae@de.soft10.ir:8080?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=staticview.microsoft.com&pbk=Au0lpWqAPpK0aNuc3Uwcsf7fB1B2w2LXzdC1CVKb1ik&sid=a8235bf7eb8fca#🇧🇬 BG | 109.122.27.39

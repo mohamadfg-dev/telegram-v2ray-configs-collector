@@ -1,1 +1,1 @@
-vless://3d526c7f-059c-4e2b-b09a-8569b268935b@185.225.205.53:443?security=reality&encryption=none&pbk=2XyUS3_ONl5REQ7NiwikdJphAe7oJ61-21zuqnN67y8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=2e82d7ac#🇪🇪 EE | 185.225.205.53
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?security=none&type=ws&path=/&host=vms.lifetime59.workers.dev&packetEncoding=xudp#🇪🇪 EE | 185.159.247.30
