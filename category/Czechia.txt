@@ -1,1 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.106
+vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?path=/vless-ws&security=tls&encryption=none&fp=ios&type=ws&sni=speedtestmark.com#🇨🇿 CZ | 153.76.190.31
