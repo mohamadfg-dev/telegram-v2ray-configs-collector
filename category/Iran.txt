@@ -2,6 +2,7 @@ vless://4e8e5f05-5c8a-4f53-ba16-1ed044ed0df8@79.175.189.121:40021?encryption=non
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 62.60.147.73
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@jsv-ir.jmovies.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aparat.com&fp=firefox&insecure=1&allowInsecure=1&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff&spx=/#🇮🇷 IR | 5.159.54.102
+vless://93579113-3df4-4206-8124-a75d381a3e32@31.14.116.80:8443?encryption=none&security=none&type=tcp#🇮🇷 IR | 31.14.116.80
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#🇮🇷 IR | 89.44.113.58
 vless://53d65999-870f-4020-8e7f-70f415533386@193.151.138.148:2095?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 193.151.138.148
 vless://6fe3a2fe-d31d-4351-bb4f-0df204078be6@srv3.segara.ir:8443?security=reality&encryption=none&pbk=bpqWvZAEHPgZ-kGrJDu6INWZ6InPJxXdJei3VxcAJR8&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=ae4931ddfcb70677#🇮🇷 IR | 45.142.189.12

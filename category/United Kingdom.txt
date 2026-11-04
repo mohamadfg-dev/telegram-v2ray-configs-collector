@@ -1,9 +1,7 @@
-vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇬🇧 GB | 2a06:98c1:3101::6812:202f
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.74.126:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.10.74.126
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.74.126:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.10.74.126
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇬🇧 GB | 2a06:98c1:3100::6812:29be
+vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoi8J+HrPCfh6cgR0IgfCAxNDkuNy4xNi4yMjgiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 GB | 141.98.101.181
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.74.126:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.10.74.126
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.74.126:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 3.10.74.126
 vmess://eyJhZGQiOiIxNDkuNy4xNi4yMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiLwn4es8J+HpyBHQiB8IDE0OS43LjE2LjIyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@132.243.207.154:443?security=reality&encryption=none&pbk=tVx2o1LD0BI7CCoXfFSv-Rr_etGde9XpQ-iNA9P3338&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=get-37.topp-con.xyz&sid=59d2296aa6320c76#🇬🇧 GB | 132.243.207.154
