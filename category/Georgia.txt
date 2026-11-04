@@ -1,2 +1,1 @@
-vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 GE | 93.190.9.138
-vless://37fc3a9f-72e0-4b15-84ab-1455f028147a@93.190.9.138:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇬🇪 GE | 93.190.9.138
+vless://9992be65-f201-44ca-a177-2ca95aaa7ad4@93.190.9.2:3090/?type=grpc&encryption=none&flow=&serviceName=vless#🇬🇪 GE | 93.190.9.2
