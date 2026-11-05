@@ -1,5 +1,4 @@
+vless://0809eed6-5204-49b8-8312-b82a10024022@217.69.167.197:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#🇸🇪 SE | 217.69.167.197
 vless://0809eed6-5204-49b8-8312-b82a10024022@217.69.167.197:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&sid=8cfe1563#🇸🇪 SE | 217.69.167.197
-vmess://eyJhZGQiOiIxMzguMTk5LjU1LjIzMCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiLwn4e48J+HqiBTRSB8IDEzOC4xOTkuNTUuMjMwIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com#🇸🇪 SE | 70.34.207.14
 vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=firefox&sni=se3.shtil.io&alpn=h2,http/1.1#🇸🇪 SE | 194.104.94.141
 vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=firefox&sni=se3.shtil.io&alpn=h2,http/1.1#🇸🇪 SE | 194.104.94.141

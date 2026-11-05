@@ -1,2 +1,1 @@
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&encryption=none&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=6bdc8320#🇮🇳 IN | 178.212.35.198
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#🇮🇳 IN | 5.253.28.240
