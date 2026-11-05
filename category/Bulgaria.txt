@@ -1,1 +1,1 @@
-vless://8be3e9b2-54e6-490c-ad5f-5a372765ffae@de.soft10.ir:8080?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=staticview.microsoft.com&pbk=Au0lpWqAPpK0aNuc3Uwcsf7fB1B2w2LXzdC1CVKb1ik&sid=a8235bf7eb8fca#🇧🇬 BG | 109.122.27.39
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@bg1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bg1.fox-lisa.ru&sid=027af64166562b09#🇧🇬 BG | 185.246.131.55
