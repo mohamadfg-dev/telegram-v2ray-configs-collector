@@ -7,7 +7,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@89.125.8.88:443?security=reality&encryption=none&pbk=Yw0T7qr5Wk3HCqV8h6V9N5wcInMxQ0XsxUuLV62_bEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl5.japancase.site&sid=c498d5e4a069592c#🇳🇱 NL | 89.125.8.88
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#🇳🇱 NL | 82.38.31.171
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@dns22.m3hrzd.ir:1348#🇳🇱 NL | 185.4.115.149
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#🇳🇱 NL | 193.29.139.234
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#🇳🇱 NL | 77.221.132.206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#🇳🇱 NL | 82.38.31.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#🇳🇱 NL | 82.38.31.165
 vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=deepl.com&pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&sid=80ba&allowinsecure=0&type=tcp&headerType=none#🇳🇱 NL | 147.45.136.213
@@ -18,8 +18,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 NL | 51.158.206.8
 vless://8285eef0-147d-4bb6-9d12-0e4601a36e78@151.101.204.190:80?encryption=none&security=none&type=xhttp&host=minovpnch.net&path=/awduhiawad?ed=2560&mode=auto#🇳🇱 NL | 151.101.204.190
 vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@144.124.231.88:8443?flow=xtls-rprx-vision&pbk=TZ0SHRR0aa4eBqUCKd1PzqTWOtNDWcaX7WRDmy2cYxo&headerType=none&sni=convertany.cc&encryption=none&sid=5f2a9c7e13b84d61&security=reality&type=tcp&fp=firefox#🇳🇱 NL | 144.124.231.88
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 NL | 51.158.206.86
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱 NL | 193.29.139.168
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.149.194:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#🇳🇱 NL | 31.77.149.194
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 NL | 82.38.31.193
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 NL | 51.158.206.86
@@ -28,7 +26,6 @@ vless://78a9bf4f-3bec-48b2-b98f-a3f8151506ac@europeless.duckdns.org:443?security
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#🇳🇱 NL | 82.38.31.171
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2R3pmZG1kMmN2eWUxcXlLb3ViOUU3ZVdpak1EUjJsSw@dns22.m3hrzd.ir:1348#🇳🇱 NL | 185.4.115.149
 vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#🇳🇱 NL | 156.252.229.11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🇳🇱 NL | 82.38.31.198
 vless://83b3bb17-bc07-453f-9f10-4264ae839314@89.34.230.234:443?security=tls&encryption=none&insecure=1&host=namasha.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1&sni=namasha.com#🇳🇱 NL | 89.34.230.234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ==@dns27.m3hrzd.ir:8044#🇳🇱 NL | 185.4.115.146
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱 NL | 193.29.139.235
@@ -43,11 +40,8 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=realit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱 NL | 193.29.139.212
 vless://25284368-40d5-4abe-9f56-54a07e88a7af@129.101.120.5:37951?fp=firefox&flow=xtls-rprx-vision&encryption=none&sid=a9e21fd097d019c6&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&security=reality&pbk=O6ZOpoz4sxon8iHxCd5EEvx2K9NUThd4SvOCBEvADEI&type=tcp&sni=nl2.dzvn.space#🇳🇱 NL | 129.101.120.5
 vless://6b63bd24-09b7-4b7d-81e0-d994a67f17a9@62.84.99.42:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#🇳🇱 NL | 62.84.99.42
-vless://97462b18-1836-4e4f-b0fb-5c84d38a2e9d@94.249.198.211:43000?security=reality&encryption=none&pbk=QaPoY-5W4Z7NA_LUG37yjYNy3JWg53Ru7eWLTzec-nE&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=b62ac375#🇳🇱 NL | 94.249.198.211
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&sni=fuck.rkn&encryption=none&type=tcp&flow=xtls-rprx-vision#🇳🇱 NL | 51.158.206.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#🇳🇱 NL | 82.38.31.3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱 NL | 193.29.139.168
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 NL | 82.38.31.184
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇳🇱 NL | 51.158.206.103
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&spx=/&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#🇳🇱 NL | 84.32.101.112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#🇳🇱 NL | 82.38.31.193
