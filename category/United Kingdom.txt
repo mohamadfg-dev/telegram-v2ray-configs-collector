@@ -1,4 +1,10 @@
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.243.121:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.168.243.121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaXNxOWNOd2sycW9mY0JLNG5ZSWd2N3dCNTFzSDJVMQ@167.104.223.242:443#🇬🇧 GB | 167.104.223.242
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.243.121:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.168.243.121
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.215.22:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.171.215.22
+vless://035c8a3d-1cec-43e2-369d-f98593af1d9a@chatgpt.com:2082?encryption=none&type=httpupgrade&host=www.chatgpt.com.2.hiphonemobile.top&path=/tfufdfute5wydh&security=none#🇬🇧 GB | 2a06:98c1:3101::6812:202f
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@gb1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&security=reality&sid=bd44ae7c721b8252&sni=gb1.japancase.site&type=tcp#🇬🇧 GB | 157.228.64.24
+vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiNmM0NDNjYjMtOWZlOC00NWU2LWE4NmYtZWY2ZWQxOWQ0ODFlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+HpyBHQiB8IDU3LjEyOC4xNjQuMjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.243.121:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.168.243.121
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.243.121:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.168.243.121

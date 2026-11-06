@@ -1,5 +1,5 @@
 vless://4e8e5f05-5c8a-4f53-ba16-1ed044ed0df8@79.175.189.121:40021?encryption=none&security=reality&type=tcp&pbk=ioucvr6V3ToaaU3dmWhIDT6UiS_jnL8t0AXaQQNfDwQ&fp=chrome&sni=digikala.com&sid=5276&spx=/&flow=xtls-rprx-vision#🇮🇷 IR | 79.175.189.121
-vless://4bc2ee85-da55-4aad-9f92-196c7334c780@trial.irgemini.sbs:11681?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 81.12.54.84
+vless://4bc2ee85-da55-4aad-9f92-196c7334c780@trial.irgemini.sbs:11681?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 81.12.54.80
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#🇮🇷 IR | 62.60.147.73
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🇮🇷 IR | 185.143.234.235
 vless://c26fe2f0-5c69-11f1-8a1a-bf116ceb9215@jsv-ir.jmovies.ir:443?encryption=none&type=tcp&security=reality&headerType=none&sni=aparat.com&fp=firefox&insecure=1&allowInsecure=1&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&sid=f373df45a687eaff&spx=/#🇮🇷 IR | 5.159.54.102
