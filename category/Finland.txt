@@ -1,7 +1,6 @@
 vless://35eb914a-f7c2-4ffa-8503-1bf30df0f1a5@13.140.92.21:80?type=tcp&pbk=rtYs5r9380Y2zvtXBFfaBbnypJQ7_1x_uYu0cLpOXk4&fp=chrome&spx=/ad7d3612c9c5309&security=reality&flow=xtls-rprx-vision&sni=www.cloudflare.com&encryption=none&sid=d8fee47b2d3d94&headerType=none#🇫🇮 FI | 13.140.92.21
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇮 FI | 65.109.187.82
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality&encryption=none&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.41.21&sid=a32cfb5deca913ad#🇫🇮 FI | 95.217.24.236
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi.peregrine-sub.net&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw#🇫🇮 FI | 31.76.103.92
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0enRTMEpHcVg5MXBEVmk1ZzhReWZmYVVQSmxQVW5XbQ@fn1s.sublinkplas.ir:53731#🇫🇮 FI | 65.21.52.113
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi.peregrine-sub.net&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw#🇫🇮 FI | 31.76.103.92

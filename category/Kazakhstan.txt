@@ -1,1 +1,1 @@
-vless://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#🇰🇿 KZ | 45.136.59.28
+vless://ebfe9aa7-990f-4d30-9105-2c6b25817194@213.155.23.70:17789?security=reality&encryption=none&pbk=uXwlj6V8_F5RLwqw8C25GIsNP99AGv_Vvb_XmRuo1UU&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=splitter.wb.ru&sid=487cff0425b4e006#🇰🇿 KZ | 213.155.23.70

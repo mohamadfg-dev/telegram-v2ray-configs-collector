@@ -1,14 +1,3 @@
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.43.208.105
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.169.49.75
-vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8444?mode=gun&security=reality&encryption=none&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&fp=chrome&type=grpc&serviceName=grpc-reality&sni=360.yandex.ru&sid=2bf10fc0a85601e5#🇬🇧 GB | 82.148.255.201
-vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8444?mode=gun&security=reality&encryption=none&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&fp=firefox&type=grpc&serviceName=grpc-reality&sni=360.yandex.ru&sid=2bf10fc0a85601e5&authority=Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#🇬🇧 GB | 82.148.255.201
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.43.208.105
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.169.49.75
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.43.208.105
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.169.49.75
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.43.208.105
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.169.49.75
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 18.169.49.75
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 13.43.208.105
+vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjowLCJob3N0IjoiaHR0cHMuaHR0cC53d3cubmV0LmNvbS5yYW1zZXl2Mi5pci4iLCJpZCI6IjZjNDQzY2IzLTlmZTgtNDVlNi1hODZmLWVmNmVkMTlkNDgxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsInBvcnQiOjgwLCJwcyI6IvCfh6zwn4enIEdCIHwgNTcuMTI4LjE2NC4yMSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
