@@ -1,2 +1,1 @@
-vless://72992f3d-875e-496d-a410-372317076427@5.149.248.151:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#🇳🇱 NL | 5.149.248.151
-vless://747e42df-2590-4894-8653-c99e358c7852@79.141.164.125:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#🇳🇱 NL | 79.141.164.125
+vless://c1fd8fa8-44ad-4618-8430-203fef0befe7@5.149.248.151:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nla.kosmosapp.net&type=grpc#🇳🇱 NL | 5.149.248.151

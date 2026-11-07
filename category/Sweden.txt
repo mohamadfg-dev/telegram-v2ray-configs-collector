@@ -1,4 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?sni=searchhealthcarejobsandbuildmedicalcareerpathway.com&peer=searchhealthcarejobsandbuildmedicalcareerpathway.com&security=tls#🇸🇪 SE | 70.34.207.14
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=se3.shtil.io#🇸🇪 SE | 194.104.94.141
+vmess://eyJhZGQiOiI2Mi45My4xNjYuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoi8J+HuPCfh6ogU0UgfCA2Mi45My4xNjYuMTg0Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪 SE | 70.34.212.124
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 SE | 95.143.196.97
 vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=firefox&sni=se3.shtil.io&alpn=h2,http/1.1#🇸🇪 SE | 194.104.94.141

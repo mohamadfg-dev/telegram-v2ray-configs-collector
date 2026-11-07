@@ -1,1 +1,1 @@
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#🇱🇹 LT | 93.115.24.135
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#🇱🇹 LT | 84.32.151.159

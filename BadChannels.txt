@@ -6,6 +6,7 @@ Bad Response: https://t.me/s/heyatserver
 Not Match: https://t.me/s/heyatserver 
 Not Match: https://t.me/s/abiidar_server 
 Not Match: https://t.me/s/nim_vpn_ir 
+Other Error: https://t.me/s/keysOutline 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
 Not Match: https://t.me/s/armodvpn 
@@ -93,6 +94,7 @@ Not Match: https://t.me/s/ohvpn
 Bad Response: https://t.me/s/oonfig 
 Not Match: https://t.me/s/oonfig 
 Not Match: https://t.me/s/orgempirenet 
+Other Error: https://t.me/s/outlineopenkey 
 Not Match: https://t.me/s/outlinev2rayng 
 Not Match: https://t.me/s/outlinevpn_ru 
 Not Match: https://t.me/s/parsashonam 
@@ -125,6 +127,7 @@ Not Match: https://t.me/s/seven_ping
 Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/sinavm 
+Not Match: https://t.me/s/singbox1 
 Other Error: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -162,7 +165,6 @@ Bad Configs: https://t.me/s/v2rayargon
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
-Other Error: https://t.me/s/v2raymelliii 
 Bad Response: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayn5 
 Not Match: https://t.me/s/v2rayngcloud 

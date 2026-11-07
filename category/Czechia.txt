@@ -1,2 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.171
-vless://abca037b-bee5-41cc-a888-0668e4c66176@31.76.7.233:443?mode=auto&path=/conv4/stream/d34366ecdd31367d0fc76955c6b8d77c&security=tls&encryption=none&extra={"noSSEHeader":false,"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scStreamUpServerSecs":"20-80"}&insecure=0&type=xhttp&allowInsecure=0&sni=e2865c20.con.rasterparcel.tech#🇨🇿 CZ | 31.76.7.233
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.106
