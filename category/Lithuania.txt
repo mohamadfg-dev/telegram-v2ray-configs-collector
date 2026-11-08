@@ -1,1 +1,1 @@
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app26.betust.net:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#🇱🇹 LT | 84.32.151.159
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?mode=auto&security=reality&encryption=none&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&host=aiartstudios.best&fp=firefox&type=xhttp&sni=aiartstudios.best&sid=db724eb12631c05f#🇱🇹 LT | 5.199.174.25

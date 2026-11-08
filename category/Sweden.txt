@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪 SE | 70.34.212.124
+vless://c0d58ed7-41f8-4cf4-b61b-8ba8f6be9a46@62.182.193.228:8443?security=reality&encryption=none&pbk=G3ZzvlhhrESJFCm41agmCMitg14XGzIAaS5DpdxZxkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nekoboxo.isgood.host&sid=da5e9707#🇸🇪 SE | 62.182.193.228
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@88.216.223.100:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#🇸🇪 SE | 88.216.223.100

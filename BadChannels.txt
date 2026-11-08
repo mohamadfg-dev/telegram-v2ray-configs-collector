@@ -121,6 +121,7 @@ Not Match: https://t.me/s/serverii
 Not Match: https://t.me/s/serversiran11 
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
+Other Error: https://t.me/s/shadowsockskeys 
 Not Match: https://t.me/s/sharecentrepro 
 Not Match: https://t.me/s/sinavm 
 Other Error: https://t.me/s/skivpn 
@@ -157,6 +158,7 @@ Not Match: https://t.me/s/v2ray_v_vpn
 Not Match: https://t.me/s/v2ray_vmes 
 Not Match: https://t.me/s/v2ray_vmess_free 
 Bad Configs: https://t.me/s/v2rayargon 
+Bad Configs: https://t.me/s/v2raych 
 Not Match: https://t.me/s/v2rayfast_7 
 Other Error: https://t.me/s/v2rayfree 
 Not Match: https://t.me/s/v2rayfree_server 
@@ -190,6 +192,7 @@ Not Match: https://t.me/s/vpn_arta
 Bad Response: https://t.me/s/vpn_bal0uch 
 Not Match: https://t.me/s/vpn_bal0uch 
 Bad Configs: https://t.me/s/vpn_kade01 
+Bad Configs: https://t.me/s/vpn_kanfik 
 Not Match: https://t.me/s/vpn_meliii 
 Other Error: https://t.me/s/vpnfastservice 
 Not Match: https://t.me/s/vpnhouse_official 
@@ -197,4 +200,3 @@ Not Match: https://t.me/s/vpnplusee_free
 Not Match: https://t.me/s/vpnstable 
 Not Match: https://t.me/s/vpnx1x 
 Bad Configs: https://t.me/s/vtworay_wolf 
-Other Error: https://t.me/s/vpnv2r4y 

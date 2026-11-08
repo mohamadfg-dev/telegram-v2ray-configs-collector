@@ -1,1 +1,1 @@
-vless://11512726-b692-406f-ab49-7b28f44a8294@80.96.108.29:8443?path=/ae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&type=xhttp&sni=md.gorobsub.com#🇷🇴 RO | 80.96.108.29
+vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@ro-xh02.tcp-reset-club.net:8443?mode=stream-one&path=/assets/v2/pkg&security=reality&encryption=none&extra={"xmux":{"maxConcurrency":"16-32"}}&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&fp=chrome&type=xhttp&sni=s3.netavex.com&sid=e0#🇷🇴 RO | 37.46.196.85
