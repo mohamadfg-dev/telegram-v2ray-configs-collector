@@ -1,1 +1,1 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=discoverparttimepositionsandsupplementyourincomeguide.com#🇯🇵 JP | 167.179.108.225
+vless://e8a346c2-e14c-4f82-876f-367dc19ee541@23.27.11.86:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jp.burmy.xyz#🇯🇵 JP | 23.27.11.86
