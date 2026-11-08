@@ -1,1 +1,1 @@
-vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@104.253.216.227:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=60500a63ad12#🇺🇦 UA | 104.253.216.227
+vless://7a81a82d-9040-4c41-9b7e-ace77350e879@kharej.falnexa.ir:2450?security=none&encryption=mlkem768x25519plus.native.0rtt.QNOD9AbcwwQDArSr9H59Yp1Q7-mnDiOEhQWKKtRG_SE&headerType=none&type=tcp#🇺🇦 UA | 185.194.191.114
