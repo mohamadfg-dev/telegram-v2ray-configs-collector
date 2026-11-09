@@ -1,3 +1,1 @@
-vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&spx=/&type=raw#🇮🇪 IE | 83.141.75.138
-vless://1cdafc9c-ae44-44d6-a048-8454c5d26733@83.141.75.138:2066?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=y0r0Li8Pf9Nmr7u8zoT5_oeZL31jpZEmt9R2A-JwXns&security=reality&sid=d18f4e&sni=node-f9e67aae.g-magnum.icu&spx=/&type=raw#🇮🇪 IE | 83.141.75.138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a3hZVjhmYUxLRnk4cTFT@98.71.81.64:443#🇮🇪 IE | 98.71.81.64
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMnNobGJlUlhkRTQ1YVZB@20.166.20.135:443#🇮🇪 IE | 20.166.20.135

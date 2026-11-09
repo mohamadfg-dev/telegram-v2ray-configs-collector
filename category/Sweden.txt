@@ -1,2 +1,3 @@
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 SE | 95.143.196.97
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206azhJZ1JURkFJWmRwYmRSQlZ0TlFwc1l2YzlleTMwTVh4VFh6amhSczBVdz06SGFVQUNZdnM3ejRFVXF2WkN0T3J5S3ZHMDJ0aFJDWmV6Znp1c0lmUGxNUT0@16.171.44.134:443#🇸🇪 SE | 16.171.44.134
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#🇸🇪 SE | 185.189.45.195
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6ogU0UgfCA2Mi45My4xNjYuMTg0IiwiYWRkIjoiNjIuOTMuMTY2LjE4NCIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRlc3RfbmFtZSI6Ijk3In0=
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online#🇸🇪 SE | 95.143.196.97
