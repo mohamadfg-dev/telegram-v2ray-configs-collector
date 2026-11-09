@@ -1,1 +1,2 @@
-vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=/api/v1/events&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=firefox&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#🇰🇭 KH | 93.152.215.176
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=remote.propaint.cl&fp=ios&pbk=is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ&sid=a2fcac&type=tcp&headerType=none#🇰🇭 KH | 93.152.215.254
+vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.215.254:443?security=reality&encryption=none&pbk=is-86tEDOjNbNAnVwc-YHHYSn1MF9SF68P6VjESfDHQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=remote.propaint.cl&sid=a2fcac#🇰🇭 KH | 93.152.215.254
