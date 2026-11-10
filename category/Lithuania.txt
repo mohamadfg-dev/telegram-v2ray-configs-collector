@@ -1,1 +1,1 @@
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?mode=auto&security=reality&encryption=none&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&host=aiartstudios.best&fp=firefox&type=xhttp&sni=aiartstudios.best&sid=db724eb12631c05f#🇱🇹 LT | 5.199.174.25
+vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 LT | 45.81.252.143
