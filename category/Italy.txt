@@ -1,3 +1,2 @@
-vless://96aece95-a55a-4082-8c17-f996c0c83729@it.x8lab.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&fp=firefox&type=xhttp&sni=s.tradingview.com&sid=c44bcdb731f12c41#🇮🇹 IT | 157.228.71.74
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 IT | 57.131.38.163
-vless://96aece95-a55a-4082-8c17-f996c0c83729@it.x8lab.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&fp=firefox&type=xhttp&sni=s.tradingview.com&sid=c44bcdb731f12c41#🇮🇹 IT | 157.228.71.89
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?path=/fp=chrome&security=tls&encryption=none&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#🇮🇹 IT | 179.255.190.21

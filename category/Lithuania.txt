@@ -1,1 +1,1 @@
-vless://53555197-bf0a-49e6-bea1-211fcfc1d962@45.81.252.143:2053?alpn=h2&encryption=none&security=tls&sni=germany3.banovano.space&type=grpc#🇱🇹 LT | 45.81.252.143
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&type=grpc&mode=gun&serviceName=grpc&security=tls&fp=edge&sni=edge-lt.lindenpixel.com#🇱🇹 LT | 84.32.209.103
