@@ -8,6 +8,7 @@ Not Match: https://t.me/s/abiidar_server
 Not Match: https://t.me/s/nim_vpn_ir 
 Not Match: https://t.me/s/ana_service 
 Not Match: https://t.me/s/apple_x1 
+Not Match: https://t.me/s/argo_vpn1 
 Not Match: https://t.me/s/armodvpn 
 Not Match: https://t.me/s/arv2ray 
 Not Match: https://t.me/s/asak_vpn 
@@ -19,6 +20,7 @@ Not Match: https://t.me/s/chanel_v2ray_2
 Not Match: https://t.me/s/change_ip1 
 Not Match: https://t.me/s/club_profsor 
 Not Match: https://t.me/s/configms 
+Other Error: https://t.me/s/configpluse 
 Not Match: https://t.me/s/configscenter 
 Not Match: https://t.me/s/confing_chanel 
 Bad Response: https://t.me/s/connect_sho 
@@ -60,12 +62,13 @@ Not Match: https://t.me/s/iransoftware90
 Not Match: https://t.me/s/iseqaro 
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Bad Configs: https://t.me/s/lranonline_new 
+Not Match: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -131,7 +134,6 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
-Bad Configs: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
