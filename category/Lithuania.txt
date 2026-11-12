@@ -1,1 +1,1 @@
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&type=grpc&mode=gun&serviceName=grpc&security=tls&fp=edge&sni=edge-lt.lindenpixel.com#🇱🇹 LT | 84.32.209.103
+vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=grpc&sni=edge-lt.lindenpixel.com&type=grpc#🇱🇹 LT | 84.32.209.103
