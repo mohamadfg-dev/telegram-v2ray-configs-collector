@@ -1,3 +1,2 @@
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HpvCfh6ogQUUgfCAxMDkuNjEuMTguMTg4IiwiYWRkIjoiMTA5LjYxLjE4LjE4OCIsInBvcnQiOiI4MCIsImlkIjoiYzExMjI0NDQtYWY0NS00YjZiLWJjMjctZWY4ZGU2MGJhN2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInZjbiI6IiIsInBjcyI6IiJ9
 vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?security=none&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp#🇦🇪 AE | 46.8.100.46
-vless://29777784-b5ad-4e2a-be7b-335f033ab97c@188.72.103.4:443?encryption=none&security=tls&type=xhttp&sni=cdn.oldertown.ru&fp=firefox&alpn=h2,http/1.1#🇦🇪 AE | 188.72.103.4
