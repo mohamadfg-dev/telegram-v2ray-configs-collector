@@ -1,1 +1,1 @@
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&serviceName=hub.v1.SyncService&mode=gun#🇲🇩 MD | 89.35.14.31
+vless://0f11b72f-1af1-4f0a-b992-87a8241d9213@143.246.204.21:443?mode=auto&path=/assets/1117b6ce&security=reality&encryption=none&pbk=YEyZf6GvVcUG2VJnxyWOJQd8_ORz0n8Tw8Hs417OPxo&fp=chrome&type=xhttp&sni=packages.gitlab.com&sid=5b524cdb28b6824a#🇲🇩 MD | 143.246.204.21
