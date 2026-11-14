@@ -1,1 +1,1 @@
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#🇬🇷 GR | 85.90.197.91
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.158:443?encryption=none&security=tls&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp#🇬🇷 GR | 85.90.197.158

@@ -1,3 +1,1 @@
-ss://YWVzLTEyOC1nY206NTE3NDAzNzUzYjYzZmQ0ZmFjODg5ODZiZjk4YjExZTA=@194.59.250.52:18501#🇸🇪 SE | 194.59.250.52
-vmess://eyJhZGQiOiIxMzguMTk5LjU1LjIzMCIsImFpZCI6MCwiaG9zdCI6InhtZmhscHkuY29tIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IvCfh7jwn4eqIFNFIHwgMTM4LjE5OS41NS4yMzAiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#🇸🇪 SE | 95.143.196.97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTU1NWU0NmRiYzQyMTQ1MjQxNjgzNDk2MmZkMDE0Zg==@62.182.193.228:8388#🇸🇪 SE | 62.182.193.228

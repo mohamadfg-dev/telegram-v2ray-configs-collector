@@ -1,1 +1,1 @@
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@82.152.132.74:443?security=tls&sni=82.152.132.74&fp=chrome&type=ws&path=/assets/sync-8f3a71&host=82.152.132.74&packetEncoding=xudp&encryption=none#🇷🇴 RO | 82.152.132.74
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#🇷🇴 RO | 212.193.0.105
