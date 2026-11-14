@@ -1,1 +1,1 @@
-vless://e8a346c2-e14c-4f82-876f-367dc19ee541@23.27.11.86:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jp.burmy.xyz#🇯🇵 JP | 23.27.11.86
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 JP | 84.247.155.196

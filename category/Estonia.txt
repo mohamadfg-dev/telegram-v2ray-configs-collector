@@ -1,2 +1,1 @@
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#🇪🇪 EE | 185.215.184.79
-vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#🇪🇪 EE | 185.215.184.54
+vless://62546819-be8b-4ecf-bb90-ed04fdf610f3@178.214.125.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=conf.emaar.ru&fp=firefox&security=reality&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&sid=6172ba9cffe9c22f#🇪🇪 EE | 178.214.125.2
