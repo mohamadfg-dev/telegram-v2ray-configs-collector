@@ -1,1 +1,1 @@
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇨🇿 CZ | 95.133.245.165
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?security=reality&encryption=none&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cache-78.topp-con.xyz&sid=d5492c7a39515c65#🇨🇿 CZ | 153.52.69.249
