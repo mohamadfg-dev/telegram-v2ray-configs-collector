@@ -1,1 +1,2 @@
-vless://be54ca9f-a015-410b-b814-00af405309db@5.149.248.151:443?security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#🇳🇱 NL | 5.149.248.151
+vless://774bcad2-7a6f-4d98-9873-9b7b921c54c1@frank20.alborzmonit.ir:31915?encryption=none&security=tls&type=ws&headerType=none&path=/&host=pasar.zarghamweb.ir&sni=pasar.zarghamweb.ir&fp=chrome&alpn=h3,h2,http/1.1#🇳🇱 NL | 88.218.16.186
+vless://774bcad2-7a6f-4d98-9873-9b7b921c54c1@folat.zarghamweb.ir:61504?encryption=none&security=tls&type=ws&headerType=none&path=/&host=pasar.zarghamweb.ir&sni=pasar.zarghamweb.ir&fp=firefox&alpn=h3,h2,http/1.1#🇳🇱 NL | 88.218.16.180
