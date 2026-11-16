@@ -4,3 +4,4 @@ vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
 vless://MiMiTDL@2.31.162.232:2095?encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&security=none&type=httpupgrade&host=dynu.com&path=/MiMiTDL#🇫🇮 FI | 2.31.162.232
 vmess://eyJhZGQiOiIyMDQuMTY4LjE3Mi4xNjMiLCJpZCI6ImM1MDk1MTUyLTBlOWMtNDBmZC1iNjEwLWIxY2RjOWMyODM1MCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI5OTg1IiwicHMiOiLwn4er8J+HriBGSSB8IDIwNC4xNjguMTcyLjE2MyIsInNjeSI6ImF1dG8iLCJ0eXBlIjoiaHR0cCJ9
+ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#🇫🇮 FI | 213.176.92.148
