@@ -1,2 +1,3 @@
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?mode=gun&security=reality&encryption=none&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&fp=firefox&type=grpc&sni=emberworks.cloud&sid=ea322b8b5b015812#🇷🇺 RU | 185.86.145.78
 vless://88281d02-b387-4fe3-918e-26ed331e6d08@95.129.234.113:8443?mode=auto&path=/ccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&sni=tansy-wharf.cdn.cachefleet.com#🇷🇺 RU | 95.129.234.113

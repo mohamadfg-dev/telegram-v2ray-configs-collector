@@ -1,2 +1,5 @@
+vless://ea93064c-176c-11f0-885d-f23c91cfbbc9@9e5f5c4b-tomdc0-tpolhi-1rgxu.hk2.hyhuawei.com:443?encryption=none&type=tcp&security=reality&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sni=download.windowsupdate.com&fp=chrome#undefined HK | 116.49.173.65
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.5:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=storage.yandex.net&sid=40ce08cf20c67003&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none#undefined HK | 45.195.137.5
+vless://ea93064c-176c-11f0-885d-f23c91cfbbc9@9e5f5c4b-tomdc0-tpolhi-1rgxu.hk2.hyhuawei.com:443?encryption=none&type=tcp&security=reality&pbk=c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo&sni=download.windowsupdate.com&fp=chrome#undefined HK | 116.49.173.65
+vless://71327a90-b9c4-4385-b850-4d3c5832d9cc@91.213.186.45:46986?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=5Uk63lFOn1Z3gmImXWrXbvQ0b9gXTOiY_VWuI898Vmk&packetEncoding=xudp#undefined HK | 91.213.186.45
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=/fd5ba98a3970&security=none&encryption=none&type=ws#undefined HK | 82.24.203.20
