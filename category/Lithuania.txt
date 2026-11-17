@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=/fp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇱🇹 LT | 88.216.69.253
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#🇱🇹 LT | 84.32.83.197

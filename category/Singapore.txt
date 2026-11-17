@@ -1,5 +1,2 @@
-vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?encryption=none&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611#🇸🇬 SG | 140.245.113.33
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#🇸🇬 SG | 149.28.130.108
-vless://f4ca59b2-767d-3425-8dfc-95a96a0e6802@140.245.113.33:443?encryption=none&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=tF9nKF6amexok5wKbieQ2QRKQI5_ZTFE6MUj1hUBBkY&sid=c940a3b6d60b8611#🇸🇬 SG | 140.245.113.33
-vless://d915fba6-d776-c48b-bd75-ce5b62a88648@x4g-production-9cd5.up.railway.app:443?path=/ws/d915fba6-d776-c48b-bd75-ce5b62a88648&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-9cd5.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-9cd5.up.railway.app#🇸🇬 SG | 153.52.255.28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#🇸🇬 SG | 188.166.220.70
