@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 JP | 168.138.205.100
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 JP | 168.138.205.100
+vless://019832a7-9376-445a-ba66-76ee9df0685d@185.112.56.83:8443?encryption=none&security=reality&sni=github.com&fp=firefox&pbk=CsB20mYga1ELkQfn_MTZP1Rr6RHVWJ_P6yVP0NproWo&sid=e3a41cf04c4ebf4a&spx=/a1bc60cd6c9e32e&type=xhttp&path=/48hvv8hg7bnJhg71xcdRE32&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🇯🇵 JP | 185.112.56.83
