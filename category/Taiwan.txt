@@ -1,1 +1,1 @@
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#🇹🇼 TW | 34.80.15.95
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?security=tls&fp=chrome&sni=tse1.mm.bing.net&type=ws&headerType=none&host=tse1.mm.bing.net&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 TW | 59.125.69.22

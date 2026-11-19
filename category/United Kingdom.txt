@@ -1,14 +1,14 @@
 vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#🇬🇧 GB | 189.30.65.203
 vless://8361e3fc-479d-466f-9583-4971c2cf2d03@finporkzov.com:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finporkzov.com&sid=f00f58383241c807#🇬🇧 GB | 5.254.8.148
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.154.146:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.154.146
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999#🇬🇧 GB | 198.244.201.129
-vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#🇬🇧 GB | 189.30.65.203
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#🇬🇧 GB | 141.98.101.179
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.154.146:22222?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.154.146
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#🇬🇧 GB | 189.30.65.203
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80#🇬🇧 GB | 57.129.132.223
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧 GB | 102.177.189.29
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@3.8.236.216:443#🇬🇧 GB | 3.8.236.216
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=firefox&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#🇬🇧 GB | 91.193.58.201
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.154.146:22223?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.154.146
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.154.146:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.154.146
-trojan://MiTiVPN@151.101.56.101:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇬🇧 GB | 151.101.56.101
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.130.78.177:443#🇬🇧 GB | 18.130.78.177
+vmess://eyJhZGQiOiIxNDIuMjAyLjUxLjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoi8J+HrPCfh6cgR0IgfCAxNDIuMjAyLjUxLjQyIiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJiYTExMTZlMi04YzJmLTRlM2QtOGU1MC1jOTU0MzYwY2Y5NzAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4es8J+HpyBHQiB8IDJhMDY6OThjMTozMTIwOjoiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@132.243.163.125:443?security=reality&encryption=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4935e4t.de25.h1clayd.click&sid=6976d670818644cc#🇬🇧 GB | 132.243.163.125
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=4935e4t.de25.h1clayd.click&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc#🇬🇧 GB | 195.206.235.99
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.154.146:22224?encryption=none&security=none&type=tcp#🇬🇧 GB | 16.61.154.146
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#🇬🇧 GB | 189.30.65.203
