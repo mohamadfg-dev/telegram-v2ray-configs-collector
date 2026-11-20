@@ -1,2 +1,4 @@
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?path=/cdn/v3/live?ed#🇸🇪 SE | 81.90.21.163
 vless://0001f119-4d6d-42ae-b2f0-d07ed4694381@144.31.179.156:2053?security=reality&encryption=none&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=cc981b746a300649#🇸🇪 SE | 144.31.179.156
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.214.159:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=a7c92e4b10d6f835&fp=chrome&sni=api-svc-mgr.galioncc.com&type=tcp&headerType=none&path=/#🇸🇪 SE | 88.216.214.159
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#🇸🇪 SE | 103.177.249.143
