@@ -1,1 +1,1 @@
-vless://7a81a82d-9040-4c41-9b7e-ace77350e879@kharej.falnexa.ir:2450?security=none&encryption=mlkem768x25519plus.native.0rtt.QNOD9AbcwwQDArSr9H59Yp1Q7-mnDiOEhQWKKtRG_SE&headerType=none&type=tcp#🇺🇦 UA | 185.194.191.114
+vless://1fba2b1d-21c7-4110-80b6-5ddfd5407cf8@de.g-boot.ir:443?security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=9a597f16c2171bab#🇺🇦 UA | 185.194.190.193
