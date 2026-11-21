@@ -63,12 +63,13 @@ Not Match: https://t.me/s/iseqaro
 Not Match: https://t.me/s/jd_vpn 
 Not Match: https://t.me/s/jiujied 
 Not Match: https://t.me/s/key_outline 
+Not Match: https://t.me/s/kingofilter 
 Bad Response: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/kurdistan_vpn_perfectt 
 Not Match: https://t.me/s/lexernet 
 Not Match: https://t.me/s/lightning6 
 Not Match: https://t.me/s/lombo_channel 
-Not Match: https://t.me/s/lranonline_new 
+Other Error: https://t.me/s/lranonline_new 
 Not Match: https://t.me/s/mahxray 
 Bad Response: https://t.me/s/manzariyeh_rasht 
 Not Match: https://t.me/s/manzariyeh_rasht 
@@ -104,7 +105,6 @@ Bad Configs: https://t.me/s/proxie
 Not Match: https://t.me/s/proxse11 
 Bad Response: https://t.me/s/proxy_hiddfy 
 Not Match: https://t.me/s/proxy_hiddfy 
-Not Match: https://t.me/s/proxy_kafee 
 Other Error: https://t.me/s/proxy_mtproto_vpns_free 
 Bad Response: https://t.me/s/proxyandvpnofficial1 
 Not Match: https://t.me/s/proxyandvpnofficial1 
@@ -125,7 +125,6 @@ Not Match: https://t.me/s/serversiran11
 Not Match: https://t.me/s/seven_ping 
 Not Match: https://t.me/s/shadowproxy66 
 Not Match: https://t.me/s/sinavm 
-Not Match: https://t.me/s/singbox1 
 Other Error: https://t.me/s/skivpn 
 Not Match: https://t.me/s/sobyv2ray 
 Other Error: https://t.me/s/spikevpn 
@@ -136,7 +135,6 @@ Not Match: https://t.me/s/summertimeus
 Not Match: https://t.me/s/svnteam 
 Bad Response: https://t.me/s/tawanaclub 
 Not Match: https://t.me/s/tawanaclub 
-Other Error: https://t.me/s/tehranargo 
 Not Match: https://t.me/s/tiny_vpn_official 
 Bad Configs: https://t.me/s/ultranett 
 Not Match: https://t.me/s/ultrasurf_12 
