@@ -1,4 +1,1 @@
-vless://516f305b-abb4-4e20-f70f-322ee3d7177d@43.133.167.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=r.bing.com&type=tcp#🇯🇵 JP | 43.133.167.153
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 JP | 149.22.87.204
-ss://YWVzLTI1Ni1nY206WUt3RHozbUZwVDl2R2NMOG5CczVkSHJBMnN4TQ@64.176.57.251:8388#🇯🇵 JP | 64.176.57.251
-vless://516f305b-abb4-4e20-f70f-322ee3d7177d@43.133.167.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=r.bing.com&type=tcp#🇯🇵 JP | 43.133.167.153

@@ -1,2 +1,1 @@
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?security=reality&encryption=none&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&headerType=none&fp=firefox&type=tcp&sni=212.192.156.15&sid=426165a0badade80#🇪🇪 EE | 95.85.243.72
-vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@ch5.h1cloud.net:25035?mode=stream-one&path=/astral-edge-h1&security=reality&encryption=none&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&type=xhttp&sni=96f799r.ch5.h1clayd.click&sid=eb63581de991f8c8#🇪🇪 EE | 132.243.67.210
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?encryption=none&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&sni=www.apple.com&type=tcp&security=reality#🇪🇪 EE | 77.83.198.104
