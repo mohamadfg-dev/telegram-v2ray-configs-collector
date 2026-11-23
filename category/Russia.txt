@@ -1,6 +1,6 @@
 vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@84.54.58.149:443?security=reality&encryption=none&pbk=t_PE4flX4qNVn1leXcJX_YWgDw9YZxsrCQAPEHYConc&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=sbmicro656.richhoodfoc.com&sid=f21696d23293b39f#🇷🇺 RU | 84.54.58.149
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?security=reality&encryption=none&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=45.91.54.162&sid=ee4ea980#🇷🇺 RU | 45.91.54.162
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.42.129:18443#🇷🇺 RU | 46.17.42.129
 vless://58708e38-dd5a-0001-902d-93621ee2bd83@168.113.253.178:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uzndiuvzvqqljdyhzs.fcloudservices.site#🇷🇺 RU | 168.113.253.178
 vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#🇷🇺 RU | 45.67.32.147
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?security=reality&encryption=none&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=45.91.54.162&sid=ee4ea980#🇷🇺 RU | 45.91.54.162
+vless://62995b2a-8f82-41f8-ac80-dfdfc1253e76@ch5.h1cloud.net:25035?mode=stream-one&path=/astral-edge-h1&security=reality&encryption=none&pbk=m7pPQqgE5q8qOjHhn9AjNA9sWhBFQ-gXzyGcZTNihUU&type=xhttp&sni=96f799r.ch5.h1clayd.click&sid=eb63581de991f8c8#🇷🇺 RU | 46.148.233.97
