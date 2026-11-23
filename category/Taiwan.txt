@@ -1,1 +1,2 @@
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.22:443?security=tls&fp=chrome&sni=tse1.mm.bing.net&type=ws&headerType=none&host=tse1.mm.bing.net&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 TW | 59.125.69.22
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?security=reality&encryption=none&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com&sid=fa514b83#🇹🇼 TW | 1.160.8.209

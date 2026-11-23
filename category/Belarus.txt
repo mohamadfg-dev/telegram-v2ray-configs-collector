@@ -1,2 +1,1 @@
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=chrome&mode=auto&path=/api/v1/sync/&security=tls&sni=bl1.nexfile.net&type=xhttp#🇧🇾 BY | 179.254.191.251
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#🇧🇾 BY | 179.254.191.251
+vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1084.shopingggg.ir:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#🇧🇾 BY | 179.254.191.251

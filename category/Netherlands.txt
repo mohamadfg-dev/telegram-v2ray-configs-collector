@@ -1,1 +1,1 @@
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFozVmJONTkySlpzdXpaOW91K3BHT0JGTVNSR0JpU1ZjekpGZ2hjUmFFWT0@84.235.170.154:45819#🇳🇱 NL | 84.235.170.154
+vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#🇳🇱 NL | 146.19.254.171

@@ -1,2 +1,1 @@
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#🇸🇪 SE | 206.168.213.117
-vless://95580a09-cce7-4b62-af74-a514083ba9e4@31.77.144.255:8444?mode=stream-one&path=/xh&security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&host=www.amd.com&type=xhttp&sni=www.amd.com&sid=635a76c25a4b1820#🇸🇪 SE | 31.77.144.255

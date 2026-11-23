@@ -1,3 +1,2 @@
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#🇪🇸 ES | 5.180.173.222
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&security=none&type=xhttp&host=amazon.joingulf.lol&path=/awduhiawad?ed=2560&mode=auto#🇪🇸 ES | 185.18.250.67
-vless://7fd0e817-7b9c-4d12-9a24-18853c2ad35c@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=aparat.com&sid=6115f6a9eb8467c6#🇪🇸 ES | 208.76.223.30
