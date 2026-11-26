@@ -1,1 +1,4 @@
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇰🇿 KZ | 38.107.234.57
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#🇰🇿 KZ | 196.198.111.170
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#🇰🇿 KZ | 196.198.111.170
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#🇰🇿 KZ | 196.198.111.162
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=api-6b04608f.adhil.uk#🇰🇿 KZ | 196.198.111.170
