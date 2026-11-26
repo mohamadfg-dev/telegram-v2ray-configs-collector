@@ -3,5 +3,6 @@ vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality&encryption=none&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.41.21&sid=a32cfb5deca913ad#🇫🇮 FI | 95.217.24.236
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWU9aRTdlUkpQaHpkMXZnLUZmTGp4THMzLVh1UWh6Vw@13.140.89.205:1080#🇫🇮 FI | 13.140.89.205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWU9aRTdlUkpQaHpkMXZnLUZmTGp4THMzLVh1UWh6Vw@13.140.89.205:1080#🇫🇮 FI | 13.140.89.205
+vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=mail1.besttotaldns.com#🇫🇮 FI | 65.109.171.194
 vless://a42fdac4-53c7-4a5d-8655-4168eecbe43d@65.109.181.18:27014?security=none&encryption=none&headerType=http&type=tcp#🇫🇮 FI | 65.109.181.18
-vless://a6eed628-ef46-4eb1-b1c9-e13853e082c3@Karen.shahankhan.ir:443?security=none&encryption=mlkem768x25519plus.native.0rtt.F4L-tzF4xZP8_exCC-za3YLuTJ7Jiya3scz-WVRnWjU&headerType=none&type=tcp#🇫🇮 FI | 13.140.85.158
+vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?security=reality&encryption=none&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi-s1.kadrhub.tech#🇫🇮 FI | 13.143.187.220
