@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#🇱🇹 LT | 195.238.126.20
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.209.118:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=api-dns-gw.galioncc.com&sid=a7d309e4c16b825f#🇱🇹 LT | 84.32.209.118
+vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@lt.memepn.com:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lt.memepn.com&sid=868419504747f6de#🇱🇹 LT | 84.32.209.54
+vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?encryption=none&type=xhttp&mode=stream-one&path=/es/?TELEGRAM—B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub—TELEGRAM?ed=2048&extra={"xmux":{"hMaxReusableSecs":"1140-1260","maxConnections":3}}&security=tls&fp=chrome&sni=7d1a74fd.ferrin.uk&alpn=h2#🇱🇹 LT | 196.240.6.115

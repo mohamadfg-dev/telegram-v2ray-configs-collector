@@ -1,1 +1,1 @@
-vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=146.19.254.171#🇳🇱 NL | 146.19.254.171
+vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🇳🇱 NL | 171.22.183.167

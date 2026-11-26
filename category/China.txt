@@ -1,3 +1,2 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cXJ5bDZ4VkxrV1habHFEN0NjY3BRdz09@103.238.140.162:10002#🇨🇳 CN | 103.238.140.162
-ss://YWVzLTI1Ni1nY206OWEwZGRiZWQtY2Q2MC0zYzI2LTgzM2YtMzRmMDY2NGIwNzIy@183.232.253.16:20019#🇨🇳 CN | 183.232.253.16
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#🇨🇳 CN | 118.145.129.12
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#🇨🇳 CN | 118.145.128.4
