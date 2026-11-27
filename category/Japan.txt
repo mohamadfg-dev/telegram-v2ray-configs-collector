@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.249.205:5555#🇯🇵 JP | 8.209.249.205
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.131.30:5555#🇯🇵 JP | 8.211.131.30
-ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.249.205:5555#🇯🇵 JP | 8.209.249.205
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 JP | 149.22.87.241
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&encryption=none&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=684c7531e599dec0#🇯🇵 JP | 158.101.151.157
