@@ -1,3 +1,4 @@
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#🇨🇦 CA | 172.64.80.1
 vless://dfee545b-6087-4f13-b2a3-41cc9642d583@209.38.222.192:2096?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪 DE | 209.38.222.192
 vless://cf049295-3b7c-4777-afd7-f57f25a7c76e@531f38f34b1b1689.mbcloudy.ir:56625?encryption=none&security=reality&sni=icloud.com&fp=ios&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&sid=db418071da7fcb7b&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=#🇫🇮 FI | 65.109.187.82
 vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&allowInsecure=0&sni=a1259.ve8nzuk.com#🇳🇱 NL | 51.194.118.38

@@ -1,5 +1,4 @@
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.60:443?mode=auto&security=tls&encryption=none&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6b07048f.ferrin.uk#🇪🇪 EE | 165.231.177.60
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.193.54:8443?flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&alpn=h2&fp=firefox#🇪🇪 EE | 165.231.193.54
 vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@89.125.13.161:8443?mode=auto&path=/810011f9c542&security=reality&encryption=none&pbk=8kxKr4wsOvuLmNXQFdtPqKwtIA-zX2nvrZ2ro_nMTVA&fp=firefox&spx=/&type=xhttp&sni=ee1.setlocation.top&sid=14605d12bfd95119#🇪🇪 EE | 89.125.13.161
-vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@89.125.13.161:8443?mode=auto&path=/810011f9c542&security=reality&encryption=none&pbk=8kxKr4wsOvuLmNXQFdtPqKwtIA-zX2nvrZ2ro_nMTVA&fp=firefox&spx=/&type=xhttp&sni=ee1.setlocation.top&sid=14605d12bfd95119#🇪🇪 EE | 89.125.13.161
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?encryption=none&sid=f8d0271b4b5f9efc&flow=xtls-rprx-vision&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&headerType=none&sni=www.apple.com&type=tcp&security=reality#🇪🇪 EE | 77.83.198.104
